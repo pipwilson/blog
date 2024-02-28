@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% import "post-preview.html" as post_macros %}
+
+{% block content %}
+
+  {% for page in section.pages %}
+    {% if loop.index0 == 7 %}{% break %}{% endif %}
+      <article class="post">
+          {{ post_macros::post_preview(post=page) }}
+      </article>
+  {% endfor %}
+
+  {# <nav class="pagination">
+      {% if paginator.previous %}
+          <a class="previous" href="{{ paginator.previous }}">‹ Previous</a>
+      {% endif %}
+      {% if paginator.next %}
+          <a class="next" href="{{ paginator.next }}">Next ›</a>
+      {% endif %}
+  </nav> #}
+
+{% endblock content %}

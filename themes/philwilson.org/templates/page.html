@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+  <div class="post-title">
+    <h1>{{ page.title }}</h1>
+    <small>
+      {% if page.date %}{{ page.date | date(format="%d %B, %Y") }}{% endif %}
+    </small>
+  </div>
+
+  <div>
+    {{ page.content | safe }}
+    <hr />
+    <p><small>
+      {% if page.taxonomies.tags %}
+      See other posts tagged with 
+      <span class="tags">
+        {% for tag in page.taxonomies.tags %}
+          {% set term = get_taxonomy_term(kind="tags", term=tag) %}
+          <a href="/blog/tags/{{ term.slug }}">{{ tag }}</a>
+        {% endfor %}
+      </span>
+    {% endif %}
+    </small></p>
+  </div>
+
+{% endblock content %}

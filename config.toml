@@ -1,0 +1,45 @@
+# The URL the site will be built for
+
+base_url = "https://zola.philwilson.org/"
+
+title = "philwilson.org"
+
+author = "Phil Wilson"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# whether to generate rss/atom
+generate_feed = true
+feed_filename = "atom.xml"
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+theme = "philwilson.org"
+
+taxonomies = [ 
+    { name = "tags", feed = true, paginate_by = 10 } 
+]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
+
+nav = [
+  { name = "About", path = "/about/" },
+  { name = "Blog", path = "/blog/" }
+]
+
+latest_text = "Check out my latest post:"
+
+accent = "#05a081"
+accent_light = "#82d0c0"
+
+footer_page = """
+a geek commodity
+"""

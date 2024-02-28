@@ -1,0 +1,46 @@
+{% macro post_preview(post) %}
+  <div class="post-preview">
+    <h3 class="post-title"><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
+    <small>
+      {{ post.date| date(format="%d %B, %Y") }} - {{ post.word_count }} words
+    </small>
+    <div class="summary">
+      {% if post.summary -%}
+        {{ post.summary }}
+      {% else %}
+        {{ post.content | safe | striptags | truncate(length=400) }}
+      {%- endif %}
+      <a href="{{ post.permalink }}">read more</a>
+    </div>
+  </div>
+{% endmacro input %}
+
+{% macro month_number_to_name(month_number) %}
+  {% if month_number == "01" %}
+    January
+    {% elif month_number == "02" %}
+    February
+  {% elif month_number == "03" %}
+    March
+  {% elif month_number == "04" %}
+    April
+  {% elif month_number == "05" %}
+    May
+  {% elif month_number == "06" %}
+    June
+  {% elif month_number == "07" %}
+    July
+  {% elif month_number == "08" %}
+    August
+  {% elif month_number == "09" %}
+    September
+  {% elif month_number == "10" %}
+    October
+  {% elif month_number == "11" %}
+    November
+  {% elif month_number == "12" %}
+    December    
+  {% else %}
+    Unknown
+  {% endif %}
+{% endmacro input %}

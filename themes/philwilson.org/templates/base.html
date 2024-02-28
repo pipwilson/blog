@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+
+    <style>
+      :root {
+        --accent-color: {{ config.extra.accent }};
+        --accent-color-light: {{ config.extra.accent_light }};
+      }
+    </style>
+
+    <meta name="theme-color" content="{{ config.extra.accent }}" />
+
+    <meta property="og:type" content="website">
+
+    {% block rss %}
+    <link rel="alternate" type="application/atom+xml" title="phil.wilson.org feed" href="{{ get_url(path="blog/feed/", trailing_slash=false) }}">
+    {% endblock %}
+
+    {% block description %}
+      {% if page.description %}
+        <meta name="description" content="{{ page.description }}" />
+      {% else %}
+        <meta name="description" content="{{ config.description }}" />
+      {% endif %}
+    {% endblock description %}
+
+    <title>
+      {% block title %}
+        {% if section.title and section.ancestors | length < 2 %}  {# for root and blog home page #}
+          {{ section.title }} -
+
+        {% elif section.title and section.subsections %}  {# for year-based archive pages #}
+          {{ section.title | date(format="%Y") }} -
+
+        {% elif section.title %}  {# all other sections are month-based archive pages - might not hold true in long term! #}
+          {{section.title | date(format="%B %Y") }} -
+
+        {% elif page.title %}
+          {{ page.title }} -
+        {% endif %}
+        {{ config.title }}
+      {% endblock title %}
+    </title>
+
+    {% block head %}{% endblock head %}
+    {% block styles %}
+      <link rel="stylesheet" href="{{ get_url(path="main.css") | safe }}">
+    {% endblock styles %}
+    {% block posthead %}{% endblock posthead %}
+  </head>
+  <body>
+    {% block header %}
+      <header>
+        <h1><a href="/blog">philwilson.org</a></h1>
+        <nav>
+          {% for link in config.extra.nav %}
+            <a href="{{ link.path }}">{{ link.name }}</a>
+          {% endfor %}
+        </nav>
+      </header>
+    {% endblock header %}
+    <main>
+    {% block content %} {% endblock content %}
+    <hr class="footer-rule">
+    </main>
+    <footer class="footer-about">
+      {% block footer %}
+        {% if config.extra.footer_page %}
+          {{ config.extra.footer_page | markdown | safe }}
+        {% endif %}
+      {% endblock footer %}
+    </footer>
+  </body>
+</html>

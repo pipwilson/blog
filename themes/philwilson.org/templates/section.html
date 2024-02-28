@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{% if section.subsections %}
+<h1>{{section.title | date(format="%Y") }}</h1>
+{% else %}
+<h1>{{section.title | date(format="%B %Y") }}</h1>
+{% endif %}
+
+{% if section.pages %}
+  <ol>
+  {% for post in section.pages | reverse %}
+    <li><a  href="{{ post.permalink }}" >{{ post.title }}</a> {{ post.date | date(format="%d %B, %Y") }}</li>
+  {% endfor %}
+  </ol>
+{% endif %}
+
+{# {% if section.subsections %}
+<code>SUBSECTIONS</code>
+<ol>
+  {% for subsection in section.subsections %}
+    {% set this_subsection = get_section(path=subsection, metadata_only=true) %}    
+    <li><a href="{{ this_subsection.path }}">{{ this_subsection.title | date(format="%B %Y") }}</a></li>
+  {% endfor %}
+</ol>
+{% endif %} #}
+
+{% endblock content %}
