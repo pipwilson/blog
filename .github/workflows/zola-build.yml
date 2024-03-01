@@ -9,10 +9,10 @@ jobs:
     name: build
     runs-on: ubuntu-latest
     steps:
-      - uses: taiki-e/install-action@v2
-      - run: zola build -u https://zola.philwilson.org
+      - uses: taiki-e/install-action@v2      
       - with:
             tool: zola@0.17.2
+      - run: zola build -u https://zola.philwilson.org            
   # deploy_job:
   #   name: deploy
   #   runs-on: ubuntu-latest    
