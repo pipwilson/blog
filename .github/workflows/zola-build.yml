@@ -12,6 +12,7 @@ jobs:
       - uses: taiki-e/install-action@v2      
         with:
             tool: zola@0.17.2
+      - uses: actions/checkout@v2            
       - run: zola build -u https://zola.philwilson.org            
   # deploy_job:
   #   name: deploy
