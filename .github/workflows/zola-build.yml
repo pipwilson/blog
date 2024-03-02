@@ -15,7 +15,9 @@ jobs:
             tool: zola@0.17.2
 
       - name: Get latest code
-        uses: actions/checkout@v2            
+        uses: actions/checkout@v2
+
+      - name: Build website        
         run: zola build -u https://zola.philwilson.org
 
       - name: Upload files to server
