@@ -13,14 +13,15 @@
     {{ page.content | safe }}
     <hr />
     <p><small>
-      {% if page.taxonomies.tags %}
+      {% if page.taxonomies.tags %}      
       See other posts tagged with 
       <span class="tags">
         {% for tag in page.taxonomies.tags %}
           {% set term = get_taxonomy_term(kind="tags", term=tag) %}
-          <a href="/blog/tags/{{ term.slug }}">{{ tag }}</a>
+          <a href="/blog/tags/{{ term.slug }}/">{{ tag }}</a>
         {% endfor %}
       </span>
+      <hr class="footer-rule">
     {% endif %}
     </small></p>
   </div>
