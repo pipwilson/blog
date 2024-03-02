@@ -1,7 +1,9 @@
 +++
-title = "philwilson.org"
+title = "whta"
+template = "homepage.html"
+date = "2024-02-11"
 +++
 
 ## 10 Phil is cool. 20 GOTO 10.
 
-Feel free to take a look around by clicking the [about](/about/) and [blog](/blog/) nav links.
+You're probably looking for my [blog](/blog/).
