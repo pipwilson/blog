@@ -17,13 +17,12 @@
     {% endif %}
 
   <nav class="pagination">
-      {% if paginator.previous %}
-          <a class="previous" href="{{ paginator.previous }}">‹ Previous</a>
+      {% if paginator.previous %}          
+          <a class="previous" href="{{ paginator.previous | regex_replace(pattern=`(tags/)`, rep=`blog/tags/`) }}">‹ Previous</a>
+      {% endif %}      
+      {% if paginator.next %}          
+          <a class="next" href="{{ paginator.next | regex_replace(pattern=`(tags/)`, rep=`blog/tags/`)}}">Next ›</a>
       {% endif %}
-      {% if paginator.next %}
-          <a class="next" href="{{ paginator.next }}">Next ›</a>
-      {% endif %}
-  </nav>
-
+  </nav>    
 </div>
 {% endblock content %}

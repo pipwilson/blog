@@ -11,3 +11,7 @@ The template is based on https://github.com/bennetthardwick/simple-dev-blog-zola
 ## Future maintenance notes
 
 In order to add the Atom XSLT and limit the feed to the latest 10 posts I needed to copy the atom.xml template from https://github.com/getzola/zola/tree/master/components/templates/src/builtins and place it into templates/blog which means it could become out of sync.
+
+In order for the main content to live at /blog rather than the root a few of the built-in linking mechanisms are intentionally broken when running `zola serve`, in particular the links to the tags taxonomy and the pagination. Tags live at /tags but the taxonomy link is to /blog/tags. Likewise the generated tags pagination points to `/tags/term/page/n` and so in `single.html` I run these URLs through a regex which replaces "tags/" with "blog/tags/"
+
+This also means I'm reliant on being able to create proxies on the server which map the /blog URLs to the correct locations on the filesystem.
