@@ -12,7 +12,7 @@ jobs:
       - name: Install Zola
         uses: taiki-e/install-action@v2      
         with:
-            tool: zola@0.17.2
+            tool: zola@0.18
 
       - name: Get latest code
         uses: actions/checkout@v2
