@@ -1,6 +1,5 @@
 +++
 title = "whta"
-template = "homepage.html"
 date = "2024-02-11"
 +++
 
