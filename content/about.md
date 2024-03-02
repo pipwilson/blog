@@ -1,7 +1,6 @@
 +++
 title = "About Phil"
 template = "page.html"
-date = "2024-02-11"
 +++
 
 I am old and have kids. This means I am old and tired.
