@@ -9,21 +9,37 @@
     </small>
   </div>
 
-  <div>
+  <article>
     {{ page.content | safe }}
     <hr />
-    <p><small>
-      {% if page.taxonomies.tags %}      
-      See other posts tagged with 
-      <span class="tags">
-        {% for tag in page.taxonomies.tags %}
-          {% set term = get_taxonomy_term(kind="tags", term=tag) %}
-          <a href="/blog/tags/{{ term.slug }}/">{{ tag }}</a>
-        {% endfor %}
-      </span>
+
+    {% if page.taxonomies.tags %}
+      <section id="tags">
+        <p>
+        See other posts tagged with 
+        <span class="tags">
+          {% for tag in page.taxonomies.tags %}
+            {% set term = get_taxonomy_term(kind="tags", term=tag) %}
+            <a href="/blog/tags/{{ term.slug }}/">{{ tag }}</a>
+          {% endfor %}
+        </span>      
+        </p>
+      </section>
       <hr class="footer-rule">
     {% endif %}
-    </small></p>
-  </div>
+
+    {% if page.extra.comments %}
+      <section id="comments">
+        <h3>Comments</h2>
+          {% for comment in page.extra.comments %}
+            <article>
+            {{ comment.content }} <br>
+            <small>- posted by {{ comment.author }} on {{ comment.date | date(format="%d %B, %Y at %H:%M:%S") }}</small>
+            </article>
+          {% endfor %}
+      </section>
+      <hr />
+    {% endif %}
+  </article>
 
 {% endblock content %}
