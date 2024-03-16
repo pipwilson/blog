@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>The things I read</h1>
+
+{% set data = load_data(path="content/links/blogroll.opml", format="xml") %}
+
+{% if data %}
+
+<p><a href="/links/blogroll.opml">Download the file to import into your feed reader</a>.</p>
+<div id="blogroll">
+  {% for entry in data.opml.body.outline %}
+    {% if entry["@htmlUrl"] %}
+      <a href="{{ entry["@htmlUrl"] }}">{{ entry["@text"] }}</a>
+    {% else %}
+      <h2>{{ entry["@text"] }}</h2>
+      {% if entry.outline | length >= 0 %}
+      <ul>
+        {% for subentry in entry.outline | sort(attribute="@text") %}
+        <li><a href="{{ subentry["@htmlUrl"] }}" >{{ subentry["@text"] }}:</a> <span>{{ subentry["@htmlUrl"] | replace(from="https://", to="") | replace(from="https://", to="") | trim_end_matches(pat="/")}}</span></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    {% endif %}
+
+  {% endfor %}
+</div>
+{% endif %}
+
+{% endblock content %}
