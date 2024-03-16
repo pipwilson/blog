@@ -17,10 +17,7 @@
 
 {% macro post_preview_short(post) %}
   <div class="post-preview">
-    <h3 class="post-title"><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
-    <small>
-      {{ post.date| date(format="%d %B, %Y") }}
-    </small>
+    <p class="post-title"><a href="{{ post.permalink }}">{{ post.title }}</a> <span>- {{ post.date| date(format="%d %B, %Y") }}</span></p>
   </div>
 {% endmacro input %}
 
