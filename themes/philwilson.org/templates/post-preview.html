@@ -2,7 +2,7 @@
   <div class="post-preview">
     <h3 class="post-title"><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
     <span>
-      {{ post.date| date(format="%d %B, %Y") }}
+      {{ post.date| date(format="%d %B, %Y") }} - {{ post.word_count }} words
     </span>
     <div class="summary">
       {% if post.summary -%}
