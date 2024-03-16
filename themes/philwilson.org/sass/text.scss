@@ -1,10 +1,7 @@
-
-
 body {
   font-family: "Verdana";
   font-size: 18px;
   line-height: 1.7;
-  padding: 2rem;
   min-height: 100vh;
 }
 
@@ -106,17 +103,6 @@ header {
   margin: auto;
   display: flex;
   flex-direction: row;
-}
-
-a.profile-icon {
-  border: none;
-  height: 50px;
-  width: 50px;
-  position: relative;
-
-  img {
-    border-radius: 50%;
-  }
 }
 
 nav {

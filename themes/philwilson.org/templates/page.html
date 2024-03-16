@@ -1,45 +1,56 @@
 {% extends "base.html" %}
 
+{% import "post-preview.html" as post_macros %}
+
+{# This template is used for each blog post #}
+
 {% block content %}
 
-  <div class="post-title">
-    <h1>{{ page.title }}</h1>
-    <small>
-      {% if page.date %}{{ page.date | date(format="%d %B, %Y") }}{% endif %}
-    </small>
-  </div>
-
   <article>
+    <div class="post-title">
+      <h1>{{ page.title }}</h1>
+      <span>
+        {% if page.date %}{{ page.date | date(format="%d %B, %Y") }}{% endif %}
+      </span>
+    </div>
+
     {{ page.content | safe }}
-    <hr />
-
-    {% if page.taxonomies.tags %}
-      <section id="tags">
-        <p>
-        See other posts tagged with 
-        <span class="tags">
-          {% for tag in page.taxonomies.tags %}
-            {% set term = get_taxonomy_term(kind="tags", term=tag) %}
-            <a href="/blog/tags/{{ term.slug }}/">{{ tag }}</a>
-          {% endfor %}
-        </span>      
-        </p>
-      </section>
-      <hr class="footer-rule">
-    {% endif %}
-
-    {% if page.extra.comments %}
-      <section id="comments">
-        <h3>Comments</h2>
-          {% for comment in page.extra.comments %}
-            <article>
-            {{ comment.content }} <br>
-            <small>- posted by {{ comment.author }} on {{ comment.date | date(format="%d %B, %Y at %H:%M:%S") }}</small>
-            </article>
-          {% endfor %}
-      </section>
-      <hr />
-    {% endif %}
   </article>
+  {% if page.taxonomies.tags %}
+    <section id="tags">
+      <p>
+      See other posts tagged with 
+      <span class="tags">
+        {% for tag in page.taxonomies.tags %}
+          {% set term = get_taxonomy_term(kind="tags", term=tag) %}
+          <a href="/blog/tags/{{ term.slug }}/">{{ tag }}</a>
+        {% endfor %}
+      </span>      
+      </p>
+    </section>
+  {% endif %}
 
+  {% if page.extra.comments %}
+    <section id="comments">
+      <h3>Comments</h2>
+        {% for comment in page.extra.comments %}
+          <article>
+          {{ comment.content }} <br>
+          <small>- posted by {{ comment.author }} on {{ comment.date | date(format="%d %B, %Y at %H:%M:%S") }}</small>
+          </article>
+        {% endfor %}
+    </section>
+  {% endif %}
+
+  <section id="recentposts">
+    <h3>Latest posts:</h3>
+
+    {% set section = get_section(path="blog/_index.md") %}
+    {%- for page in section.pages %}
+    {% if loop.index0 == 2 %}{% break %}{% endif %}
+          <article class="post">
+              {{ post_macros::post_preview_short(post=page) }}
+          </article>
+    {%- endfor %}
+  </section>
 {% endblock content %}

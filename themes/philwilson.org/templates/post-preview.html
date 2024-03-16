@@ -1,9 +1,9 @@
 {% macro post_preview(post) %}
   <div class="post-preview">
     <h3 class="post-title"><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
-    <small>
-      {{ post.date| date(format="%d %B, %Y") }} - {{ post.word_count }} words
-    </small>
+    <span>
+      {{ post.date| date(format="%d %B, %Y") }}
+    </span>
     <div class="summary">
       {% if post.summary -%}
         {{ post.summary }}
@@ -15,10 +15,19 @@
   </div>
 {% endmacro input %}
 
+{% macro post_preview_short(post) %}
+  <div class="post-preview">
+    <h3 class="post-title"><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
+    <small>
+      {{ post.date| date(format="%d %B, %Y") }}
+    </small>
+  </div>
+{% endmacro input %}
+
 {% macro month_number_to_name(month_number) %}
   {% if month_number == "01" %}
     January
-    {% elif month_number == "02" %}
+  {% elif month_number == "02" %}
     February
   {% elif month_number == "03" %}
     March

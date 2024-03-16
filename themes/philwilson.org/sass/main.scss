@@ -5,6 +5,11 @@
   h3.post-title {
     margin-bottom: 0;
   }
+  
+  > span {
+    color: grey;
+    font-size: 80%;
+  }
 
   .summary {
     margin-top: 0.8rem;
@@ -24,23 +29,15 @@
   > h1 {
     margin-bottom: 0;
     line-height: 1.3;
+    font-weight: bold;
+  }
+
+  span {
+    color: grey;
+    font-size: 80%;
   }
 
   margin-bottom: 1rem;
-}
-
-.related-container {
-  margin-top: 3rem;
-  margin-bottom: 4rem;
-  display: flex;
-  text-align: center;
-
-  > .link {
-    flex-shrink: 0;
-    padding: 1rem;
-    box-sizing: border-box;
-    width: 50%;
-  }
 }
 
 .footer-about {
@@ -69,13 +66,42 @@ img {
   }
 }
 
+section#tags p {
+  font-size: 75%;
+  background-color: #f6f6e4;
+  padding: 1em;
+  margin-bottom: 0;
+}
+
 section#comments {
-  opacity: 0.5;
-  // background-color: rgba(251,241,169, .75);
+  font-size: 75%;
+  background-color: #d2691e14;
+  padding: 1em;
+
+  h3 {
+    margin-top: 0;
+  }
+}
+
+section#recentposts {  
+  border-top: 2px solid grey;
+  color: grey;
+  font-size: 80%;
+
+  a {
+    color: grey;
+  }
+
+  article {
+    border-bottom: 0.5px dashed grey;
+  }
 }
 
 article + article {
   margin: 1em auto;
-  // padding-top: 1em;
-  // border-top: 1px dashed;
+}
+
+#blogroll span {
+  font-size: 75%;
+  color: grey;
 }

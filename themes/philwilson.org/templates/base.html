@@ -20,6 +20,7 @@
 
     {% block rss %}
     <link rel="alternate" type="application/atom+xml" title="phil.wilson.org feed" href="{{ get_url(path="blog/feed/", trailing_slash=false) }}">
+    <link rel="blogroll" type="text/xml" href="{{ get_url(path="links/blogroll.opml") }}">
     {% endblock %}
 
     {% block description %}
