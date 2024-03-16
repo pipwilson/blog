@@ -1,6 +1,6 @@
 +++
 title = "About Phil"
-template = "page.html"
+template = "page-simple.html"
 +++
 
 I am old and have kids. This means I am old and tired.

@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% import "post-preview.html" as post_macros %}
+
+{# This template is used for a basic page - no tags, comments, recent posts #}
+
+{% block content %}
+
+  <article>
+    <div class="post-title">
+      <h1>{{ page.title }}</h1>
+      <span>
+        {% if page.date %}{{ page.date | date(format="%d %B, %Y") }}{% endif %}
+      </span>
+    </div>
+
+    {{ page.content | safe }}
+  </article>
+
+{% endblock content %}
