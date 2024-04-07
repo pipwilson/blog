@@ -39,7 +39,7 @@
             <article>
               <div class="comment-author">{{ comment[2] | safe }}</div>
               <div class="comment-date">{{ comment[1] | date(format="%d %B, %Y at %H:%M") }}</div>
-              {{ comment[5] | markdown | safe }}
+              {{ comment[7] | markdown | safe }}
             </article>
           {% endfor %}
       </section>
