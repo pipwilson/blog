@@ -30,7 +30,7 @@
     </section>
   {% endif %}
 
-  {% if page.extra.show_comments == "true" and page.extra.comments_file %}
+  {% if page.extra.show_comments and page.extra.comments_file and page.extra.show_comments == "true" %}
     {% set comments = load_data(path=page.extra.comments_file) %}
     {% if comments %}
       <section id="comments">
