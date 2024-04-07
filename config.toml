@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://zola.philwilson.org/"
+base_url = "https://philwilson.org/"
 
 title = "philwilson.org"
 
@@ -17,8 +17,8 @@ build_search_index = true
 
 theme = "philwilson.org"
 
-taxonomies = [ 
-    { name = "tags", feed = true, paginate_by = 10 } 
+taxonomies = [
+    { name = "tags", feed = true, paginate_by = 10 }
 ]
 
 [markdown]
