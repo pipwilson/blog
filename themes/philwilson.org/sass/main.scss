@@ -5,7 +5,7 @@
   h3.post-title {
     margin-bottom: 0;
   }
-  
+
   & > span {
     color: grey;
     font-size: 80%;
@@ -81,9 +81,20 @@ section#comments {
   h3 {
     margin-top: 0;
   }
+
+  article {
+    border-bottom: 0.5px dashed grey;
+    .comment-author {
+      font-weight: bold;
+    }
+    .comment-date {
+        color: grey;
+        font-size: 80%;
+    }
+  }
 }
 
-section#recentposts {  
+section#recentposts {
   border-top: 2px solid grey;
   font-size: 80%;
 

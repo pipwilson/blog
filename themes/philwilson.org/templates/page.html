@@ -13,33 +13,37 @@
         {% if page.date %}{{ page.date | date(format="%d %B, %Y") }}{% endif %}
       </span>
     </div>
-
     {{ page.content | safe }}
   </article>
+
   {% if page.taxonomies.tags %}
     <section id="tags">
       <p>
-      See other posts tagged with 
+      See other posts tagged with
       <span class="tags">
         {% for tag in page.taxonomies.tags %}
           {% set term = get_taxonomy_term(kind="tags", term=tag) %}
           <a href="/blog/tags/{{ term.slug }}/">{{ tag }}</a>
         {% endfor %}
-      </span>      
+      </span>
       </p>
     </section>
   {% endif %}
 
-  {% if page.extra.comments %}
-    <section id="comments">
-      <h3>Comments</h2>
-        {% for comment in page.extra.comments %}
-          <article>
-          {{ comment.content }} <br>
-          <small>- posted by {{ comment.author }} on {{ comment.date | date(format="%d %B, %Y at %H:%M:%S") }}</small>
-          </article>
-        {% endfor %}
-    </section>
+  {% if page.extra.show_comments == "true" and page.extra.comments_file %}
+    {% set comments = load_data(path=page.extra.comments_file) %}
+    {% if comments %}
+      <section id="comments">
+        <h3>Comments</h2>
+          {% for comment in comments['records'] %}
+            <article>
+              <div class="comment-author">{{ comment[2] | safe }}</div>
+              <div class="comment-date">{{ comment[1] | date(format="%d %B, %Y at %H:%M") }}</div>
+              {{ comment[5] | markdown | safe }}
+            </article>
+          {% endfor %}
+      </section>
+    {% endif %}
   {% endif %}
 
   <section id="recentposts">
