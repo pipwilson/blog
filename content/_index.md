@@ -1,5 +1,5 @@
 +++
-title = "whta"
+title = "philwilson.org"
 date = "2024-02-11"
 +++
 
