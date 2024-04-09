@@ -6,6 +6,7 @@ slug = "downtime-for-a-global-service-tell-me-when-in-utc"
 tags = ['del.icio.us','google','google','thisisbroken','thisisbroken','yahoo']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/12/2006-12-17-downtime-for-a-global-service-tell-me-when-in-utc-comments.csv"
 +++
 
 If a service with an allegedly global audience, say [one run by Yahoo](http://del.icio.us/) or [by Google](http://www.blogger.com/) has some scheduled downtime, they always give the time when it will be back, or the time when it went down, in [PST](http://en.wikipedia.org/wiki/Pacific_Time_Zone). Now I don’t know about you, but I couldn’t give a flying fig about when the downtime began on the other side of the entire planet. What I do care about is what that means to me as a user. I want to know when it went down for my timezone, and when it’s going to be back. It’s not as if there aren’t [services which do exactly this](http://www.timeanddate.com/worldclock/fixedtime.html?year=2006&month=12&day=17&hour=22&min=0&sec=0) and it’s not as if it’s beyond the scope of global behemoth-like IT businesses to do this themselves, but it what it gives everyone outside of the US is short shrift and two fingers up.

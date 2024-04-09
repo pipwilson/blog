@@ -6,6 +6,7 @@ slug = "week-2-horses"
 tags = ['general','weeknotes']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2020/10/2020-10-16-week-2-horses-comments.csv"
 +++
 
 - [Hatches Open, Station Crew Expands to Six](https://blogs.nasa.gov/spacestation/2020/10/14/hatches-open-station-crew-expands-to-six-2/)

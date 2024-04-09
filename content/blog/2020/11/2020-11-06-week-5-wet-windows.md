@@ -6,6 +6,7 @@ slug = "week-5-wet-windows"
 tags = ['general','weeknotes']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2020/11/2020-11-06-week-5-wet-windows-comments.csv"
 +++
 
 - I hate condensation. Everything gets wet. You can’t see out of windows. It’s rubbish.

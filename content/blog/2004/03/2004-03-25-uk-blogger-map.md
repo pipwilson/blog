@@ -6,6 +6,7 @@ slug = "uk-blogger-map"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/03/2004-03-25-uk-blogger-map-comments.csv"
 +++
 
 Appalled by my recent low level of productivity, I’ve set myself a number of small achievable tasks to perform. The first took a few hours of coding and is presented here:

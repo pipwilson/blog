@@ -6,6 +6,7 @@ slug = "google-chrome"
 tags = ['chrome','eeeeevil','general','google']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/09/2008-09-03-google-chrome-comments.csv"
 +++
 
 (because one more whiny blogger’s opinion can’t hurt)

@@ -6,6 +6,7 @@ slug = "joy-to-the-world"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/08/2004-08-23-joy-to-the-world-comments.csv"
 +++
 
 It’s fairly rare that I mention anything actually personal on here, but at the weekend two of my best friends got married to one another. The weather was glorious and the day really couldn’t have been any better.

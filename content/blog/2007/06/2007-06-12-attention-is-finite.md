@@ -6,6 +6,7 @@ slug = "attention-is-finite"
 tags = ['attention','general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/06/2007-06-12-attention-is-finite-comments.csv"
 +++
 
 > We are reaching a point where the number of inputs we have as individuals is beginning to exceed what we are capable as humans of managing.

@@ -6,6 +6,7 @@ slug = "struts2-hibernate-spring"
 tags = ['general','java']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/01/2008-01-22-struts2-hibernate-spring-comments.csv"
 +++
 
 At work we’re playing with creating a personal-homepage application in the style of [iGoogle](http://www.google.com/ig) and others. We’re a Java shop, using pretty basic JSP+servlets+Hibernate as our standard application development structure. Since when we formed we were quite a varied team in skillset this has meant that everyone is now more or less equally versed in core Java web app development.

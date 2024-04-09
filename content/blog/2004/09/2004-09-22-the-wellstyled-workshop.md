@@ -6,6 +6,7 @@ slug = "the-wellstyled-workshop"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/09/2004-09-22-the-wellstyled-workshop-comments.csv"
 +++
 
 [The WellStyled Workshop](http://wellstyled.com/ "The WellStyled Workshop") is yet another website about how to use standards-compliant code and CSS techniques to keep code clean, readable and semantic.

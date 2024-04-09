@@ -6,6 +6,7 @@ slug = "ie-is-a-choice"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/11/2004-11-23-ie-is-a-choice-comments.csv"
 +++
 
 Gary Schare, Microsoft’s director of product management for Windows says:

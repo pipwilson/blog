@@ -6,6 +6,7 @@ slug = "getting-going-with-gemini"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2023/10/2023-10-19-getting-going-with-gemini-comments.csv"
 +++
 
 I’ve been really interested in [Gemini](https://communitywiki.org/wiki/Gemini) space for about a year now, having read the protocol and used a few [web proxies to explore Gemini space](https://portal.mozz.us/gemini/geminiprotocol.net/).

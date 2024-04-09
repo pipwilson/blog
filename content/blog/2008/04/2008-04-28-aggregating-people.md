@@ -6,6 +6,7 @@ slug = "aggregating-people"
 tags = ['foaf','general','syndication','tools']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/04/2008-04-28-aggregating-people-comments.csv"
 +++
 
 A number of different things have come together for me today, this post titled [Is there a need for New Newsreader?](http://log.sixsites.com/post/31759431), [Zeldman’s post about distributed content](http://www.zeldman.com/2008/04/27/content-outsourcing-and-the-disappearing-personal-site/) and [Kent brewster’s FOAFster](http://kentbrewster.com/foafster/) which linked me off to all the things that [MyBlogLog](http://www.mybloglog.com/) provides (a service I’ve never really looked at very closely).

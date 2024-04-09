@@ -6,6 +6,7 @@ slug = "reading-age"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2013/09/2013-09-08-reading-age-comments.csv"
 +++
 
 The more books I buy on my Kindle, the fewer books my children will be surrounded by as they’re growing up.

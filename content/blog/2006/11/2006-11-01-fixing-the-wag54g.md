@@ -6,6 +6,7 @@ slug = "fixing-the-wag54g"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/11/2006-11-01-fixing-the-wag54g-comments.csv"
 +++
 
 ![](http://philwilson.org/images/WAG54G.jpg "Linksys WAG54G router")

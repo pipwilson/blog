@@ -6,6 +6,7 @@ slug = "papercamp-and-music"
 tags = ['general','mp3','papernet','qr']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2009/01/2009-01-18-papercamp-and-music-comments.csv"
 +++
 
 [Jeremy’s written a great roundup of Papercamp](http://adactio.com/journal/1546/), which I wasn’t able to get to. Amongst other things, he says this:

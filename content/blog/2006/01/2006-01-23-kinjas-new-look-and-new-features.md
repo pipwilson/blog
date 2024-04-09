@@ -6,6 +6,7 @@ slug = "kinjas-new-look-and-new-features"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/01/2006-01-23-kinjas-new-look-and-new-features-comments.csv"
 +++
 
 In December 2004, I wrote that, despite really liking it, and despite it being part of Gawker Media (have they been taken over by News Corp. or not? I can’t tell) “[Kinja is the web aggregator everyone forgot](http://philwilson.org/blog/2004/12/kinja-gets-it-right.html)“.

@@ -6,6 +6,7 @@ slug = "web-developers-continue-to-pay-for-ie5"
 tags = ['general','web']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2008/01/2008-01-22-web-developers-continue-to-pay-for-ie5-comments.csv"
 +++
 
 [\*sigh\*](http://annevankesteren.nl/2008/01/ie-lock-in)

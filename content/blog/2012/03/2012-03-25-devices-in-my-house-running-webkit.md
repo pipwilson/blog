@@ -6,6 +6,7 @@ slug = "devices-in-my-house-running-webkit"
 tags = ['android','browser','general','ios','tv','webkit']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2012/03/2012-03-25-devices-in-my-house-running-webkit-comments.csv"
 +++
 
 - Android phone

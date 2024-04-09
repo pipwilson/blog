@@ -6,6 +6,7 @@ slug = "debugging"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2017/07/2017-07-27-debugging-comments.csv"
 +++
 
 I do not like debugging. I prefer good logging.

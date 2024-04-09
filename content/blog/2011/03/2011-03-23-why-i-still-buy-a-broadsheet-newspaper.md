@@ -6,6 +6,7 @@ slug = "why-i-still-buy-a-broadsheet-newspaper"
 tags = ['general','newspaper','recycling']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2011/03/2011-03-23-why-i-still-buy-a-broadsheet-newspaper-comments.csv"
 +++
 
 Because I have to line my composting bin with *something*, right?

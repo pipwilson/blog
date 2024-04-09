@@ -6,6 +6,7 @@ slug = "retrieve-an-atom-feed-in-net-core"
 tags = ['.net','atom','coding','general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2015/10/2015-10-12-retrieve-an-atom-feed-in-net-core-comments.csv"
 +++
 
 After [yesterday’s adventure](http://philwilson.org/blog/2015/10/getting-started-with-net-core/) and recent [forehead-smacking](http://philwilson.org/blog/2015/09/rfc-4287/), this seemed like an appropriate, and small, goal.

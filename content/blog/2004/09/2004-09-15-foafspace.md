@@ -6,6 +6,7 @@ slug = "foafspace"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/09/2004-09-15-foafspace-comments.csv"
 +++
 
 [FoafSpace](http://www.foafspace.com/) is a new FOAF search engine by [Gene McCulley](http://www.foafspace.com/search?query=mcculley) which was just announced on the [rdfweb-dev mailing list](http://rdfweb.org/mailman/listinfo/rdfweb-dev). Normally I’d just bookmark it using [del.icio.us](http://del.icio.us/) but the fact that I loaded the site, typed in my nick and it came back with [my details](http://www.foafspace.com/search?query=pip) in sub-second time was pretty impressive.

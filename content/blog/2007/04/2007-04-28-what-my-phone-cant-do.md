@@ -6,6 +6,7 @@ slug = "what-my-phone-cant-do"
 tags = ['6630','nokia','nokia','orange','phone']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2007/04/2007-04-28-what-my-phone-cant-do-comments.csv"
 +++
 
 <span style="color: #551a8b; text-decoration: underline;">[](http://www.flickr.com/photos/pip/16699626/ "My Nokia 6630")[![](http://farm1.static.flickr.com/12/16699626_1a27b4adc3_m.jpg "My phone")](http://www.flickr.com/photos/pip/16699626/)  

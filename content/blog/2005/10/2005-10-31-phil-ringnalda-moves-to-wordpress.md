@@ -6,6 +6,7 @@ slug = "phil-ringnalda-moves-to-wordpress"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/10/2005-10-31-phil-ringnalda-moves-to-wordpress-comments.csv"
 +++
 
 > Perl frustrations aside, I probably wouldn’t have left Movable Type if it hadn’t left me first: there’s absolutely nothing wrong with it becoming what it is, but it’s no long the software all my friends play with, it’s now the software most of my friends sell to big companies. That’s a wonderful thing, for them, but it’s really cut into the fun I have playing with it.

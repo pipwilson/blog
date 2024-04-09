@@ -6,6 +6,7 @@ slug = "importing-nokia-podcast-subscriptions-into-google-reader"
 tags = ['general','google reader','n95','nokia','opml','syndication']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2009/12/2009-12-03-importing-nokia-podcast-subscriptions-into-google-reader-comments.csv"
 +++
 
 #### Exporting the list of podcasts

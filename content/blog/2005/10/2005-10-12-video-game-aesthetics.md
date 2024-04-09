@@ -6,6 +6,7 @@ slug = "video-game-aesthetics"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/10/2005-10-12-video-game-aesthetics-comments.csv"
 +++
 
 [![games, by pip](http://static.flickr.com/29/51829516_0d030c74e2_m.jpg)](http://www.flickr.com/photos/pip/51829516/ "games, by pip")

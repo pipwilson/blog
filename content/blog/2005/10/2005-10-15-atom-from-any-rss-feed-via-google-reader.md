@@ -6,6 +6,7 @@ slug = "atom-from-any-rss-feed-via-google-reader"
 tags = ['general','google','google reader','syndication']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/10/2005-10-15-atom-from-any-rss-feed-via-google-reader-comments.csv"
 +++
 
 Got a site which only provides an RSS feed? Do you wish you could have an Atom feed of it, but don’t have mad XSLT skillz or somewhere you can host your own PHP conversion script? Fear not, because under the hood, Google Reader is all about the Atom, baby.

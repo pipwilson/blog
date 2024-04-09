@@ -6,6 +6,7 @@ slug = "sites-with-web-standards"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/12/2005-12-05-sites-with-web-standards-comments.csv"
 +++
 
 It used to be the case, back in the day, where I’d highlight every big site I came across which used CSS for layout, or even validated; but there came a point where enough sites were starting to use CSS *and* validating, that I stopped.

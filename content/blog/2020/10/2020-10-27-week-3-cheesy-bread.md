@@ -6,6 +6,7 @@ slug = "week-3-cheesy-bread"
 tags = ['general','weeknotes']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2020/10/2020-10-27-week-3-cheesy-bread-comments.csv"
 +++
 
 - This week has mostly been brought to you by Marks and Spencer’s Extra Mature and Red Leicester cob. Deeeeelicious.

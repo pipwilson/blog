@@ -6,6 +6,7 @@ slug = "please-apply-for-a-job-at-jive"
 tags = ['jabber','jabber','openfire','xmpp','xmpp']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/07/2007-07-10-please-apply-for-a-job-at-jive-comments.csv"
 +++
 
 At work [we’re playing with Openfire](http://wiki.bath.ac.uk/display/bucswebdev/Jabber+server), the Java-based Jabber/XMPP server. There are parts that are \*cough\* sub-optimal so we want to fix them. [It’s open source](http://www.igniterealtime.org/downloads/source.jsp) and builds using [Ant](http://ant.apache.org/). So far, so straightforward.

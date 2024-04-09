@@ -6,6 +6,7 @@ slug = "david-blunkett-resigns"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/12/2004-12-15-david-blunkett-resigns-comments.csv"
 +++
 
 Within the last thirty minutes, David Blunkett ([wikipedia](http://en.wikipedia.org/wiki/David_Blunkett), [BBC](http://news.bbc.co.uk/1/hi/uk_politics/2164486.stm)), the Home Secretary has resigned.

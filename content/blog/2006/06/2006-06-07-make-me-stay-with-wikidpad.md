@@ -6,6 +6,7 @@ slug = "make-me-stay-with-wikidpad"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/06/2006-06-07-make-me-stay-with-wikidpad-comments.csv"
 +++
 
 I drop in and out of using WikidPad. I’ve just picked it up again after a lengthy absence.

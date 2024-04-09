@@ -6,6 +6,7 @@ slug = "a-brief-experience-with-github-actions-and-catlight"
 tags = ['coding','general','git','github']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2024/03/2024-03-03-a-brief-experience-with-github-actions-and-catlight-comments.csv"
 +++
 
 After deciding I couldn’t get the URLs I wanted for my blog using [Cloudflare Pages](https://pages.cloudflare.com/) without some [actual real honest-to-goodness rewrites](https://httpd.apache.org/docs/current/mod/mod_rewrite.html) I [had to use GitHub Actions](https://github.com/pipwilson/blog/blob/production/.github/workflows/zola-build.yml) for the first time in anger.

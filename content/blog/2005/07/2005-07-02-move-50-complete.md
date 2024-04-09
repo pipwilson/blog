@@ -6,6 +6,7 @@ slug = "move-50-complete"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/07/2005-07-02-move-50-complete-comments.csv"
 +++
 
 So, I’m now back in Bristol, but currently at the half-way house of living with my family. Now that I’ve got a job though (at the [University of Bath](http://www.bath.ac.uk/)) I can start looking for somewhere proper to live.

@@ -6,6 +6,7 @@ slug = "jtextile-11-is-amazing"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/05/2004-05-24-jtextile-1-1-is-amazing-comments.csv"
 +++
 
 [JTextile 1.1 is out!](http://philwilson.org/code/jtextile/)

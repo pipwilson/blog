@@ -6,6 +6,7 @@ slug = "blogs-in-the-second-decade-of-the-21st-century"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2018/02/2018-02-14-blogs-in-the-second-decade-of-the-21st-century-comments.csv"
 +++
 
 [Last blog standing, “last guy dancing”: How Jason Kottke is thinking about kottke.org at 20](http://www.niemanlab.org/2018/02/last-blog-standing-last-guy-dancing-how-jason-kottke-is-thinking-about-kottke-org-at-20/)

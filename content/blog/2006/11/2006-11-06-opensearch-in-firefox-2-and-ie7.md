@@ -6,6 +6,7 @@ slug = "opensearch-in-firefox-2-and-ie7"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/11/2006-11-06-opensearch-in-firefox-2-and-ie7-comments.csv"
 +++
 
 We recently rolled out the Google Search Appliance at work, replacing the ageing (and dreadful) [htdig](http://en.wikipedia.org/wiki/Htdig) (wikipedia link since the website appears to be down).

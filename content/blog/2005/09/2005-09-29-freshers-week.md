@@ -6,6 +6,7 @@ slug = "freshers-week"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/09/2005-09-29-freshers-week-comments.csv"
 +++
 
 [![poster sale, by pip](http://static.flickr.com/24/50854183_ff17df5b85_t.jpg)](http://flickr.com/photos/pip/50854183/ "poster sale, by pip")

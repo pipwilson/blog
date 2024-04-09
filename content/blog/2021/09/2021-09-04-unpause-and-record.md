@@ -6,6 +6,7 @@ slug = "unpause-and-record"
 tags = ['general','weeknotes','work']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2021/09/2021-09-04-unpause-and-record-comments.csv"
 +++
 
 After finishing a year-long stint working for the Government Digital Service to [deliver support to people during the worst of the pandemic](https://gds.blog.gov.uk/2021/02/24/podcast-the-clinically-extremely-vulnerable-people-service/), I took a month off.

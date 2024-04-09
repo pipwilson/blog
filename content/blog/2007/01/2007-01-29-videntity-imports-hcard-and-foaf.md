@@ -6,6 +6,7 @@ slug = "videntity-imports-hcard-and-foaf"
 tags = ['foaf','foaf','hcard','openid','openid']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/01/2007-01-29-videntity-imports-hcard-and-foaf-comments.csv"
 +++
 
 [![Flickr hCard import](http://farm1.static.flickr.com/131/373767865_2e399159f2_m.jpg)](http://www.flickr.com/photos/pip/373767865/ "Flickr hCard import")

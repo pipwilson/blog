@@ -6,6 +6,7 @@ slug = "more-microformats-show-me-the-monhhh-real-world-usage"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/10/2005-10-29-more-microformats-show-me-the-monhhh-real-world-usage-comments.csv"
 +++
 
 This was just going to be a comment replying to [Ryan King’s comment](http://philwilson.org/blog/2005/10/microformats-in-practice.html#113057325433946245) on my blog, but it got a bit long, so here it is as a full post:

@@ -6,6 +6,7 @@ slug = "comment-captcha-enabled"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/08/2006-08-25-comment-captcha-enabled-comments.csv"
 +++
 
 With great reluctance I am temporarily enabling captchas for comments.

@@ -6,6 +6,7 @@ slug = "breaking-copy-protection-for-entertainment"
 tags = ['drm','general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/01/2007-01-16-breaking-copy-protection-for-entertainment-comments.csv"
 +++
 
 I was saving this for Friday, because I thought it might be fun to post to my blog on a Friday, but Mark has [just posted](http://diveintomark.org/), essentially, my content x 10.

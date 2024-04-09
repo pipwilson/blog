@@ -6,11 +6,12 @@ slug = "howto-download-your-google-reader-starred-items"
 tags = ['atom','general','google','google reader','real']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2007/11/2007-11-22-howto-download-your-google-reader-starred-items-comments.csv"
 +++
 
 How to create a backup of your starred items in Google Reader, should the need ever arise:
 
-!A screenshot of the Google Reader settings page](http://philwilson.org/blog/wp-content/uploads/2007/11/screenshot-google-reader-google-reader-settings-mozilla-firefox-thumb.png](http://philwilson.org/blog/wp-content/uploads/2007/11/screenshot-google-reader-google-reader-settings-mozilla-firefox.png "A screenshot of the Google Reader settings page")
+[![A screenshot of the Google Reader settings page](http://philwilson.org/blog/wp-content/uploads/2007/11/screenshot-google-reader-google-reader-settings-mozilla-firefox-thumb.png)](http://philwilson.org/blog/wp-content/uploads/2007/11/screenshot-google-reader-google-reader-settings-mozilla-firefox.png "A screenshot of the Google Reader settings page")
 
 - Log in to [Google Reader](http://philwilson.org/blog/wp-admin/downloading%20your%20google%20reader%20starred%20items%20%20*%20settings%20*%20tags%20*%20check)
 - Click ‘**Settings**‘ in the top-right of the window

@@ -6,6 +6,7 @@ slug = "using-jspwiki-in-the-enterprise"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/01/2006-01-10-using-jspwiki-in-the-enterprise-comments.csv"
 +++
 
 I’m quite a fan of [JSPWiki](http://jspwiki.org/).

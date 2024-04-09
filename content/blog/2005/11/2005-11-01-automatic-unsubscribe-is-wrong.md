@@ -6,6 +6,7 @@ slug = "automatic-unsubscribe-is-wrong"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/11/2005-11-01-automatic-unsubscribe-is-wrong-comments.csv"
 +++
 
 Last week sometime I read about FeedDemon’s new [automatic unsubscribe feature](http://nick.typepad.com/blog/2005/10/feeddemon_16_au.html) and it bothered me, but I couldn’t quite put my finger on it.

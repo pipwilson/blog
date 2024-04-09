@@ -6,6 +6,7 @@ slug = "bbc-podcasts-list-to-opml"
 tags = ['bbc','bbc','greasemonkey','podcast']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2007/10/2007-10-02-bbc-podcasts-list-to-opml-comments.csv"
 +++
 
 [This is a stupid Greasemonkey script](http://philwilson.org/code/greasemonkey/bbcpodcasts2opml.user.js "bbc podcasts to OPML") which looks at a BBC podcast listings page and generates an OPML file. It’s a 20 minute hack and so is hard-coded for the Radio 4 podcasts – another five minutes should fix this. For the time being, [try it out here](http://www.bbc.co.uk/radio/podcasts/directory/station/radio4/).

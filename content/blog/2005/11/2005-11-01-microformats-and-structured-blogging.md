@@ -6,6 +6,7 @@ slug = "microformats-and-structured-blogging"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/11/2005-11-01-microformats-and-structured-blogging-comments.csv"
 +++
 
 Stowe Boyd of Corante has gotten around to writing an article about microformats and structured blogging entitled [Microformats v Structured Blogging: A Small War With Big Consequences](http://www.corante.com/getreal/archives/2005/10/10/microformats_v_structured_blogging_a_small_war_with_big_consequences.php).

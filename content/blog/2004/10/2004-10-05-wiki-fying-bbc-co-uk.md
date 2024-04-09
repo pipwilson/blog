@@ -6,6 +6,7 @@ slug = "wiki-fying-bbccouk"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/10/2004-10-05-wiki-fying-bbc-co-uk-comments.csv"
 +++
 
 [Stef Magdalinski](http://www.whitelabel.org/) has done something very clever. Fresh from his work on [theyworkforyou.com](http://www.theyworkyou.com/), he’s set up [a proxy to the news.bbc.co.uk website](http://www.whitelabel.org/wp/wikiproxy.php) which scans the content for capitalised phrases and acronyms and replaces them with links to [Wikipedia](http://en.wikipedia.org/wiki/Main_Page)articles if they exist (He’s written about how it works in “[Don’t get me wrong, I really like BBC News Online](http://www.whitelabel.org/archives/002248.html#002248)“).

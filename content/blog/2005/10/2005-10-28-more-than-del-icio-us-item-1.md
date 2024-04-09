@@ -6,6 +6,7 @@ slug = "more-than-delicious-item-1"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/10/2005-10-28-more-than-del-icio-us-item-1-comments.csv"
 +++
 
 Normally I just del.icio.us everything that interests me, and assume people will pick it up from there, but what this has really led to is a lack of commentary and a display of the things I’m following. Here’s where I start making up the difference:

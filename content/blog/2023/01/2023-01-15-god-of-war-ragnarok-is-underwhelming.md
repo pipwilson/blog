@@ -6,6 +6,7 @@ slug = "god-of-war-ragnarok-is-underwhelming"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2023/01/2023-01-15-god-of-war-ragnarok-is-underwhelming-comments.csv"
 +++
 
 God of War Ragnarok has been underwhelming so far

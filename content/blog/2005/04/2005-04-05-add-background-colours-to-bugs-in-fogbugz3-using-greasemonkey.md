@@ -6,6 +6,7 @@ slug = "add-background-colours-to-bugs-in-fogbugz3-using-greasemonkey"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/04/2005-04-05-add-background-colours-to-bugs-in-fogbugz3-using-greasemonkey-comments.csv"
 +++
 
 As always, let’s get the script out of the way: [Add background colours to bugs in FogBugz 3](http://philwilson.org/code/greasemonkey/fogbugz3-colours.user.js).

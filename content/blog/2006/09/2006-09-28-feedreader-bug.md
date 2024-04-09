@@ -6,6 +6,7 @@ slug = "feedreader-bug"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/09/2006-09-28-feedreader-bug-comments.csv"
 +++
 
 [![Feedreader bug](http://static.flickr.com/88/254761071_25c8b87c2a_m.jpg)](http://www.flickr.com/photos/pip/254761071/)

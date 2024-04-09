@@ -6,6 +6,7 @@ slug = "make-it-easy-to-write-objectives"
 tags = ['general','management']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2023/02/2023-02-04-make-it-easy-to-write-objectives-comments.csv"
 +++
 
 I have never worked with a software developer who enjoyed writing their quarterly or annual objectives.

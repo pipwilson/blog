@@ -6,6 +6,7 @@ slug = "kinja-gets-it-right"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/12/2004-12-26-kinja-gets-it-right-comments.csv"
 +++
 
 [Kinja](http://www.kinja.com) is the web aggregator everyone forgot.

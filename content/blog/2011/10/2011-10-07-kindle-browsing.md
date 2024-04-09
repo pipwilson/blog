@@ -6,6 +6,7 @@ slug = "kindle-browsing"
 tags = ['amazon','general','kindle','mobile']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2011/10/2011-10-07-kindle-browsing-comments.csv"
 +++
 
 The [Kindle Touch 3G](http://www.amazon.com/Kindle-Touch-e-Reader-Touch-Screen-3G-Special-Offers/dp/B005890G8O) is the only new Kindle with 3G available and you [won’t be able to access anything except the Kindle Store and Wikipedia with it](http://arstechnica.com/gadgets/news/2011/10/kindle-touch-3g-cant-access-most-of-internet-without-wifi.arshttp://arstechnica.com/gadgets/news/2011/10/kindle-touch-3g-cant-access-most-of-internet-without-wifi.ars).

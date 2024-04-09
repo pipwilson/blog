@@ -6,6 +6,7 @@ slug = "openid-at-university"
 tags = ['openid','openid','shibboleth','university']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/02/2007-02-23-openid-at-university-comments.csv"
 +++
 
 Plenty of people have said in the last few days that there are more OpenID providers than there are [OpenID](http://openid.net/)-consuming services.

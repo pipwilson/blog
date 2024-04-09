@@ -6,6 +6,7 @@ slug = "running-16-bit-windows-95-games-on-64-bit-windows-10"
 tags = ['games','general','windows']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2022/08/2022-08-14-running-16-bit-windows-95-games-on-64-bit-windows-10-comments.csv"
 +++
 
 If you are running an x64 version of Windows then when you try and run an old 16-bit Windows 95 application you will see an error screen saying “This app can’t run on your PC”:

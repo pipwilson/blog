@@ -6,6 +6,7 @@ slug = "beautiful-world-history"
 tags = ['archaelogy','general','history','twitter']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2019/06/2019-06-06-beautiful-world-history-comments.csv"
 +++
 
 Twitter is mostly a cesspit of wailing and existential despair and so I avoid it, but the one beacon of light which does call me back in on a regular basis is [Ticia Verveer’s account](https://twitter.com/ticiaverveer).

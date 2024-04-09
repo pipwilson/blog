@@ -6,6 +6,7 @@ slug = "virus-strikes"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/08/2004-08-23-virus-strikes-comments.csv"
 +++
 
 > The Internet Storm Center has published a chart showing the historical trends in probes from Internet worms. The frequency is up to about 20 minutes, which means that if you connect an unfirewalled, unpatched new Windows XP machine to the Internet and start downloading the patches to protect you from worms, you will be infected before the patches have downloaded and installed.

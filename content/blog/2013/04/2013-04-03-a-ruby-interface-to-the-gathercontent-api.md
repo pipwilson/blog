@@ -6,6 +6,7 @@ slug = "a-ruby-interface-to-the-gathercontent-api"
 tags = ['api','gathercontent','general','ruby']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2013/04/2013-04-03-a-ruby-interface-to-the-gathercontent-api-comments.csv"
 +++
 
 [GatherContent](https://gathercontent.com/) is an awesome tool for planning, structuring and collaborating on web content (they have a [short video demo](https://gathercontent.com/how-it-works)).

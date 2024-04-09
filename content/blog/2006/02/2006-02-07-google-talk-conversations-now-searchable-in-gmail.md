@@ -6,6 +6,7 @@ slug = "google-talk-conversations-now-searchable-in-gmail"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/02/2006-02-07-google-talk-conversations-now-searchable-in-gmail-comments.csv"
 +++
 
 [![Save chat histories in Gmail](http://static.flickr.com/35/96714575_5d96b959d4_m.jpg)](http://www.flickr.com/photos/pip/96714575/ "Photo Sharing")

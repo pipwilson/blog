@@ -6,6 +6,7 @@ slug = "my-life-as-a-teenage-goth"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/11/2004-11-21-my-life-as-a-teenage-goth-comments.csv"
 +++
 
 This is just great.

@@ -6,6 +6,7 @@ slug = "internet-contention"
 tags = ['broadband','general','home']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/04/2008-04-23-internet-contention-comments.csv"
 +++
 
 My internet usage should not be constrained by other people.

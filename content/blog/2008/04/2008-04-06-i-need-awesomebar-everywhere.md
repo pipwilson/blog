@@ -6,6 +6,7 @@ slug = "i-need-awesomebar-everywhere"
 tags = ['general','xul']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/04/2008-04-06-i-need-awesomebar-everywhere-comments.csv"
 +++
 
 For the past six months or so I’ve been using the [Autocomplete Manager](https://addons.mozilla.org/en-US/firefox/addon/2300) for Firefox. From my perspective, it’s what has inspired [AwesomeBar](http://diveintomark.org/archives/2008/03/25/awesomebar). The problem is that I only had it installed at work. At home I was happy to struggle on with plebianbar.

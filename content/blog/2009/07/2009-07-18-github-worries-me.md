@@ -6,6 +6,7 @@ slug = "github-worries-me"
 tags = ['general','git','svn']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2009/07/2009-07-18-github-worries-me-comments.csv"
 +++
 
 I’m not that keen on [git](http://git-scm.com/ "http://git-scm.com/ (http://git-scm.com/)") (for mostly aesthetic reasons although I suspect I’ll have to get over this soon), and [github](https://github.com/ "https://github.com/ (https://github.com/)") makes me jump through a couple of hoops too many to get up and running for the first time, but those aren’t things that worry me.

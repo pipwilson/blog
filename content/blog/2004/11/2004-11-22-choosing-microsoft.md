@@ -6,6 +6,7 @@ slug = "choosing-microsoft"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/11/2004-11-22-choosing-microsoft-comments.csv"
 +++
 
 In his most recent ‘ongoing’ post, Tim Bray writes:

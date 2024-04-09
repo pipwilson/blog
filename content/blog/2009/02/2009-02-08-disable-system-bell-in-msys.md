@@ -6,6 +6,7 @@ slug = "disable-system-bell-in-msys"
 tags = ['general','git','msys']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2009/02/2009-02-08-disable-system-bell-in-msys-comments.csv"
 +++
 
 I am using [Git](http://git-scm.com/) on the command line in Windows via [msysgit](http://code.google.com/p/msysgit/).

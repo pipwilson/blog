@@ -6,6 +6,7 @@ slug = "hdtv-digitaltv-etc"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/09/2005-09-19-hdtv-digitaltv-etc-comments.csv"
 +++
 
 If I haven’t got full on-demand TV-over-internet and a pair of [hover shoes](http://tv.cream.org/a-z/t/tomorrowsworld/index.htm "they promised!") by [2009 (PDF)](http://www.digitaltelevision.gov.uk/pdf_documents/consultations/ria_timingof_ds.pdf "The timing of the digital switchover - PDF"), then what’s the point?

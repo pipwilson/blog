@@ -6,6 +6,7 @@ slug = "atom-over-xmpp"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/08/2004-08-25-atom-over-xmpp-comments.csv"
 +++
 
 Finally! Now that [Sam Ruby](http://intertwingly.net/blog/)‘s [sent it to the atom-syntax mailing list](http://www.imc.org/atom-syntax/mail-archive/msg08825.html) and [Mark Pilgrim](http://diveintomark.org/)‘s [b-linked it](http://diveintomark.org/archives/blinks/2004/08/#b20040824215132) people are finally \*finally\* [beginning to take notice](http://del.icio.us/url/bfcde044f4503c3714cee171b583c1d7) of this.

@@ -6,6 +6,7 @@ slug = "free-your-mind"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2024/03/2024-03-07-free-your-mind-comments.csv"
 +++
 
 The absolute best thing about being able to hand over my Head of Software Engineering role to the wonderful [Steve Newstead](https://medium.com/@steve.newstead) in favour of being a roving problem-solver (currently: incident management processes, procurement workflows, monitoring and alerting, line management coaching) has been the colossal amount of mental capacity it has freed up outside of work hours.

@@ -6,6 +6,7 @@ slug = "browser-and-aggregator-usage-statistics"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/12/2004-12-15-browser-and-aggregator-usage-statistics-comments.csv"
 +++
 
 So, a quick twelve-monthly roundup for usage of [philwilson.org](http://philwilson.org/blog/) is in order I think.

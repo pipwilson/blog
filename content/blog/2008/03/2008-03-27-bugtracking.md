@@ -6,6 +6,7 @@ slug = "bugtracking"
 tags = ['bugtracking','general','management','wxvenus']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/03/2008-03-27-bugtracking-comments.csv"
 +++
 
 <embed align="right" src="http://philwilson.org/code/wxvenus/FeedThing.svg"></embed>

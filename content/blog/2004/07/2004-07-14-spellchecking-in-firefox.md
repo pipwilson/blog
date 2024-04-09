@@ -6,6 +6,7 @@ slug = "spellchecking-in-firefox"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/07/2004-07-14-spellchecking-in-firefox-comments.csv"
 +++
 
 > SpellBound is a port of the spell checker user interface from Mozilla’s Composer that enables spell checking in web forms (e.g. html textarea and html input elements – html input password elements are not checked by SpellBound). This allows you to spell check forms (e.g. a comment on a message board, etc.) before submitting them.

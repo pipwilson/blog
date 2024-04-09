@@ -6,6 +6,7 @@ slug = "css3-selectors"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/05/2004-05-17-css3-selectors-comments.csv"
 +++
 
 There’s [a nice little introduction to CSS3 selectors on XML.com](http://www.xml.com/pub/a/2003/06/18/css3-selectors.html) which contains this little comment:

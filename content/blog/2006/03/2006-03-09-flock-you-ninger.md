@@ -6,6 +6,7 @@ slug = "flock-you-ninger"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/03/2006-03-09-flock-you-ninger-comments.csv"
 +++
 
 > Lately, I’ve been saying [Ninged](http://www.ning.com) a lot.

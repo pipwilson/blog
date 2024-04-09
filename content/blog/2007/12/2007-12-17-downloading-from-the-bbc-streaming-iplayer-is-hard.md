@@ -6,6 +6,7 @@ slug = "downloading-from-the-bbc-streaming-iplayer-is-hard"
 tags = ['bbc','general','iplayer','real','red5']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/12/2007-12-17-downloading-from-the-bbc-streaming-iplayer-is-hard-comments.csv"
 +++
 
 (this was mostly written on Friday 14th December, although no-one else seems to have stepped up to the plate yet)

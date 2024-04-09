@@ -6,6 +6,7 @@ slug = "microsoft-powered-by-aliens"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/04/2005-04-08-microsoft-powered-by-aliens-comments.csv"
 +++
 
 Dear weirdos,

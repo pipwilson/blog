@@ -6,6 +6,7 @@ slug = "digital-lifestyle-aggregation-vs-personal-aggregation"
 tags = ['attention','planet','syndication','syndication']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2007/03/2007-03-07-digital-lifestyle-aggregation-vs-personal-aggregation-comments.csv"
 +++
 
 Following up on my [Personal Aggregator (lifestream) dissing of the other day](http://philwilson.org/blog/2007/03/stream-of-rubbish.html), here’s what I’d prefer to see (I should note that none of these ideas are original, and for most of my audience probably hark back to 2001):

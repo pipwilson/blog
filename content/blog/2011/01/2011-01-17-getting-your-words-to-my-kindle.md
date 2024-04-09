@@ -6,6 +6,7 @@ slug = "getting-your-words-to-my-kindle"
 tags = ['general','google reader','instapaper','kindle','readability','scuttle']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2011/01/2011-01-17-getting-your-words-to-my-kindle-comments.csv"
 +++
 
 Nathan and Tim both made a sensible comment on my “[Readme](http://philwilson.org/blog/2010/09/readme/)” post – [Instapaper](http://instapaper.com) supports daily delivery of unread articles directly to a kindle – use that!

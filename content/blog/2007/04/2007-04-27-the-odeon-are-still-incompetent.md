@@ -6,6 +6,7 @@ slug = "the-odeon-are-still-incompetent"
 tags = ['general','odeon','usamajility']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/04/2007-04-27-the-odeon-are-still-incompetent-comments.csv"
 +++
 
 From [Odeon: when will they learn?](http://usamajility.blogspot.com/2007/04/odeon-when-will-they-learn.html):

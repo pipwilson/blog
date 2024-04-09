@@ -6,6 +6,7 @@ slug = "tracking-comments-through-trackback"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/01/2005-01-09-tracking-comments-through-trackback-comments.csv"
 +++
 
 Also inspired by the complete quality that is [Flickr’s ‘recent comments’ page](http://www.flickr.com/help.gne#31), [Matt Haughey’s also after the same thing for normal blog commenting](http://a.wholelottanothing.org/2005/01/posted_elsewher.html "Posted Elsewhere needs to go internet-wide"), and touches on [the idea that I mooted last month](http://philwilson.org/blog/2004/12/tracking-comments.html "Redirect the comment form to your own tracker") but disregards it because <q cite="http://a.wholelottanothing.org/2005/01/posted_elsewher.html">anything remotely manual gets dropped eventually</q> (and he’s right of course). In the course of this though, he actually comes up with a reasonable solution based on trackback (it’s actually made clearer in [the comments on one of his Flickr images](http://www.flickr.com/photos/mathowie/3134739/#comment629160)).

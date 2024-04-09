@@ -6,6 +6,7 @@ slug = "places-moved-from-firefox-2-to-firefox-3"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/04/2006-04-25-places-moved-from-firefox-2-to-firefox-3-comments.csv"
 +++
 
 [Places](http://wiki.mozilla.org/Places) is the new and exciting part of [Firefox 2](http://wiki.mozilla.org/Firefox2).

@@ -6,6 +6,7 @@ slug = "my-subscriptions-list-in-opml-xoxo-and-atom"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/02/2006-02-22-my-subscriptions-list-in-opml-xoxo-and-atom-comments.csv"
 +++
 
 For a larf, I added two quick hacks so that my Feed On Feeds installation now outputs my feed list in three formats:

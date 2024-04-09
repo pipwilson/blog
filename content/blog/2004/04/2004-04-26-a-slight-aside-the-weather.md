@@ -6,6 +6,7 @@ slug = "a-slight-aside-the-weather"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/04/2004-04-26-a-slight-aside-the-weather-comments.csv"
 +++
 
 What? Nice weather in the UK? In *Sheffield*? Well, it was last week at least:

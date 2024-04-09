@@ -6,6 +6,7 @@ slug = "safeguarding-our-data"
 tags = ['general','gov','identity']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/01/2008-01-20-safeguarding-our-data-comments.csv"
 +++
 
 Danger! Mental dumping ground ahead!

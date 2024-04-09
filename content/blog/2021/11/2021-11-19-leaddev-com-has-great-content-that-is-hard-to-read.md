@@ -6,6 +6,7 @@ slug = "leaddev-com-has-great-content-that-is-hard-to-read"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2021/11/2021-11-19-leaddev-com-has-great-content-that-is-hard-to-read-comments.csv"
 +++
 
 I really like a lot of the content on[ https://leaddev.com/](< https://leaddev.com/>) – ranging from simple advice for new tech leaders to insightful ideas for veterans, it is worth getting on their mailing list by using the signup box at the bottom of every page.

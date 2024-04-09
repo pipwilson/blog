@@ -6,6 +6,7 @@ slug = "week-14-creation"
 tags = ['general','weeknotes']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2021/01/2021-01-18-week-14-creation-comments.csv"
 +++
 
 - I turned 41. This is the test subject number assigned to Tetsuo in [Akira](https://en.wikipedia.org/wiki/Akira_(1988_film)).

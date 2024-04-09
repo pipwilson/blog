@@ -6,6 +6,7 @@ slug = "the-new-model-of-buying-music"
 tags = ['amazon','android','general','mp3','shazam']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2010/07/2010-07-21-the-new-model-of-buying-music-comments.csv"
 +++
 
 My phone runs an app that idenitifies the song that is currently playing on the radio and an app to then buy and download that song, or the album it’s from. The two are seamlessly linked.

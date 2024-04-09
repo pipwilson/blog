@@ -6,6 +6,7 @@ slug = "handy-xml-tag-outlining"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/04/2004-04-23-handy-xml-tag-outlining-comments.csv"
 +++
 
 Oooh, I’d not noticed before, but if you’re viewing an XML file in Firefox and CTRL-click an element, it puts a grey border around that element, allowing you to see where it begins and ends – useful for matching start and end tags of long elements.

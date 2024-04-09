@@ -6,6 +6,7 @@ slug = "atom-doesnt-exist-in-opml"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/10/2005-10-16-atom-doesnt-exist-in-opml-comments.csv"
 +++
 
 A few days ago, Dave Winer posted some [Guidelines for validating OPML](http://www.opml.org/guidelinesForValidation). I know, hilarious, but if you can stop laughing for a second you’ll notice this:

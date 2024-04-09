@@ -6,6 +6,7 @@ slug = "week-33-astronomical"
 tags = ['general','weeknotes']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2021/06/2021-06-08-week-33-astronomical-comments.csv"
 +++
 
 - I learned this week that there is such a thing as [astronomical twilight and astronomical night](https://earthsky.org/earth/the-undark-nights-of-summer-guy-ottewell/), and that during the peak of summer because of the tilt of the earth, we only get to the twilight in the UK. There is [an awesome visualisation of this on Clear Outside](http://clearoutside.com/annual_darkness/51.51/-0.13). I learned this because now I love next to a field so I am eyeing up a telescope for late night stargazing.

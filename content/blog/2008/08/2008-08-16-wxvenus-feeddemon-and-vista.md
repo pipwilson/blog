@@ -6,6 +6,7 @@ slug = "wxvenus-feeddemon-and-vista"
 tags = ['general','syndication tools']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/08/2008-08-16-wxvenus-feeddemon-and-vista-comments.csv"
 +++
 
 I’ve basically done no work on [wxVenus](http://philwilson.org/blog/2008/03/wxvenus) for one big reason: [FeedDemon](http://www.newsgator.com/individuals/feeddemon/).

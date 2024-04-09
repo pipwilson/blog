@@ -6,6 +6,7 @@ slug = "uninstall-those-extensions"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/04/2004-04-05-uninstall-those-extensions-comments.csv"
 +++
 
 It’s a doddle to install firefox extensions but near impossible to uninstall them unless you know what you’re doing, and if you’re like me, you’ll see a new extension and go “Oooh, that looks good”, install it and before you know it have twenty installed of which you use about five.

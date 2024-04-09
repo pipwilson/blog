@@ -6,6 +6,7 @@ slug = "xul-runner"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/02/2006-02-19-xul-runner-comments.csv"
 +++
 
 I’ve been interested in XUL for a long time. Or, [since 2002 at least](http://www.google.co.uk/search?q=site:philwilson.org+xul).

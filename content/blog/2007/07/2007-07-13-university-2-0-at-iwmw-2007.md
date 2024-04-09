@@ -6,6 +6,7 @@ slug = "university-20-at-iwmw-2007"
 tags = ['general','iwmw2007']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/07/2007-07-13-university-2-0-at-iwmw-2007-comments.csv"
 +++
 
 I almost forgot to say that [I’ll be in York on Monday](http://www.ukoln.ac.uk/web-focus/events/workshops/webmaster-2007/sessions/wilson2/) at the [Institutional Web Management Workshop 2007](http://www.ukoln.ac.uk/web-focus/events/workshops/webmaster-2007/) presenting [“The eternal beta – can it work in an institution?”](http://www.ukoln.ac.uk/web-focus/events/workshops/webmaster-2007/sessions/wilson2/), I’ll be covering practical ways that Universities can incorporate web 2.0-style technologies into their software development, rollout and maintenance lifecycles as well as how to harvest staff/student-based feedback in an intelligent way.

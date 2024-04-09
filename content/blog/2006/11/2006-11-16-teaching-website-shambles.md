@@ -6,6 +6,7 @@ slug = "teaching-website-shambles"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/11/2006-11-16-teaching-website-shambles-comments.csv"
 +++
 
 [![](http://philwilson.org/images/tes-outofmemory-thumb.png "TES throwing an Out Of Memory Exception")](http://philwilson.org/images/tes-outofmemory.png)

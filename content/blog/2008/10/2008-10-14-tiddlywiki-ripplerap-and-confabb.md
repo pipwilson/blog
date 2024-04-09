@@ -6,6 +6,7 @@ slug = "tiddlywiki-ripplerap-and-confabb"
 tags = ['fowa','general','tiddlywiki','wiki']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2008/10/2008-10-14-tiddlywiki-ripplerap-and-confabb-comments.csv"
 +++
 
 <figure aria-describedby="caption-attachment-1350" class="wp-caption alignright" id="attachment_1350" style="width: 300px">[![Screenshot of ripplerap in action](http://philwilson.org/blog/wp-content/uploads/2008/10/ripplerap.png "ripplerap")](http://philwilson.org/blog/wp-content/uploads/2008/10/ripplerap.png)<figcaption class="wp-caption-text" id="caption-attachment-1350">Screenshot of ripplerap in action</figcaption></figure>

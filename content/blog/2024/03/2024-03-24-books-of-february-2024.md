@@ -6,6 +6,7 @@ slug = "books-of-february-2024"
 tags = ['books','general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2024/03/2024-03-24-books-of-february-2024-comments.csv"
 +++
 
 As predicted it was impossible to maintain [the rate of January](https://philwilson.org/blog/2024/02/books-of-january-2024/), obviously this is a system which I can game if I just read novellas!

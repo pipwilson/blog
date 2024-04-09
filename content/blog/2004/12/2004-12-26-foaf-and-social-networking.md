@@ -6,6 +6,7 @@ slug = "foaf-and-social-networking"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/12/2004-12-26-foaf-and-social-networking-comments.csv"
 +++
 
 The most interesting thing I’ve noticed about Flickr in the past week is that within one or two-degrees of [my Flickr profile](http://flickr.com/people/pip) I’ve found so many people whose weblogs I subscribe to. Evhead, Kottke, Anil Dash, BluishOrange – all these are ones which just spring to mind now, there are plenty of others.

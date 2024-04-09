@@ -6,6 +6,7 @@ slug = "barcampbristol-12-13th-october"
 tags = ['barcamp','bristol','bristol']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/09/2007-09-29-barcampbristol-12-13th-october-comments.csv"
 +++
 
 ![BarCamp Bristol logo](http://philwilson.org/blog/uploaded_images/barcamp-737451.gif)

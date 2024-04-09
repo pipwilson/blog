@@ -6,6 +6,7 @@ slug = "why-would-i-want-to-edit-in-opml"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/01/2006-01-25-why-would-i-want-to-edit-in-opml-comments.csv"
 +++
 
 I don’t get all Dave Winer’s fuss about OPML.

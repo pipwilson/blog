@@ -6,6 +6,7 @@ slug = "week-4-thoroughly-modern-mario"
 tags = ['general','weeknotes']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2020/11/2020-11-03-week-4-thoroughly-modern-mario-comments.csv"
 +++
 
 - We now have the [new Lego Mario](https://www.lego.com/en-gb/campaigns/supermario) in the house. It contains bluetooth, a gyro sensor, accelerometer, colour sensor, a speaker (for all the wa-hoo!s) and small LCD-ish screens in his eyes, mouth and chest. I thought it would be a total gimmick with about 5 minutes of fun before it got put in a box and under a bed, but my kids have genuinely loved playing with it every day and the boy has spent some of his accrued pocket money and a voucher he got for his birthday on two expansion sets which will arrive next week.

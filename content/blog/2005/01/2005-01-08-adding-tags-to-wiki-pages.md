@@ -6,6 +6,7 @@ slug = "adding-tags-to-wiki-pages"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/01/2005-01-08-adding-tags-to-wiki-pages-comments.csv"
 +++
 
 You know, it’s interesting that [Jon Udell should talk about adding tags to wiki pages for categorisation](http://weblog.infoworld.com/udell/2005/01/06.html) when just a few days before his post [Gareth](http://www.xurble.org) and I were talking about exactly the same thing.

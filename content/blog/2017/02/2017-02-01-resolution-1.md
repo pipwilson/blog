@@ -6,6 +6,7 @@ slug = "resolution-1"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2017/02/2017-02-01-resolution-1-comments.csv"
 +++
 
 Weigh myself every day. Nothing about losing weight, just about recording it.

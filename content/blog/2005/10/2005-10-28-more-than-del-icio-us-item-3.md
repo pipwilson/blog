@@ -6,6 +6,7 @@ slug = "more-than-delicious-item-3"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/10/2005-10-28-more-than-del-icio-us-item-3-comments.csv"
 +++
 
 Mark Nottingham does a lot of good work.

@@ -6,6 +6,7 @@ slug = "ugh-active-x"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/02/2005-02-01-ugh-active-x-comments.csv"
 +++
 
 Active X is the spawn of satan.

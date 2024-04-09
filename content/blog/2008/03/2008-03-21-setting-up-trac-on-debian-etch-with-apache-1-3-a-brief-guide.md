@@ -6,6 +6,7 @@ slug = "setting-up-trac-on-debian-etch-with-apache-13-a-brief-guide"
 tags = ['general','linux','python','tools','trac','web']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/03/2008-03-21-setting-up-trac-on-debian-etch-with-apache-1-3-a-brief-guide-comments.csv"
 +++
 
 This is a summary of what I got from the [Trac](http://trac.edgewall.org/) installation instructions [here](http://trac.edgewall.org/wiki/TracInstall), [here](http://trac.edgewall.org/wiki/TracOnDebian), [here](http://trac.edgewall.org/wiki/TracModPython) and [here](http://trac.edgewall.org/wiki/TracModPython2.7). My life would have been easier if I was running Apache2, but for the site in question, I’m not.

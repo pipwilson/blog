@@ -6,6 +6,7 @@ slug = "mozilla-can-fuck-off"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/07/2004-07-01-mozilla-can-fuck-off-comments.csv"
 +++
 
 My girlfriend and I were talking about computers the other day; she’s got one, but she’s just a normal user, and to be honest I was slightly surprised with the conversation we were having. “If anyone tried to tell me that I really should be using Linux and Firefox, I’d tell them to fuck off.” she said. Well, that’s her opinion made pretty clear. Despite my success with converting quite a few (maybe twenty?) people over to Firefox from IE, I’ve got absolutely no chance of converting my own girlfriend. What makes it worse is that we’re using Windows XP at home, and the default browser is a system setting, not a user setting, so whenever I’m on her machine and try to follow a link in my aggregator or mail client, up comes IE. Nightmare.

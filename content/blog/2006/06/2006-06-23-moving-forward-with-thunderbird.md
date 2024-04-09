@@ -6,6 +6,7 @@ slug = "moving-forward-with-thunderbird"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/06/2006-06-23-moving-forward-with-thunderbird-comments.csv"
 +++
 
 Although I’ve been using Thunderbird at work now for almost a year, the only extension I’ve had installed has been [Lightning](http://wiki.mozilla.org/Calendar:Lightning) to display my work calendar.

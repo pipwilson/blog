@@ -6,6 +6,7 @@ slug = "bbc-now-using-common-feed-icon"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/08/2006-08-23-bbc-now-using-common-feed-icon-comments.csv"
 +++
 
 [![](http://farm1.static.flickr.com/73/222453946_2b07312c8e_t.jpg)](http://www.flickr.com/photos/pip/222453946/ "BBC now using common feed icon, by pip")

@@ -6,6 +6,7 @@ slug = "use-an-elastic-layout-on-your-weblog-web-professionals"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/02/2006-02-13-use-an-elastic-layout-on-your-weblog-web-professionals-comments.csv"
 +++
 
 I’ve had a couple of several-hundred-word posts hanging around on this topic for months now, but my frustration has finally got to the point where the technical stuff can wait – if you have a weblog which has centred text (even [Hivelogic](http://hivelogic.com/) and [Andy Budd](http://www.andybudd.com/) fall foul of this) then **make your contents elastic!**

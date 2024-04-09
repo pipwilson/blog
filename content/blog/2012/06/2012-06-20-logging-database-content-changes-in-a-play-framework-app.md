@@ -6,6 +6,7 @@ slug = "logging-database-content-changes-in-a-play-framework-app"
 tags = ['database','general','hibernate','java','play']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2012/06/2012-06-20-logging-database-content-changes-in-a-play-framework-app-comments.csv"
 +++
 
 To do this we use [Hibernate Envers](http://docs.jboss.org/envers/docs/index.html).

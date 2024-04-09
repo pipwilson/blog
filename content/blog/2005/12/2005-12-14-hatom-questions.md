@@ -6,6 +6,7 @@ slug = "hatom-questions"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/12/2005-12-14-hatom-questions-comments.csv"
 +++
 
 In 2002 Mark Pilgrim wrote [Syndication is not publication](http://diveintomark.org/archives/2002/11/26/syndication_is_not_publication). In that piece he voices a concern that [I’ve had before about microformats](http://philwilson.org/blog/2005/05/can-someone-explain-microformats-to-me.html): <q cite="http://diveintomark.org/archives/2002/11/26/syndication_is_not_publication">A \[syndication\] format that requires valid semantic XHTML markup? Spare me.</q>.

@@ -6,6 +6,7 @@ slug = "firefox-15-is-out"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/11/2005-11-30-firefox-1-5-is-out-comments.csv"
 +++
 
 Except, no British version yet. Pfah. Where are those translators when you need them?

@@ -6,6 +6,7 @@ slug = "saucereader-praise"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/04/2004-04-15-saucereader-praise-comments.csv"
 +++
 
 Wow, [I’m famous](http://www.synop.com/Products/SauceReader/Home/)!

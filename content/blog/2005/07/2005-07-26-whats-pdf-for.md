@@ -6,6 +6,7 @@ slug = "whats-pdf-for"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/07/2005-07-26-whats-pdf-for-comments.csv"
 +++
 
 Slashdot cracks me up sometimes:

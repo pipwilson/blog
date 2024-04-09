@@ -6,6 +6,7 @@ slug = "rss-reader-evangelism"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/07/2004-07-09-rss-reader-evangelism-comments.csv"
 +++
 
 > But how many people actually keep track of enough sites to justify a newsreader? (I’d say ‘enough sites’ is over 20 that publish new content daily). A few voracious ubergeek microcontent-consumers, and not much more. That’s why it makes me laugh when I read RSS evangelists say things like, ‘Why isn’t everyone using a newsreader?’ and ‘Why don’t you have a link to your RSS feed on the front page of your site?’

@@ -6,6 +6,7 @@ slug = "relating-atom-entries-and-feeds"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/06/2004-06-23-relating-atom-entries-and-feeds-comments.csv"
 +++
 
 Bill de hÓra recently wrote [an interesting article on mapping Atom to RDF](http://www.dehora.net/journal/2004/06/atomrss_relating_entries_and_feeds.html), and in the process linking individual entries to the feed which contains them by virtue of a `<atom:feed rdf:resource="feed-url"/>`. This is a very interesting area to me at the moment, and it seems strange that an explicit child -&gt; parent relationship hasn’t previously been defined in the Atom syntax, only parent -&gt; child by virtue of the document structure.

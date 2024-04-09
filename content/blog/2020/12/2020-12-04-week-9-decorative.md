@@ -6,6 +6,7 @@ slug = "week-9-decorative"
 tags = ['general','weeknotes']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2020/12/2020-12-04-week-9-decorative-comments.csv"
 +++
 
 - Our Christmas tree is up! My daughter may actually explode with excitement before Christmas arrives but hopefully she’ll hold on for the next 4 weeks.

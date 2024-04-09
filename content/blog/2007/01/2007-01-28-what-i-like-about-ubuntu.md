@@ -6,6 +6,7 @@ slug = "what-i-like-about-ubuntu"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/01/2007-01-28-what-i-like-about-ubuntu-comments.csv"
 +++
 
 I have a new PC, and both my bluetooth dongle and mp3 player no longer work; some problem or other with the USB ports. So I’ve upgraded to Ubuntu. I can no longer recover from standby or hibernate mode without a hard reset (possibly because I’m using the proprietary fglrx drivers for my ATI card rather than the free radeon ones) but that’s a small price to pay.

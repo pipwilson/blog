@@ -6,6 +6,7 @@ slug = "exchange-to-icalsunbird-via-perl"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/09/2004-09-11-exchange-to-ical-sunbird-via-perl-comments.csv"
 +++
 
 > I’ve got something I call vcalxical.pl, which is a perl script that logs into an Exchanged server running IMAP, and then reads a mailbox that is really a calendar, and pulls out the VCALENDAR parts, and formats them into an ics-type file.

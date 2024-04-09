@@ -6,6 +6,7 @@ slug = "web-publishing-for-yourself"
 tags = ['blogging','cms','general','indieweb','tools']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2024/03/2024-03-17-web-publishing-for-yourself-comments.csv"
 +++
 
 “[This paper lays out a unified framework of the ergodic animage, the rule-based and interaction driven part of visual representation in video games](https://journals.sfu.ca/loading/index.php/loading/article/view/155)”

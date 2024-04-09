@@ -6,6 +6,7 @@ slug = "storing-atom"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/09/2006-09-04-storing-atom-comments.csv"
 +++
 
 So then, the [Atom Syndication Format](http://en.wikipedia.org/wiki/Atom_(standard)) is a great standard for storing data but once you start getting a large number of entries (even if it’s only in the hundreds or thousands), does storing your data as an XML file start to become unwieldly? A small part of my brain starts to cry at the thought, so I’m going to guess “yes” but there must surely be loads of companies and individuals doing this, so how do they manage?

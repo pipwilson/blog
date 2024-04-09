@@ -6,6 +6,7 @@ slug = "who-posted-to-delicious"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/05/2004-05-17-who-posted-to-del-icio-us-comments.csv"
 +++
 
 del.icio.us provides you with a virtual inbox to which you can add any other users’ bookmark lists. You then have access to this inbox via RSS. So, for example, in [my del.icio.us inbox](http://del.icio.us/inbox/pip/) I effectively have the feeds for [blech](http://del.icio.us/blech), [yoz](http://del.icio.us/yoz), [kellan](http://del.icio.us/kellan), [msippey](http://del.icio.us/msippey) and [xurble](http://del.icio.us/xurble) all bundled into [one big feed](http://del.icio.us/inbox/rss/pip) with each item having an associated `dc:creator` to tell me who created each entry.

@@ -6,6 +6,7 @@ slug = "foaflicious-now-generates-foaf-for-any-delicious-user"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/02/2005-02-04-foaflicious-now-generates-foaf-for-any-del-icio-us-user-comments.csv"
 +++
 
 > You can now get the del.icio.us inbox for any user in FOAF format like so: <http://philwilson.org:8180/foaflicious/foaflicious.groovy?user=pip> – just substitute the username you want at the end of the URL

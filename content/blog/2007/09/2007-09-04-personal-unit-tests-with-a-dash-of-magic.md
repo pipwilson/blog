@@ -6,6 +6,7 @@ slug = "personal-unit-tests-with-a-dash-of-magic"
 tags = ['testing','xmpp','xmpp']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2007/09/2007-09-04-personal-unit-tests-with-a-dash-of-magic-comments.csv"
 +++
 
 I love this idea of [Personal Unit Tests](http://withoutane.com/rants/2007/08/personal-unit-tests).

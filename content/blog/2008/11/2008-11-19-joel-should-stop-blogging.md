@@ -6,6 +6,7 @@ slug = "joel-should-stop-blogging"
 tags = ['general','joel']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2008/11/2008-11-19-joel-should-stop-blogging-comments.csv"
 +++
 
 In his latest post, “[Anecdotes](http://www.joelonsoftware.com/items/2008/11/18.html)“, Joel tells us to ignore everything he’s written because it’s a poorly constructed non-scientific opinion based on nothing but anecdotal evidence.

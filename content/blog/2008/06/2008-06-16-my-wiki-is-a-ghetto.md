@@ -6,6 +6,7 @@ slug = "my-wiki-is-a-ghetto"
 tags = ['general','search','wiki']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/06/2008-06-16-my-wiki-is-a-ghetto-comments.csv"
 +++
 
 Because it’s on the web so I never go there to actually look for stuff, and it’s not built into my normal search

@@ -6,6 +6,7 @@ slug = "a-visit-to-linux"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/10/2005-10-18-a-visit-to-linux-comments.csv"
 +++
 
 ![Tux, the Linux penguin](http://philwilson.org/images/linux_penguin.jpg "Tux, the Linux penguin")

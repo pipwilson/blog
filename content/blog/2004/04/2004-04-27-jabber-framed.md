@@ -6,6 +6,7 @@ slug = "jabber-framed"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/04/2004-04-27-jabber-framed-comments.csv"
 +++
 
 From the Jabber Development mailing list comes news of [a new Java-based gateway framework](http://jabbergw.sourceforge.net/)

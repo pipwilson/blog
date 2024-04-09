@@ -6,6 +6,7 @@ slug = "change-the-world"
 tags = ['general','work']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2011/05/2011-05-27-change-the-world-comments.csv"
 +++
 
 I work in Higher Education in the UK.

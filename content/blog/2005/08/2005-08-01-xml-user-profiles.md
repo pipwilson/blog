@@ -6,6 +6,7 @@ slug = "xml-user-profiles"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/08/2005-08-01-xml-user-profiles-comments.csv"
 +++
 
 > <acronym title="XML User Profiles">XUP</acronym> is an attempt to replace static per-site user accounts, which most present dynamic web sites use in absence of an easy to use and open/shared user account system. It allows people to use a single account or profile with many sites, or one of their existing user profiles on multiple other web sites.

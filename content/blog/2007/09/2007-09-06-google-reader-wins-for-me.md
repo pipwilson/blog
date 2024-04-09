@@ -6,6 +6,7 @@ slug = "google-reader-wins-for-me"
 tags = ['google','google','syndication','syndication']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/09/2007-09-06-google-reader-wins-for-me-comments.csv"
 +++
 
 Let’s see, they [convert everything to Atom](http://philwilson.org/blog/2005/10/atom-from-any-rss-feed-via-google.html) and have just added the only two features I was missing: [search and “hide feed list”](http://googlereader.blogspot.com/2007/09/we-found-it.html) (I do a lot of feed reading on a tablet).

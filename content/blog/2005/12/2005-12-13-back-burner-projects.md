@@ -6,6 +6,7 @@ slug = "back-burner-projects"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/12/2005-12-13-back-burner-projects-comments.csv"
 +++
 
 In the hope that writing them down might goad me into doing some of them, here’s a list of things which keep running through my head but which I’ve done little or nothing about:

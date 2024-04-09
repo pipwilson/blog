@@ -6,6 +6,7 @@ slug = "running-net-code-from-visual-studio-code"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2015/10/2015-10-13-running-net-code-from-visual-studio-code-comments.csv"
 +++
 
 “Code” is the name of Microsoft’s<span class="Apple-converted-space"> </span>[new lightweight code editor](https://code.visualstudio.com/). It’s been out since April but it seemed like this project was a good opportunity to use it properly.

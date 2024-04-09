@@ -6,6 +6,7 @@ slug = "week-19-brightening"
 tags = ['general','weeknotes']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2021/02/2021-02-25-week-19-brightening-comments.csv"
 +++
 
 - There is blossom on trees!

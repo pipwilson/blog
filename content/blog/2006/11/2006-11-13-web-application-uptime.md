@@ -6,6 +6,7 @@ slug = "web-application-uptime"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/11/2006-11-13-web-application-uptime-comments.csv"
 +++
 
 Is it better for a web app to be up and broken (parts working, others not), or for the whole thing to be down when something is broken?

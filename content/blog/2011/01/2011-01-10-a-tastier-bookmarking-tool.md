@@ -6,6 +6,7 @@ slug = "a-tastier-bookmarking-tool"
 tags = ['bookmarking','del.icio.us','general','php','raster','scuttle']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2011/01/2011-01-10-a-tastier-bookmarking-tool-comments.csv"
 +++
 
 The practical stuff first.

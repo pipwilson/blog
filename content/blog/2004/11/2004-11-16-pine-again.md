@@ -6,6 +6,7 @@ slug = "pine-again"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/11/2004-11-16-pine-again-comments.csv"
 +++
 
 Having not used it for about four years, I’m slightly scared by the ease with which I remembered all of the keyboard shortcuts in [Pine](http://www.washington.edu/pine/) (in fact I knew some of the shortcuts without consciously trying to remember them).

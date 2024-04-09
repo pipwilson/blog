@@ -6,6 +6,7 @@ slug = "the-computer-science-turing-test"
 tags = ['general','sql']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/04/2008-04-14-the-computer-science-turing-test-comments.csv"
 +++
 
 I fundamentally don’t understand [SQL JOIN clauses](http://en.wikipedia.org/wiki/Join_(SQL)).

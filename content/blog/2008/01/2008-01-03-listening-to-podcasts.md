@@ -6,6 +6,7 @@ slug = "listening-to-podcasts"
 tags = ['general','mobile','mp3','syndication']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2008/01/2008-01-03-listening-to-podcasts-comments.csv"
 +++
 
 I do not listen to many podcasts. This is mainly because I used to have trouble syncing a subscription list across multiple PCs. Now I have [a Nokia N95](http://philwilson.org/blog/2007/11/nokia-n95-assessment) I use that as my primary client. It works well and I have started adding some feeds.

@@ -6,6 +6,7 @@ slug = "allconsumingnet-amazon-bookmarklet"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/09/2004-09-07-allconsuming-net-amazon-bookmarklet-comments.csv"
 +++
 
 [consume!](javascript:b=document.getElementsByTagName('b');for(var n=0;n<b.length;n++){if (b[n].innerHTML=='ISBN:'){i=b[n].nextSibling.nodeValue.replace(/^s+/g, '').replace(/s+$/g, '');location.href='http://www.allconsuming.net/item.cgi?isbn='+i;}} "consume!") is a bookmarklet for using [allconsuming.net](http://allconsuming.net "book-based social software") with [amazon.com](http://www.amazon.com) and [amazon.co.uk](http://www.amazon.co.uk)

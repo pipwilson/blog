@@ -6,6 +6,7 @@ slug = "i-heart-the-rdfers"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/08/2005-08-15-i-heart-the-rdfers-comments.csv"
 +++
 
 > Every time anyone dares to question RDF the RDFites assume they don’t know how it works.

@@ -6,6 +6,7 @@ slug = "bristol-council-opposes-id-cards"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/11/2005-11-25-bristol-council-opposes-id-cards-comments.csv"
 +++
 
 > Bristol city council, which is led by the Liberal Democrats, yesterday became the ninth local authority in the country to officially oppose the plans \[for ID cards\], which will need the support of local government if they are to succeed.

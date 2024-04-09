@@ -6,6 +6,7 @@ slug = "importing-blog-posts-and-comments-from-blogger-to-wordpress"
 tags = ['atom','blogger','general','google','oauth','wordpress']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/10/2008-10-02-importing-blog-posts-and-comments-from-blogger-to-wordpress-comments.csv"
 +++
 
 [![bloggerpress](http://philwilson.org/blog/wp-content/uploads/2008/10/bloggerpress-thumb.png)](http://philwilson.org/blog/wp-content/uploads/2008/10/bloggerpress.png)I tried this a year ago only to experience epic fail.

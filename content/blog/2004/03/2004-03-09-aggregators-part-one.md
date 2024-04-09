@@ -6,6 +6,7 @@ slug = "aggregators-part-one"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/03/2004-03-09-aggregators-part-one-comments.csv"
 +++
 
 And now for something, err, completely normal for bloggers: talking about aggregators.

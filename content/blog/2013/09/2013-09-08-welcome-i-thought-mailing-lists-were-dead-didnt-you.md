@@ -6,6 +6,7 @@ slug = "welcome-i-thought-mailing-lists-were-dead-didnt-you"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2013/09/2013-09-08-welcome-i-thought-mailing-lists-were-dead-didnt-you-comments.csv"
 +++
 
 The title I’ve give this post is the subject line from [the mailing list Rands has set up](http://tinyletter.com/rands-in-reposes-newsletter/).

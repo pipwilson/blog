@@ -6,6 +6,7 @@ slug = "playing-games"
 tags = ['games','general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2018/02/2018-02-18-playing-games-comments.csv"
 +++
 
 Growing up I played the board games that you might expect a kid growing up in the 80s to play: Scrabble, Monopoly, Frustration, Cluedo and so on. Although I mostly enjoyed them, they were all tedious in their own ways. The more interesting the game, the longer it took, and the more “adult” it was seen to be and was therefore either out of reach of my younger sibling or took to long to play with my parents. Today is very different.

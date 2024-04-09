@@ -6,6 +6,7 @@ slug = "browse-the-web-from-your-nintendo-ds"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/02/2006-02-18-browse-the-web-from-your-nintendo-ds-comments.csv"
 +++
 
 [Opera have announced that they’re going to release a browser for the DS in Japan.](http://www.opera.com/pressreleases/en/2006/02/15/)

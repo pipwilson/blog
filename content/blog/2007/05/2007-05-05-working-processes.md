@@ -6,6 +6,7 @@ slug = "working-processes"
 tags = ['agile','general','work']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2007/05/2007-05-05-working-processes-comments.csv"
 +++
 
 What [we’re](http://wiki.bath.ac.uk/display/bucswebdev/Home) trying to do at work:

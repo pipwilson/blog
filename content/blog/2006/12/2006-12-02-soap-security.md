@@ -6,6 +6,7 @@ slug = "soap-security"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/12/2006-12-02-soap-security-comments.csv"
 +++
 
 At my last workplace, where I was employed between 2003 and 2005, we had a web services system which used SOAP across two different programming languages (Java and C++) and had a potential future in another two (.Net and Python). We had some, what you might call, practical considerations. If you like, you can check the dates on [the OASIS spec](http://www.oasis-open.org/committees/download.php/16790/wss-v1.1-spec-os-SOAPMessageSecurity.pdf)

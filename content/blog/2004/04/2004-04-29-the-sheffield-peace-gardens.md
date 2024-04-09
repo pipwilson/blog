@@ -6,6 +6,7 @@ slug = "the-sheffield-peace-gardens"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/04/2004-04-29-the-sheffield-peace-gardens-comments.csv"
 +++
 
 [![](http://www.flickr.com/photos/27662_m.jpg)](http://www.flickr.com/photo.gne?id=27662)   

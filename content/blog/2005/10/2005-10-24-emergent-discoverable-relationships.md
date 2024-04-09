@@ -6,6 +6,7 @@ slug = "emergent-discoverable-relationships"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/10/2005-10-24-emergent-discoverable-relationships-comments.csv"
 +++
 
 Someone sent me a message on Last.fm pointing out that I’m the top fan for [A Stroke of Genius by the Freelance Hellraiser](http://www.last.fm/music/Freelance+Hellraiser/_/A+Stroke+of+Genius) (and in fact the [top fan for Freelance Hellraiser](http://www.last.fm/music/Freelance+Hellraiser) on the whole of last.fm which surprised me). The other top fan is a user called [russeljsmith](http://www.audioscrobbler.com/user/russelljsmith/). One of [russeljsmith’s last.fm friends](http://www.last.fm/user/russelljsmith/friends/) is [behemothpuss](http://www.last.fm/user/behemothpuss) who is also one of [my last.fm friends](http://www.last.fm/user/pipthepixie/friends/).

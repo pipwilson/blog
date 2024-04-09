@@ -6,6 +6,7 @@ slug = "bigger-back-button-extension-for-firefox"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/04/2005-04-08-bigger-back-button-extension-for-firefox-comments.csv"
 +++
 
 A little while ago I wrote some CSS that applied [Fitt’s Law](http://en.wikipedia.org/wiki/Fitts'_law) to [make the back button in Firefox bigger](http://www.philwilson.org/blog/2004/11/enhancing-firefox-gui-usability_29.html).

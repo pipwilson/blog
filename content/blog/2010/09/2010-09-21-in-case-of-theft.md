@@ -6,6 +6,7 @@ slug = "in-case-of-theft"
 tags = ['general','mobile','privacy','security']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2010/09/2010-09-21-in-case-of-theft-comments.csv"
 +++
 
 In the last few months, several of my friends have had either their laptops or phones stolen.

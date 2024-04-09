@@ -6,6 +6,7 @@ slug = "dive-into-legibility"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/04/2006-04-25-dive-into-legibility-comments.csv"
 +++
 
 Remove [Mark Pilgrim](http://diveintomark.org)‘s sidebars and make the content full-width. Not perfect, but it works:

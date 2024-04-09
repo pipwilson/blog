@@ -6,6 +6,7 @@ slug = "wikis-in-the-public-sector"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/11/2006-11-02-wikis-in-the-public-sector-comments.csv"
 +++
 
 One of my colleagues, [Marieke Guy](http://www.ukoln.ac.uk/ukoln/staff/m.guy/), has just written a puntastically-titled article entitled [Wiki or Won’t He? A Tale of Public Sector Wikis](http://www.ariadne.ac.uk/issue49/guy/) in the [UKOLN](http://www.ukoln.ac.uk/ "UK Office for Library Networking") online periodical [Ariadne](http://www.ariadne.ac.uk/) in which I get extensively quoted. I hadn’t realised when I tacked those few paragraphs onto the end of the short questionnaire, it was going to be quoted directly, so I apologise in advance for my poor use of English.

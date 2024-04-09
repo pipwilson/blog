@@ -6,6 +6,7 @@ slug = "blogging-from-university"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/05/2006-05-15-blogging-from-university-comments.csv"
 +++
 
 When I blog about things at work, it’s normally stuff that’s already been done. Completed tasks. In the past, as it were. This is some discussion about things that haven’t been decided, and reflects only my thoughts, and I’m not terribly important, so don’t read any more into this than you would the mumbling drunk at the bus-stop.

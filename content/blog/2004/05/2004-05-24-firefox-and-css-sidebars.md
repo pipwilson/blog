@@ -6,6 +6,7 @@ slug = "firefox-and-css-sidebars"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/05/2004-05-24-firefox-and-css-sidebars-comments.csv"
 +++
 
 I’ve just come across the [CSS Property Index](http://www.blooberry.com/indexdot/css/propindex/all.htm) which is an alphabetical listing of CSS properties. Of course, there are many of these of different kinds across the web, but I’ve never found any as useful as the [DevEdge Netscape Sidebar Tabs](http://devedge.netscape.com/toolbox/sidebars/) which provide Mozilla sidebars for CSS 2, CSS 2.1, HTML 4.01, XSLT 1.0 as well as DOM 2 reference and others.

@@ -6,6 +6,7 @@ slug = "week-10-tractors"
 tags = ['general','weeknotes']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2020/12/2020-12-15-week-10-tractors-comments.csv"
 +++
 
 - We are nearly at the Christmas holidays! Come on people, you can make it!

@@ -6,6 +6,7 @@ slug = "textile-your-textareas-with-greasemonkey"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/03/2005-03-11-textile-your-textareas-with-greasemonkey-comments.csv"
 +++
 
 First of all, the link to the script: [Textile your textareas with pure JavaScript](http://philwilson.org/code/greasemonkey/textile.user.js).

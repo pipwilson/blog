@@ -6,6 +6,7 @@ slug = "no-comments-for-old-rope"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/05/2004-05-13-no-comments-for-old-rope-comments.csv"
 +++
 
 Given:

@@ -6,6 +6,7 @@ slug = "feed-splicing"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/08/2004-08-17-feed-splicing-comments.csv"
 +++
 
 I’ve been keeping my eye on [FeedBurner ](http://feedburner.com/ "Apparently, it is now one word. GoFigure.")since it came out, but I never really had a use for it. When they announced [a partnership with Flickr](http://www.burningdoor.com/feedburner/announce/feedburner_flickr_release_20040714.html) I was pretty impressed, and yesterday I finally got around to actually taking a look into splicing the atom feed for this blog together with [my flickr photos](http://flickr.com/photos/pip) (there really aren’t many, don’t get excited) to produce an RSS feed. It was very interesting.

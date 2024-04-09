@@ -6,6 +6,7 @@ slug = "moving-home-what-to-do"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/06/2005-06-01-moving-home-what-to-do-comments.csv"
 +++
 
 I’m moving house and job in the next few weeks (although I don’t actually have a job to go to yet), and so I will need to tell lots of different people about my change in contact details. Herewith, a short list, both for my own reference and in the vain hope that someone will tell me what I’ve missed 🙂

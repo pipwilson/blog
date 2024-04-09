@@ -6,6 +6,7 @@ slug = "librarieswest"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/07/2006-07-10-librarieswest-comments.csv"
 +++
 
 > [LibrariesWest](http://www.librarieswest.org.uk/) is a partnership between Bath and North East Somerset, Bristol, North Somerset. Somerset and South Gloucestershire public library services. This site offers you easy access to our combined catalogue and other online services.

@@ -6,6 +6,7 @@ slug = "dying-company-gives-dying-brand-a-chance"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/03/2004-03-31-dying-company-gives-dying-brand-a-chance-comments.csv"
 +++
 
 > AOL: New Mozilla-based Netscape 7.x coming shocker

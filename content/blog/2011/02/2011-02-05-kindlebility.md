@@ -6,6 +6,7 @@ slug = "kindlebility"
 tags = ['chrome','general','instapaper','kindle','readability']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2011/02/2011-02-05-kindlebility-comments.csv"
 +++
 
 In my attempts to find better ways of getting long-form content onto my Kindle to read offline, I’ve mainly been using two tools: [Instapaper](http://www.instapaper.com/) and [the Later On Kindle Chrome extension](https://chrome.google.com/extensions/detail/ncpgbjikhdoedlilphcppnglbipboglf).

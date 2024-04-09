@@ -6,6 +6,7 @@ slug = "search-your-gmail-in-firefox"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/12/2004-12-01-search-your-gmail-in-firefox-comments.csv"
 +++
 
 <script type="text/javascript">

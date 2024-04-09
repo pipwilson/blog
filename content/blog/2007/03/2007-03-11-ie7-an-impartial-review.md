@@ -6,6 +6,7 @@ slug = "ie7-an-impartial-review"
 tags = ['general','ie7','usamajility']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/03/2007-03-11-ie7-an-impartial-review-comments.csv"
 +++
 
 My wife is a computer pragmatist. She’s tech-literate, and thinks [that Linux and Firefox can fuck off](http://philwilson.org/blog/2004/07/mozilla-can-fuck-off.html) because they’ll stop her from using the applications and websites she wants to.

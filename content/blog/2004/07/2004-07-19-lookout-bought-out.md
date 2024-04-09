@@ -6,6 +6,7 @@ slug = "lookout-bought-out"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/07/2004-07-19-lookout-bought-out-comments.csv"
 +++
 
 This was actually announced last week, but doesn’t seem to have been picked up quite as much as I thought it would have.

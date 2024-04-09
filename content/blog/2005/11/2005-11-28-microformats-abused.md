@@ -6,6 +6,7 @@ slug = "microformats-abused"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/11/2005-11-28-microformats-abused-comments.csv"
 +++
 
 The output from [Person Finder](http://www.bath.ac.uk/contact), the [University of Bath](http://www.bath.ac.uk/)‘s staff and student directory is now marked up with [hCard](http://microformats.org/wiki/hCard). For example, [check out my entry](http://www.bath.ac.uk/person/819130 "Phil Wilson on Person Finder, University of Bath"). The amount of information available to people accessing the service from within the University’s network is far greater, and that is also all marked up appropriately. I think that’s at least 12,000 new hCards.

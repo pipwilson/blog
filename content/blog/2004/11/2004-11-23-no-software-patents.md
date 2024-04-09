@@ -6,6 +6,7 @@ slug = "no-software-patents"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/11/2004-11-23-no-software-patents-comments.csv"
 +++
 
 [![nosoftwarepatents.com banner](http://www.flickr.com/photos/1663066_27a26b801d_m.jpg)](http://www.nosoftwarepatents.com "No Software Patents")

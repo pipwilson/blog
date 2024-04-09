@@ -6,6 +6,7 @@ slug = "things-i-want-to-do-in-2008"
 tags = ['general','todo']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/02/2008-02-24-things-i-want-to-do-in-2008-comments.csv"
 +++
 
 - write a new open source application, however small

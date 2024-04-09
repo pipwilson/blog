@@ -6,6 +6,7 @@ slug = "pentaho-problems"
 tags = ['general','usamajility','whining']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2018/06/2018-06-07-pentaho-problems-comments.csv"
 +++
 
 I am finding myself using a lot of [Pentaho Data Integration](https://help.pentaho.com/Documentation/8.0/Products/Data_Integration/Data_Integration_Perspective/010) at the moment.

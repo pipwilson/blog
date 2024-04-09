@@ -6,6 +6,7 @@ slug = "configuring-the-vs-code-integrated-terminal-to-use-bash-instead-of-cmd-e
 tags = ['bash','general','linux','vscode','windows']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2017/05/2017-05-16-configuring-the-vs-code-integrated-terminal-to-use-bash-instead-of-cmd-exe-on-windows-comments.csv"
 +++
 
 [Visual Studio](https://code.visualstudio.com/) has an [integrated terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) and by default on Windows this loads cmd.exe – the standard, and fairly rubbish Windows command prompt.

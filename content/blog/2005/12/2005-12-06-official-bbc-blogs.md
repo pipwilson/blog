@@ -6,6 +6,7 @@ slug = "official-bbc-blogs"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/12/2005-12-06-official-bbc-blogs-comments.csv"
 +++
 
 The BBC has been playing with blogs, on and off, for the last couple of years. There was even an official [Scotblog](http://www.bbc.co.uk/scotland/webguide/scotblog/) but that seemed to come to an end in November 2004. There have been any number of articles which resemble weblogs, where new content is added to the top of an article to display breaking news, such as the [reports from Iraq](http://news.bbc.co.uk/2/hi/in_depth/2866547.stm) and even weekly posts such as [From the Editor’s Desktop](http://news.bbc.co.uk/2/hi/uk_news/magazine/4364186.stm) (now sadly defunct). As Pete Clifton said in one of his <acronym title="From the Editor's Desktop">FtED</acronym> columns, they’ve tried to hold off calling something a weblog unless it was powered by proper weblog software, either bought or home-grown, and deployable at any place within the BBC News site.

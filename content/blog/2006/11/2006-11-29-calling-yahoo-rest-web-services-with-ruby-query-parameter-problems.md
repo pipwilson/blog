@@ -6,6 +6,7 @@ slug = "calling-yahoo-rest-web-services-with-ruby-query-parameter-problems"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/11/2006-11-29-calling-yahoo-rest-web-services-with-ruby-query-parameter-problems-comments.csv"
 +++
 
 <ins datetime="2006-11-29T15:21:21Z"></ins>

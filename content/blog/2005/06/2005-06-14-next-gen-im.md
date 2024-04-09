@@ -6,6 +6,7 @@ slug = "next-gen-im"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/06/2005-06-14-next-gen-im-comments.csv"
 +++
 
 Instant messengers with bluetooth detection facilities. That’s where it’s at, man.

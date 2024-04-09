@@ -6,6 +6,7 @@ slug = "java-library-for-handling-atom-10"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/02/2006-02-02-java-library-for-handling-atom-1-0-comments.csv"
 +++
 
 [Rome](https://rome.dev.java.net/) 0.8 came out this morning, and now has support for Atom 1.0, rather timely given [my current work](http://philwilson.org/blog/2006/01/running-cms-on-atom.html)! You can download it from [the Rome releases page](https://rome.dev.java.net/source/browse/rome/www/dist/).

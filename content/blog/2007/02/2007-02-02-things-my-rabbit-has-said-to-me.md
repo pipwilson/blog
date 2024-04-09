@@ -6,6 +6,7 @@ slug = "things-my-rabbit-has-said-to-me"
 tags = ['general','nabaztag']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/02/2007-02-02-things-my-rabbit-has-said-to-me-comments.csv"
 +++
 
 My rabbit’s been chatting merrily away now that [his chat form](http://philwilson.org/rabbit/) is up. Some highlights from the past few weeks:

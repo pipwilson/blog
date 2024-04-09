@@ -6,6 +6,7 @@ slug = "raspberry-pi-my-media-centre-at-last"
 tags = ['bbc','general','raspberrypi','xbmc']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2012/09/2012-09-14-raspberry-pi-my-media-centre-at-last-comments.csv"
 +++
 
 [![my raspberry pi is here](http://farm9.staticflickr.com/8180/7955114660_db528b2e4b_n.jpg)](http://www.flickr.com/photos/pip/7955114660/ "my raspberry pi is here by Pip, on Flickr")

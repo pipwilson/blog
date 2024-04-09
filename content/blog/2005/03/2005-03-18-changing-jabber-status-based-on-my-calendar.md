@@ -6,6 +6,7 @@ slug = "changing-jabber-status-based-on-my-calendar"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/03/2005-03-18-changing-jabber-status-based-on-my-calendar-comments.csv"
 +++
 
 [Eileen Brown writes about the new Office Communicator](http://blogs.msdn.com/Eileen_Brown/archive/2005/03/15/396059.aspx):

@@ -6,6 +6,7 @@ slug = "mouse-gestures-for-real-on-the-nintendo-ds-browser"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/05/2006-05-10-mouse-gestures-for-real-on-the-nintendo-ds-browser-comments.csv"
 +++
 
 I love using the [Optimoz mouse gestures extension for Firefox](http://optimoz.mozdev.org/gestures/): hold down the right-mouse button and drag left or right to move backwards or forwards in your browsing history. There are also other motions for other actions, but back and forward are about 99% of my usage.

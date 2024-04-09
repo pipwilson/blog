@@ -6,6 +6,7 @@ slug = "the-sunday-post"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/04/2004-04-04-the-sunday-post-comments.csv"
 +++
 
 G says that there are never any posts on a Sunday, so here’s one just for him (late in the day as it may be).

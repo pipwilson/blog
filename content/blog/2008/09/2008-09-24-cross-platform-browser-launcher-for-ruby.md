@@ -6,6 +6,7 @@ slug = "cross-platform-browser-launcher-for-ruby"
 tags = ['general','ruby python']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/09/2008-09-24-cross-platform-browser-launcher-for-ruby-comments.csv"
 +++
 
 In Python, you can do this:

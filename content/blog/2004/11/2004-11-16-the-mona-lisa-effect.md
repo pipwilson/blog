@@ -6,6 +6,7 @@ slug = "the-mona-lisa-effect"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/11/2004-11-16-the-mona-lisa-effect-comments.csv"
 +++
 
 The Guardian recently published [an article about the Mona Lisa](http://www.guardian.co.uk/arts/features/story/0,11710,1330413,00.html), saying how more people go to see it so that they can say that they’ve seen it rather than see it because they want to actually appreciate it as a piece of art.

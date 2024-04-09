@@ -6,6 +6,7 @@ slug = "buying-music-is-fun-and-exciting"
 tags = ['drm','last.fm','mp3','mp3']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/06/2007-06-11-buying-music-is-fun-and-exciting-comments.csv"
 +++
 
 ![LastGraph '05](http://farm1.static.flickr.com/203/524889523_4c8d54fc34_m.jpg)  

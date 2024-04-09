@@ -6,6 +6,7 @@ slug = "life-changing"
 tags = ['baby','daniel','general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2009/11/2009-11-08-life-changing-comments.csv"
 +++
 
 Three months ago my first son, Daniel was born.

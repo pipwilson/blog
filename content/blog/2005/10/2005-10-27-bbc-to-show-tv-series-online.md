@@ -6,6 +6,7 @@ slug = "bbc-to-show-tv-series-online"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/10/2005-10-27-bbc-to-show-tv-series-online-comments.csv"
 +++
 
 > THE THICK OF IT  

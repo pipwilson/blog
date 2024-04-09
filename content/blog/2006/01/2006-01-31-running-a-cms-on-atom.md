@@ -6,6 +6,7 @@ slug = "running-a-cms-on-atom"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/01/2006-01-31-running-a-cms-on-atom-comments.csv"
 +++
 
 At work I have the need to very quickly design and roll out an insanely basic CMS for a website.

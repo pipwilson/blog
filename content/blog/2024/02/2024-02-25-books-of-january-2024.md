@@ -6,6 +6,7 @@ slug = "books-of-january-2024"
 tags = ['books','general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2024/02/2024-02-25-books-of-january-2024-comments.csv"
 +++
 
 First in what is likely to be a short-lived series.

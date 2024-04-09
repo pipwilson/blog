@@ -6,6 +6,7 @@ slug = "internet-explorer-7-beta-2"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/01/2006-01-31-internet-explorer-7-beta-2-comments.csv"
 +++
 
 IE7 beta 2 is out, and all the MS bloggers are pimping it, so I thought I’d actually check out the site (I might install it at work, but there’s no chance I’m installing it at home).

@@ -6,6 +6,7 @@ slug = "week-34-sunshine"
 tags = ['general','weeknotes']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2021/06/2021-06-24-week-34-sunshine-comments.csv"
 +++
 
 - It has been hot and sunny! Hurrah! At last a break from the rain and cold and a chance to get outside, take a deep breath and relax.

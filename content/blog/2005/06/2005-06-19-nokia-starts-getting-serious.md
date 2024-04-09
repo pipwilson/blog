@@ -6,6 +6,7 @@ slug = "nokia-starts-getting-serious"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/06/2005-06-19-nokia-starts-getting-serious-comments.csv"
 +++
 
 With the recent announcements of the [N91](http://www.nokia.com/nseries/index.html?loc=inside,main_n91 "Dire, dire flash-based website") and the [770](http://www.nokia.com/nokia/0,,74866,00.html), Nokia have shown that they’re not kidding around. They’re not in this to sell phones, they’re in this to sell mobile digital devices. It’s tempting to say “mini-PCs”, but we’re probably not quite there yet.

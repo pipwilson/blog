@@ -6,6 +6,7 @@ slug = "flickr-tastic"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/12/2004-12-18-flickr-tastic-comments.csv"
 +++
 
 If you’ve not used [Flickr](http://www.flickr.com) yet, do. [It’s brilliant](http://flickrsucks.com/).

@@ -6,6 +6,7 @@ slug = "holidays-are-relaxing-dangerous"
 tags = ['coincidence','general','holiday']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/07/2007-07-01-holidays-are-relaxing-dangerous-comments.csv"
 +++
 
 Going on holiday is a bad idea. A recent rundown:

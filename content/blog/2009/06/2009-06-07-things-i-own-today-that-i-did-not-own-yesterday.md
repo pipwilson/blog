@@ -6,6 +6,7 @@ slug = "things-i-own-today-that-i-did-not-own-yesterday"
 tags = ['garden','general','house']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2009/06/2009-06-07-things-i-own-today-that-i-did-not-own-yesterday-comments.csv"
 +++
 
 - 38cm Black and Decker rotary lawnmower

@@ -6,6 +6,7 @@ slug = "accesskeys-that-arent"
 tags = ['accessibility','email','general','usamajility']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2007/08/2007-08-31-accesskeys-that-arent-comments.csv"
 +++
 
 My work webmail is provided by [IMP](http://www.horde.org/imp/).

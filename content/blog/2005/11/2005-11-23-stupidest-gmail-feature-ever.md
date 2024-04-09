@@ -6,6 +6,7 @@ slug = "stupidest-gmail-feature-ever"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/11/2005-11-23-stupidest-gmail-feature-ever-comments.csv"
 +++
 
 Months and months ago there was some commotion amongst Gmail users because suddenly they could choose their “from:” address when sending mails. Excellent! This would make replying to mailing lists much easier!

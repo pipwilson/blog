@@ -6,6 +6,7 @@ slug = "symbian-to-go-open-source"
 tags = ['general','mobile','nokia','opensource','symbian','ui']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2008/06/2008-06-24-symbian-to-go-open-source-comments.csv"
 +++
 
 Nokia have said that once [they own the controlling stake](http://www.nokia.com/A4136001?newsid=1230415) (or all) of [Symbian](http://en.wikipedia.org/wiki/Symbian), they’ll [make it open source](http://www.nokia.com/A4136001?newsid=1230416) within two years under [the Eclipse license](http://www.eclipse.org/legal/epl-v10.html) (see [the white paper](http://symbianfoundation.org/files/WhitePaper.pdf) for more details, PDF).

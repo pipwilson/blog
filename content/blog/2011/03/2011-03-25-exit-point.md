@@ -6,6 +6,7 @@ slug = "exit-point"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2011/03/2011-03-25-exit-point-comments.csv"
 +++
 
 It was [twitter](http://twitter.com)‘s fifth birthday last week, which means that [I’ve been there](http://twitter.com/pip) for almost five years now.

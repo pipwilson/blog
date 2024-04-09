@@ -6,6 +6,7 @@ slug = "chrome-learnings"
 tags = ['chrome','general','reddit']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2011/03/2011-03-30-chrome-learnings-comments.csv"
 +++
 
 Things I have learned from the [AMA](http://www.reddit.com/r/iama) with [three Chrome devs](http://www.reddit.com/r/IAmA/comments/gdyun/iama_we_are_three_members_of_the_google_chrome/):

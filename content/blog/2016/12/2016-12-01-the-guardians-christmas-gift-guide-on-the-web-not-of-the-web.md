@@ -6,6 +6,7 @@ slug = "the-guardians-christmas-gift-guide-on-the-web-not-of-the-web"
 tags = ['general','theguardian']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2016/12/2016-12-01-the-guardians-christmas-gift-guide-on-the-web-not-of-the-web-comments.csv"
 +++
 
 Congratulations to The Guardian for making me write a blog post.

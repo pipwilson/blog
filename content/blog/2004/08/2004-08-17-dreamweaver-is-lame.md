@@ -6,6 +6,7 @@ slug = "dreamweaver-is-lame"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/08/2004-08-17-dreamweaver-is-lame-comments.csv"
 +++
 
 I don’t have a problem with the code it generates (because it’s driven by what I give it as templates and I work in code view anyway) but the application itself is the most unstable I’ve ever used on my work machine. I think it’s the only app I use which actually crashes. The error messages are poor at best, the preview screen doesn’t refresh properly and sometimes breaks so badly that you have to restart the entire app! I can honestly say that it’s the most amateur-feeling application of all the professional, commercial software that I currently use.

@@ -6,6 +6,7 @@ slug = "no-more-newsgator-no-google-reader-api"
 tags = ['general','newsgator','syndication']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2009/08/2009-08-09-no-more-newsgator-no-google-reader-api-comments.csv"
 +++
 
 So everyone heard earlier this week that [NewsGator is shutting down their aggregator synchronising service and getting everyone to switch to Google Reader](http://blogs.newsgator.com/daily/2009/07/newsgator-consumer-rss-reader-product-changes-google-sync.html "http://blogs.newsgator.com/daily/2009/07/newsgator-consumer-rss-reader-product-changes-google-sync.html (http://blogs.newsgator.com/daily/2009/07/newsgator-consumer-rss-reader-product-changes-google-sync.html)").

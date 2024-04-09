@@ -6,6 +6,7 @@ slug = "pdf-reading-and-cocomment-starts-being-useful"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/07/2006-07-20-pdf-reading-and-cocomment-starts-being-useful-comments.csv"
 +++
 
 It’s really nice to see [Foxit PDF Reader](http://www.foxitsoftware.com/pdf/rd_intro.php "Foxit PDF Reader") get a bit more recognition ([this article about it](http://www.uneasysilence.com/archive/2006/07/7056/ "Foxit PDF Reader") is on front page of [Digg](http://www.digg.com/), no matter how briefly). I’ve been using it for a few years now, and there’s now way I’d move back to Adobe Reader now. It doesn’t require a proper installation – it’s just an .exe that runs. Foxit loads really quickly and I’ve never come across a PDF that it can’t read, I definitely recommend it.

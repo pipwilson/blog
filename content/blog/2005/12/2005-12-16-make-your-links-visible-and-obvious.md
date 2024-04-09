@@ -6,6 +6,7 @@ slug = "make-your-links-visible-and-obvious"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/12/2005-12-16-make-your-links-visible-and-obvious-comments.csv"
 +++
 
 [![](http://philwilson.org/images/xfn.png)](http://tantek.com/log/2005/12.html#d15t2245)  

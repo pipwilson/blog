@@ -6,6 +6,7 @@ slug = "dear-gmail"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/08/2005-08-24-dear-gmail-comments.csv"
 +++
 
 Any mail I receive that only contains Russian characters is spam. Ditto for Asian languages.

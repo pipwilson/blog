@@ -6,6 +6,7 @@ slug = "enhancing-firefox-gui-usability"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/11/2004-11-29-enhancing-firefox-gui-usability-comments.csv"
 +++
 
 <ins datetime="2005-06-15T21:41:30Z"></ins>

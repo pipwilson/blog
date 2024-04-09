@@ -6,6 +6,7 @@ slug = "how-curious-are-humans"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2009/07/2009-07-27-how-curious-are-humans-comments.csv"
 +++
 
 I’m reasonably confident that at some unspecified point in the future we’ll tear the Universe in two.

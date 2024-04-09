@@ -6,6 +6,7 @@ slug = "upgrade-nokia-n95-to-v20-firmware"
 tags = ['general','mobile','n95','nokia']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/02/2008-02-25-upgrade-nokia-n95-to-v20-firmware-comments.csv"
 +++
 
 After [waiting for ages](http://philwilson.org/blog/2007/11/nokia-n95-assessment), I have just upgraded my [3](http://www.three.co.uk)-branded N95 (3 are a UK provider) to an unbranded v20 firmware. I think this means I’ve lost some of the [X-Series](http://en.wikipedia.org/wiki/X-Series) stuff that 3 bundled, but I never used any of it, so I don’t really care.

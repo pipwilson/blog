@@ -6,6 +6,7 @@ slug = "why-poll-for-changes"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/01/2006-01-17-why-poll-for-changes-comments.csv"
 +++
 
 Two things I’ve come across today have talked about the integration of external RSS feeds into a site or application: [SniffingGlu and user control of syndication](http://www.bath.ac.uk/dacs/cdntl/pMachine/morriblog_comments.php?id=499_0_4_0_C) and [Synchronizing REST Resources With Asynchronous Notification: A Practical Proposal](http://www.commerce.net/wiki/Synchronizing_REST_Resources_With_Asynchronous_Notification:_A_Practical_Proposal). The first is focussed on things like making it easy for users to roll their own version of [SuprGlu](http://www.suprglu.com/) ([my glu](http://pip.suprglu.com/), if you missed it before), the second says:

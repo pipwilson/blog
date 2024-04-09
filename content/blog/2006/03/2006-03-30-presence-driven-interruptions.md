@@ -6,6 +6,7 @@ slug = "presence-driven-interruptions"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/03/2006-03-30-presence-driven-interruptions-comments.csv"
 +++
 
 As well as only being interrupted at regular, predictable times, I want any interrupt-driven tools (like aggregator and email toaster alerts) to respect my calendar and presence status. In fact, it should be possible to drive my presence status from my calendar.

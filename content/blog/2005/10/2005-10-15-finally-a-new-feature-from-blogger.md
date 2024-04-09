@@ -6,6 +6,7 @@ slug = "finally-a-new-feature-from-blogger"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/10/2005-10-15-finally-a-new-feature-from-blogger-comments.csv"
 +++
 
 ![Blogger Backlinks](http://kbimages.blogspot.com/backlinks1.jpg "Blogger Backlinks")

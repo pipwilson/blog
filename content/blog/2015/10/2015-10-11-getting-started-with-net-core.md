@@ -6,6 +6,7 @@ slug = "getting-started-with-net-core"
 tags = ['.net','coding','general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2015/10/2015-10-11-getting-started-with-net-core-comments.csv"
 +++
 
 It’s been a few years since I last used .net so I thought I’d give it a go. It was slightly more eventful 30 minutes than I’d have liked, so I thought I’d write it up.

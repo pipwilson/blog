@@ -6,6 +6,7 @@ slug = "downloading-a-udemy-course"
 tags = ['general','go','udemy']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2018/05/2018-05-27-downloading-a-udemy-course-comments.csv"
 +++
 
 I have bought [Go: The Complete Developer’s Guide on Udemy](https://www.udemy.com/go-the-complete-developers-guide/). It’s been a good intro so far, but there are more than 90 videos, and I’d quite like to do some each day at work, where streaming video isn’t always allowed.

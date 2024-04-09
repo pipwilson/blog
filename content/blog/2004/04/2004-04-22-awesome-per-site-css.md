@@ -6,6 +6,7 @@ slug = "awesome-per-site-css"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/04/2004-04-22-awesome-per-site-css-comments.csv"
 +++
 
 The [URIid extension](http://extensionroom.mozdev.org/more-info/uriid) for Mozilla and Firefox ([via asa](http://weblogs.mozillazine.org/asa/archives/005312.html)) lets you assign per-site CSS styles.

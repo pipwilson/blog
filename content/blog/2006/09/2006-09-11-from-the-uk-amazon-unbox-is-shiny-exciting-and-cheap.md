@@ -6,6 +6,7 @@ slug = "from-the-uk-amazon-unbox-is-shiny-exciting-and-cheap"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/09/2006-09-11-from-the-uk-amazon-unbox-is-shiny-exciting-and-cheap-comments.csv"
 +++
 
 ![A DVD](http://philwilson.org/images/cd.jpg)

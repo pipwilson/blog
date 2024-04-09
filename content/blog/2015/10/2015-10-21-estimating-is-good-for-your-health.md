@@ -6,6 +6,7 @@ slug = "estimating-is-good-for-your-health"
 tags = ['agile','general','scrum']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2015/10/2015-10-21-estimating-is-good-for-your-health-comments.csv"
 +++
 
 Matt Jukes has written a post called<span class="Apple-converted-space"> </span>[Don’t do Agile. Be agile. Or something.](http://digitalbydefault.com/2015/10/21/dont-do-agile-be-agile-or-something/)<span class="Apple-converted-space"> </span>where he describes how estimating stories has not worked for them at the Office of National Statistics.

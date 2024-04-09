@@ -6,6 +6,7 @@ slug = "newsreaders-in-firefox"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/07/2004-07-14-newsreaders-in-firefox-comments.csv"
 +++
 
 [Sage](http://sage.mozdev.org/) is an aggregator extension for Firefox. It’s the spiritual successor to [the original RSS Reader Panel](http://fls.moo.jp/moz/rssreader.html). It’s also very good.

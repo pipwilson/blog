@@ -6,6 +6,7 @@ slug = "firefox-and-banks"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/02/2005-02-09-firefox-and-banks-comments.csv"
 +++
 
 At some time in the distant past my Dad worked for [Playboy](http://www.playboy.com) Casinos and recently he heard that there was going to be some kind of reunion for ex-staff, but not knowing any details he decided to look it up on the internet (where he uses Internet Explorer). The first thing he did was to type ‘Playboy’ into Google. You can imagine the rest of his day, closing popup after popup whilst trying to find the right site. In the end the popups won – they were appearing faster than he could close them so he gave up, turned the computer off and didn’t bother looking again.

@@ -6,6 +6,7 @@ slug = "dashboard-and-jabber"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/04/2004-04-20-dashboard-and-jabber-comments.csv"
 +++
 
 > In the Dashboard architecture, cluepackets are used to send messages between front and back-end applications. Now what if there was a way to tunnel cluepackets through Jabber? Has someone explored this already?

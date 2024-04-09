@@ -6,6 +6,7 @@ slug = "firefox-poster"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/09/2004-09-18-firefox-poster-comments.csv"
 +++
 
 [![](http://www.flickr.com/photos/279664_m.jpg)](http://www.flickr.com/photo.gne?id=279664)

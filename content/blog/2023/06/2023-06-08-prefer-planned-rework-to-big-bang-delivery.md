@@ -6,6 +6,7 @@ slug = "prefer-planned-rework-to-big-bang-delivery"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2023/06/2023-06-08-prefer-planned-rework-to-big-bang-delivery-comments.csv"
 +++
 
 We have a few large projects on at work to replace key legacy systems and are discussing how to do that.

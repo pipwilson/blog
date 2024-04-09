@@ -6,6 +6,7 @@ slug = "jabber-presence-for-my-phone-calls"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/07/2004-07-25-jabber-presence-for-my-phone-calls-comments.csv"
 +++
 
 I’ve got a Bluetooth-enabled phone, and a Bluetooth-enabled computer. I’m online and I’m using Jabber. Except I’ve set my status to “Do Not Disturb” – when I do, it’s not for fun, there’s a reason, so it’s pretty annoying when my phone then rings or bleeps and vibrates to let me know I’ve got a message. *I don’t care about messages – I’m busy.*

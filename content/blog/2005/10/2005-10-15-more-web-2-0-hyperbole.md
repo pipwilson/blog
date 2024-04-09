@@ -6,6 +6,7 @@ slug = "more-web-20-hyperbole"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/10/2005-10-15-more-web-2-0-hyperbole-comments.csv"
 +++
 
 [Sphere](http://www.sphere.com) is yet another [over-hyped](http://www.techcrunch.com/2005/10/14/first-screen-shot-of-sphere/) vapourware – sorry, stealth-mode – “Web 2.0” company.

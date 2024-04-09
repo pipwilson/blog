@@ -6,6 +6,7 @@ slug = "university-of-bath-hcalendar-usage"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/05/2006-05-03-university-of-bath-hcalendar-usage-comments.csv"
 +++
 
 After a bit of discussion with a chap at work, individual items featured at the [University of Bath’s What’s On](http://www.bath.ac.uk/whats-on/ "What's on") now sport [hCalendar](http://microformats.org/wiki/hcalendar) in their markup.

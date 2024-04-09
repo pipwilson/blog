@@ -6,6 +6,7 @@ slug = "resources-for-writing-a-wxwidgets-xmpp-aware-python-aggregator"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/03/2006-03-31-resources-for-writing-a-wxwidgets-xmpp-aware-python-aggregator-comments.csv"
 +++
 
 From scratch:

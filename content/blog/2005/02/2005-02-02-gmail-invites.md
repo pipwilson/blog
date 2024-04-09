@@ -6,6 +6,7 @@ slug = "gmail-invites"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/02/2005-02-02-gmail-invites-comments.csv"
 +++
 
 [![](http://photos1.flickr.com/4143923_6c02a9051c_m.jpg)](http://www.flickr.com/photos/pip/4143923/)

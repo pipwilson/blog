@@ -6,6 +6,7 @@ slug = "working-with-android"
 tags = ['android','general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2020/09/2020-09-24-working-with-android-comments.csv"
 +++
 
 Over the last ten years I’ve made a few toy Android apps, mainly to see if I can, but sometimes to scratch an itch.

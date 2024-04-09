@@ -6,6 +6,7 @@ slug = "the-merits-of-a-bug-database"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2012/11/2012-11-06-the-merits-of-a-bug-database-comments.csv"
 +++
 
 [![Ladybug lost in Echinops Ritro](http://farm7.staticflickr.com/6080/6045026195_b682c44475_n.jpg)](http://www.flickr.com/photos/adulau/6045026195/ "Ladybug lost in Echinops Ritro by Alexandre Dulaunoy, on Flickr")

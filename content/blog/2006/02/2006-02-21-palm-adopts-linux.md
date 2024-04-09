@@ -6,6 +6,7 @@ slug = "palm-adopts-linux"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/02/2006-02-21-palm-adopts-linux-comments.csv"
 +++
 
 Not that PalmSource aren’t entirely dead anyway, but they recently announced a “commercial-grade Linux-based platform designed for smartphones and mobile devices” called the ACCESS Linux Platform (ACCESS being the Japanese firm which bought PalmSource in December 05).

@@ -6,6 +6,7 @@ slug = "jabber-irc-gateway"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/06/2004-06-16-jabber-irc-gateway-comments.csv"
 +++
 
 About six months ago I spent some time poking around the Internet for an IRC library which could be used over Jabber (maybe providing either a chatroom or a gateway component, whatever), but drew a blank. I looked at [Martyr](http://martyr.sourceforge.net/ "A Java IRC Library") briefly to see if I could write one myself, but in all honesty it sounded like too much hard work for something I wouldn’t really use (I’m very rarely on IRC).

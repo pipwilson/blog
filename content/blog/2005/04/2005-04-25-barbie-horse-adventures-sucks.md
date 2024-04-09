@@ -6,6 +6,7 @@ slug = "barbie-horse-adventures-sucks"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/04/2005-04-25-barbie-horse-adventures-sucks-comments.csv"
 +++
 
 [![Barbie Horse Adventures sucks](http://photos6.flickr.com/10930895_2e7b21b8bf_m.jpg)](http://www.flickr.com/photos/pip/10930895/)

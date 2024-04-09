@@ -6,6 +6,7 @@ slug = "local-wifi-networks-and-messageboards"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/09/2005-09-17-local-wifi-networks-and-messageboards-comments.csv"
 +++
 
 I live in an apartment block. My last home was also in an apartment block. Before that, a house for a year, but for the two years previous to that, I lived in an apartment block. Our noticeboard is very small, and covered in messages from the owners of the building.

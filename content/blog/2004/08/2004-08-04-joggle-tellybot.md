@@ -6,6 +6,7 @@ slug = "joggle-tellybot"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/08/2004-08-04-joggle-tellybot-comments.csv"
 +++
 
 I keep putting off writing about it, but here’s a spare five minutes I prepared earlier.

@@ -6,6 +6,7 @@ slug = "technoratis-attentionxml"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/12/2004-12-26-technoratis-attention-xml-comments.csv"
 +++
 
 I’m sure they mean well. [But really.](http://developers.technorati.com/wiki/attentionxml)

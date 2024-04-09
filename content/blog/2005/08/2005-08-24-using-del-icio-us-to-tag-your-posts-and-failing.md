@@ -6,6 +6,7 @@ slug = "using-delicious-to-tag-your-posts-and-failing"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/08/2005-08-24-using-del-icio-us-to-tag-your-posts-and-failing-comments.csv"
 +++
 
 Yes, [Tom Coates](http://www.plasticbag.org) and [Ben Hammersley](http://www.benhammersley.com), I’m talking to you.

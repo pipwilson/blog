@@ -6,6 +6,7 @@ slug = "criticising-atom"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/08/2004-08-19-criticising-atom-comments.csv"
 +++
 
 I always feel really bad when I criticise Atom, here are people using their own time (and time is money) to drive a project they think is worth it. I think it’s worth it too. I think [Mark Pilgrim](http://diveintomark.org/) [summed it up quite neatly yesterday](http://www.xml.com/pub/a/2004/08/18/pilgrim.html) <q cite="http://www.xml.com/pub/a/2004/08/18/pilgrim.html">Really Simple Syndication is really only simple if you’re doing it incorrectly</q> and a usable alternative would just be *so* good to have.

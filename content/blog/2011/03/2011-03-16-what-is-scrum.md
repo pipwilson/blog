@@ -6,6 +6,7 @@ slug = "what-is-scrum"
 tags = ['agile','general','scrum']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2011/03/2011-03-16-what-is-scrum-comments.csv"
 +++
 
 A first-pass set of definitions, in increasing order of cynicism:

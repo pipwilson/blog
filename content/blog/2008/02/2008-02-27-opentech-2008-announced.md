@@ -6,6 +6,7 @@ slug = "opentech-2008-announced"
 tags = ['general','opentech']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/02/2008-02-27-opentech-2008-announced-comments.csv"
 +++
 
 [OpenTech 2008 has been announced!](http://www.ukuug.org/events/opentech2008/)

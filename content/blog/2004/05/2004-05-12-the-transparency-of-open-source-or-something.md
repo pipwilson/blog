@@ -6,6 +6,7 @@ slug = "the-transparency-of-open-source-or-something"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/05/2004-05-12-the-transparency-of-open-source-or-something-comments.csv"
 +++
 
 Mozilla 1.7 RC1 now has [Support for the CSS3 opacity property](<Support for the CSS3 opacity property.>). (via [web-graphics](http://web-graphics.com/mtarchive/001210.php)).

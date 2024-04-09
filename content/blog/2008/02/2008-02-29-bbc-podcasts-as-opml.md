@@ -6,6 +6,7 @@ slug = "bbc-podcasts-as-opml"
 tags = ['general','mp3 syndication']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/02/2008-02-29-bbc-podcasts-as-opml-comments.csv"
 +++
 
 The BBC make all of their podcast programme information [available as an XML file](http://downloads.bbc.co.uk/podcasts/ppg.xml).

@@ -6,6 +6,7 @@ slug = "what-is-legible-text"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/05/2004-05-24-what-is-legible-text-comments.csv"
 +++
 
 One of the many sites I read linked to [findability.org](http://www.findability.org/faq.php) today. The thing is, whilst the people behind it may know a lot about findability, I’ll never know because I can’t read their site. A nice light-grey text on a white background gives me so much trouble that I just won’t read it. I *could* spend some time [customising their site with my own CSS](http://philwilson.org/blog/2004/04/awesome-per-site-css.html), but frankly, it’s more effort than it’s worth. My time is valuable, and if you’re not going to design yore site in such a way that I can read and navigate it effortlessly, then not only am I not going to stay on your site, I’m not even going to skim read it (other than to look for a style switcher).

@@ -6,6 +6,7 @@ slug = "a-writers-tale"
 tags = ['copyright','general','ip','lessig']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2007/05/2007-05-21-a-writers-tale-comments.csv"
 +++
 
 > No good case exists for the inequality of real and intellectual property, because no good case can exist for treating with special disfavor the work of the spirit and the mind.

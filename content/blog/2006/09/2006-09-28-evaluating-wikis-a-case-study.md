@@ -6,6 +6,7 @@ slug = "evaluating-wikis-a-case-study"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/09/2006-09-28-evaluating-wikis-a-case-study-comments.csv"
 +++
 
 I’ll be delivering a talk on [Evaluating Wikis: A Case Study](http://www.ukoln.ac.uk/web-focus/events/workshops/wiki-workshop-2006/talks/wilson/) at the [Exploiting The Potential Of Wikis](http://www.ukoln.ac.uk/web-focus/events/workshops/wiki-workshop-2006/) workshop put on by [UKOLN](http://www.ukoln.ac.uk/) on Friday 3rd November 2006 where I’ll be giving a rundown of how we selected which wiki engine to roll out at the University of Bath.

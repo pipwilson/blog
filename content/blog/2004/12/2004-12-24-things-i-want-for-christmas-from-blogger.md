@@ -6,6 +6,7 @@ slug = "things-i-want-for-christmas-from-blogger"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/12/2004-12-24-things-i-want-for-christmas-from-blogger-comments.csv"
 +++
 
 I’ve been using Blogger to power this blog for more than two years now, and whilst the frills have become nicer, the core functionality provided hasn’t changed much in that time (except for comments! yay comments!), which indicates (to me at least) that it’s pretty good. In which case, we need better frills. Herewith some frills that I’d like:

@@ -6,6 +6,7 @@ slug = "jabber-clients-coming-to-nokia-handsets"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/02/2006-02-18-jabber-clients-coming-to-nokia-handsets-comments.csv"
 +++
 
 Well, not quite yet, but soon anyway.

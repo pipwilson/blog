@@ -6,6 +6,7 @@ slug = "plus-worries"
 tags = ['general','google chrome','google plus','identity','social networks']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2011/07/2011-07-03-plus-worries-comments.csv"
 +++
 
 So, I’m in on that whole Google+ thing, and [my experiences](http://philwilson.org/blog/2007/11/google-lockout) [of 2007](http://philwilson.org/blog/2007/11/google-be-gone) are coming back to haunt me. It’s like some kind of existential self-doubt: if my social network accounts are shut down, was I ever there? Did I ever have those memories? Did people reply to me in the way I remember? Are my social connections in the state I think they are?

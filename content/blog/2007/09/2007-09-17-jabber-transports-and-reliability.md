@@ -6,6 +6,7 @@ slug = "jabber-transports-and-reliability"
 tags = ['jabber','jabber','xmpp','xmpp']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/09/2007-09-17-jabber-transports-and-reliability-comments.csv"
 +++
 
 There is [an open letter up on the Cocinella website](http://coccinella.im/whytransportsmatter) about why IM clients which come bundled with support for multiple protocols are actually bad for interop.

@@ -6,6 +6,7 @@ slug = "bloggggggggeeeeeeeeeeerrrrrrrrrrrrrrrrrr1111"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/05/2004-05-10-bloggggggggeeeeeeeeeeerrrrrrrrrrrrrrrrrr1111-comments.csv"
 +++
 
 [Blogger](http://www.blogger.com) has [a new look](http://www.blogger.com/knowledge/2004/05/great-blogger-relaunch.pyra "The Great Blogger Relaunch").

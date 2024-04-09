@@ -6,6 +6,7 @@ slug = "moving-house-is-disrupting-my-programming"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/06/2005-06-22-moving-house-is-disrupting-my-programming-comments.csv"
 +++
 
 And very annoying it is too 🙂

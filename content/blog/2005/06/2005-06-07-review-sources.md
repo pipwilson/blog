@@ -6,6 +6,7 @@ slug = "review-sources"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/06/2005-06-07-review-sources-comments.csv"
 +++
 
 Sites where extracting review information and generating feeds would be easy:

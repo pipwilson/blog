@@ -6,6 +6,7 @@ slug = "calendaring-and-information-gathering"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/02/2005-02-16-calendaring-and-information-gathering-comments.csv"
 +++
 
 Just some stream of consciousness:

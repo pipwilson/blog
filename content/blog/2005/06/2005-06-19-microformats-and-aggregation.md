@@ -6,6 +6,7 @@ slug = "microformats-and-aggregation"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/06/2005-06-19-microformats-and-aggregation-comments.csv"
 +++
 
 I always hit a mental wall when I think about microformats.

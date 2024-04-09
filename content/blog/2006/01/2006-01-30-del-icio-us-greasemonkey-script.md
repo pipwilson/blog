@@ -6,6 +6,7 @@ slug = "delicious-greasemonkey-script"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/01/2006-01-30-del-icio-us-greasemonkey-script-comments.csv"
 +++
 
 A couple of weeks ago, [Tom Coates was moaning](http://www.plasticbag.org/archives/2006/01/a_delicious_design_gripe.shtml "A del.icio.us design gripe...") about a UI aspect of [del.icio.us](http://del.icio.us):

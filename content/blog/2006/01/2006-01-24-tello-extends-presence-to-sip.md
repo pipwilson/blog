@@ -6,6 +6,7 @@ slug = "tello-extends-presence-to-sip"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/01/2006-01-24-tello-extends-presence-to-sip-comments.csv"
 +++
 
 Presence has been gradually seeping out from IM over the past few years into other applications, notably in the XMPP/Jabber community where presence is a key (it’s the first ‘P’ in XMPP!). The benefits of using XMPP are mainly that it’s an open, documented and extensible standard which allows anyone to make use of it.

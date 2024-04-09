@@ -6,6 +6,7 @@ slug = "getting-svg-in-firefox"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2003/10/2003-10-23-getting-svg-in-firefox-comments.csv"
 +++
 
 Frustrated with not being able to use SVG in Fire<del>bird</del><ins datetime="2004-04-30T11:36:41Z">fox</ins> (especially now that [the GIMP has gone SVG](http://slashdot.org/articles/03/10/07/130202.shtml?tid=152&tid=185&tid=92) and after reading about the [Worst. Tag. Ever.](http://www.goer.org/Journal/2003/Oct/index.html#21)), I finally decided to plough through the atrocity that is BugZilla’s user interface and came across the imaginatively titled: “[Bugzilla Bug 133567: skeeter-s.com – M1RC3; Crash because Adobe SVG plugin used an unfrozen interface \[@ nsLoadGroup::GetName\] \[@ nsHttpChannel::GetName\] which changed its prototype](http://bugzilla.mozilla.org/show_bug.cgi?id=133567)”. Slowly reading through the comments it seemed there was no hope for me. Adobe had released their plugin with support for Mozilla, but against an unfrozen interface which had subsequently changed, hence, it didn’t work.

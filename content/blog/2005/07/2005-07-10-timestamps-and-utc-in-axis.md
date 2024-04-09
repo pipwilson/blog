@@ -6,6 +6,7 @@ slug = "timestamps-and-utc-in-axis"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/07/2005-07-10-timestamps-and-utc-in-axis-comments.csv"
 +++
 
 Aaron Johnson recently had some [fun with Axis / SOAP, Java and Calendar](http://cephas.net/blog/2005/07/01/fun_with_axis_soap_java_and_calendar.html), which reminded me of an issue I had on my last project – our [Axis](http://ws.apache.org/axis/)-based app had been working fine for a few months, but we came in one morning to find that all our reporting tools were telling us that the clients thought our server was an hour out.

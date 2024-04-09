@@ -6,6 +6,7 @@ slug = "review-tools"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/08/2004-08-06-review-tools-comments.csv"
 +++
 
 I’m a big fan of Alf Eaton’s forays into review tools, and [his new RVW! bookmarklet is ace](http://hublog.hubmed.org/archives/000916.html).

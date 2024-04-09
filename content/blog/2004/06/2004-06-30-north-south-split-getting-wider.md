@@ -6,6 +6,7 @@ slug = "north-south-split-getting-wider"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/06/2004-06-30-north-south-split-getting-wider-comments.csv"
 +++
 
 At least, so says [a study by Sheffield University](http://news.bbc.co.uk/1/hi/uk/3852227.stm), which goes on to say that the south “r0xx0r” and “pwnz” the north. Almost

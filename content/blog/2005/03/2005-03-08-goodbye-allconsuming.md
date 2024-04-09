@@ -6,6 +6,7 @@ slug = "goodbye-allconsuming"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/03/2005-03-08-goodbye-allconsuming-comments.csv"
 +++
 
 I’ve given up with [Allconsuming.net](http://allconsuming.net/), it’s just too slow (when it’s responding at all) and too much work to maintain my books there.

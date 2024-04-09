@@ -6,6 +6,7 @@ slug = "barcamp-bristol-was-brilliant"
 tags = ['barcamp','barcampbristol','bristol','bristol']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2007/10/2007-10-14-barcamp-bristol-was-brilliant-comments.csv"
 +++
 
 [![photo of my slot on the timetable](http://farm3.static.flickr.com/2293/1571847461_4bd39f6624_m.jpg)](http://flickr.com/photos/pip/1571847461/ "A very personal webserver, by pip")

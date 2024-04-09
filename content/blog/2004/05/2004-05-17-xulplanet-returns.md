@@ -6,6 +6,7 @@ slug = "xulplanet-returns"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/05/2004-05-17-xulplanet-returns-comments.csv"
 +++
 
 [XULPlanet has returned!](http://www.xulplanet.com/ndeakin/article/257) and thank god for that, really.

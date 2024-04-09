@@ -6,6 +6,7 @@ slug = "posting-stupidity"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/01/2005-01-08-posting-stupidity-comments.csv"
 +++
 
 About a year ago (or maybe more) I stopped using [Blogger’s](http://www.blogger.com/) web posting interface and started using [w.bloggar](http://www.wbloggar.com) because whilst writing my post I’d be looking up resources, gathering quotes etc. etc. and just every now and again my browser (whether it was IE or Firefox) would crash, leaving me with nothing.

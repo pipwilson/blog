@@ -6,6 +6,7 @@ slug = "revealing-yourself-online"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/01/2005-01-10-revealing-yourself-online-comments.csv"
 +++
 
 Isn’t it amazing just how much we reveal about ourselves on our weblogs now?

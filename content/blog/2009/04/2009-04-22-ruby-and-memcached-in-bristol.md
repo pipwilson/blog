@@ -6,6 +6,7 @@ slug = "ruby-and-memcached-in-bristol"
 tags = ['bristol','general','memcached','ruby']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2009/04/2009-04-22-ruby-and-memcached-in-bristol-comments.csv"
 +++
 
 I have rather hastily promised to do a talk about [memcached](http://code.google.com/p/memcached/) at the [Bristol Ruby User Group](http://groups.google.com/group/bristol-ruby) meetup on Thursday evening (we’ll start after 6pm at the [Jiva](http://jivatechnology.com/) offices, [see the map](http://maps.google.co.uk/maps?q=BS1%206JG), no need to know about ruby or memcached in advance!).

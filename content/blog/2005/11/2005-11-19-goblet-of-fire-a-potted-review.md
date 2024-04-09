@@ -6,6 +6,7 @@ slug = "goblet-of-fire-a-potted-review"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/11/2005-11-19-goblet-of-fire-a-potted-review-comments.csv"
 +++
 
 Or, if you like, a Potter review.

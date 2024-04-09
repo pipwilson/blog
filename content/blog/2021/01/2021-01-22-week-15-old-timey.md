@@ -6,6 +6,7 @@ slug = "week-15-old-timey"
 tags = ['general','weeknotes']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2021/01/2021-01-22-week-15-old-timey-comments.csv"
 +++
 
 - When I was about 5 I got my first ever “album”, which I saved up for by collecting tokens from boxes of Weetabix. I am delighted to see [it is listed on discogs.com](https://www.discogs.com/Various-Weetabix-Top-Trax-Dunks-Cassette-/release/2451833). I listened to it endlessly and it shaped my musical tastes for the rest of my life.

@@ -6,6 +6,7 @@ slug = "using-mysql-front-25-with-newer-mysql-versions"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/08/2005-08-14-using-mysql-front-2-5-with-newer-mysql-versions-comments.csv"
 +++
 
 Just for my own reference, because I keep forgetting the syntax and having to Google it:

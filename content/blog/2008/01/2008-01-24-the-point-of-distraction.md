@@ -6,6 +6,7 @@ slug = "the-point-of-distraction"
 tags = ['general','linux']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/01/2008-01-24-the-point-of-distraction-comments.csv"
 +++
 
 It turns out that I hate having the mouse cursor visible in my working window. I didn’t really know about this until I used a colleague’s dual-monitor machine. He has set the window focus to follow the pointer and I consistently selected the window I wanted to type in and one whoosh of the mouse later was happily typing code into Firefox.

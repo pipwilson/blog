@@ -6,6 +6,7 @@ slug = "gmail-for-blogger-ers"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/04/2004-04-21-gmail-for-blogger-ers-comments.csv"
 +++
 
 [asa pointed out](http://weblogs.mozillazine.org/asa/archives/005306.html) that some [Blogger](http://www.blogger.com) users are being given the opportunity to sign up for [GMail](http://www.gmail.com) accounts. So I logged in and voila!

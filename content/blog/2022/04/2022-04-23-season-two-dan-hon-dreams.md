@@ -6,6 +6,7 @@ slug = "season-two-dan-hon-dreams"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2022/04/2022-04-23-season-two-dan-hon-dreams-comments.csv"
 +++
 
 I don’t do newsletters, but [this is how ](https://www.robinsloan.com/notes/newsletter-seasons/)those [funky cool kids are naming their newsletters](https://youtu.be/fiOMbqPHFwo?t=28), so why not me?

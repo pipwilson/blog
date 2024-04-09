@@ -6,6 +6,7 @@ slug = "javascript-textile-previews"
 tags = ['general','javascript','textile']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/06/2004-06-30-javascript-textile-previews-comments.csv"
 +++
 
 After [my original post about it](http://philwilson.org/blog/2004/05/live-textile-comment-previews.html), it’d probably be good to point out that Jeff Minard has taken the idea and run with it, introducing

@@ -6,6 +6,7 @@ slug = "flickr-feeds"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/08/2004-08-19-flickr-feeds-comments.csv"
 +++
 
 I don’t know when they started, but Flickr provides photo feeds in both RSS 2.0 **and** Atom! Hurrah! Maybe I **should** splice my own feeds together after all?

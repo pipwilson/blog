@@ -6,6 +6,7 @@ slug = "week-13-giant-robots-double-feature"
 tags = ['general','weeknotes']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2021/01/2021-01-09-week-13-giant-robots-double-feature-comments.csv"
 +++
 
 Welcome to space year 2021! A bumper issue this week because I missed last week due to \*gestures all around\* all this.

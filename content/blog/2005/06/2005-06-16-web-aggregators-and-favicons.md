@@ -6,6 +6,7 @@ slug = "web-aggregators-and-favicons"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/06/2005-06-16-web-aggregators-and-favicons-comments.csv"
 +++
 
 One of the nicest things about Bloglines is that it uses site favicons to display the list of feeds in the left-hand frame. Very nice it looks too.

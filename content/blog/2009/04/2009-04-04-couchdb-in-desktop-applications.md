@@ -6,6 +6,7 @@ slug = "couchdb-in-desktop-applications"
 tags = ['couchdb','general','python','venus','wxvenus']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2009/04/2009-04-04-couchdb-in-desktop-applications-comments.csv"
 +++
 
 Following [my last post](http://philwilson.org/blog/2009/03/storing-feedparser-objects-in-couchdb "http://philwilson.org/blog/2009/03/storing-feedparser-objects-in-couchdb") I was considering writing a [Venus filter](http://intertwingly.net/code/venus/docs/filters.html "http://intertwingly.net/code/venus/docs/filters.html") which adds all feed items into a [CouchDB](http://couchdb.apache.org/ "http://couchdb.apache.org/") database. This could then be queried by a modified [wxVenus](http://philwilson.org/code/wxvenus/ "http://philwilson.org/code/wxvenus/") or a webapp (using the[ CouchDB jQuery library](http://plugins.jquery.com/project/jqcouch "http://plugins.jquery.com/project/jqcouch")) or whatever.

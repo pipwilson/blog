@@ -6,6 +6,7 @@ slug = "iwmw-2008-sack-your-web-services-team-now"
 tags = ['general','iwmw iwmw2008']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/07/2008-07-20-iwmw-2008-sack-your-web-services-team-now-comments.csv"
 +++
 
 Actually, please don’t do that, I’ll have to get off my bum and look for another job.

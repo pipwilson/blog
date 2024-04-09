@@ -6,6 +6,7 @@ slug = "spore-and-game-graphics"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/05/2005-05-20-spore-and-game-graphics-comments.csv"
 +++
 
 I’m not very good at writing about this kind of thing, but here goes anyway…

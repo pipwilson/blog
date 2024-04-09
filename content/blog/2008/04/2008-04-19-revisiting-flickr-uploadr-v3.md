@@ -6,6 +6,7 @@ slug = "revisiting-flickr-uploadr-v3"
 tags = ['flickr','general','thisisbroken']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2008/04/2008-04-19-revisiting-flickr-uploadr-v3-comments.csv"
 +++
 
 It just caused my entire PC to restart. I will be downgrading forthwith.

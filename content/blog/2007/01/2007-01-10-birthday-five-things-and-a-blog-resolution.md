@@ -6,6 +6,7 @@ slug = "birthday-five-things-and-a-blog-resolution"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/01/2007-01-10-birthday-five-things-and-a-blog-resolution-comments.csv"
 +++
 
 It’s my birthday today, I’m now 27, which is old. It also means I can finally get around to this “five things” meme, because I’ve been tagged by [Brian](http://ukwebfocus.wordpress.com/2006/12/20/blog-tag-5-things-you-didnt-know-about-brian-kelly/) and [Jim](http://feetup.org/blog/2006/Dec/22#five-things) (I’d love to see a networked graph of this, and to discover how many degrees of separation I am from [Sam Ruby](http://www.intertwingly.net/blog/2006/12/18/Five-Things)).

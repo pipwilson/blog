@@ -6,6 +6,7 @@ slug = "rssx-from-atom"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/04/2004-04-08-rssx-from-atom-comments.csv"
 +++
 
 [Manuzhai](http://www.manuzhai.nl/) emails to tell me that FeedDemon doesn’t actually support Atom yet, so [my last plea](http://pipthepixie.tripod.com/blog/archive/2004_04_01_blog.html#108141678369205603) is futile.

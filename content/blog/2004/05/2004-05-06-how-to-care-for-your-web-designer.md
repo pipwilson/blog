@@ -6,6 +6,7 @@ slug = "how-to-care-for-your-web-designer"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/05/2004-05-06-how-to-care-for-your-web-designer-comments.csv"
 +++
 
 > **Congratulations!** You are now the proud owner of your very own Web Designer! But now what do you do?

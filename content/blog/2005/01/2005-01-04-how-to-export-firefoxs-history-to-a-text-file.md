@@ -6,6 +6,7 @@ slug = "how-to-export-firefoxs-history-to-a-text-file"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/01/2005-01-04-how-to-export-firefoxs-history-to-a-text-file-comments.csv"
 +++
 
 <ins datetime="2006-01-07T18:52:06Z"></ins>

@@ -6,6 +6,7 @@ slug = "moving-to-jabber-in-the-workplace"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/02/2005-02-28-moving-to-jabber-in-the-workplace-comments.csv"
 +++
 
 [Jabber Journal Issue #21](http://www.jabber.org/journal/2005-02-25.shtml) is out, and with it come lots of links to Jabber servers and a link to [r.i.pienaar’s post](http://www.devco.net/archives/2005/02/22/jive_messenger.php) about [Jive Messenger](http://www.jivesoftware.org/messenger/) (a free, Java-based Jabber server).

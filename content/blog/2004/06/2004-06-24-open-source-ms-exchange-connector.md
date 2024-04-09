@@ -6,6 +6,7 @@ slug = "open-source-ms-exchange-connector"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/06/2004-06-24-open-source-ms-exchange-connector-comments.csv"
 +++
 
 I’m about a month behind the times, but on May 14th 2004 the [Novell Connector](http://www.novell.com/products/connector/) (which used to be called Evolution Connector) became open source instead of payware. This opens up the field for a whole host of Linux mail, PIM and groupware applications to start supporting MS Exchange servers (apps like [Kroupware](http://kroupware.org/), [Kontact](http://kontact.org/), and loads of Gnome stuff which I don’t know the names of).

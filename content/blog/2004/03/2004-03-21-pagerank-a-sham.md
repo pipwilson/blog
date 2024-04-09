@@ -6,6 +6,7 @@ slug = "pagerank-a-sham"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/03/2004-03-21-pagerank-a-sham-comments.csv"
 +++
 
 Finally! Google’s true technology exposed! [Pigeonrank](http://www.google.com/technology/pigeonrank.html)

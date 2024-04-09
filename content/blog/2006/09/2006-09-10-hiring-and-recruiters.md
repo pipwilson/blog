@@ -6,6 +6,7 @@ slug = "hiring-and-recruiters"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/09/2006-09-10-hiring-and-recruiters-comments.csv"
 +++
 
 The recent posts by Joel Spolsky on recruiters (you can [start here](http://www.joelonsoftware.com/items/2006/09/08.html "Sorting Resumes") and work backwards) are spot on. Recruiters seem to not only never tell you the name of the company they’re hiring for until you’ve totally confirmed that you will apply and they have to tell you the company name because you need to actually find the building for the interview, but they’re mostly clueless about the job requirements which a) the company is advertising for and b) which would meet your skillset.

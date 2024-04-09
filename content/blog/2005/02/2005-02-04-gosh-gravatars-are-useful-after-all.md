@@ -6,6 +6,7 @@ slug = "gosh-gravatars-are-useful-after-all"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/02/2005-02-04-gosh-gravatars-are-useful-after-all-comments.csv"
 +++
 
 Since the time I first saw them I’d thought that [Gravatars](http://www.gravatar.com/), [Favatars](http://www.peej.co.uk/thinking/2004/11/favatars.html) and FOAFatars (OK, I made that last one up but [this is what I mean](http://kasei.us/archives/2003/09/30/icons)) were cool, but useless. I appear to have just proved myself wrong.

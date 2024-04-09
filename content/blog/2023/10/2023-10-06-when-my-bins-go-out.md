@@ -6,6 +6,7 @@ slug = "when-my-bins-go-out"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2023/10/2023-10-06-when-my-bins-go-out-comments.csv"
 +++
 
 I had to [write some PHP](https://github.com/pipwilson/bin-collections/tree/main) to [tell me when to put out my bins](https://philwilson.org/bins/) because my council doesn’t follow their own rules for collections.

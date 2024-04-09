@@ -6,6 +6,7 @@ slug = "time-management-resolution"
 tags = ['general','management','meetings']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2023/01/2023-01-29-time-management-resolution-comments.csv"
 +++
 
 I don’t do resolutions, but I have changed how I approach something at work for this year, and so I guess that counts, right?  

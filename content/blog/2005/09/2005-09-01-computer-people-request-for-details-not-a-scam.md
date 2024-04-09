@@ -6,6 +6,7 @@ slug = "computer-people-request-for-details-not-a-scam"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/09/2005-09-01-computer-people-request-for-details-not-a-scam-comments.csv"
 +++
 
 Several months ago I made a post titled [“Request for ID – scam?”](http://philwilson.org/blog/2005/05/request-for-id-scam.html), and then [followed-up when I discovered it wasn’t](http://philwilson.org/blog/2005/06/proof-of-id-for-recruitment-agencies.html).

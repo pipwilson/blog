@@ -6,6 +6,7 @@ slug = "no-palm-phones-in-europe"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/04/2004-04-30-no-palm-phones-in-europe-comments.csv"
 +++
 
 > I just can’t understand why Nokia doesn’t have an app with similar functionality for its Series 60 phones. Or why some third party hasn’t made one yet – or maybe even an adapter for Palm-to-S60 switchers. I **wish** I could use an app that was so well written to manage my calendar, contacts, memos, etc. and I wish that installing a new app on my phone (and backup) was as simple as it is on a Palm.

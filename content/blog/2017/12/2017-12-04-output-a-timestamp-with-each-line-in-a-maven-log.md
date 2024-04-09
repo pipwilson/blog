@@ -6,6 +6,7 @@ slug = "output-a-timestamp-with-each-line-in-a-maven-log"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2017/12/2017-12-04-output-a-timestamp-with-each-line-in-a-maven-log-comments.csv"
 +++
 
 Maven is a powerful build tool for Java and it tends to spit out a large amount of logs, requiring you to scroll back in your output window or console to look at what’s happening. If you’re running it regularly, for example whilst building tests then it’s easy to scroll back slightly too far and look at the results from a previous run by accident.

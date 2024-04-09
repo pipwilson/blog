@@ -6,6 +6,7 @@ slug = "permanently-disable-push-notifications-in-firefox"
 tags = ['firefox','general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2018/03/2018-03-06-permanently-disable-push-notifications-in-firefox-comments.csv"
 +++
 
 > Go to about:config  

@@ -6,6 +6,7 @@ slug = "photo-frame-dashbaord"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2009/08/2009-08-07-photo-frame-dashbaord-comments.csv"
 +++
 
 In [a comment on peterme.com over a year ago](http://www.peterme.com/?p=678&cpage=1#comment-137749), I said

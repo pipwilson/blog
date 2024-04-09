@@ -6,6 +6,7 @@ slug = "is-there-a-c-library-for-atom-handling"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/02/2006-02-23-is-there-a-c-library-for-atom-handling-comments.csv"
 +++
 
 [FeedThing](http://feedthing.sourceforge.net/) is a desktop aggregator written in C++ by [Gareth Simpson](http://xurble.org/). The internals are split into several parts, including [libfeedthing](http://cvs.sourceforge.net/viewcvs.py/feedthing/libfeedthing/) which is the core liberal feed parser, but it hasn’t been updated for ages, and I don’t think even he uses it any more, so it only supports the interim (and deprecated) Atom 0.3.

@@ -6,6 +6,7 @@ slug = "memory-card-disaster"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/08/2006-08-09-memory-card-disaster-comments.csv"
 +++
 
 I’m still on honeymoon in Norway (and very nice it is too – the wife, as well as Norway ;), at a quick terminal to see if I can collect some advice.

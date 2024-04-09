@@ -6,6 +6,7 @@ slug = "google-homepage-personalisation"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/05/2005-05-20-google-homepage-personalisation-comments.csv"
 +++
 
 Presumably everyone has seen this now (seeing as there are plenty of screenshots on [Flickr](http://www.flickr.com/photos/tags/google) and links on [del.icio.us](http://del.icio.us/url/b675d9e8066556861696fbfffaef8e1d)), but Google is trialling a customisable homepage.

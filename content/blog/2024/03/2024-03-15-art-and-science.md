@@ -6,6 +6,7 @@ slug = "art-and-science"
 tags = ['agile','art','general','government','stonehenge']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2024/03/2024-03-15-art-and-science-comments.csv"
 +++
 
 I open a lot of tabs. A lot. Maybe as many as you.

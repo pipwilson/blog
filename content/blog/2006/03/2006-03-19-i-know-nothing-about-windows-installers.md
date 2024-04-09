@@ -6,6 +6,7 @@ slug = "i-know-nothing-about-windows-installers"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/03/2006-03-19-i-know-nothing-about-windows-installers-comments.csv"
 +++
 
 I don’t know anything about configuring or using Windows installers. Seriously.

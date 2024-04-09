@@ -6,6 +6,7 @@ slug = "rome-this-is-not-a-tourist-guide"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2003/09/2003-09-27-rome-this-is-not-a-tourist-guide-comments.csv"
 +++
 
 The adventure ends

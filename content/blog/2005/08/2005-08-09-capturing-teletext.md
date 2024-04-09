@@ -6,6 +6,7 @@ slug = "capturing-teletext"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/08/2005-08-09-capturing-teletext-comments.csv"
 +++
 
 One of my daily habits is reading GameCentral (Channel 4, Teletext, pages 375-379) every day. Except that at the moment my telly reception, despite being cable, is so poor that I only actually get to read pages 375 and 376; for the rest I’m lucky if I get half a frame out of six. v.poor (Bridget Jones is back in fashion, right?).

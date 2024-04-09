@@ -6,6 +6,7 @@ slug = "reading-ebooks"
 tags = ['aldiko','android','books','ebook','ebooks','general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2010/03/2010-03-21-reading-ebooks-comments.csv"
 +++
 
 I’ve now read three books on my phone ([you can see which ones here](http://www.flickr.com/photos/pip/tags/ebook/)). I never thought it would be possible to read on a screen that wasn’t designed for this purpose; I was sure that you’d need a Kindle or Nook-type screen to be able to read in comfort and for long periods of time.

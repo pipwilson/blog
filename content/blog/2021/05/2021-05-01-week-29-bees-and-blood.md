@@ -6,6 +6,7 @@ slug = "week-29-bees-and-blood"
 tags = ['general','weeknotes']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2021/05/2021-05-01-week-29-bees-and-blood-comments.csv"
 +++
 
 - Our apple tree is in full bloom and full of industrious bees, and so when I’ve needed a brief respite from home working I have been able to walk out into the garden, and sit under the tree with blossom falling down around me – absolutely blissful!

@@ -6,6 +6,7 @@ slug = "money-is-dull"
 tags = ['general','houses','money','moving']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2009/03/2009-03-22-money-is-dull-comments.csv"
 +++
 
 I am in the process of buying my first house.

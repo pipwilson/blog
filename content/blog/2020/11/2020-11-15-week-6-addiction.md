@@ -6,6 +6,7 @@ slug = "week-6-addiction"
 tags = ['general','weeknotes']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2020/11/2020-11-15-week-6-addiction-comments.csv"
 +++
 
 - Dear neighbours: starting your DIY on our shared bedroom wall at 8am on Sunday morning is Just Not Right.

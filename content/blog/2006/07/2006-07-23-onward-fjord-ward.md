@@ -6,6 +6,7 @@ slug = "onward-fjord-ward"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/07/2006-07-23-onward-fjord-ward-comments.csv"
 +++
 
 I’ll be getting married in a weeks’ time and we’re then headed off for fourteen days touring the fjords in Norway.

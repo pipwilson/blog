@@ -6,6 +6,7 @@ slug = "word-2007-as-your-cms-editor"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/05/2006-05-17-word-2007-as-your-cms-editor-comments.csv"
 +++
 
 [Word 2007 will support ‘blogging’.](http://blogs.msdn.com/joe_friend/archive/2006/05/12/595963.aspx)

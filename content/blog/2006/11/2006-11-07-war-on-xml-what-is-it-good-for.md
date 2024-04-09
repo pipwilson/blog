@@ -6,6 +6,7 @@ slug = "war-on-xml-what-is-it-good-for"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/11/2006-11-07-war-on-xml-what-is-it-good-for-comments.csv"
 +++
 
 > Were switching to XML a requirement for reaping compelling benefits, the public would indubitably have moved. So would the majority browser engine.

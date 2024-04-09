@@ -6,6 +6,7 @@ slug = "render-conference-2016"
 tags = ['conference','general','oxford','render']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2016/04/2016-04-24-render-conference-2016-comments.csv"
 +++
 
 Last week I was in Oxford for [RenderConf](http://2016.render-conf.com).

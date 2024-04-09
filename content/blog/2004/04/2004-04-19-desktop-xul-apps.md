@@ -6,6 +6,7 @@ slug = "desktop-xul-apps"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/04/2004-04-19-desktop-xul-apps-comments.csv"
 +++
 
 I was all set to write a post about how we should be using centralised apps with XUL frontends for aggregation to provide native interfaces regardless of location but I find that [Manuzhai beat me to it](http://www.manuzhai.nl/weblog/comments/location-independent-services/)

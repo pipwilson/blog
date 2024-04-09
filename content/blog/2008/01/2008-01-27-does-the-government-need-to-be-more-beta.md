@@ -6,6 +6,7 @@ slug = "does-the-government-need-to-be-more-beta"
 tags = ['general','gov']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/01/2008-01-27-does-the-government-need-to-be-more-beta-comments.csv"
 +++
 
 > of the £14bn spent on technology in UK government every year (over 50% of all IT spend in the whole of Britain), around 70% of all projects end in failure

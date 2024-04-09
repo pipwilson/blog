@@ -6,6 +6,7 @@ slug = "the-ogg-wasteland"
 tags = ['mp3','mp3','ogg']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/02/2007-02-19-the-ogg-wasteland-comments.csv"
 +++
 
 [![Samsung YP-U2](http://farm1.static.flickr.com/74/163218476_9eb4d60f02_t.jpg)](http://www.flickr.com/photos/pip/163218476/)

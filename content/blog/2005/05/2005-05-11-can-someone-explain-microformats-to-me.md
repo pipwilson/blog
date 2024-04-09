@@ -6,6 +6,7 @@ slug = "can-someone-explain-microformats-to-me"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/05/2005-05-11-can-someone-explain-microformats-to-me-comments.csv"
 +++
 
 I’ve spent a lot of time thinking about [microformats](http://developers.technorati.com/wiki/MicroFormats), wondering [what they are](http://www.xml.com/pub/a/2005/03/23/deviant.html), creating docs and writing code to deal with them, and my eventual conclusion is: I don’t get it.

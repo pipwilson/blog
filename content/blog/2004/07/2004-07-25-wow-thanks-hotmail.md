@@ -6,6 +6,7 @@ slug = "wow-thanks-hotmail"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/07/2004-07-25-wow-thanks-hotmail-comments.csv"
 +++
 
 Next time I want my junk mail settings changed without being asked, and thus having hundreds of mails dropped straight into my junk mail folder which is completely inaccessible except via the web site, I’ll know just where to go! Lucky your “this is not junk” feature is so lame, too!

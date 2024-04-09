@@ -6,6 +6,7 @@ slug = "msn-spaces-launched"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/12/2004-12-02-msn-spaces-launched-comments.csv"
 +++
 
 Microsoft launched [Spaces](http://spaces.msn.com/) today.

@@ -6,6 +6,7 @@ slug = "google-analytics"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/11/2005-11-14-google-analytics-comments.csv"
 +++
 
 Google have a new service out called [Google Analytics](http://www.google.com/analytics/), a web site stats and trends analyser which is probably based on the code of Urchin, who they acquired earlier this year (although it has at least [one bug so far](http://www.flickr.com/photos/pip/63196688/)). The tracking is cookie-based and works by inserting a JavaScript fragment into the `head` section of the pages you want to be monitored.

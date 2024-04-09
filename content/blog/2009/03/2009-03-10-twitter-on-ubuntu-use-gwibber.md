@@ -6,6 +6,7 @@ slug = "twitter-on-ubuntu-use-gwibber"
 tags = ['general','linux','tools','twitter','ubuntu']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2009/03/2009-03-10-twitter-on-ubuntu-use-gwibber-comments.csv"
 +++
 
 <figure aria-describedby="caption-attachment-982" class="wp-caption alignright" id="attachment_982" style="width: 166px">[![Screenshot of Gwibber](http://philwilson.org/blog/wp-content/uploads/2009/03/screenshot-gwibber-166x300.png "Screenshot of Gwibber")](http://philwilson.org/blog/wp-content/uploads/2009/03/screenshot-gwibber.png)<figcaption class="wp-caption-text" id="caption-attachment-982">Screenshot of Gwibber</figcaption></figure>

@@ -6,6 +6,7 @@ slug = "setting-up-the-play-framework-on-google-app-engine"
 tags = ['gae','general','java','play']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2009/12/2009-12-14-setting-up-the-play-framework-on-google-app-engine-comments.csv"
 +++
 
 The [Play framework](http://www.playframework.org/) is the most fun I’ve had developing Java web applications. It’s fast, natural, comes with [a rails-like scaffolding for CRUD operations](http://www.playframework.org/documentation/1.0/guide7) on your model, has [built-in Selenium testing as well as unit and functional tests](http://www.playframework.org/documentation/1.0/guide10), and most importantly Just Works.

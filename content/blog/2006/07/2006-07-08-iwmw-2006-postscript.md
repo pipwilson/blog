@@ -6,6 +6,7 @@ slug = "iwmw-2006-postscript"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/07/2006-07-08-iwmw-2006-postscript-comments.csv"
 +++
 
 I gave two seminar talks at [IWMW 2006](http://www.ukoln.ac.uk/web-focus/events/workshops/webmaster-2006/ "Institutional Web Management Workshop 2006"), “Sharing and Exploring Team Knowledge with Wikis” and “Exposing yourself on the web with microformats!” (slides for both to come).

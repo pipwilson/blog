@@ -6,6 +6,7 @@ slug = "mozilla-bugs"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/06/2004-06-25-mozilla-bugs-comments.csv"
 +++
 
 We recently started using [JSPWiki ](http://www.jspwiki.org)with the [clean template](http://www.jspwiki.org/Wiki.jsp?page=CleanTemplate) at work for our intranet. Sadly there are two major issues all the Firefox and Mozilla users in the office are facing (and there are an awful a lot of them):

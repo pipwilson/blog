@@ -6,6 +6,7 @@ slug = "bristol-mini-maker-faire"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2015/08/2015-08-22-bristol-mini-maker-faire-comments.csv"
 +++
 
 Today I took my 6 and 2 year olds into town to look around the [Bristol Mini Maker Faire](http://bristolmakerfaire.com/). It was really good and highly recommended.

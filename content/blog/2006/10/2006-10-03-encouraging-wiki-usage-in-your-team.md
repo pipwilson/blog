@@ -6,6 +6,7 @@ slug = "encouraging-wiki-usage-in-your-team"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/10/2006-10-03-encouraging-wiki-usage-in-your-team-comments.csv"
 +++
 
 Anthony just asked a great question in [one of my recent blog posts](http://philwilson.org/blog/2006/09/evaluating-wikis-case-study.html "Evaluating Wikis: A Case Study"), and I thought my hasty answer was worth making into its own post (given that I’ll soon be giving [my second talk](http://www.ukoln.ac.uk/web-focus/events/workshops/wiki-workshop-2006/talks/wilson/) on this subject):

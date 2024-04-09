@@ -6,6 +6,7 @@ slug = "amazon-adds-ajax-magic"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/10/2005-10-17-amazon-adds-ajax-magic-comments.csv"
 +++
 
 [![amazon ajax, by pip](http://static.flickr.com/32/53496340_f26fcb0ec1_m.jpg)](http://flickr.com/photos/pip/53496340/in/photostream/ "amazon ajax, by pip")

@@ -6,6 +6,7 @@ slug = "guarding-online-banking"
 tags = ['bank','general','security']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/11/2007-11-09-guarding-online-banking-comments.csv"
 +++
 
 ![An image of the PINsentry tool](http://philwilson.org/blog/2007/11/pinsentry.gif)

@@ -6,6 +6,7 @@ slug = "using-galternatives-is-fun-tasty"
 tags = ['java','java','ubuntu']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/06/2007-06-24-using-galternatives-is-fun-tasty-comments.csv"
 +++
 
 [![G Alternatives screenshot](http://philwilson.org/blog/2007/06/G Alternatives_small.png)](<http://philwilson.org/blog/2007/06/G Alternatives.png>)

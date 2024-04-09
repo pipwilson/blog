@@ -6,6 +6,7 @@ slug = "review-metadata-in-blogs-and-feeds"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/10/2004-10-31-review-metadata-in-blogs-and-feeds-comments.csv"
 +++
 
 There just isn’t any.

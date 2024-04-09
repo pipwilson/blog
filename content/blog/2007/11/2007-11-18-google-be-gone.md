@@ -6,6 +6,7 @@ slug = "google-be-gone"
 tags = ['general','google','real']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/11/2007-11-18-google-be-gone-comments.csv"
 +++
 
 So, my Google account is still disabled a week later and I still haven’t had a response to the two mails I’ve sent the accounts team. My blog was powered by Blogger. I’ve switched to WordPress and hope to import all of my old blog sometime this week (I’ll have to screen-scrape my own blog archives).

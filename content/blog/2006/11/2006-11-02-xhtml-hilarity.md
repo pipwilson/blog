@@ -6,6 +6,7 @@ slug = "xhtml-hilarity"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/11/2006-11-02-xhtml-hilarity-comments.csv"
 +++
 
 It’s funny to watch this [Sending XHTML as text/html not-considerd-harmful after all](http://h3h.net/2005/12/xhtml-harmful-to-feelings/) (which is wrong, of course) post get a load of comments almost a year later, but the best bit is saved until the comments, where the author of the article, Brad, [responds to a comment by Sam](http://h3h.net/2005/12/xhtml-harmful-to-feelings/#comment-10168):

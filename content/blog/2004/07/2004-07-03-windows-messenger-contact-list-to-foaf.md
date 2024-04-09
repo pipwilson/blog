@@ -6,6 +6,7 @@ slug = "windows-messenger-contact-list-to-foaf"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/07/2004-07-03-windows-messenger-contact-list-to-foaf-comments.csv"
 +++
 
 There’s now more than one way to convert your MSN Messenger contact list into FOAF.

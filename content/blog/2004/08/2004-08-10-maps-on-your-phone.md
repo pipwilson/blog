@@ -6,6 +6,7 @@ slug = "maps-on-your-phone"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/08/2004-08-10-maps-on-your-phone-comments.csv"
 +++
 
 When talking about the [Tube map for mobiles that Transport for London and Orange provide](http://feetup.org/blog/2004/Jul/17#tube), [Jim Hughes](http://feetup.org/blog) pointed out to me that the image viewer on my phone also does a pretty good job of of viewing street maps. I don’t know why this didn’t ever occur to me before!

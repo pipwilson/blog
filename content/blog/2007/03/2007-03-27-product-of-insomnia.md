@@ -6,6 +6,7 @@ slug = "product-of-insomnia"
 tags = ['general','insomnia','limerick']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/03/2007-03-27-product-of-insomnia-comments.csv"
 +++
 
 My wife’s not been sleeping well recently.

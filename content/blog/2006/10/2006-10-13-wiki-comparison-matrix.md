@@ -6,6 +6,7 @@ slug = "wiki-comparison-matrix"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/10/2006-10-13-wiki-comparison-matrix-comments.csv"
 +++
 
 Initial wiki comparison table.

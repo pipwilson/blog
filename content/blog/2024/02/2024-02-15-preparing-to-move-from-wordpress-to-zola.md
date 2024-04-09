@@ -6,6 +6,7 @@ slug = "preparing-to-move-from-wordpress-to-zola"
 tags = ['general','urls','wordpress','zola']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2024/02/2024-02-15-preparing-to-move-from-wordpress-to-zola-comments.csv"
 +++
 
 [In Feb 2021 I said](https://philwilson.org/blog/2021/02/week-19-brightening/) I was planning on moving from WordPress to [Zola](https://www.getzola.org/). I am still not done. Eking the work out really hasn’t worked. [Who’d have thought?](https://www.jrothman.com/newsletter/2000/01/volume-2-number-1-managing-projects-the-perils-of-parallel-projects/)

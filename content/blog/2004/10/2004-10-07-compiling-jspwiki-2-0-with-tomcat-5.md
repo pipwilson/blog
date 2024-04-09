@@ -6,6 +6,7 @@ slug = "compiling-jspwiki-20-with-tomcat-5"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/10/2004-10-07-compiling-jspwiki-2-0-with-tomcat-5-comments.csv"
 +++
 
 Specifically, that’s JSPWiki 2.0.52 and Tomcat 5.0.29, but who’s counting anyway?

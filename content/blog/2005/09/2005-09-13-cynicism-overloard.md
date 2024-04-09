@@ -6,6 +6,7 @@ slug = "cynicism-overloard"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/09/2005-09-13-cynicism-overloard-comments.csv"
 +++
 
 Help. I just rediscovered my Dilbert desk calendar. It’s still in mid-June.

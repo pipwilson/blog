@@ -6,6 +6,7 @@ slug = "how-to-find-out-which-books-im-reading"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/01/2005-01-03-how-to-find-out-which-books-im-reading-comments.csv"
 +++
 
 [Andrea wants to be able to stalk my reading list](http://philwilson.org/blog/2004/12/tracking-comments.html#110415097301576089).

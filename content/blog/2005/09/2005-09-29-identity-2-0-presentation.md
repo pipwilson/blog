@@ -6,6 +6,7 @@ slug = "identity-20-presentation"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/09/2005-09-29-identity-2-0-presentation-comments.csv"
 +++
 
 Do you know Dick about Identity 2.0?

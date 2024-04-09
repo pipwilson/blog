@@ -6,6 +6,7 @@ slug = "web-bubble-blindness"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/10/2005-10-12-web-bubble-blindness-comments.csv"
 +++
 
 > I still haven’t got around to looking properly at Yahoo!s new offerings, or any of the left field things like Chris Pirillo’s new toy. There really is a lot of new stuff appearing around the blogosphere (Steve Rubel is one good source of links), and so many acquisitions – bubble city.

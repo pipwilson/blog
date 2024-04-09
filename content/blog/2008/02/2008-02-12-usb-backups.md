@@ -6,6 +6,7 @@ slug = "usb-backups"
 tags = ['backup','general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2008/02/2008-02-12-usb-backups-comments.csv"
 +++
 
 [![The linksys family](http://farm3.static.flickr.com/2094/2212634513_cfbe89eb5d_m.jpg)](http://www.flickr.com/photos/pip/2212634513/ "The linksys family by Pip, on Flickr")

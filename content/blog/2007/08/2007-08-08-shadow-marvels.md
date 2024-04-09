@@ -6,6 +6,7 @@ slug = "shadow-marvels"
 tags = ['general','presence']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2007/08/2007-08-08-shadow-marvels-comments.csv"
 +++
 
 I have a number of blog posts I want to make. About Jabber, about Edinburgh, about wikis, about [Venus](http://www.intertwingly.net/code/venus/).

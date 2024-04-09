@@ -6,6 +6,7 @@ slug = "microformats-in-practice"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/10/2005-10-28-microformats-in-practice-comments.csv"
 +++
 
 In [Re: Educating Others](http://microformats.org/discuss/mail/microformats-discuss/2005-October/001171.html), [Ryan King](http://theryanking.com/blog/) says:

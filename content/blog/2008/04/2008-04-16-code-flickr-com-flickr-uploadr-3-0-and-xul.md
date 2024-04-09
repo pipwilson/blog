@@ -6,6 +6,7 @@ slug = "codeflickrcom-flickr-uploadr-30-and-xul"
 tags = ['flickr','general','xul']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/04/2008-04-16-code-flickr-com-flickr-uploadr-3-0-and-xul-comments.csv"
 +++
 
 Flickr have just launched [code.flickr](http://code.flickr.com), <q>Your one-stop shop for information, gossip and discussion with the Flickr developer community</q> which I imagine they want to use to draw together the disparate developer resources from the groups, forums, mailing list and more.

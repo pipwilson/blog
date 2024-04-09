@@ -6,6 +6,7 @@ slug = "podcast-clients"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/08/2005-08-03-podcast-clients-comments.csv"
 +++
 
 I don’t really listen to podcasts normally LUGRadio and sometimes IT Conversations, but that’s about it.

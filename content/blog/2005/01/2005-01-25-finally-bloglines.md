@@ -6,6 +6,7 @@ slug = "finally-bloglines"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/01/2005-01-25-finally-bloglines-comments.csv"
 +++
 
 After my many problems with Bloglines, I’ve wiped all my subscriptions, exported my current JabRSS subscriptions, and imported them back into Bloglines.

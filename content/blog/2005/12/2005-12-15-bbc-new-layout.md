@@ -6,6 +6,7 @@ slug = "bbc-new-layout"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/12/2005-12-15-bbc-new-layout-comments.csv"
 +++
 
 ![](http://static.flickr.com/34/73784574_b13cc9f83d_o.png "BBC new tabs and international version")

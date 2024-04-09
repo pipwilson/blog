@@ -6,6 +6,7 @@ slug = "the-easy-way-to-convert-bbc-realaudio-files-to-mp3-on-windows"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/04/2006-04-12-the-easy-way-to-convert-bbc-realaudio-files-to-mp3-on-windows-comments.csv"
 +++
 
 After a couple of years of using uncountable tools, and despite their [ever-expanding list of podcasts etc.](http://www.bbc.co.uk/radio/downloadtrial/ "BBC Radio Download and Podcast trial") I think I’ve finally hit the perfect combo for downloading those Radio4 “[listen again](http://www.bbc.co.uk/radio4/progs/listenagain.shtml)” RealPlayer files or entire streams from the BBC and converting them to mp3 (and ogg).

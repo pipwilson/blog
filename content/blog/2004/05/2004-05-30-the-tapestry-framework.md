@@ -6,6 +6,7 @@ slug = "the-tapestry-framework"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/05/2004-05-30-the-tapestry-framework-comments.csv"
 +++
 
 > Bottom line is I don’t normally like frameworks. But I like Tapestry.

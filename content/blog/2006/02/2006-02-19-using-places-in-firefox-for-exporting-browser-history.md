@@ -6,6 +6,7 @@ slug = "using-places-in-firefox-for-exporting-browser-history"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/02/2006-02-19-using-places-in-firefox-for-exporting-browser-history-comments.csv"
 +++
 
 Ages ago I wrote [a post bringing light to a bookmarklet attached to a bug in Mozilla’s Bugzilla which allows you to export your Firefox history to a text file](http://philwilson.org/blog/2005/01/how-to-export-firefoxs-history-to-text.html "How to export Firefox's history to a text file"). According to Google Analytics, it’s far and away my most popular post, but the code doesn’t work in Firefox 1.5.

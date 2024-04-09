@@ -6,6 +6,7 @@ slug = "eclipse-and-swt"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2003/08/2003-08-29-eclipse-and-swt-comments.csv"
 +++
 
 Despite my earlier protestations (<q cite="http://pipthepixie.tripod.com/blog/archive/2003_08_01_blog.html#106094386079976858">\[It\] just confuses me with its perspectives and workspaces and completely idiosyncratic method of working with projects</q>), I’ve persevered with [Eclipse](http://www.eclipse.org) and it seems OK at the moment. I was mainly swayed by its CVS integration, which is good, and I’ve finally understood that Eclipse is *only* a project editor, not a text editor, which is how I’d been trying to use it before. In fact, its basic text editing is probably its weakest aspect. Eclipse is written for editing Java, so where’s the JSP support? Why is it so hard to find out which shortcuts keys are already mapped to? Little things like these are really putting me off, and need to get sorted. Yes I know it’s open source and all that bollocks, but if you think I’ve got time to wade through hundreds of thousands of lines of source to try and implement what someone else should be being paid to do then you’re very much mistaken.

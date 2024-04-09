@@ -6,6 +6,7 @@ slug = "blogging-different-types-of-content-with-xml-schemas"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/09/2005-09-28-blogging-different-types-of-content-with-xml-schemas-comments.csv"
 +++
 
 Joshua Porter’s post [A Glimpse of the Future: Joe Reger’s XML Schema Coolness](http://bokardo.com/archives/joe-reger-xml-schema/), links to [a screencast by Joe Reger](http://www.reger.com/demos/xmlschema/xmlschemabetademo.html) which shows him going into the admin interface of his web-based blogging tool, uploading a new .xsd file and then being able to create a new blog post using the elements defined in it. In addition to this, the output from his blogging tool includes [structured blogging](http://structuredblogging.org/) markup.

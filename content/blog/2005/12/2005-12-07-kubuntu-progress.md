@@ -6,6 +6,7 @@ slug = "kubuntu-progress"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/12/2005-12-07-kubuntu-progress-comments.csv"
 +++
 
 I’ve now been running solely on Kubuntu for about two or three weeks now. Some impressions:

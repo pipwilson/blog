@@ -6,6 +6,7 @@ slug = "winter-arrives"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/11/2004-11-19-winter-arrives-comments.csv"
 +++
 
 Winter finally arrived in Sheffield at about 5pm last night when it started to snow.

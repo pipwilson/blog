@@ -6,6 +6,7 @@ slug = "markup-validator-update"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/05/2004-05-07-markup-validator-update-comments.csv"
 +++
 
 > After five consecutive beta test periods, a new version  

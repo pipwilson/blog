@@ -6,6 +6,7 @@ slug = "atom-extensions-and-foaf"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/03/2006-03-03-atom-extensions-and-foaf-comments.csv"
 +++
 
 James Snell has posted a new Internet Draft for expanding the details of an atom:author called [Atom Syndication Format Person Extensions](http://www.ietf.org/internet-drafts/draft-snell-atompub-author-extensions-00.txt). In it he gives examples of embedding details with hCard like so:

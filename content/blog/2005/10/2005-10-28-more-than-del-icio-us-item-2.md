@@ -6,6 +6,7 @@ slug = "more-than-delicious-item-2"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/10/2005-10-28-more-than-del-icio-us-item-2-comments.csv"
 +++
 
 The “notorious” Marc Canter has written a piece called [Breaking the Web Wide Open!](http://www.alwayson-network.com/comments.php?id=12412_0_1_0_C) in which he talks about the difficulties facing larger companies when it comes to opening access to their data, the nub being:

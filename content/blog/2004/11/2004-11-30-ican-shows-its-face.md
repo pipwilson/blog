@@ -6,6 +6,7 @@ slug = "ican-shows-its-face"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/11/2004-11-30-ican-shows-its-face-comments.csv"
 +++
 
 A new story on the BBC news website about how [we should use second class post instead of first class](http://news.bbc.co.uk/1/hi/business/4052741.stm " Use second class, says Postwatch") passes the time, but of real interest is the link in the top-right to [the BBC iCan page about Post Offices](http://www.bbc.co.uk/dna/ican/C2412 "This page aims to bring together helpful information on Post offices. ").

@@ -6,6 +6,7 @@ slug = "transparent-pngs-in-ie-file-uploads-in-svg"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/04/2005-04-27-transparent-pngs-in-ie-file-uploads-in-svg-comments.csv"
 +++
 
 By now everyone has seen [Sam Fortiner’s excellent post about implementing PNG in Internet Explorer](http://blogs.msdn.com/ie/archive/2005/04/26/412263.aspx), which is great news, and fulfils a long-hoped for hole in IE functionality.

@@ -6,6 +6,7 @@ slug = "a-python-rant"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/08/2006-08-22-a-python-rant-comments.csv"
 +++
 
 Whilst wedding and Norway posts are forthcoming, a small rant about installing extra libraries into [Python](http://www.python.org) on Windows.

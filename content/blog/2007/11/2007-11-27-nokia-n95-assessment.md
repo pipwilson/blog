@@ -6,6 +6,7 @@ slug = "nokia-n95-assessment"
 tags = ['general','mobile','n95','nokia','real']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/11/2007-11-27-nokia-n95-assessment-comments.csv"
 +++
 
 [](http://www.flickr.com/photos/pip/1486185092/)

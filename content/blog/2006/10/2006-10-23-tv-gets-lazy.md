@@ -6,6 +6,7 @@ slug = "tv-gets-lazy"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/10/2006-10-23-tv-gets-lazy-comments.csv"
 +++
 
 [![Amy whine whine Winehouse picture-in-picture](http://static.flickr.com/99/277133769_5b6b54a1dc_m.jpg)](http://www.flickr.com/photos/pip/277133769/)

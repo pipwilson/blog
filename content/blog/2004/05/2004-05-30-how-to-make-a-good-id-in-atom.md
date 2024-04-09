@@ -6,6 +6,7 @@ slug = "how-to-make-a-good-id-in-atom"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/05/2004-05-30-how-to-make-a-good-id-in-atom-comments.csv"
 +++
 
 [How to make a good ID in Atom](http://diveintomark.org/archives/2004/05/28/howto-atom-id) by Mark Pilgrim clears up one of the murkiest aspects of Atom for early adopters – how to generate a GUID for items in an Atom feed (well, it was murky for me at least).

@@ -6,6 +6,7 @@ slug = "the-surprise-of-spring-boot"
 tags = ['general','java']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2017/03/2017-03-14-the-surprise-of-spring-boot-comments.csv"
 +++
 
 I am a long time Java programmer. It was what I used to write my final year project at university, and it was my first, second and third jobs.

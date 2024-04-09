@@ -6,6 +6,7 @@ slug = "the-limitations-of-the-now-imposed-by-the-past"
 tags = ['bristol','general','ignbrzl','ignite','metal','modernlifeisrubbish','ships']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2011/02/2011-02-08-the-limitations-of-the-now-imposed-by-the-past-comments.csv"
 +++
 
 Tomorrow evening I’m doing a talk at Ignite Bristol 4 entitled “The eternal sunshine of the spotless Facebook”. It’s not really a relevant title, but it was when I was thinking up ideas to talk about.

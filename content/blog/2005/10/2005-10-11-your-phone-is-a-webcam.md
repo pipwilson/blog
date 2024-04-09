@@ -6,6 +6,7 @@ slug = "your-phone-is-a-webcam"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/10/2005-10-11-your-phone-is-a-webcam-comments.csv"
 +++
 
 [![mobiola1, by pip](http://static.flickr.com/25/51709206_ed3ac4abfe_m.jpg)](http://www.flickr.com/photos/pip/51709206/ "mobiola1, by pip")

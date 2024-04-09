@@ -6,6 +6,7 @@ slug = "a-fork-in-the-twitter"
 tags = ['general','twitter']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2008/11/2008-11-27-a-fork-in-the-twitter-comments.csv"
 +++
 
 There is some current hullabaloo over [twitter’s most recent hires](http://www.valuesofn.com/blog/2008/11/fork-in-road.html).

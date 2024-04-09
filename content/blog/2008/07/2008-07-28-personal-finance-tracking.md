@@ -6,6 +6,7 @@ slug = "personal-finance-tracking"
 tags = ['banks','general','money','wesabe']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/07/2008-07-28-personal-finance-tracking-comments.csv"
 +++
 
 How much money do you have and how do you find out what you’re spending it on?

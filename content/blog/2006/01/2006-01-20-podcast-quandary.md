@@ -6,6 +6,7 @@ slug = "podcast-quandary"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/01/2006-01-20-podcast-quandary-comments.csv"
 +++
 
 I like the idea of podcasts. There are some I even subscribe to: [LugRadio](http://www.lugradio.org/ "LugRadio"), [Ricky Gervais](http://www.guardian.co.uk/rickygervais "Ricky Gervais on the Guardian"), [Mark Kermode’s film reviews](http://www.bbc.co.uk/fivelive/entertainment/kermode.shtml) and now [Channel 4 have their own podcast](http://www.channel4.com/news/podcasts/index.html "Jon Snow is da man!") which allows you to listen to “Jon Snow’s specially commissioned radio programme” ([via Fintan](http://www.dech.co.uk/2006/01/new-channel-4-news-podcast-with-additional-content/)).

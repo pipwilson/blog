@@ -6,6 +6,7 @@ slug = "moving-from-feedonfeeds-to-gregarius"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/03/2006-03-03-moving-from-feedonfeeds-to-gregarius-comments.csv"
 +++
 
 After a mail from [Rod Begbie](http://groovymother.com/) I’ve finally decided to move to a free, open-source aggregator which actually has active development: [Gregarius](http://gregarius.net/). Sorry [FeedOnFeeds](http://feedonfeeds.com/).

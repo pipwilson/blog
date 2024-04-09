@@ -6,6 +6,7 @@ slug = "javascript-slides-yahoo-javascript-and-microsoft-javascript-web-stitchin
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/03/2006-03-08-javascript-slides-yahoo-javascript-and-microsoft-javascript-web-stitching-comments.csv"
 +++
 
 ETech 2006 has kicked off and of the presentations I’ve looked at so far today, two have stood out in particular:

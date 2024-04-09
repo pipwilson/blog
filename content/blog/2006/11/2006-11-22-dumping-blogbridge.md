@@ -6,6 +6,7 @@ slug = "dumping-blogbridge"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/11/2006-11-22-dumping-blogbridge-comments.csv"
 +++
 
 I was doing OK with [BlogBridge](http://www.blogbridge.com/), but in the last month it’s dropped all my data twice and then prevented me from re-importing all my feeds by disabling all the feed action buttons and menu items such as “add feed, import feed” etc.

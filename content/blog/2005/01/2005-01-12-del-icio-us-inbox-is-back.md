@@ -6,6 +6,7 @@ slug = "delicious-inbox-is-back"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/01/2005-01-12-del-icio-us-inbox-is-back-comments.csv"
 +++
 
 If you’re a regular user you’ll have already noticed by now, but in case you hadn’t – [del.icio.us inbox is back!](http://lists.burri.to/pipermail/delicious-discuss/2005-January/001673.html) (via [WaxyLinks](http://waxy.org/links/)).

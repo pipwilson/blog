@@ -6,6 +6,7 @@ slug = "google-aquires-jotspot-jotspot-server-product-dropped"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/10/2006-10-31-google-aquires-jotspot-jotspot-server-product-dropped-comments.csv"
 +++
 
 [Google has acquired JotSpot](http://www.jot.com/google/faq.html) (coverage also on [the Google Blog](http://googleblog.blogspot.com/2006/10/spot-on.html))

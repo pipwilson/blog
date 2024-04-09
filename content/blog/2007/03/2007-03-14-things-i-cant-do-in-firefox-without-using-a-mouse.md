@@ -6,6 +6,7 @@ slug = "things-i-cant-do-in-firefox-without-using-a-mouse"
 tags = ['accessibility','firefox','general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/03/2007-03-14-things-i-cant-do-in-firefox-without-using-a-mouse-comments.csv"
 +++
 
 - turn Greasemonkey on and off

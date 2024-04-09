@@ -6,6 +6,7 @@ slug = "foaf-support-in-safari"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/05/2005-05-06-foaf-support-in-safari-comments.csv"
 +++
 
 Sometimes it’s just better to blog something then to spend time actually thinking about it.

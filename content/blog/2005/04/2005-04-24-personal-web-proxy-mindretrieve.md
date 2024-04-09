@@ -6,6 +6,7 @@ slug = "personal-web-proxy-mindretrieve"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/04/2005-04-24-personal-web-proxy-mindretrieve-comments.csv"
 +++
 
 Since Jim stuck it in [his del.icio.us bookmarks](http://del.icio.us/JimH "Jim Hughes' bookmarks") a few weeks ago I’ve been using [MindRetrieve](http://www.mindretrieve.net/ "MindRetrieve - Search your personal web") both at home and at work to proxy my web browsing, and I really can’t fault it.

@@ -6,6 +6,7 @@ slug = "creative-zen-regrets"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/06/2006-06-09-creative-zen-regrets-comments.csv"
 +++
 
 [![](http://static.flickr.com/47/163177299_c8f3684ac0_t.jpg)](http://flickr.com/photos/pip/163177299/ "Creative Zen Nano Plus, by pip")

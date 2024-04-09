@@ -6,6 +6,7 @@ slug = "a-stream-of-rubbish"
 tags = ['openid','openid','syndication','syndication','tedious re-iteration']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/03/2007-03-04-a-stream-of-rubbish-comments.csv"
 +++
 
 Unlike [Jeremy Keith](http://adactio.com/journal/1265), I couldn’t care less about giving people a nice web interface onto what I’ve been doing. I’d much rather have a view onto what people I know have been doing instead.

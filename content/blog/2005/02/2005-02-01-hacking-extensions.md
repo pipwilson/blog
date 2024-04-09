@@ -6,6 +6,7 @@ slug = "hacking-extensions"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/02/2005-02-01-hacking-extensions-comments.csv"
 +++
 
 The thing I really love about Firefox extensions is just how eminently hackable they are.

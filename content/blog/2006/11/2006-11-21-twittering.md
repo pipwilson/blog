@@ -6,6 +6,7 @@ slug = "twittering"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/11/2006-11-21-twittering-comments.csv"
 +++
 
 I’ve finally signed up to [twitter](http://twitter.com/pip) now I realise that it’s not SMS-only (because what fool pays for that?) and I can update via IM. It seems cute.

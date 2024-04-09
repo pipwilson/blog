@@ -6,6 +6,7 @@ slug = "time-to-meet-the-foafmaker"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/04/2004-04-05-time-to-meet-the-foafmaker-comments.csv"
 +++
 
 Whilst writing my [LJ Friends Feed](http://pipthepixie.tripod.com/blog/archive/2004_04_01_blog.html#108110446742533879) script I noticed that in the

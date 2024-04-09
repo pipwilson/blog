@@ -6,6 +6,7 @@ slug = "gmail-conversations"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/06/2005-06-05-gmail-conversations-comments.csv"
 +++
 
 One of the big things about Gmail is supposed to be how it deals with messages and threads. Everything is a “[conversation](https://gmail.google.com/support/bin/answer.py?answer=5900)“. There’s no flat view of all your mails. Except I don’t have any say in what’s a conversation and what’s not – it’s all worked out by Gmail. The machine is overlaying what it thinks is going on to what people are actually doing, and whilst it’s got a nice 80-90% success rate, it doesn’t succeed all the time.

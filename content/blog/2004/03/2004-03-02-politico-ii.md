@@ -6,6 +6,7 @@ slug = "politico-ii"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/03/2004-03-02-politico-ii-comments.csv"
 +++
 
 Staying on the politics theme, Ben Hammersely had a great post yesterday called [Stop asking questions and vote, dammit.](http://www.benhammersley.com/dparchives/008116.html) addressing some of the issues about just why the connected generation just aren’t voting any more, summed up quite nicely with his closing line:

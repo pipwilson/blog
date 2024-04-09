@@ -6,6 +6,7 @@ slug = "music-is-good"
 tags = ['general','music','summer burn']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/06/2007-06-03-music-is-good-comments.csv"
 +++
 
 ![Summer Burn 2007](http://philwilson.org/blog/2007/06/summerburn.jpg)  

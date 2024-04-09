@@ -6,6 +6,7 @@ slug = "museums-start-to-get-mobile-technology"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/07/2004-07-04-museums-start-to-get-mobile-technology-comments.csv"
 +++
 
 > if you decide to visit \[the Fitzwilliam Museum in Cambridge\] you can grab yourself an ‘eGuide’ – a handheld computer and an earpiece – to carry around the galleries as you go. …there are infrared tags beside the featured exhibits, and you simply point at the tag and click just like you would use a TV remote.

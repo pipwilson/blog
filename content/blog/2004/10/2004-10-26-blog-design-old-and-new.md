@@ -6,6 +6,7 @@ slug = "blog-design-old-and-new"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2004/10/2004-10-26-blog-design-old-and-new-comments.csv"
 +++
 
 The current ‘design’ is actually just a sample layout I was putting together a year and a half ago and decided to test on my blog. And, as it turned out, that’s the way its stayed. Certainly not the intention!

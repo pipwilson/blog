@@ -6,6 +6,7 @@ slug = "sending-files-to-ubuntu-intrepid-over-bluetooth"
 tags = ['bluetooth','general','linux','mobile']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2009/03/2009-03-23-sending-files-to-ubuntu-intrepid-over-bluetooth-comments.csv"
 +++
 
 Out of the box you cannot send files over bluetooth to a computer running the latest stable version of [Ubuntu](http://www.ubuntu.com/), Intrepid Ibex, 8.10.

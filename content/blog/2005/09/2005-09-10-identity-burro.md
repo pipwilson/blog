@@ -6,6 +6,7 @@ slug = "identity-burro"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/09/2005-09-10-identity-burro-comments.csv"
 +++
 
 > Identity Burro is a Greasemonkey script for Firefox that gives quick access to all the public aspects of a person: photos, blog, preferred sites, preferred songs, etc. Precisely, when you navigate \[to\] the Web page of a certain user on Flickr, it inserts into the Web page links to the page of the same user on Del.icio.us, Technorati, CiteULike, WebJay, Last.tm/Audioscrobbler, Rojo, 43things, 43places, AllConsuming, LiveJournal, Simpy.

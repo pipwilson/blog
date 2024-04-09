@@ -6,6 +6,7 @@ slug = "conference-wifi"
 tags = ['fowalondon07','general','wifi']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/02/2007-02-20-conference-wifi-comments.csv"
 +++
 
 Two of my workmates are currently at the [Future of Web Apps](http://www.futureofwebapps.com/) conference in London.

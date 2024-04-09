@@ -6,6 +6,7 @@ slug = "load-fast-help-me-blog"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/09/2006-09-10-load-fast-help-me-blog-comments.csv"
 +++
 
 This blog is currently powered by [Blogger](http://www.blogger.com). The only two desktop posting tools I’ve used and liked are [w.bloggar](http://wbloggar.com/) and [Windows Live Writer](http://windowslivewriter.spaces.live.com/). The problem with both of them – or at least, my *perceived* problem with them is that they take too long to load. Quite often I just want to post some idle thoughts on a subject without putting in too much effort, but I know that having to load one of these tools will probably take around ten seconds, by which time I’ll either no longer care, or have expanded the thoughts to the extent that I’ll save the post up for more fuller treatment later (which of course, never happens) and so it goes unblogged and forgotten.

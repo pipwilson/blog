@@ -6,6 +6,7 @@ slug = "understanding-reviews-in-foaf"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/08/2005-08-25-understanding-reviews-in-foaf-comments.csv"
 +++
 
 A few months ago I signed up for FilmTrust. It’s an interesting project in which you can rate and reviews films and also add friends and add how much you trust their film ratings. The natural progression would be a personalised film recommendation system, but this doesn’t appear to exist yet.

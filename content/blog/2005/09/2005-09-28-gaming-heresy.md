@@ -6,6 +6,7 @@ slug = "gaming-heresy"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/09/2005-09-28-gaming-heresy-comments.csv"
 +++
 
 > Nintendo will win the next-gen console wars, because the Revolution is the only next-gen console being made.

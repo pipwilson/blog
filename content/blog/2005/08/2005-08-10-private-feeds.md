@@ -6,6 +6,7 @@ slug = "private-feeds"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/08/2005-08-10-private-feeds-comments.csv"
 +++
 
 Twelve months ago, [Stewart Butterfield](http://www.sylloge.com/) posted in the Flickr forums saying:

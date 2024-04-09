@@ -6,6 +6,7 @@ slug = "is-there-a-dearth-of-foaf-apps"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/04/2005-04-10-is-there-a-dearth-of-foaf-apps-comments.csv"
 +++
 
 Someone posted to the rdf-dev mailing list the other day, saying FOAF had had its chance to do any good, and had failed. Time to close up shop.

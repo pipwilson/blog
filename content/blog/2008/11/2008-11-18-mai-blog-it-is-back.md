@@ -6,6 +6,7 @@ slug = "mai-blog-it-is-back"
 tags = ['apache','bbc','general','iplayer','ngingx']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2008/11/2008-11-18-mai-blog-it-is-back-comments.csv"
 +++
 
 So, I finally finished the move from one host to another. It should not have taken as long as it did but after a frustrating night with the nginx config I spent a few days unwinding and catching up with the BBC’s new light entertainment series for Saturday nights, [Merlin](http://www.bbc.co.uk/programmes/b00dr74v/episodes/2008) by watching it on iPlayer. My god I love iPlayer. It’s amazing. Even though I already have a PVR which the wife and I use heavily, iPlayer has still changed how we think about and watch TV. Awesome.

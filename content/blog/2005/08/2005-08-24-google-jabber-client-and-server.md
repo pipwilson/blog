@@ -6,6 +6,7 @@ slug = "google-jabber-client-and-server"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/08/2005-08-24-google-jabber-client-and-server-comments.csv"
 +++
 
 [Google Talk](http://www.google.com/talk/) is finally out and is based on XMPP for text chat. This means that any normal Jabber client can also connect to Google’s servers and use it. At the moment [you can’t use Google Talk to connect to the wider Jabber network](http://www.google.com/support/talk/bin/answer.py?answer=23907), and I can’t see that this will change any time soon. In theory you should be able to redirect which server it tries to connect to and access your normal Jabber userlist like that, although what exactly it would do with XMPP stanzas it doesn’t yet support I have no idea.

@@ -6,6 +6,7 @@ slug = "instant-textile-mk2"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/05/2006-05-22-instant-textile-mk2-comments.csv"
 +++
 
 Back in November, Tiago Silveira updated the JavaScript Textile implementation that powers [my Textile Greasemonkey script](http://philwilson.org/blog/2005/03/textile-your-textareas-with.html), but I just hadn’t got around to rolling in his changes, so he’s done the sensible thing, and [rolled his own](http://jroller.com/page/dukejeffrie/?anchor=textile_in_javascript_greasemonkey_edition). Good work!

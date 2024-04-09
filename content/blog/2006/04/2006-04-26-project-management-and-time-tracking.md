@@ -6,6 +6,7 @@ slug = "project-management-and-time-tracking"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/04/2006-04-26-project-management-and-time-tracking-comments.csv"
 +++
 
 How much time is it sensible to track? Who needs this information?

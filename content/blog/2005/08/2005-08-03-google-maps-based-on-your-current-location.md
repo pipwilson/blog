@@ -6,6 +6,7 @@ slug = "google-maps-based-on-your-current-location"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/08/2005-08-03-google-maps-based-on-your-current-location-comments.csv"
 +++
 
 [Jim Hughes](http://feetup.org/blog/) has pointed me, quite separately at two resources: the [latitude and longitude for cell mast transmitters](http://www.placelab.org/data/do-retrieve.php?style=new&type=gsm) and some [Python code for viewing Google maps via your Symbian phone](http://discussion.forum.nokia.com/forum/showthread.php?s=&postid=153609)

@@ -6,6 +6,7 @@ slug = "look-on-my-works"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2023/02/2023-02-11-look-on-my-works-comments.csv"
 +++
 
 A few years ago I read [Ivanhoe](https://en.wikipedia.org/wiki/Ivanhoe) and, as intended, ended up [suitably grumpy at the French](https://en.wikipedia.org/wiki/Norman_Conquest) and felt sorry for the Saxons.

@@ -6,6 +6,7 @@ slug = "adding-a-bookmark-to-an-android-home-screen"
 tags = ['android','general','iphone','mobile','pics']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2010/01/2010-01-02-adding-a-bookmark-to-an-android-home-screen-comments.csv"
 +++
 
 It’s easy to add a link to a URL to the home screen on the iPhone. When you’re looking at a web page, just hit “+” and select “Add to Home Screen”. On Android it’s slightly more involved:

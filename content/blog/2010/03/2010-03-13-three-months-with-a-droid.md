@@ -6,6 +6,7 @@ slug = "three-months-with-a-droid"
 tags = ['android','general','nokia']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2010/03/2010-03-13-three-months-with-a-droid-comments.csv"
 +++
 
 Just before Christmas I got a [Motorola Milestone](http://en.wikipedia.org/wiki/Motorola_Milestone) to replace my [Nokia N95](http://en.wikipedia.org/wiki/Nokia_n95). At the time it was the latest and greatest Android device to be released in the UK, and it’s my first non-Nokia device in a decade.

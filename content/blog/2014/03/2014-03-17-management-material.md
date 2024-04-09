@@ -6,6 +6,7 @@ slug = "management-material"
 tags = ['general','management']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2014/03/2014-03-17-management-material-comments.csv"
 +++
 
 So, despite my [sterling attempt to delude myself last year](http://philwilson.org/blog/2013/11/57-days) it’s been years since I’ve been a developer rather than a manager, and it was about the time of this change in my role that this blog started to die out.

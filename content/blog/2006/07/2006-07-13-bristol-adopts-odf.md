@@ -6,6 +6,7 @@ slug = "bristol-adopts-odf"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/07/2006-07-13-bristol-adopts-odf-comments.csv"
 +++
 
 Bristol City Council [has joined the ODF Alliance](http://www.cbronline.com/article_news.asp?guid=26A545A9-8BC5-41F5-813B-9448B16F5980), furthering the city’s work as a member of the Government’s [Open Source Academy](http://www.opensourceacademy.gov.uk/).

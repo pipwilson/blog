@@ -6,6 +6,7 @@ slug = "week-24-paper-and-glass"
 tags = ['general','weeknotes']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2021/03/2021-03-28-week-24-paper-and-glass-comments.csv"
 +++
 
 - We are at 12 months since the first Coronavirus Lockdown in the UK. What an absolute joy.

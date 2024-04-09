@@ -6,6 +6,7 @@ slug = "personal-arduino-failure"
 tags = ['arduino','general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/05/2008-05-02-personal-arduino-failure-comments.csv"
 +++
 
 So next week is [XTech 2008](http://2008.xtech.org/) and I’m not going.

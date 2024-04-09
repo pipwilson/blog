@@ -6,6 +6,7 @@ slug = "second-life-is-bobbins"
 tags = ['general','secondlife','xtech']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2007/05/2007-05-22-second-life-is-bobbins-comments.csv"
 +++
 
 I haven’t really used Second Life that much, and I don’t really intend to, but there seems [to have been a real-life conference](http://technorati.com/tag/efsym2007) the other day which ran in parallel to one in Second Life and it made me leave a comment [on someone’s writeup, ](http://blog.paulwalk.net/2007/05/13/eduserv-symposium-2007-virtual-worlds-real-learning/)which I thought I’d repost here, because what’s a weblog for if not making you look stupid?

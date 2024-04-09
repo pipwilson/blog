@@ -6,6 +6,7 @@ slug = "samsung-tv-sdk-setting-your-project-path"
 tags = ['general','mklink','samsung','tv']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2012/03/2012-03-25-samsung-tv-sdk-setting-your-project-path-comments.csv"
 +++
 
 I have a Samsung Smart TV which means I can write apps for it. [The SDK you can download](http://www.samsungdforum.com/) is really a visual editor and a shorcut to launching the emulator – the apps themselves are mostly written in HTML, JavaScript and CSS. It comes with jQuery, and all-in-all is surprisingly acceptable.

@@ -6,6 +6,7 @@ slug = "how-to-combine-communication-channel-histories"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/07/2005-07-22-how-to-combine-communication-channel-histories-comments.csv"
 +++
 
 I regularly contact the same people, over and over again using a variety of e-mail, instant messenger and SMS. Conversations move seamlessly between these different mediums depending on where I or the people I’m communicating with are at the time. To my brain, the digital location of the conversation isn’t relevant, just the fact that I’ve been in communication with a certain person on a certain topic; if I’m lucky I might even remember vaguely when. So how do I go about finding where I had this conversation?

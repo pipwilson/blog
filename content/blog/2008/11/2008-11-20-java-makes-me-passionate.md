@@ -6,6 +6,7 @@ slug = "java-makes-me-passionate"
 tags = ['apache','general','grails','java','play','ruby','struts2']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2008/11/2008-11-20-java-makes-me-passionate-comments.csv"
 +++
 
 Seriously.

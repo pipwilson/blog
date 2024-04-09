@@ -6,6 +6,7 @@ slug = "things-that-annoy-me-about-firefox-2-ui"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/11/2006-11-05-things-that-annoy-me-about-firefox-2-ui-comments.csv"
 +++
 
 - No close button on every tab

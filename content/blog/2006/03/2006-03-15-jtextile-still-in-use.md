@@ -6,6 +6,7 @@ slug = "jtextile-still-in-use"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2006/03/2006-03-15-jtextile-still-in-use-comments.csv"
 +++
 
 In the last couple of weeks, there have been [three separate reports of JTextile being used in the wild!](http://philwilson.org/projects/jtextile/2006/03/applications-that-use-jtextile.html) That should keep [Gareth](http://xurble.org) happy 🙂

@@ -6,6 +6,7 @@ slug = "i-have-forked-charbot-green"
 tags = ['bbc','general','iplayer','ruby','twitter']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2010/01/2010-01-14-i-have-forked-charbot-green-comments.csv"
 +++
 
 About a year ago Libby Miller [wrote Charbot Green](http://planb.nicecupoftea.org/2009/02/03/charbotgreen-a-twitter-radio-4-announcement-bot/), a [BBC Radio 4 announcement bot for Twitter](http://twitter.com/charbotgreen2). It’s written in [JRuby](http://jruby.org/), uses the [H2 database](http://www.h2database.com/) and [the source code is in SVN here](http://svn.foaf-project.org/foaftown/2009/charbotgreen/).

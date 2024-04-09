@@ -6,6 +6,7 @@ slug = "tracking-comments"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2004/12/2004-12-26-tracking-comments-comments.csv"
 +++
 
 Tracking conversations on other weblogs is a perennial problem. Some people swear by [Feedster](http://www.feedster.com), others by [Technorati](http://www.technorati.com/), maybe you could track incoming links to your own site where new people have clicked through from a comment you left on another site (to give some idea of activity). Some weblogs (notably [WordPress](http://wordpress.org/)) provide a per-post RSS feed, but that can be annoying if your aggregator displays your feed list and you watch it spiral out of control and have to spend time managing it. Other weblogs like Movable Type (and, I guess, Typepad) let you subscribe to comments on posts via email. And there’s trackback, which is even usable, to an extent.

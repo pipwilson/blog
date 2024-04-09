@@ -6,6 +6,7 @@ slug = "finding-related-items-in-your-rss-datastore"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/03/2005-03-08-finding-related-items-in-your-rss-datastore-comments.csv"
 +++
 
 Jon Udell’s latest screencast [“The on-demand blogosphere”](http://weblog.infoworld.com/udell/2005/03/07.html) shows how he mines the data stored by his aggregator to find out who on his blogroll has made a post related to what he’s reading at a given moment, based on anything from the currently selected word in a block of text, to the URLs the text links to.

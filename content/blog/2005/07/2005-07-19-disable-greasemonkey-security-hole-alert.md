@@ -6,6 +6,7 @@ slug = "disable-greasemonkey-security-hole-alert"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/07/2005-07-19-disable-greasemonkey-security-hole-alert-comments.csv"
 +++
 
 [Greasemonkey has a massive security hole in it](http://mozdev.org/pipermail/greasemonkey/2005-July/004022.html) which, depending on the scripts you have installed, can allow any website to read the contents of your hard drive (this is the case as far as I understand it, please leave a comment if I have the details wrong).

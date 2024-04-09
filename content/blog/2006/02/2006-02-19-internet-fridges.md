@@ -6,6 +6,7 @@ slug = "internet-fridges"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/02/2006-02-19-internet-fridges-comments.csv"
 +++
 
 I was reading the other day about how futurologists get it wrong and how we’re never going to see an Internet Fridge. Well goddamn if I don’t want some variation on that.

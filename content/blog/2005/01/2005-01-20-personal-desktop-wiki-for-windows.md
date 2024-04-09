@@ -6,6 +6,7 @@ slug = "personal-desktop-wiki-for-windows"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2005/01/2005-01-20-personal-desktop-wiki-for-windows-comments.csv"
 +++
 
 A number of small applications I’m working on have all had their release dates unceremoniously pushed back due to my discovery of [Wikidpad](http://www.jhorman.org/wikidPad/ "wikidPad is a Wiki-like notebook for storing your thoughts, ideas, todo lists, contacts, or anything else you can think of to write down.").

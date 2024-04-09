@@ -6,6 +6,7 @@ slug = "id-cards-for-what-reason"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/09/2005-09-26-id-cards-for-what-reason-comments.csv"
 +++
 
 > No2ID spokesman Dave Gould …. said “Why are we spending public money on this technology when it hasn’t been approved by Parliament? Surely that isn’t the way a democracy works?

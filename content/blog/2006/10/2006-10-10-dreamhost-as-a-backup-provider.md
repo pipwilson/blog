@@ -6,6 +6,7 @@ slug = "dreamhost-as-a-backup-provider"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/10/2006-10-10-dreamhost-as-a-backup-provider-comments.csv"
 +++
 
 The [more](http://jeremy.zawodny.com/blog/archives/007624.html) I [read](http://torrez.us/archives/2006/10/09/501/), the more tempted I am to bite the bullet, [buy “web hosting” space](http://www.dreamhost.com/hosting.html) on DreamHost, and just start [rsyncing](http://en.wikipedia.org/wiki/Rsync) all of both my and my wife’s data up there.

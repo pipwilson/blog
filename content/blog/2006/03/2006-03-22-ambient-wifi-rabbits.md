@@ -6,6 +6,7 @@ slug = "ambient-wifi-rabbits"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/03/2006-03-22-ambient-wifi-rabbits-comments.csv"
 +++
 
 Nine months ago [I was looking for a good ambient presence display](http://philwilson.org/blog/2005/06/ambient-presence-display.html), which could also be used for things like build status monitoring, but I didn’t really come up with anything.

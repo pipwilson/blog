@@ -6,6 +6,7 @@ slug = "auto-tagging-items-in-feedonfeeds"
 tags = ['general']
 [extra]
 show_comments = "false"
+comments_file = "/content/blog/2005/08/2005-08-14-auto-tagging-items-in-feedonfeeds-comments.csv"
 +++
 
 I’ve just added the facility to tag feeds in my version of FeedOnFeeds so that I can group blogs together and read through them more quickly, and in a more focussed manner.

@@ -6,6 +6,7 @@ slug = "opera-web-browser-on-the-nintendo-wii"
 tags = ['general']
 [extra]
 show_comments = "true"
+comments_file = "/content/blog/2006/05/2006-05-10-opera-web-browser-on-the-nintendo-wii-comments.csv"
 +++
 
 Along with all the other news coming out at E3 2006, [Opera have announced that their web browser will run on the Nintendo Wii](http://www.opera.com/pressreleases/en/2006/05/10/ "Opera on the Wii").
