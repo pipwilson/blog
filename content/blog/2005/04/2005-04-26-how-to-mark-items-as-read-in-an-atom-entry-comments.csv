@@ -1,0 +1,7 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+438,2005-04-26T17:20:00+00:00,Anne,,,comment,0,"What is the use case?"
+439,2005-04-26T18:43:00+00:00,Pip,,,comment,0,"I’m synchronising a centralised aggregator (FeedOnFeeds) with a desktop aggregator (FeedThing) using Atom-over-XMPP and want to be able to mark in both when items have been read in one."
+440,2005-04-27T10:44:00+00:00,Anne,,,comment,0,"I thought atom:id and other elements of Atom (atom:updated) and such should solve this. Now I’m not really sure anymore but it has been a while since I read the draft."
+441,2005-04-27T11:41:00+00:00,Pip,,,comment,0,"atom:updated is only for the publisher to change I believe, and I don’t want to mangle the atom:id.
+
+I’m pretty sure I need another solution, but I’m willing to be convinced."

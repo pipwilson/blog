@@ -1,0 +1,11 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+584,2005-09-11T08:39:00+00:00,alf,,,comment,0,"I mentioned FOAF in the comments on [this post](http://moloko.itc.it/paoloblog/archives/2005/08/31/a_microformat_for_grouping_all_your_identities.html#comments) – Paolo is looking at using rel=”me” to link accounts together, which could work too."
+585,2005-09-11T11:54:00+00:00,Pip,,,comment,0,"It would only work if you have somewhere where you can list these things of course. I know a good number of of people who use these services but don’t have weblogs.
+
+Flickr lets you have an HTML description, but do the others? And then presumably the script would have to download and scan multiple sources looking for the rel attributes. Hmm."
+586,2005-09-13T15:31:00+00:00,paolo,,,comment,0,"at <http://gmpg.org/xfn/and/#idconsolidation>  
+there is a possible way to embed in remote sites (i.e. flickr) a link back to your blog, or simple page where you can express with rel=”me”  
+I think it can work. For people that don’t have blogs, someone could provide a site (identitiespool.org ?) in which you register and state that you are xxx@flickr, <yyy@del.icio.us>, etc. identitiespool.org could export those data both in FOAF and in XFN. just an idea …
+
+on the other hand, peritus (who provided improuvements to the code) was interested in adding FOAF support, see comments in my post."
+587,2005-09-14T09:19:00+00:00,Pip,,,comment,0,"That’s interesting, thanks Paolo. I’ll have to think about this some more."

@@ -1,0 +1,26 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+700,2005-12-08T16:59:00+00:00,"Charl van Niekerk",,,comment,0,"Funny; personally I thought Kubuntu was one of the fastest. If you really want to see bloatware, try the new SuSE. Anyway, I run Kubuntu quite comfortably on 128MB RAM on a 533MHz Celeron.
+
+Is there a possibility that there might be some funny kind of incompatibility/bug affecting your machine?
+
+Anyway, personally I’m switching a lot of stuff over to BSD at the moment. Now that’s speed for you; pity about the hardware/software compatibility."
+701,2005-12-08T17:03:00+00:00,Pip,,,comment,0,"Do you use the full KDE desktop, or some other window manager?
+
+I find that so long as I’m using native KDE applications it goes at a reasonable speed, but as soon as I open one non-native application, the performance of the entire system drops significantly. I suppose there *could* be some incompatibility somewhere, but I would think it’s quite esoteric.
+
+Yes, as you (almost) say: BSD is fast, but nothing works 😉"
+702,2005-12-09T14:02:00+00:00,"Charl van Niekerk",,,comment,0,"I was using the standard KDE out-of-the-box setup on Kubuntu 5.10
+
+If you’re looking for speed in the Linux arena, you might consider Gentoo though. Then you can setup your system piece by piece and only install what you really want. The result: a perfectly tuned system (if you know what you’re doing and are willing to spend some time, that is). Apparently Debian is also not too slow, but I never tried it myself (shamefully).
+
+I wouldn’t come close to saying that nothing works in BSD. There are many, many applications that have been ported to FreeBSD and even to OpenBSD. And if it isn’t available in the ports, compiling yourself should also work normally. You do get a few “hard-necked” packages that won’t want to compile, but most of the stuff I use seem to work perfectly.
+
+BSD is more tuned towards the server, so in my book I would recommend it for the server and Linux for the desktop (just because of the better compatibility, especially hardware-wise). Also, Linux (especially Ubuntu and related distro’s) is more polished. I do run BSD on the desktop too, and it makes a surprisingly good desktop (unless you have a lot of “funny” hardware).
+
+On my OpenBSD box (a fairly old box – think pre-year-2000 – 300MHz Celeron with 384 MB RAM – I mostly use it as a server) KDE runs fine. Konqueror runs very fast, but when I try Firefox (the ported version) it’s *utterly* slow. Maybe this is indeed a problem with non-native apps in KDE. I don’t have this problem with FreeBSD though. Weird.
+
+I’m going to try to install Gnome on it and see how that works out. Might be interesting."
+703,2005-12-09T16:58:00+00:00,"Charl van Niekerk",,,comment,0,"I was just on the OpenBSD box navigating in KDE without the mouse (there’s no mouse attached to it) and suddenly I remembered about something. If you want to access the K menu, just press Alt+F1 and if you want to access the Run window just press Alt+F2. Hope this helps. 🙂"
+704,2005-12-10T19:13:00+00:00,Pip,,,comment,0,"Well, I’ve not run BSD for about five years, so my views are all quite old-fashioned 🙂
+
+Thanks for the shortcut reminders (I did already know them though) – they’re good, but I have seven years’ worth of muscle memory attached to the Windows key. Not even being able to hack in similar support for Kubuntu, given that previous versions of KDE have been able to do this, is really annoying."

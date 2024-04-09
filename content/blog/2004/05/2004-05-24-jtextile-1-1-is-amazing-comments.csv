@@ -1,0 +1,8 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+18,2011-01-19T17:10:26+00:00,"André Caron",andre.l.caron@gmail.com,,comment,0,"Link to the code (<http://philwilson.org/code/jtextile/>) is broken! I get a “Forbidden” message."
+19,2011-01-19T19:14:13+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"Hi André, although my broken link is an accident, I recommend you look at <http://wiki.eclipse.org/Mylyn/WikiText> – JTextile hasn’t been updated in over 5 years whereas WikiText (which is what Textile4J turned into) is very very good!"
+20,2011-12-30T16:12:36+00:00,"Timothy Stone",tstone@code-henge.com,http://www.anothercaffeinatedday.com,comment,0,"Phil,
+
+Dropped you a line regarding jtextile. Would love to “shepherd” it a little further, age aside. Also, Textile-J, not Textile4J, became WikiText.
+
+Happy New Year!"

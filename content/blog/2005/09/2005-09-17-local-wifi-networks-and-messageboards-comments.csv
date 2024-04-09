@@ -1,0 +1,14 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+592,2005-09-18T09:14:00+00:00,Andy,,,comment,0,"You could start by just setting it up and then seeing how many wardrivers you have in your apartment block 🙂  
+I think word of mouth would help to publicise it – and you could always use the traditional noticeboard.  
+Note that you’d have to watch the toc of your isp to make sure they don’t mind you doing this!"
+593,2005-09-18T09:14:00+00:00,amillionlittlepieces,,,comment,0,"I’ve been thinking about this as well. Well, setting up a residents association – not so much the board bit!
+
+There are about 10 flats in my building and the managing agent is terrible at getting anything done, strength in numbers etc…
+
+Why do it over wifi though? Why not just stick a php bb on a server?"
+594,2005-09-18T13:57:00+00:00,Pip,,,comment,0,"Well, so long as I’m not actually providing internet access via my router (which I could block at the router’s firewall), it shouldn’t be anything to do with the ISP.
+
+phpbb? I may as well \*ask\* for my server to be hacked 🙂
+
+anyway, wifi’s more fun 🙂"

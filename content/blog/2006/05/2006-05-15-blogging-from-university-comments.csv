@@ -1,0 +1,44 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+871,2006-05-15T18:41:00+00:00,Fin,,,comment,0,"Right away I would be thinking custom PHP option, which wouldn’t (and I haven’t thought very hard about this) be too difficult or time consuming to make.
+
+The nice thing about wordpress is that, should you want to, you can take the good bits and put them into your own app as you wish.
+
+It’s actually a really nice idea… I suppose the greatest difficulty would be managing the list of those who get blogs (students, etc.) or perhaps even the massive database the scheme could produce. This is a dream UI project in many ways, too.
+
+I would be interesting in seeing where this goes, if anywhere."
+872,2006-05-15T21:09:00+00:00,Pip,,,comment,0,"Actually the management and database side are relatively easy, we’re more concerned with adequate application infrastructure.
+
+“Right away I would be thinking custom PHP option”
+
+See, that’s not going to work because it means a dedicating at least one developer full-time to the job of creating it, and the massive maintenance burden this would bring.
+
+If we use an existing solution (with any changes we make ideally committed back to the main codebase) we get a free upgrade path when changes and fixes are added.
+
+Again, we’d rely on the main product for most of the UI, but we don’t have any UI designers in-house so it’s not as if we’d come up with anything better anyway. 🙂"
+873,2006-05-22T09:30:00+00:00,"Tiago Silveira",,,comment,0,"Well, My blog is a Roller deployment at jroller.com and I use WordPress on a project blog. WP Kicks Roller’s ass any day: performance, ease of configuration, extensibility.
+
+Besides, WP delivers HTML with superior quality than most (all?) roller themes; you have far more control over the urls that WP generates, and the defaults are much better.
+
+By the time you need to scale it so high that MySQL can’t handle it, your options will be different.
+
+It’s a sad thing that the Java community hardly ever delivers good community tools."
+874,2006-05-22T10:54:00+00:00,Pip,,,comment,0,"Surely the performance issue is one of a hosted solution vs. not?
+
+I agree with you in terms of extensibility, and mention this in my post, but this probably isn’t an issue for a hosted solution – we probably wouldn’t offer the ability to extend their blogs and off the top of my head there’s no missing functionality that we’d want to bundle straight off."
+875,2006-05-24T06:36:00+00:00,Ken,,,comment,0,"FYI, I’ve just got LDAP (NDS) working with WP 2.02. Instructions were well hidden, like lots of open source documentation, but it is very possible (and easy, in retrospect)."
+876,2006-05-24T09:25:00+00:00,Pip,,,comment,0,"Any URL you’d care to share, or am I going to have to hunt for it myself?"
+877,2006-05-25T07:36:00+00:00,Ken,,,comment,0,"Here…
+
+<http://patcavit.com/2005/05/11/wordpress-ldap-and-playing-nicely/>
+
+Instructions are on the page, as well as a link to the download of the plugin."
+878,2006-05-25T09:25:00+00:00,Pip,,,comment,0,"Ah yes, I had seen that before, but last time I looked it didn’t include the patches for WP 2.x. Cool, thanks!"
+879,2006-05-25T22:59:00+00:00,Ken,,,comment,0,"Heh…
+
+It doesn’t include the patches for 2.X, but it works anyway…"
+880,2006-05-30T03:46:00+00:00,"John Bachir",,,comment,0,"*As far as I can tell, there are two primary candidates: WordPress MU and Roller.*
+
+Don’t forget [Lyceum](http://lyceum.ibiblio.org/).
+
+🙂"
+881,2006-06-06T09:57:00+00:00,Pip,,,comment,0,"Hey, thanks for the pointer John, I don’t think I’d even seen Lyceum before."

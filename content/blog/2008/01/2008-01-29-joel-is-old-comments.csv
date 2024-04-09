@@ -1,0 +1,27 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1260,2008-01-30T01:38:00+00:00,"Philip Cristiano",whocarez@gmail.com,http://www.philipcristiano.com,comment,0,"His original article was about Cue-Cats. I saw the infomercial and thought it was a great idea, but I was a 12 year-old kid."
+1261,2008-01-30T10:31:25+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"His article in 2000 was, yes. His article yesterday, on the other hand, wasn’t."
+1262,2008-01-30T15:31:49+00:00,Glenn,glenn.gillen@gmail.com,http://rubypond.com,comment,0,"I’ve seen these in various advertisements for years in Australia. Mainly to download ringtones and other such things. I’ve only used it myself once, so I just assumed Nokia had the required software pre-installed on their phones.
+
+From my experience, they weren’t particularly useful but that may be because phone bandwidth at the time was terrible. I also don’t think that the US mobile market, both in terms of user expectations and handset capabilities, if a very fair reflection of the global market. Maybe it’s changed recently though"
+1263,2008-01-30T17:58:24+00:00,Joe,noemail@foryou.com,,comment,0,"Why should he stick to commenting on software? He’s just as reliably wrong about that as he is about this."
+1264,2008-01-31T00:14:47+00:00,"Gary Fleming",gary.fleming@gmail.com,http://solitude.vkps.co.uk,comment,0,"While I agree that typing URLs could be far more pleasant, I don’t think this is the answer. Have you tried using a typical bit of software for this?
+
+I’m pretty proficient technically, with a great phone that supports this stuff out of the box (a Nokia N95), and it just would not work. I spent several minutes trying to grab one of these (and ultimately failing), when it would have taken 30 seconds to type in a URL. Perhaps I was doing something wrong, but I really don’t care: it’s not intuitive enough or as fast as typing, even on a handset."
+1265,2008-01-31T10:57:35+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"I also have an N95. I’ve scanned a dozen or so QR codes in the past few months and it’s never taken more than 5 seconds.
+
+Two things to bear in mind:
+
+1\) not all codes that look like this are QR codes. There are multiple standards, although QR codes are the most common
+
+2\) Make sure it is set to “close up mode”.
+
+Try scanning the QR code on this page. For me it works if I pretty much just swipe the screen."
+1266,2008-01-31T17:45:40+00:00,"Gary Fleming",gary.fleming@gmail.com,http://solitude.vkps.co.uk,comment,0,"Phone is charging just now so I’ll try later, but it seems to be that having multiple competing standards that, to the user, are indistinguishable on inspection is another nail in the coffin. Why should we waste people’s time with codes that they may or may not be able to use when some text would suffice?"
+1267,2008-01-31T20:27:54+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Well, the only non-QR codes I’ve seen in the flesh have been on items sent through the post where they use a QR-like square of blots. It’s just worth knowing in case that really was your problem.
+
+To make that very clear: all the other codes I’ve seen (over a number of years) have been immediately usable and delivered content in seconds that would have taken minutes to type in (QR codes can be grouped in grids to provide greater amounts of information)."
+1268,2008-01-31T22:11:52+00:00,Stu,stu.axon+philwilson@gmail.com,http://stuartaxon.com,comment,0,"What QR readers are people using; I’ve been using Kaywa reader at the moment and it scans the code on the page ok.
+
+BTW – the URL thing is real pain, as a mobile developer it’s really annoying having to type in those URLs to download things."
+1269,2008-06-06T11:13:49+00:00,Oliver,servive@gmx.net,http://www.oliver-barthel.de,comment,0,"Good article! your site let me learn more. Thanks!Pls keep up to date."

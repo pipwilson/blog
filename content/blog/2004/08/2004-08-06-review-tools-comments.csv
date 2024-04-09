@@ -1,0 +1,14 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+125,2004-08-06T12:04:00+00:00,Anonymous,,,comment,0,"The problem with multiple urn:asin tags is real, but hopefully there’ll be a way of collapsing them in your tag list soon. A tag for each individual item is necessary though, so that you can see who else bookmarked the same item (you could use the Amazon URL for this I suppose, but that would split up bookmarks that point to different countries).
+
+I switched from a plain n% to rating:80% today, to avoid conflict with a possible ‘currently reading’ list where you might want to indicate how far through the book you are. It’s debatable whether that’s necessary, but I’m not getting your problem with invalid delicious URLs anyway – maybe you’re not escaping the percent sign, eg <http://del.icio.us/hublicious/rating:80%25>
+
+The year tags don’t work for individual users as they conflict with the numbers used for ‘earlier and ‘later’ pages. You can get around this by putting a ‘+’ in front of the number, eg <http://del.icio.us/hublicious/+2004> . The year tags work fine globally however, eg <http://del.icio.us/tag/2004>
+
+You’re right about the pure reviews server though. Want to help get it started?"
+126,2004-08-06T12:06:00+00:00,Anonymous,,,comment,0,"^ That was Alf, by the way ^"
+127,2004-08-06T12:31:00+00:00,Pip,,,comment,0,"Of course you’re completely right, it’s choking on the unescaped %, I don’t know why, but I thought it was failing on the colon. Possibly because I’m a fool. 🙂
+
+Still, it’s a shame it doesn’t auto-escape the % for you.
+
+Of course, it conflicts with the delicious date system. It’s been so long since I used that I’d forgotten it existed. Good hint about using + before the number to see it. The global tag is slightly less useful of course because you really want just reviews for the year and I don’t think you can join tags globally can you?"

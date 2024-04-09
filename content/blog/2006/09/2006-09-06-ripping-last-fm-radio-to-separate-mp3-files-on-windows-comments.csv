@@ -1,0 +1,28 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+928,2006-09-06T22:31:00+00:00,Anonymous,,,comment,0,"You could always run them through musicbrains to get your ID3. Can you automate that for me too? 😉  
+-leff (I can never remember my blogger login)"
+929,2006-09-07T08:40:00+00:00,Anonymous,,,comment,0,"same “fun” with pandora.com :  
+[http://www.tech-recipes.com/internet\_tips1391.html](http://www.tech-recipes.com/internet_tips1391.html)"
+930,2006-09-07T09:33:00+00:00,Pip,,,comment,0,"leff – have you got more details on how to do that? I was trying a couple of days ago and failed miserably. If the files are named correectly then what I tend to do is use MediaMonkey to sort out the tags, however I also have some unnamed songs which I’d like MusicBrainz to sort out for me.
+
+Cheers for the Pandora ripping link, Anon – the other alternative I’ve seen is <http://pyrcast.com/index.html> but I’ve not used either of them."
+931,2006-09-07T12:38:00+00:00,"Irregular Shed",,,comment,0,"I’ve been doing a fair bit of Pandora ripping. It’s hardly ripping though, it’s copying a file from one directory to another before it gets deleted when you close the app.
+
+There’s that Java-based thing, Pandora’s Jar, which can automate some of it but I found it was getting far too many songs named incorrectly – especially if I swapped channels – so I went the manual way and kept an eye on the files being downloaded."
+932,2006-09-07T12:40:00+00:00,"Irregular Shed",,,comment,0,"… but now I know about Pyrrha, I’m going to give that a go. Meant to say that but didn’t. Blimey, it’s hot for September…"
+933,2006-11-19T18:51:00+00:00,"joe wilson",,,comment,0,"thanx for the article, though this message is abit late.. it was a big help, though i don’t that streamripper, i like the orignal console based version <http://streamripper.sourceforge.net/>  
+and i prefer to do it in linux with quite a few terminals open.
+
+wget <http://localhost:1881/skip>  
+wget <http://localhost:1881/ban>  
+wget <http://localhost:1881/love>  
+wget <http://localhost:1881/np> &lt;–refreshes  
+using the /rtp and /nortp and the end there will turn on or off the record to profile..
+
+and thanx for your compliments on the pandora.jar we spent alot of time working on it…"
+934,2007-03-28T09:25:00+00:00,Dmitry,,,comment,0,"Great, earlier i am use soundforge to cut different files =)"
+935,2008-03-20T23:48:00+00:00,Greg,,,comment,0,"Or even better, just download StationRipper – <http://www.stationripper.com> which just will directly record/download last.fm!"
+936,2009-03-24T14:08:14+00:00,Pascal,fluchtpunkt@gmx.de,http://www.indiji.com,comment,0,"Or use LFMPlayer – <http://www.indiji.com/lfmplayer> – Player, Ripper, Slideshow, Lyrics, Naming, ID3-Tagging,.."
+937,2009-06-25T05:00:20+00:00,Taylor,saveed@yahoo.com,,comment,0,"lmao at the subtitle in parenthesis, so true, so true.
+
+That’s how I got here"

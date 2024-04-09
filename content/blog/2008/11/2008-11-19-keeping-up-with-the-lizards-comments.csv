@@ -1,0 +1,5 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1393,2008-11-27T16:59:24+00:00,"Dirkjan Ochtman",dirkjan@ochtman.nl,,comment,0,"Actually, I think XUL development is getting off the ground, too. With stuff like Spicebird, Songbird, Instantbird and Flock, and Thunderbird moving off into its own company, people are actually using XULRunner, so it’s getting better and better."
+1394,2008-11-28T11:15:36+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"I think it’s been slow going, and reasonably painful to get even to this state.
+
+Also, I think it’s easy to see from the pace of change for those tools and long-lived beta status that while things are getting better XUL has not been the massive success some of us anticipated in the early noughties."

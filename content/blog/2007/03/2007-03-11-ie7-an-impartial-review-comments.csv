@@ -1,0 +1,99 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1084,2007-03-12T02:07:00+00:00,Anonymous,,,comment,0,"ie7 is crap keeps crashing my pc am now using firefox wich seems work fine ."
+1085,2007-03-12T09:17:00+00:00,"Andy Davies",,,comment,0,"Funny thing is, I actually like the way it opens the tabs next to each other and the way the refresh buttons moved next to the URL but…
+
+It’s changed behaviour for most people, some of the changes may make things more logical and useable for a first time user, but existing users have a lot to relearn.
+
+Whether the changes meet the “don’t make me think” rule of usability is another matter…"
+1086,2007-03-12T14:34:00+00:00,"Jeremy Sisson",,,comment,0,"As bad as the IE7 interface might be, as a web developer I really hope people start using it over IE6. IE6 is terrible to develop for! (…or is it wishful thinking that IE7 will be better than IE6?)"
+1087,2007-03-12T16:27:00+00:00,Anonymous,,,comment,0,"i actually like the tab system in IE7
+
+when i’m trying to quickly search for info, i like to control click a bunch of links, and then while each is loading in the background, start reading through the tabs in serial manner
+
+this would be a huge hassel if each tab popped to the front when it was created
+
+the other thing i like, is the new “mini tab” thingie on the end, that allows you to create and enter a new tab in one step
+
+i usually run firefox, as i really love all the web editing plugins (firebug and such), but when i get tired of firefox using up all of my memory, its refreshing to use IE7 for a while"
+1088,2007-03-12T17:08:00+00:00,danja,,,comment,0,"Oh lordy. Hope I/we’ll be spared this one. I still haven’t got used to XP on Caroline’s machine. It was easy enough to get her to switch to Firefox – PDFs wouldn’t print properly from IE6. That turned out to be lousy printer drivers (which took a new printer to fix), but by then I’d swapped the icons &amp; defaults…"
+1089,2007-03-12T18:19:00+00:00,mikeray,,,comment,0,"1\) Address bar too high  
+Try this registry setting
+
+\[HKEY\_CURRENT\_USERSoftwareMicrosoftInternet ExplorerToolbarWebBrowser\]  
+“ITBar7Position”=dword:00000001
+
+And then enable the menubar.  
+This will bring the addressbar down.
+
+2)To bring new tabs to front.  
+Internet Options – General – Tabs – Settings Button – Enable ‘Always switch to new tabs …’
+
+3)To open new tab at end of the row and not next to current tab  
+Internet Options – General – Tabs – Settings Button – Disable ‘Open new tabs next to current tabs’"
+1090,2007-03-12T18:32:00+00:00,mikeray,,,comment,0,"Also, I use Opera 9(On Windows XP) as my primary browser.
+
+Family members and friends who sometimes use my computer have different browser preferences.
+
+I keep IE7 and Firefox always handy. Firefox is loaded with the addons I need, even if I use it rarely.
+
+I don’t take part in browser wars anymore. Browse and let browse."
+1091,2007-03-12T21:43:00+00:00,"Mrs Phil Wilson",,,comment,0,"Mikeray&gt; Thanks for your comments and I hope that they will help someone else fix the dreadful factory defaults. Unfortunately, the shining beacon of hope represented by ‘Internet Options’ is a greyed-out dead end of heartbreak on my restricted access work computer."
+1092,2007-03-13T07:43:00+00:00,quark,,,comment,0,"Whatever your wife or you might think, she is not a tech-literate. Not knowing how to use tabs, how keyboard shortcuts work (who in their right minds use the mouse to enter an address? I’ve used ALT+D since Internet Explorer 4) and thinking that it’s Linux or Firefox’ fault that web pages or applications doesn’t work outside Windows/Internet Explorer 6+ is at least now what I’d consider “tech-literate”. Far from tech-savvy at least.
+
+Other than that, I completely agree with her. Internet Explorer 7 blows."
+1093,2007-03-13T12:45:00+00:00,"Phil Wilson",,,comment,0,"Hm, I think you’ve misunderstood a number of points.
+
+\* she doesn’t think it’s Firefox’s fault that sites don’t work, but if a critical site doesn’t work in Fx because of the lame developers that is a disincentive to switch
+
+\* I can’t think of a single non-developer MS application which uses tabs. This will be a major shift for every Windows user.
+
+\* she does of course use keyboard shortcuts from time to time, but get this – you don’t have to use them to be tech-literate. Hardly anyone in my web development team uses them. This does not mean they are not tech-literate.
+
+Someone having a different technical background and skillset from you doesn’t mean they’re not tech-literate."
+1094,2007-03-13T18:06:00+00:00,quark,,,comment,0,"I guess our definition of “tech literate” differs, then. Let’s just agree to disagree."
+1095,2007-03-13T18:36:00+00:00,"Mrs Phil Wilson",,,comment,0,"Quark&gt; Who in their right mind would use ALT D to enter a web address when F6 is only one button to do the same job? I know my keyboard shortcuts, but if I’ve been using the mouse to point and click on the web, it’s not beyond the realms of possibility that I might keep my hand on the mouse to click on the web address field.
+
+Re not being au fait with tabs – why should I be? I avoided Firefox because I thought they sucked and no one else uses them. I only do now because they’ve been forced on me. If only I could get to the Hallowed Internet Options, I’d switch them off.
+
+Oh, and in a former life I was a database programmer, I’ve worked on a computer support helpdesk and I’ve been using the internet for 12 years. If I’m not tech-literate, then you must set that bar stupidly high."
+1096,2007-03-14T17:10:00+00:00,mikeray,,,comment,0,"This method worked for a friend.
+
+Try modifying the IE7 settings in the registry using a VBScript file
+
+Save these .vbs files to your computer and try to run them.
+
+Screenshots attached.
+
+1)Disable Tabbed Browsing  
+<http://i16.tinypic.com/34dmlbt.png>
+
+Dim WshShell  
+On Error Resume Next  
+Set WshShell = WScript.CreateObject(“WScript.Shell”)
+
+‘Enable/Disable Tabbed Browsing  
+WshShell.RegWrite”HKCUSoftwareMicrosoftInternet ExplorerTabbedBrowsingEnabled”, 0, “REG\_DWORD”
+
+2)Tweak IE7  
+<http://i16.tinypic.com/42lunuf.png>
+
+Dim WshShell  
+On Error Resume Next  
+Set WshShell = WScript.CreateObject(“WScript.Shell”)
+
+‘Enable/Disable Menu on Top  
+WshShell.RegWrite”HKCUSoftwareMicrosoftInternet ExplorerToolbarWebBrowserITBar7Position”, 1, “REG\_DWORD”
+
+‘Open new tabs in foreground  
+WshShell.RegWrite”HKCUSoftwareMicrosoftInternet ExplorerTabbedBrowsingOpenInForeground”, 1, “REG\_DWORD”
+
+‘Open new tabs adjacent to current tab  
+WshShell.RegWrite”HKCUSoftwareMicrosoftInternet ExplorerTabbedBrowsingOpenAdjacent”, 0, “REG\_DWORD”"
+1097,2007-03-17T23:44:00+00:00,"Mrs Phil Wilson",,,comment,0,"Thanks Mikeray for your suggestions. Unfortunately I’m not even allowed access to my c: drive. I didn’t dare try to run the scripts because I had a suspicion that alarms would go off and my computer would be taken away from me (I even get an ‘unspecified security risk’ warning when I open zip files). I decided that after two weeks the thing that was still annoying me the most was the new tabs not opening in the foreground, so I emailed the IT guy and got him to fix it for the entire school. Hurrah!"
+1098,2007-03-28T15:24:00+00:00,Yvonne,,,comment,0,"@mikeray: all very well, but one shouldn’t need to use registry settings to configure one’s browser.
+
+@pip: I use keyboard shortcuts all the time. The only problem is, the ones in IE are different than the ones in Firefox, afaik.
+
+I had a look at IE7 today to check if my blog worked in it, and hated it. Holding down the Alt key to make the menu bar show itself – well that sucks for a start.
+
+I LOVE tabs and it annoys me that IE7 has just ripped them off without any acknowledgment, so all the ignorati will think Microsoft invented them because they’ve never even heard of Firefox. Sad sad sad."

@@ -1,0 +1,32 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1391,2008-10-12T21:55:18+00:00,"Rod Begbie",rod@arsecandle.org,http://groovymother.com/,comment,0,"I was known at Boston geek events for asking the question. My usual reason for asking, though, was when someone WHO ONLY CARES about the money is doing something incredibly dumb.
+
+For example, I remember seeing swaptree.com (\*Yet Another\* site where you can trade books/CDs/DVDs/etc, their USP being they had an algorithm that could create 3-way or 4-way trades) presenting at Boston WebInno. They had spent a lot of time building this thing purely to make money. And when I asked their monetization plan? Google AdWords.
+
+EPIC FAIL.
+
+Last I heard, they’d launched and were desperately trying to flip it to somebody, ANYBODY, because they were sick of the whole business.
+
+—
+
+The ultimate goal for any passionate geek is, I think, find a way to build something for the love, that \*coincidentally\* makes money. If you build something amazing, you can’t help but make cash from it — even if it’s just getting a higher-paid job because someone saw your half-baked project and recognized your passion and/or smarts."
+1392,2008-10-12T23:37:12+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"The problem being that they will think they know more than you anyway, so the question doesn’t help them, and it doesn’t help the audience, who just hate you more than ever.
+
+Seriously, I agree with the sentiment, but after the first few times I would have asked you to shut the fuck up and let them fail in peace; anyone who doesn’t already realise that someone doesn’t have a monetisation scheme (and is doomed to failure) isn’t going to be illuminated by the question and the answer.
+
+Or maybe they will, I dunno, but it’s such a shortsighted, blinkered question to ask of anyone who’s developed a new piece of software. I mean, who cares if they fail, other than them? The only reason to ask the question would be if you suspect there was some new monetisation scheme they’ve invented, which given that the normal options are ads, subscription or purchase (including resell through digital agencies), is pretty freaking unlikely.
+
+Does anyone know, btw, how Yahoo makes money these days?"
+1390,2008-10-24T13:38:21+00:00,Mike,mike.ellis@gmail.com,http://electronicmuseum.org.uk,comment,0,"I think the fundamental concentration on finance is reasonably depressing, albeit entirely understandable – particularly in the current climate. I suppose it comes down to the question: “why write software?”. For some (I suspect you, but don’t know you well enough..) it might be “because I enjoy doing it”; for others it is more about end-user, or some notion of “improving the lives of those who use it”. I think I’m in this camp more than the first one, not least of all because I’m not a (particularly good) programmer. I’m (as you know) just not sure of the point of writing software which isn’t usable or useful.
+
+Like Rod, I think the ultimate is to do something that ticks all the boxes – the satisfaction of building something great + helping people do something they couldn’t otherwise do tends towards a thing that is likely (almost as an offshoot) to have a potentially lucrative income stream underlying it."
+1388,2008-10-26T22:56:31+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Actually from reading your posts I think you fall in to the camp of being “not sure of the point of writing software which isn’t usable or useful” \*to someone else\* – in particular for people who aren’t great programmers they (you?) are the ones who get the software foisted upon them, so I suspect the standards are higher. It’s the “scratching your own itch” versus selling a back-scratcher isn’t it?
+
+But I agree absolutely on the last point. It’s everyone’s dream isn’t it?"
+1389,2008-10-28T14:38:35+00:00,"Mike Ellis",phil@philwilson.org,http://electronicmuseum.org.uk/,comment,0,"That’s an interesting angle – and you’re right, I don’t tend to think of the utility of writing software for personal use. The mass-market angle is usually the one I like to focus on. I’m fascinated (and frustrated!) that the tools that we take for granted – feed reading / google docs / huddle / wikis, etc etc – just simply don’t have “real world” penetration. And I guess the big questions for me are: “why?” shortly followed by “how can we get these tools more widely used?”.
+
+Writing software (and running conferences!) for geek audiences is always going to be easier, IMO. Writing software that performs useful functions for the non-technically savvy is way, way harder. I guess that’s where I see the financial angle as being a useful / interesting consideration. Moving software (well, anything!) from “great idea” to “great business” to “life changer” asks questions of the idea that you’d never think to ask from a single viewpoint. This is an issue I struggle with personally, for example: I have more ideas than you could shake a stick at, but I’ve never yet succeeded in making any one of them a valid, self-supporting business.
+
+I think this kind of issue asks questions which are much deeper than “does the software work” – for instance (ref. the iphone/G1 conversation): “is it fashionable?”, “can I use it?”, “is it cheap?”, “what colour is it?”, “what do my mates use?” etc.
+
+Coming back to your POV though: this (wonderful) blog post suggests that the answer is to scratch your own itch first, and then look for a market afterwards: <http://tinyurl.com/6gluwt>. Fascinating stuff.."

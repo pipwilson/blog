@@ -1,0 +1,38 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+850,2006-04-25T20:32:00+00:00,jrhyley,,,comment,0,"It’d be funnier if you made it a greasemonkey script."
+851,2006-04-25T21:32:00+00:00,Pip,,,comment,0,"Good point, I hadn’t thought of that 🙂"
+852,2006-04-25T21:58:00+00:00,jrhyley,,,comment,0,"Here you go:
+
+// ==UserScript==  
+// @name Dive Into Legibility  
+// @namespace <http://philwilson.org/>  
+// @description Dive Into Legibility  
+// @include [http://diveintomark.org/\*](http://diveintomark.org/*)  
+// ==/UserScript==
+
+(function() {   
+var style = document.createElement(‘style’);   
+style.setAttribute(‘id’, ‘gmrc’);   
+document.getElementsByTagName(‘head’)\[0\].appendChild(style);   
+document.getElementById(‘gmrc’).sheet.insertRule(‘#container {width: 90% !important; padding: 0px !important; padding-right: 10% !important;}’, 0););
+
+})();"
+853,2006-04-25T22:09:00+00:00,Pip,,,comment,0,"ha! I hadn’t thought you’d **actually do it!**
+
+&gt; *.sheet.insertRule*
+
+ooh, I’ve not seen that before, how very exciting! It’s not often someone shows me something new 🙂"
+854,2006-04-25T22:28:00+00:00,Pip,,,comment,0,"although in fact, isn’t there a GM\_addStyle() ? Along with the !important declarations, that should also work. Something like:
+
+// ==UserScript==  
+// @name Dive Into Legibility  
+// @namespace <http://philwilson.org/>  
+// @description Dive Into Legibility  
+// @include [http://diveintomark.org/\*](http://diveintomark.org/*)  
+// ==/UserScript==
+
+GM\_addStyle(“#container { width: 90% !important; padding: 0 !important; padding-right: 10% !important; }”);"
+855,2006-04-26T00:50:00+00:00,jrhyley,,,comment,0,"*&gt; isn’t there a GM\_addStyle()*  
+There’s a who what now? Now you’ve shown me something new. I really must fix my mail server and start reading the list again. And more carefully."
+856,2006-05-02T14:37:00+00:00,Mark,,,comment,0,"I redesigned over the weekend. Better now?"
+857,2006-05-02T15:32:00+00:00,Pip,,,comment,0,"Much, thanks."

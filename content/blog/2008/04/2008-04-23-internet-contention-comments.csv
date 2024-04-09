@@ -1,0 +1,44 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1318,2008-04-23T20:09:19+00:00,Guru,i@guru.gg,,comment,0,"Back when broadband was new and before your grandma was using P2P, 50:1 contention ratios seemed fine.
+
+Now it feels like the whole thing is getting saturated, contention is starting to bite. This is true on business connections I use as well, so the lower contention there either seems to be no help in the face of hefty p2p and iPlayer :/
+
+I don’t believe this is any reason to start shaping traffic in punative ways, or start a ‘provider pays’ scheme as web/service hosts are the one class of people paying fairly for the bandwidth they use.
+
+In fact, as far as the UK goes, I’m inclined to blame BT for prices not being cheaper and ISP’s not providing more bandwidth per user with better partitioning. That’s just a hunch mind."
+1317,2008-04-23T23:04:22+00:00,"Ian Wild",iwild@plus.net,http://community.plus.net/blog/2007/07/02/broadband-speed-faults-how-to-diagnose/,comment,0,"Hi Phil,
+
+I’m Ian from PlusNet. We’d certainly be very happy to take a look at your connection, and do our best to let you know what’s changed that might be affecting your speed.
+
+We haven’t sold un-metered products for some years, so it could be that you’re exceeding the usage allowance of your product and are having a restricted profile applied (in which case we should have sent an email letting you know), or it might be a fault with your line or exchange. You might just as easily have a virus or an open wireless access point, and someone has begun using your connection without your knowledge.
+
+There are many possibilities, and without having a look at your account it’s impossible to know what the cause might be. As I say, if you get in touch with me via email, or our support guys on 0114 296 5188, we will certainly do our best to help.
+
+Cheers,
+
+Ian"
+1316,2008-04-23T23:08:01+00:00,"Ian Wild",iwild@plus.net,http://community.plus.net,comment,0,"Hi Guru,
+
+My colleague Dave wrote an article describing how much ISPs have to pay for ADSL bandwidth to connect their customers – <http://community.plus.net/blog/2008/02/28/how-uk-isps-are-charged-for-broadband-the-cost-of-ipstream/>
+
+You can see from that why Uncapped was fine when everyone had 512K connections, but these days some form of control is needed to keep things affordable. We choose traffic sharing because we think it’s fairer, and we are proud of what we can offer as a result:
+
+[http://www.telco2.net/blog/2007/11/plusnet\_we\_traffic\_shape\_and\_a\_1.html](http://www.telco2.net/blog/2007/11/plusnet_we_traffic_shape_and_a_1.html)
+
+Cheers,
+
+Ian"
+1320,2008-04-24T07:48:14+00:00,Kelly,kdorset@plus.net,http://community.plus.net,comment,0,"Hey Phil, listen to Ian. 🙂
+
+And pressure me to find out what’s happening to your connection 😀"
+1322,2008-04-25T11:53:46+00:00,Guru,i@guru.gg,,comment,0,"\*very\* nice articles Ian. Thanks for the edumacation 🙂
+
+So, yes, BT bad, moderate shaping good when capacity is saturated.
+
+Does this also mean contention-ratio is a bit of a relic terminology-wise these days?
+
+How soon before pay per chunk ‘o’ bandwidth comes in for heavier users?"
+1321,2008-04-25T14:34:50+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Many thanks to Ian and Kelly for clarifying some issues and helping me sort this out offline!"
+1319,2008-04-28T13:22:30+00:00,Kelly,kdorset@plus.net,http://community.plus.net,comment,0,"Pay per chunk already exist-ish on our product set. Have a look at pro which has all it’s traffic in our gold/titanium queues (two queues so that VoIP/Gaming etc is given priority over other stuff). That product set has 10Gb included, but allows you to by more on top.
+
+[http://www.plus.net/residential/broadband/bbyw\_pro.shtml](http://www.plus.net/residential/broadband/bbyw_pro.shtml)"

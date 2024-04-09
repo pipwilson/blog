@@ -1,0 +1,17 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+867,2006-05-14T05:48:00+00:00,"Jonny Axelsson",,,comment,0,"We’re very far from being on our way out, the last few years have been the absolutely best ones in our existence.
+
+Resolution is commonly used to mean two different things, either screen size (how many pixels across the screeen) or pixel density (how many pixels per inch).
+
+It is true that we have focussed on the small screens width (128×128 pixels is maybe the most common screen size in the world), because has been the greatest challenge. We solve that by reformatting the page to fit those screens. But we also adapt pages for larger screen devices (like Wii) or for the big screen.
+
+Formally, and by CSS, a screen pixel is 1/96 of an inch (or 3/4 of a point) for desktop computers, but if you measure one inch across the screen, you will find that your inch may vary.
+
+Dave Hyatt was talking about high-resolution screens in pixels per inch, and actually we were the first to encounter those, as it were the phones that pioneered these kinds of high-quality high-resolution screens. That makes sense as you want to make phones small, but at the same time get bigger screens, so why not have a greater pixel density. Also, while high-quality screens are more expensive, phones only need tiny (and cheaper) ones.
+
+The next in line for these screens are embedded devices. Not only gaming devices, but also other screens like at dashboards, in plane seats, or anywhere else where you have limited space for the screen. While early adopter PC enthusiasts might get high-resolution screens, it won’t be common on that platform for a while yet.
+
+Finally, on the the opposite end of the spectrum, you have devices like plasma TVs. They can be enormously big and heavy, but have a ridiculously low resolution."
+868,2006-05-14T12:13:00+00:00,Pip,,,comment,0,"Great response Jonny, thanks. I especially liked your mention of the relative resolutions of differently-sized devices; interesting stuff.
+
+Also, I definitely agree with yout about the recent successes of Opera, and I look forward to seeing where that takes you in the short and long-term future."

@@ -1,0 +1,19 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1428,2009-06-22T23:51:53+00:00,Liam,liam@eliam.co.uk,,comment,0,"Thanks 🙂 @ 1am that beep is quite loud!"
+1429,2009-07-19T07:58:48+00:00,Andrey,aaa@bb.cc,,comment,0,"Many thanks you saved my day.  
+Great tip about $HOME."
+1430,2009-07-21T07:20:32+00:00,Htbaa,c.kras@pcc-online.net,http://www.htbaa.com,comment,0,"Thanks. Any idea how to make it shut up when using git-archive?"
+1431,2009-07-22T17:14:29+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"No idea, but it sounds more like a system setting to me. Check your Sounds config!"
+1432,2009-12-09T16:15:05+00:00,don,nobodyhome@rogers.com,,comment,0,"Thanks a lot! Here we are in a new millenium +1 decade and we still have “beepy” things from the 70’s."
+1433,2009-12-12T05:36:08+00:00,"Elijah Insua",tmpvar@gmail.com,,comment,0,"Thanks! I used curl to grab a binary (without piping) and fell into a loud hell. Now it’s a bit quieter."
+1434,2011-06-25T14:23:10+00:00,Ben,golightly.ben@googlemail.com,,comment,0,"Thanks! The file already existed in my install (line 14). If this is the case for anyone else, just edit that line (change audible to none)."
+1435,2011-06-26T23:43:16+00:00,Dylan,crymsonpheonix@gmail.com,,comment,0,"A more direct route would be to issue this command from the msys shell:  
+echo “set bell-style none” &gt;&gt; $HOME/.inputrc"
+1436,2011-09-06T16:58:23+00:00,Fabian,mail@fkurz.net,,comment,0,"Thanks. The beep already tortured by eardrums quite a few times, but not anymore 😉"
+1437,2012-02-21T23:36:59+00:00,Bl0ckeduser,bl0ckedusersoft@gmail.com,,comment,0,"Many thanks. I tried several other things but they didn’t work in MinGW."
+1438,2012-02-25T09:47:06+00:00,Paul,paul@vorb.de,http://vorb.de/,comment,0,"This will disable tab-completion for directories for me. If you want to keep the settings you had before, you may do the following
+
+cd $HOME &amp;&amp; cp /etc/inputrc ./.inputrc &amp;&amp; vim .inputrc
+
+(Replace vim with the editor you prefer.)"
+1439,2014-01-14T12:32:55+00:00,haydn,haydnhkim@gmail.com,,comment,0,"Thanks! Great tip for me!"

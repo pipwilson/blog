@@ -1,0 +1,9 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+637,2006-06-25T07:44:00+00:00,"Peter Giger",,,comment,0,"Yesterday I wrote a mail to the structured blogging people, mentioning that I want to use the SB-plugin for wordpress, but I am hesitant since there is no user activity on their site – why not a forum for example? This is not 2.0 thinking and almost kind of suspicious…."
+638,2006-06-25T08:05:00+00:00,Pip,,,comment,0,"They do have a mailing list which you can check out.
+
+More problematic is that the structured blogging people are the same (as far as I know) as the PubSub people, and they’re about to go bust."
+639,2006-06-25T09:58:00+00:00,"Kimbro Staken",,,comment,0,"Structured Blogging is a completely separate entity from PubSub and will not be taken down with the company. The one exception is the mailing list which is down temporarily, but will be back once it’s setup on a new system.
+
+Also this idea that Structured Blogging and Microformats are competitors is something that is simply [not true.](http://www.kstaken.com/archives/46_microformats-and-structured-blogging-are-not-competitors.html)"
+640,2006-06-26T09:36:00+00:00,Pip,,,comment,0,"Yes, I think it’s clear that they’re not competitors, but to date SB and PubSub have seemed joined very very tightly. I think any confusion on this point is forgivable."

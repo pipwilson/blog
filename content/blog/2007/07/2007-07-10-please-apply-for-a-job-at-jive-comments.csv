@@ -1,0 +1,5 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1159,2007-07-10T18:42:00+00:00,Greg,,,comment,0,"Phil, we just deployed openfire here at work a couple weeks ago. I noticed in your link, problems included inability to autopopulate roster, due to LDAP groups not being supported. Might I assume you are using AD or openldap? We struggled with groups a bit using openldap and came up with a bit of a hack to get it working. Let me know some more details and perhaps I can be of assistance."
+1160,2007-07-11T10:52:00+00:00,"Phil Wilson",,,comment,0,"Well, the LDAP groups are supported, but there are some related problems. Cameron Moore has helped me out on <http://www.igniterealtime.org/issues/browse/JM-865> which seems to be working, but we’ve got some other small problems.
+
+We are currently on OpenLDAP but are moving sometime soon to Sun’s Directory Server I think."

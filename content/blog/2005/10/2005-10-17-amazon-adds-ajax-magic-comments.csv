@@ -1,0 +1,9 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+619,2005-10-17T23:18:00+00:00,"Rob Oxspring",,,comment,0,"Yeah thats slick. But how long do you reckon before it filters down to amazon.co.uk? ;o)"
+620,2005-10-17T23:29:00+00:00,Pip,,,comment,0,"That **is** amazon.co.uk!!! 🙂"
+621,2006-02-19T12:42:00+00:00,"Gary Lake",,,comment,0,"Hey there – looks like they are still testing this based on random IPs or something because at home I get AJAX amazon and at work I get regular amazon…
+
+I’ve blogged it and grabbed the js source if you want to take a look…
+
+garylake.blogspot.com"
+622,2006-02-19T22:48:00+00:00,Pip,,,comment,0,"Yeah I’m not sure how they’re working it, sometimes I get it, sometimes I don’t. It always feels much better when I do though – rating things is so completely intuitive this way."

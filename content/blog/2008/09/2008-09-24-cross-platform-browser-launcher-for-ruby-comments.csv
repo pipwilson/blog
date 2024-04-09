@@ -1,0 +1,9 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1380,2008-09-25T19:28:01+00:00,"Nolan Eakins",nolan@eakins.net,http://nolan.eakins.net/,comment,0,"Steal the code from Shoes, toss it up on GitHub, and blog about it. 🙂"
+1381,2008-09-25T22:13:39+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Yes, that \*is\* my plan so far 🙂"
+1382,2008-09-30T21:30:32+00:00,"Gareth Simpson",g@xurble.org,,comment,0,"[Here](http://stackoverflow.com/questions/152699/open-the-default-browser-in-ruby), I tested stack overflow with it."
+1383,2008-09-30T22:09:22+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Wow, impressive. I really wasn’t sure if StackOVerflow was worth it, that appears to answer my questions.
+
+For what it’s worth, I’d already implemented the second solution for Windows-only.
+
+Did you actually try it on your mac?"

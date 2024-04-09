@@ -1,0 +1,15 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+536,2005-08-03T10:25:00+00:00,Scribe,,,comment,0,"Have you tried using [Jpodder](http://www.jpodder.com/)? Java based – not overly pretty or too user-friendly, but I’ve been muddling along with it, and I think it should do what you want, with some right-clicking.
+
+HTH…"
+537,2005-08-03T10:40:00+00:00,Pip,,,comment,0,"Thanks I’ll take a look. I had seen it, but not tried it."
+538,2005-08-03T17:10:00+00:00,leff,,,comment,0,"Have you looked at [fire ant](http://www.antisnottv.net/)? I’ve played with it a bit. I think it might work for you."
+539,2005-08-03T17:26:00+00:00,leff,,,comment,0,"Oh, and I just found [I/ON](http://openvision.tv/home/ion.html) just this minute. It says it’ll autodownload. And you might want to watch for [Internet tv](http://www.participatoryculture.org/hype/) available from participatory culture foundation aug. 9."
+540,2005-08-03T18:58:00+00:00,Pip,,,comment,0,"Cool, lots of things to check up on there. I seem to remember reading about FireANT before, so that bodes well.
+
+All this TV over the ‘net stuff eh? It’ll never take off 😉"
+541,2005-08-04T16:47:00+00:00,"Lance Robinson",,,comment,0,"I’m the primary author of Primetime Podcast Receiver. It can definitely do this. It makes no difference if you have one item or 200 items, if you do not do a “catch-up” on the feed, it will download all items that it has not already downloaded."
+542,2005-08-05T09:42:00+00:00,Pip,,,comment,0,"It looks like it would work fine, if it could detect any items in my feed at all (“Found 0 new items”), I’m obviously missing something vital from my feed (I don’t have a length attribute on my enclosures, but this really shouldn’t be stopping PPR from detecting the items)."
+543,2005-08-23T00:59:00+00:00,John,,,comment,0,"This may be a little late, but I’d be curious to try your file with a client I’m working on. If you’re willing, please send a copy of the file to <eugemini@gmail.com>
+
+Thanks"

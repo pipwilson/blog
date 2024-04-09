@@ -1,0 +1,20 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1139,2007-05-22T18:42:00+00:00,Em,,,comment,0,"First, the Matt Biddulph link seems to go to an ApacheCon Europe 2007 keynote – the XTech talk being at [this link](http://www.hackdiary.com/archives/000106.html). Which was also very interesting – though I am a [Gumstix ](http://gumstix.org) fan, I might have to try this one out.
+
+Second, as far as SL-as-research goes, Xerox Parc did the real world – virtual world stuff way back when, in 2D and probably in faux 3D as well as VR (actually, that’s a given in most fields; Xerox Parc seem to have done *everything* first, then got bored and moved on). Similarly, there’s a lot of CAVE research around on this type of stuff. To put it mildly, SL research has a rich heritage on which to draw.
+
+SL is unusual in the unformed nature of the thing, the slightly disturbing economics and the mad, mad buy-in it seems to have attracted. AFAICT it’s a marketing effort. Probably there’s research to be done in reprising work done w/VR in SL, but that can be unrewarding without additional motivation. “We did xyz. As Foo and Bar suggested n years ago, we found previous\_outcome.”
+
+I’m just a joyless old cynic. Darn kids – get off the HCI lawn!"
+1140,2007-05-22T21:06:00+00:00,"Phil Wilson",,,comment,0,"The link to Matt Biddulph’s talk is correct. His Apachecon keynote was also given as his main XTech talk ([schedule item](http://2007.xtech.org/public/schedule/detail/88)). The link you give was to his 20:20 talk after the main talks on Thursday.
+
+I’ve never really enjoyed Gumstix – as far as I’m aware it’s not a breadboarding device which the Arduino (along with many others) is. I’m happy to be corrected on that.
+
+Also, I guess I should say I’m more than aware of the SL heritage, having started work in virtual world tech some ten tears ago. The important point of course, is your third one – although I’d expand on it – an important issue is not only the unformed nature but the ability for SL to connect to the rest of the web via (at least) [LLHttpRequest](http://wiki.secondlife.com/wiki/LlHTTPRequest).
+
+The marketing angle is weird. The BBC for example have gone all-out on Second Life in recent months. Bizarre."
+1141,2007-05-23T13:25:00+00:00,Em,,,comment,0,"Re. the link: clearly branding matters 🙂
+
+A Gumstix indeed isn’t designed for breadboarding as such. However, the Gumstix and Arduino product ranges do intersect for some uses imho, mainly in places where a Gumstix as in the 400mhz beast actually represent total overkill. You pays your money and you picks your platform, I guess. But I had not seen the Arduino range before and they look cute (and cheap). The world needs more cute (cheap) boards. Thank you for the lead.
+
+I bow to your ten years of VR experience, sir. And I don’t know what they’re bribing the BBC with either."

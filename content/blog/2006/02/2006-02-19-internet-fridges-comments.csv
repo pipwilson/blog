@@ -1,0 +1,13 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+784,2006-02-20T09:43:00+00:00,leff,,,comment,0,"This is where rfid would actually be handy. The cabinet could scan the items as they come and go. You shouldn’t need to go out of your way to run items past a scanner. ‘course you’d have to hook your kitchen computer up to the market computer or change the current spec on rfids (to id classes instead of instances)."
+785,2006-02-21T12:53:00+00:00,Anonymous,,,comment,0,"…and what about all the fruit and vegetables?"
+786,2006-02-21T20:48:00+00:00,Pip,,,comment,0,"I always eat whatever fruit and veg I have, so no problems there. Unless I decide to print off lots of little barcode stickers for all my peas?
+
+hey leff, you apparently know a lot more about RFID than I do. Although, in our kitchen, we collect the empty jars for recycling very close to the cupboard so that might be a problem."
+787,2006-02-23T23:31:00+00:00,"Nolan Eakins",,,comment,0,"Why stop at printing a list of things to grab at the store? Why not have the fridge go ahead and place an order? Then you can show up at the grocery and everything will be ready or better yet have it delivered to your door?"
+788,2006-02-24T12:07:00+00:00,Pip,,,comment,0,"Because I don’t trust the supermarket to get my order right, mainly 🙂"
+789,2006-03-03T11:42:00+00:00,Yvonne,,,comment,0,"Hey you could have internet cupboards as well…
+
+In order to have an internet fridge it means you need a PDA or similar to communicate with it at the supermarket.
+
+Maybe you could just install a roving webcam in your fridge, that way you could look at what’s in the fridge while you’re at the supermarket – thus saving tedious employment of barcode scanners and intrusive RFID technology."

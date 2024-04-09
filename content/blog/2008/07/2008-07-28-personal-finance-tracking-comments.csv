@@ -1,0 +1,19 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1371,2008-07-29T08:33:18+00:00,mathew,mjp54@cam.ac.uk,http://bainite.wordpress.com,comment,0,"Cant you make sure that all payments into your account are considered before withdrawals, that should stop these small dips below 0.
+
+Also can’t you group by vendor using grep, if you convert to the wonderful csv format?
+
+The last thing is that you graph is too small for me to see what you are spending."
+1370,2008-07-29T13:50:19+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Yes, parsing payments before withdrawls would make sense, but would require more work. Bah! 😉
+
+The vendor stuff isn’t hard and you’re right, it should just be a simple grep procedure, but I also want to be able to assign a ‘friendly’ name to vendors and group by that. It should all be straightforward, but frankly banks should be providing all of this already.
+
+I’ll make a note to put a larger screenshot up next time 😉"
+1368,2008-07-29T15:07:52+00:00,"Bill Rawlinson",bill.rawlinson@gmail.com,http://rawlinson.us/blog,comment,0,"While I realize it isn’t a huge alternative you may want to check out moneycenter.yodlee.com – it is an American company as well, as far as I can tell – however a bunch of banks already use them to move data around so you may feel more secure in using their service (I dunno).
+
+I use it and it is pretty nice. It can aggregate data from a lot of different financial institutions and provide comprehensive graphs – though they are all pretty much pie charts and not line graphs.
+
+There is another site, mint.com, that offers nicer graphs but in the back end they still use Yodlee for data fetching/aggregation."
+1369,2008-07-29T18:05:44+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Thanks Bill – I’ve seen both Yodlee and Mint before (although I hadn’t realised Mint used Yodlee behind the scenes) but you’re right, the same caveats apply – there are just too many places for me to make a mistake and upload my financial information to the wrong place, let alone the European/US data privacy implications."
+1372,2008-08-03T19:53:22+00:00,Amanda,amandaraab@gmail.com,,comment,0,"There is clearly room for improvement and perhaps someone will come up with a better program soon. Mint.com is okay."
+1373,2009-04-30T14:04:11+00:00,"Coupon Artist, Frugality and Smart Spending Blogger",frugalife@artofthecoupon.com,http://www.artofthecoupon.com,comment,0,"I use a simple Excel spreadsheet to track my finances. Since I am paying off debt, and really constantly strive to be frugal and save money on every area of spending, I really want to be aware of where I am overspending. It helps me to make sure that I stick to my budget and it helps me to see problem areas if I manually keep track of my spending using excel. I save all my receipts and I also sign on to online banking about once or twice a week. I enter the data from the receipts and from my bank account into my spreadsheet, and have created my own custom categories to track my spending. Yes, it definitely is more work- but this way I am constantly aware of where my money is going and if I am potentially going to go over budget in any area. Since I tried a cash only and/or envelope system and it didn’t work for me, this is the best way to ensure that my frugality efforts are paying off."

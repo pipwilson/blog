@@ -1,0 +1,6 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1396,2008-10-29T11:40:39+00:00,"Paulo Fisck",i@guru.gg,,comment,0,"Just out of interest, what your current hosting/platform and your intended sweetheart of hosting?"
+1397,2008-10-29T16:28:32+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"I’ve been with <http://www.memset.com> for five years or more, on their lowest tariff for a miniserver (shared with some other people).
+
+I’ll be moving to <http://www.slicehost.com/> on their lowest tariff (which is cheaper for better specs!). Slicehost were recently bought by Rackspace but I’m hoping this won’t impact me 🙂"
+1395,2008-10-29T16:55:21+00:00,"Paulo Fisch",i@guru.gg,,comment,0,"Ha. Lé Ironeé! I’ve moved my stuff to slicehost from memset too. So far, so good. Although looks like I’ll need to fiddle with Nginx or lighttpd to sail under the vicious memory cap. And maybe even put my website up there at some point 🙂"

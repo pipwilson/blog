@@ -1,0 +1,16 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1170,2007-09-06T18:04:00+00:00,leff,,,comment,0,"I’ve been on GR for months. This is just more to love."
+1171,2007-09-07T06:49:00+00:00,"James Abley",,,comment,0,"It is good, but [duplicate entries](http://eternusuk.blogspot.com/2007/07/google-reader-bug-report-use-atom.html) and Atom &lt;id/&gt; anyone?"
+1172,2007-09-07T11:35:00+00:00,"Phil Wilson",,,comment,0,"Yeah, it’s not good. I left a comment on your blog which I’ll duplicate here for my own records:
+
+If you compare
+
+<http://www.google.com/reader/atom/feed/http://intertwingly.net/blog/index.atom>
+
+with
+
+<http://www.google.com/reader/atom/feed/http://planet.intertwingly.net/atom.xml>
+
+You’ll see that although the original IDs are maintained in the gr:original-d attribute, the ID itself is different, and Google Reader specific. You’d hope that this would be reversed at some point."
+1173,2007-09-07T22:36:00+00:00,"James Abley",,,comment,0,"Well, all the required information is preserved for a fix, so hopefully they can do that in the not too distant future."
+1174,2007-09-12T20:38:00+00:00,"Bert Lamb",,,comment,0,"Indeed, Google reader r0x0rz my b0X0rz. I have noticed it to be much more responsive with the latest updates now too, and the new message counts seem to stay in sync better."

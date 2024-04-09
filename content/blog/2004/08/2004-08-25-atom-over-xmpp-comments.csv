@@ -1,0 +1,19 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+138,2004-08-26T01:49:00+00:00,Mike,,,comment,0,"Why not open an HTTP listener and use an HTTP POST request with an Atom feed as the content body?  
+You wouldn’t need a sourceforge project to write a client – there are lots of httpd listeners out there in many languages."
+139,2004-08-26T20:38:00+00:00,Bob,,,comment,0,"You wrote: “Why not open an HTTP listener and use an HTTP POST request with an Atom feed as the content body?”
+
+This won’t work for most users whose desktop clients are behind firewalls and thus can’t receive HTTP POST requests from machines on the other side. One key benefit of using XMPP comes from the fact that it establishes a persistent connection from the desktop machine to the PubSub server which tolerated by most firewalls.
+
+An alternative HTTP-based solution would be to use the HTTP persistence in the manner of mod\_pubsub or the products of KnowNow.com . But, accepting incoming HTTP POSTs is just not an option for most folk.
+
+bob wyman"
+140,2004-08-26T21:11:00+00:00,Pip,,,comment,0,"Thanks for that Bob – you got there before I did!
+
+It’s also important to realise that XMPP isn’t just a layer for transporting arbitrary XML data. XMPP explicity defines things like presence and availability, and servers provide store-and-deliver mechanisms, none of which are available in conventional HTTP communications."
+141,2004-08-29T13:06:00+00:00,Lawrence,,,comment,0,"nice to see that someone uses my library 🙂
+
+Can you tell me when the thing will be ready and publicly available?
+
+thanks"
+142,2004-10-07T10:59:00+00:00,Pip,,,comment,0,"Whenever I find my Visual Studio key again so I can actually reinstall."

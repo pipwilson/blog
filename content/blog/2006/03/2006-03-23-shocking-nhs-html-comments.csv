@@ -1,0 +1,7 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+826,2006-03-24T00:19:00+00:00,alf,,,comment,0,"I think that page just imploded. I tried to validate it and it turned into a 404 🙂"
+827,2006-03-24T09:55:00+00:00,"Rob Oxspring",,,comment,0,"And of course you notice that this is the 3rd of 4 attempts at an openning html tag in the file!?
+
+No wonder they’ve tried to disable the right click &gt; view source possibilities! ;o)"
+828,2006-03-24T10:26:00+00:00,"Thick Sliced",,,comment,0,"The .do extension hints that they might be using the Java framework Struts and the &lt;html:html&gt; is part of the Struts HTML taglib. I’m guessing they have some templating stuff and have each part of the template as a valid HTML file but didn’t think what might happen when they get put together…."
+829,2006-03-24T21:45:00+00:00,alf,,,comment,0,"It’s alive again! Looks like it was probably converted from a frameset at some point, which is admirable at least."

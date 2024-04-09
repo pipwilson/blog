@@ -1,0 +1,30 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+345,2005-03-08T10:17:00+00:00,Andrea,,,comment,0,"Like Flickr, but for books? [Bookswelike](http://www.bookswelike.net) comes to mind, because it allows tagging and has a large social component. I haven’t tried it myself and it’s “down for maintenance” (huh?) right now, but you can check out a cached version [here](http://64.233.183.104/search?q=cache:www.bookswelike.net) and a brief review [here](http://www.anarchogeek.com/archives/000469.html).
+
+Also, [bibliophil.org](http://bibliophil.org/). Again, haven’t tried it yet, so if you sign up for one of these, I’d love to see a review. 🙂"
+346,2005-03-08T12:41:00+00:00,Pip,,,comment,0,"Thanks for that Andrea, I’ll definitely take a look at those over the next few days!"
+347,2005-03-08T14:14:00+00:00,Andrea,,,comment,0,"Whoops. Strike that last statement, I just signed up for bibliophil.org. It pulls data from Amazon.de (a big plus), but the interface and search function need a bit of work.
+
+If you limit a keyword search to the German or UK store and then navigate to the second page of search results, it gives you results from the (default) US store.  
+And you can’t set a month or year for read books, but only a specific date or “don’t know”, which seems a bit strange to me (who reads all their books on one day?).  
+And some ISBN searches turn up empty pages.
+
+The exported CSV doesn’t look very useful to me (there’s a column called ‘UnknownDateRead’ filled with rows of “TRUE”), although you can, of course, use it to keep an inventory of your library by ISBN.
+
+I might sign up for bookswelike (when it’s up again) for testing purposes, otherwise I’ll probably keep looking too."
+348,2005-03-08T16:38:00+00:00,Andrea,,,comment,0,"Um. Had to scratch the research itch.
+
+Freeware: [eLibPro](http://songstech.com/elibpro.html)Shareware: [Book Library](http://www.wensoftware.com/BookLibrary/)I’m liking the eLibPro interface and will probably play around with it some more. The shareware is a bit too cluttered for my liking and looks a bit ugly.
+
+I will stop spamming you now. 🙂"
+349,2005-03-08T21:33:00+00:00,leff,,,comment,0,"I’ve been coming to the same conclusion about allconsuming, pip. I hadn’t gotten as far as investigating alternatives (or even bloging about it :). the blog software I use (drupal) has a book review module. But I’m more interested in keeping track of books I read than reviewing every single one.
+
+So what I’m trying to say is, if you find a really clean solution I expect, no, demand, that you blog about it 😉 in the mean time I’ll go check out andrea’s eLibPro."
+350,2005-03-09T19:36:00+00:00,Pip,,,comment,0,"Thanks for the tips Andrea, I’d not seen any of those sites before!
+
+eLibPro seems pretty decent – nicely customisable too, and because it’s just an Access database, with a well-documented schema, it would be easy to generate any kind of web pages you liked from it, but I think I’m really looking for a web-based solution.
+
+I think my problem is that I’m not entirely sure \*what\* I want! 🙂"
+351,2005-05-14T00:40:00+00:00,Sally,,,comment,0,"I used to use Singlefile (www.singlefile.com) but it seems to have disappeared for good. It was web-based, used Amazon database, and was all-around awesome. Export your data often if using web-based, I would say, just in case it disappears. bibliophil looks promising. First decent-looking web-based thing I’ve seen since Singlefile went bye-bye.
+
+I started using ReaderWare a few weeks ago (since you can export to pda nicely) just because I need SOMETHING, but I’m not real fond of it. I really really like being able to email a url of my collection to folks."

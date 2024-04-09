@@ -1,0 +1,62 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+393,2005-07-30T14:09:00+00:00,"Chu Yeow",,,comment,0,"Nice. Have you created a u.m.o developer account and added this there yet?"
+394,2005-07-30T23:58:00+00:00,Pip,,,comment,0,"No, I didn’t even think about it! I suppose I should do really. I’ll put it on my “todo” list. 🙂
+
+Good to see you back 🙂"
+395,2005-08-11T17:23:00+00:00,Caja,,,comment,0,"I didn’t think this extention would be useful. I use small icons and compact themes which makes everything really small, and when I installed this it only made my overused back button bigger – which is FANTASTIC. Good work."
+396,2005-09-10T01:21:00+00:00,"Andrew Cory",,,comment,0,"Any chance you can update it so that it works up through 1.5?"
+397,2005-09-10T11:24:00+00:00,Pip,,,comment,0,"Yes, I’ll do that very soon. Also, if you enabled comments on your blog, I could point out some errors you’ve made in your post about Linux. 😉"
+398,2005-09-15T01:21:00+00:00,"Andrew Cory",,,comment,0,"Well, if they’re over 10 days old, I only seem to get spam. But if you want to Email me, I’d post them up as a rebuttal…"
+399,2005-09-16T12:15:00+00:00,Pip,,,comment,0,"I’ve just put up a new version. You should just be able to use the normal extension update system to get it, otherwise you’ll have to uninstall it and reinstall."
+400,2005-10-11T18:53:00+00:00,wovawi,,,comment,0,"Great! Thanks. Maybe you should try to add it to the official extensions page."
+401,2005-11-09T03:14:00+00:00,Leo,,,comment,0,"There is another extension that utilizes Fitt’s law for a similar effect – **milewideback**.  
+The whole left edge of the browser’s window becomes a 1px thin Back button.  
+It is sadly not availbable for 1.5"
+402,2005-11-09T10:25:00+00:00,Pip,,,comment,0,"Thanks Leo. Yes, I’d seen it when I came to write this extension and it’s a good use of Fitt’s Law; I tried it for a bit but I think I prefer the back button – otherwise I just forget!"
+403,2005-11-30T18:11:00+00:00,Anonymous,,,comment,0,"Very nice extension for Firefox! I like it very much, but I’m missing it in FF 1.5.  
+When will there be an update, so that the bigger back button will also be availabe in FF 1.5?"
+404,2005-11-30T18:51:00+00:00,Pip,,,comment,0,"Er, it should work in 1.5 already. It may not update itself automatically – I’ve not really tested that part of it very much, but if you just reinstall, it should work."
+405,2006-03-12T21:41:00+00:00,Anonymous,,,comment,0,"Great extension – I only have a few extensions on my new laptop and this is one of them!"
+406,2006-03-12T21:43:00+00:00,Pip,,,comment,0,"excellent! that’s really great to hear! it’s always one of the first things I install on a new Firefox installation!"
+407,2006-07-14T08:08:00+00:00,rteller,,,comment,0,"7/14/2006 – I have just updated to the Beta 2.0 of FF. Will you be updating the bigger Back Button for it? (Sometime soon, I hope.)"
+408,2006-07-14T10:22:00+00:00,Pip,,,comment,0,"Yes, I just updated to FF2 at home, so I will be updating the extension soon."
+409,2006-08-31T22:29:00+00:00,Anonymous,,,comment,0,"Yes please.
+
+We need the (so useful) Fitt Back Button for firefox 2.0."
+410,2006-09-01T17:10:00+00:00,Anonymous,,,comment,0,"Not compatible with 2.0b2 just released. I miss my back button!!! Thanks"
+411,2006-10-23T15:10:00+00:00,Anonymous,,,comment,0,"I found a bug when Colorzilla is enabled. If I goto Customise… my toolbar and then save (even if I don’t make any changes to my toolbar), the menu options File etc. are disabled (greyed out).
+
+I can’t even get to Customise… by right-clicking on the toolbar as that option is disabled as well. Strange!
+
+This was in FF 1.5.0.7 at home."
+412,2006-10-23T15:11:00+00:00,Anonymous,,,comment,0,"Of course, I mean this here Bigger Back Button extension WITH Colorzilla enabled together is when I get the bug."
+413,2006-10-23T16:44:00+00:00,Pip,,,comment,0,"scary.
+
+no idea why though! will try and recreate tomorrow."
+414,2006-11-04T20:02:00+00:00,Anonymous,,,comment,0,"Hi, I’ve just updated to the newly released Firefox 2, but your extension isn’t compatible 🙁
+
+It’s amazing how much I got used to having a big back button and how much I miss it now!
+
+Thanks for such a simple but useful extension. I hope you have time to update it soon!"
+415,2006-11-06T00:07:00+00:00,Pip,,,comment,0,"OK, sorry this has taken me so long to get around to. Installing from scratch or updating by hand should both work now, upgrading you to version 0.12 of Fitts’ Back Button."
+416,2006-11-07T09:06:00+00:00,AlexK,,,comment,0,"Version 1.02 still doesn’t work over here. I am using a BonEcho build of Firefox 2.0 with the Firefox (default) theme."
+417,2006-11-07T09:43:00+00:00,Pip,,,comment,0,"If you uninstall and then reinstall it really should work.
+
+There’s a possibility of course that you have an older version cached, so you might want to try clearing that out too (that’s been a problem for a couple of people so far already)."
+418,2006-11-07T10:29:00+00:00,AlexK,,,comment,0,"How do I do that cache cleaning? I tried to look for it in the Mozilla Knowledge base but am not sure what is the right procedure.
+
+Deleting the extensions.cache file?"
+419,2006-11-07T12:08:00+00:00,Pip,,,comment,0,"Tools -&gt; Clear private data -&gt; Cache
+
+should do it I reckon."
+420,2006-11-08T11:18:00+00:00,AlexK,,,comment,0,"Nope, that didn’t fix it. 🙁
+
+Works with the non-default theme, though."
+421,2006-11-13T00:25:00+00:00,markcart,,,comment,0,"It’s working OK for me… Thanks! I’m running Firefox 2.0 as released on the “Get Firefox” site. Never used a beta version of Firefox."
+422,2006-11-18T01:50:00+00:00,Anonymous,,,comment,0,"very useful and I’ve relied on it for quite a while now…why isn’t it available on the main addons page/"
+423,2006-11-18T11:46:00+00:00,Pip,,,comment,0,"Because I’ve been too lazy. I’ll put it there today, have got an account already."
+424,2007-04-05T13:50:00+00:00,"Chao Xian",,,comment,0,"Dude, I’ve discovered that this doesn’t work for Mac FF!
+
+🙁"
+425,2007-04-06T16:46:00+00:00,"Phil Wilson",,,comment,0,"Damn! You can help me debug it when I get back from holiday."
+426,2007-04-26T14:39:00+00:00,Anonymous,,,comment,0,"Nice extension. Seems to work well on FF 2.0.0.3. Kudos."

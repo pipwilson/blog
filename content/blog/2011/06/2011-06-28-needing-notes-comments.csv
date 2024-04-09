@@ -1,0 +1,24 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1619,2011-07-08T17:07:19+00:00,"Paul Beech",i@guru.gg,,comment,0,"Don’t use desktop note taking. No persistance and everywhere accessibility. Hate stickies on OSX and Windows as they’re a bit of a dead end. Text editor and dropbox is about as close as I get.
+
+What I do use for notes is Notes on the iPad, which syncs to gmail, and gmail drafts in the web interface. Those are the only methods that have stuck as they’re on hand and available just about everywhere if I need em."
+1620,2011-07-14T21:49:50+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"I typically want desktop for speed and having a dedicated somewhere to take notes (rather than, on the desktop, two open browser windows with the same icon).
+
+I guess I don’t really know what I want. The process is probably more important than the featureset, but everything that is more than totally basic seems lacking. I think my demands are in the uncanny valley."
+1621,2011-08-05T11:41:43+00:00,"Scroll Lock",lessthanthree@example.com,,comment,0,"Hi there,
+
+I just discovered your blog, coming from a post about scuttle via google/rasterweb. At the moment I’m trying to define my workflow for things like notes, bookmarks, snippets, and whatever you might call personal-wiki’ing.
+
+I think the perfect note taking solution would be be a local webapp with an optional corssplatform portable client so you can use hotkeys and integrate a little better. Until that comes along, I have found CintaNotes to fill my niche. There is \*no\* formatting, but I have designated DokuWiki as my place to put more permanent things.
+
+For the record, I’ve also used Wikidpad, Zim and a bunch of other stuff extensively 🙂  
+For a good while, I kept going back to wikidpad."
+1622,2012-04-05T14:22:14+00:00,Felix,felix.riedel@gmail.com,,comment,0,"I am actually looking for the same thing. I am currently using WikidPad which has actually pretty much all the feature I am looking for, but I think the usability is not optimal…"
+1623,2012-11-15T09:44:30+00:00,Graham,graham@harris.net.nz,,comment,0,"I also use WikidPad, and have for several years now. I found this while looking for a comparison between WikidPad and KeepNote.
+
+WikidPad’s major shortcoming for me is the poor support for images.
+
+What I really, really like though is that WikidPad stores all my stuff (&gt;3000 pages now) as individual plain-ish text files which I can easily sync between a range of systems. Being local on my PCs, it is way faster than a web-based system and that matters quite a lot- I used a web based system before.
+
+If I go to KeepNote it looks like I gain better image support and lose WikidPad’s automatic hot linking to other pages."
+1624,2012-12-13T15:43:41+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"Yep, that seems fair. I must admit that I’m using Evernote now. It doesn’t mean many of my original requirements, but on the other hand it has a UI that doesn’t make me cry."

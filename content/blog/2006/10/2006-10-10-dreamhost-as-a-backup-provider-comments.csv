@@ -1,0 +1,24 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+953,2006-10-10T15:53:00+00:00,"Irregular Shed",,,comment,0,"It seems like only a fortnight ago that I put together a really quite successful backup script for our server in the office.
+
+Yep, I did it a fortnight ago.
+
+If you want to pick over my scripts and laugh at any security problems, just give me a shout. It does actually work rather well – we have a fifteen-working-day (aka three week) rolling backup courtesy of rsync, public-key SSH and hard links. The box that the backup sits on is shortly going to be moved to head office’s server cabinet. My script emails me daily so I can keep an eye on the disk usage and the files that have been updated – so far all is good, and we may move to a four-week backup with a DVD-backup at the end of every four weeks to go with.
+
+I’m pleased because the system I wrote in Bash scripts is better than the purpose-built Perl monster that it replaced =)"
+954,2006-10-11T11:27:00+00:00,Jim,,,comment,0,"There’s always Amazon’s S3 service as an alternative, and you pay for what you use with that.
+
+<http://www.webpronews.com/blogtalk/blogtalk/wpn-58-20061004ReplacingmyhomebackupserverwithAmazonsS3.html>"
+955,2006-10-11T12:03:00+00:00,Pip,,,comment,0,"Yeah, I think that’s the post from his blog. The problem with S3 is that the terms and conditions specify that the whole thing might go away at any point; there are no assurances.
+
+That worries me far too much, especially in the light of the A9 recent feature cuts.
+
+Although on reflection, I seem to recall hearing about Microsoft using S3 for something? Ah, [here we go](http://blogs.zdnet.com/web2explorer/?p=232)"
+956,2006-10-19T09:12:00+00:00,"Mathew Peet",,,comment,0,"How much space you need to backup, how about mounting google mail and using that?"
+957,2006-10-19T09:37:00+00:00,Pip,,,comment,0,"I thought about it briefly, but it has the starting problem of limited attachment size on mails of ~15MB."
+958,2006-10-22T22:20:00+00:00,"Mathew Peet",,,comment,0,"Ah sorry, I meant using it as a mounted filesystem. I´ve seen several people suggesting this is possible. I don´t know much about how possible it is tho.
+
+Surely just a matter of time before google give us all space for free 😉"
+959,2006-10-23T08:36:00+00:00,Pip,,,comment,0,"Well, I guess they’re half way there with the Google Desktop tool doing backups across machines for given directories and so on.
+
+If they open up an API for that, then yep, Google Disk is here."

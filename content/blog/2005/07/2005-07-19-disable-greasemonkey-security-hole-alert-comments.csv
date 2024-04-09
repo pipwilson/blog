@@ -1,0 +1,11 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+510,2005-07-19T14:30:00+00:00,leff,,,comment,0,"Wow. That’s a big deal.
+
+5 sec. analysis: The site you’re visiting has to take action, and you have to be using greasemonkey on that page. If the site is trustworthy then it looks like you’re ok.
+
+This means you shouldn’t run scripts for anything like “http://\*” but “http://www.google.com/\*” is probably ok.
+
+Looking through my installed scripts I’m thinking that “http://\*.google.\*/\*” is bad. That could match “http://foo.google.malicious.com/stealyourfiles.html”
+
+To be 100% safe, turn off greasemonkey altogether."
+511,2005-07-19T15:02:00+00:00,Pip,,,comment,0,"That’s certainly my take on it, and that’s what I’ve done."

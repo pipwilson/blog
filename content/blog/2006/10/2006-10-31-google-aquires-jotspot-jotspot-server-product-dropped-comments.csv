@@ -1,0 +1,11 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+968,2006-11-03T03:27:00+00:00,Ross,,,comment,0,"You could have, and still can, choose Socialtext for behind the firewall. Open Source equivalent that is free. Or an Appliance that is actually serviced. Good luck."
+969,2006-11-04T15:29:00+00:00,Pip,,,comment,0,"Thanks for that Ross. We did look at Socialtext and I’ve been following what you’re doing since you first started.
+
+The bit that put us off was:
+
+“Enterprise is built for user groups from 500 to 50,000+. Contact Socialtext Sales for pricing information.”
+
+Do I want to talk to a salesman? No I don’t. I want to get an up front evaluation of the possible candidates, and that includes price. If you can’t provide that, then we’re not going to bother with you, sorry. We’ve previously dismissed candidates for other pieces of software for not being up front about their pricing, too, so we’re not just picking on you.
+
+When we started evaluating, Socialtext 2.0 hadn’t been released, and so the open source version of it wasn’t available. We’ve had an (admittedly brief) look since, and although I think it’s a big step in the right direction, I think that Confluence is still better."

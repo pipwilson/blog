@@ -1,0 +1,16 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1314,2008-04-14T19:20:12+00:00,"Devdas Bhagat",devdas.b@gmail.com,,comment,0,"SQL JOINs are just a way of combining two sets.
+
+I suggest starting off with understanding the natural join, and then follow up with the rest.
+
+I also recommend reading up on CJ Date, and EF Codd’s works."
+1311,2008-04-14T22:58:27+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Yeah, I understand perfectly how they work and what they do, I just don’t have a built-in parser like I do for most other things. Consider it a sort of blind spot 🙂"
+1312,2008-04-14T23:09:17+00:00,Owen,O.C.Cliffe@bath.ac.uk,,comment,0,"You obviously need to do more hardcore logic programming 🙂 . If you get to the point where you read your own prolog after a week, plain old boring propositional SQL seems like a breeze."
+1313,2008-04-14T23:43:38+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Wow, it has been a long, long time since I’ve had to write any prolog! I’m glad to say that I can only summon vaguely positive memories."
+1310,2008-04-15T16:02:08+00:00,"Luke Maciak",luke@terminally-incoherent.com,http://terminally-incoherent.com,comment,0,"I was like that too. And then I ended up working on a database-centric application which required me to write so many SQL JOIN statements that at one point the built in mental parser just clicked in. 🙂"
+1309,2008-04-15T22:15:51+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"I think ORM tools may have corrupted me forever 🙂"
+1308,2008-04-16T22:19:03+00:00,Ciaran,ciaran@ciarang.com,http://blog.ciarang.com,comment,0,"I have to admit I still find it easier to parse the old-fashioned (some might say Oracle-style) of joins, rather than the explicit syntax.
+
+e.g. SELECT \* FROM table1 a,table2 b WHERE a.field=b.field
+
+But I appreciate that writing that kind of thing is, these days, on a par with farting at the in-laws dinner table."

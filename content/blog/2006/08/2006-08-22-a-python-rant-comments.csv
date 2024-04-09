@@ -1,0 +1,8 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+911,2006-08-22T20:59:00+00:00,"James Wheare",,,comment,0,"Depending on your needs, I’d recommend using [Django](http://djangoproject.com/) instead 🙂
+
+\*ducks\*"
+912,2006-08-22T21:34:00+00:00,Pip,,,comment,0,"Actually, I had considered it early on, but I’d like to get to use Twisted and it seems appropriate for what I want (proprietary protocol IM server)."
+913,2006-08-23T00:33:00+00:00,"James Wheare",,,comment,0,"Ah yes, Django’s probably not terribly suited for something like that…
+
+PS: Welcome back!"

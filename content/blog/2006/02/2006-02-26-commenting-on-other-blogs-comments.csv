@@ -1,0 +1,24 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+802,2006-02-26T15:16:00+00:00,"Ben Ward",,,comment,0,"That does seem mighty foolish on a common-or-garden blog.
+
+I could see \_some\_ justification on larger sites where there’s more to be offered through membership (on a band website, maybe).
+
+Even then, I’d be advising against it, but just putting it on a standard blog is madness."
+803,2006-02-26T20:21:00+00:00,Pip,,,comment,0,"I can understand that it’s a knee-jerk reaction to spam, but IT DOESN’T WORK!"
+804,2006-02-27T10:50:00+00:00,Anonymous,,,comment,0,"Okay okay so I might recognise that prompt to login from \*someones\* blog. :S I guess I’ve been remiss in changing the settings, but in my experience it actually did work to curb the problem with spam. although at the expense of valid comments?!?"
+805,2006-02-27T12:00:00+00:00,Pip,,,comment,0,"I think it’s a default wordpress theme; if so, it’s not aimed at an a particular individual, just everyone 🙂
+
+To be honest, anyone can post comments to my blog, and I’ve only seen about three spam comments in four years.
+
+Have I just been lucky?"
+806,2006-02-27T16:39:00+00:00,Aristotle,,,comment,0,"Spammers look for weblogs by googling for the typical comment form chrome. Moving the comment posting form from the permalink page to a separate page in a part of your URI space which doesn’t get crawled (by way of *robots.txt* or *nofollow* or whatever) is a highly effective hiding measure.
+
+Even more so is not having a comment form anywhere on site, as is the case for you, of course."
+807,2006-02-27T17:09:00+00:00,Pip,,,comment,0,"Agreed. You’d have thought however, that the effort required to spam Blogger comments was less than automating Blogger signups which use captchas."
+808,2006-02-28T08:03:00+00:00,Aristotle,,,comment,0,"I dunno. I think the spammers’ problem is not so much automating spamming the form as it is finding valid *blogID*/*postID* pairs. Off the top of my head I can’t think of a way to use a search engine to discover such links.
+
+Another thing that just occured to me is I’d assume that Blogger also has some minimal spam prevention measures on the comment form, whereas once you’ve passed muster for an account signup, there are no checks whatsoever on posting other than maybe some minor throttling."
+809,2006-03-03T11:38:00+00:00,Yvonne,,,comment,0,"The problem I have with anonymous comments is, how do you know that anonymous comment #1 is from the same or a different person than anonymous comment #2 ? I like to know where my commenters are coming from, so even if they set up an empty Blogger profile and then add comments, at least I know which comments are from which people and can start to build up a picture of their point of view.
+
+Anyway you can disable spam comments separately by adding word verification (this is available on LiveJournal and Blogger and probably other blog providers)."
+810,2006-03-03T13:44:00+00:00,Pip,,,comment,0,"Well, you don’t have to have an account somewhere to be able to leave your name, so leaving an anonymous comment is up to the writer of the comment, not the blog owner."

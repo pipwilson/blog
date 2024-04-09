@@ -1,0 +1,8 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+448,2005-05-16T11:27:00+00:00,ILoveJackDaniels,,,comment,0,"Heh. Another one. Great."
+449,2005-05-16T21:24:00+00:00,"Phil Moore",,,comment,0,"I think it’s funny in the [wiki article](http://neutrinoxml.com/wiki/index.php?title=Main_Page) you pointed at that there is a quote saying that there’s an ‘overload’ of information, yet at the same time, wanting to subsribe to **all** of an individual’s information.
+
+For most of the blogs I read, I couldn’t care less about their Flickr feed etc."
+450,2005-05-18T20:05:00+00:00,Pip,,,comment,0,"Phil, I completely agree for normal aggregators it’s entirely pointless – you don’t want a couple of hundered extra feeds sitting in your aggregator.
+
+On the other hand, with better, more intelligent aggregators (which don’t exist yet), you could start to derive some interesting stuff, like an aggregator which looks at your delicious interests and susbcribes you to the del.icio.us feeds of people in your blogroll who have a certain percentage of matching interests. I can’t see that something like that is beyond the realms of possibility even now. I’m thinking a couple of hours work on any given aggregator (provided you have a way to discover their del.icio.us account details of course, which is what my next post is about)?"

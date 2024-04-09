@@ -1,0 +1,16 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1579,2010-09-22T08:46:17+00:00,Craig,craigloftus@gmail.com,http://craigloftus.net/,comment,0,"I started encrypting the hard drives on my computers for the reasons you describe. I use dm-crypt at the LVM level, I don’t notice it slowing down boot times. Of course that should also stop Prey from being any use at all, so it depends whether you care more about the data or the hardware 😉
+
+Craig"
+1580,2010-09-22T11:21:26+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"Thanks Craig, that’s really interesting. I’ve used TrueCrypt before but only to encrypt groups of files and folders. I hadn’t realised that it also supports boot-level encryption, which, as you say, might have a smaller performance overhead. Hmmm!!"
+1581,2010-09-22T12:39:32+00:00,alf,alf@hubmed.org,http://hublog.hubmed.org/,comment,0,"Yes, encrypt the hard drive, or at least your home directory (in Ubuntu and OS X the latter is built-in and simple; not sure about Windows)."
+1582,2010-09-24T21:55:46+00:00,Henning,henning.koch@makandra.de,http://makandra.com/,comment,0,"It’s a myth that hard drive encryption has any noticeable impact on performance. It’s a few additional cycles for your bored-to-death CPU, during a completely IO-bound operation. Products like Truecrypt or dm-crypt make it so simple to switch on crypto, there’s really no reason to not encrypt everything.
+
+I wouldn’t recommend just encrpyting super-secret folders though, because data encrypted that way will find its way to unencrypted partitions, e.g. by being swapped to disk. Also its usually easier to encrypt everything than just a single folder or partition."
+1583,2010-09-24T21:56:18+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,1582,"Yes, if I was going to revisit encryption, it would be whole-disk. The performance issues are anecdotal, but first-hand from otherwise very reliable sources, which seems to give them more credibility. Some research on the subject appears to suggest a potential 5-15% performance hit, depending on hardware and exact encryption application."
+1584,2010-10-15T11:02:07+00:00,"A.M. Doherty",a.m.doherty@ljmu.ac.uk,http://bit.ly/cdnfct,comment,0,"I keep essential data, and run a few essential portable apps and a xampp server from a Truecrypt container. All on a pen drive and without any noticeable loss of performance.
+
+I’ve recently started to use Dropbox for moving non-sensitive information around, but I’m still reticent to share my most important information with other companies networks – a legacy of studying computer security &amp; forensics.
+
+Keeping things portable ensures that the loss of a laptop wouldn’t give me the same nightmares it would’ve done previously, and loss of the pen drive would only set me back as far as my last backup. I’d not lose alot of sleep over my pen drive and encrypted container falling into the wrong hands."
+1585,2010-10-15T11:02:54+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,1584,"That’s a nice way of working. Presumably you could backup your truecrypt container to dropbox so that if it did go missing it wouldn’t matter where you were either."

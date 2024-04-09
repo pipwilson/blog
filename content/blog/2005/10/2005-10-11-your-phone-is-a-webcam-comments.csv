@@ -1,0 +1,15 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+604,2005-10-12T10:44:00+00:00,Anonymous,,,comment,0,"I was interested to see it call itself a “driver” – maybe if you had some other webcam software it might be more flexible?
+
+–k"
+605,2005-10-12T11:46:00+00:00,Pip,,,comment,0,"That’s a good point, and they do hint at this on the website: “compatible with any Windows application that can receive video feeds from a web camera” but I think it’s the mobile client which needs the work rather than the PC software, sadly."
+606,2005-10-13T09:41:00+00:00,Anonymous,,,comment,0,"This program was created for using with any other windows software which can capture video e.g. Windows Movie Maker or Yahoo! Messenger or Skype."
+607,2005-10-20T19:47:00+00:00,"Dug Falby",,,comment,0,"Gord I’ve wanted to do this for soooo long.
+
+Of course I’m on Mac OS X so not terribly useful yet…"
+608,2005-10-22T01:59:00+00:00,Anonymous,,,comment,0,"Mac OS version is in development right now and will be ready in 3 month"
+609,2006-04-29T12:31:00+00:00,Pip,,,comment,0,"All adverts will be deleted."
+610,2006-11-12T20:07:00+00:00,Anonymous,,,comment,0,"hi, just saw this, i have been building a robot and need some sort of webcam to act as its eyes and allow me to see what it has been doing, and it is just to expensive to buy a wireless or bluetooth webcam nowdays so i was wondering is anywone knows if my sony W850i could be modified to do something like that"
+611,2007-04-10T17:58:00+00:00,Dennis,,,comment,0,"Mobiola Web Camera Lite, which is a J2ME version of this software, is now undergoing Java verification process. after it is done it will be possilbe to use with many modern J2ME handsets including W850i"
+612,2007-05-21T20:55:00+00:00,William,,,comment,0,"So, when could we expect release of Mobiola for J2ME?"
+613,2007-05-22T08:29:00+00:00,William,,,comment,0,"I think we now have J2ME version of Mobiola Web Camera. I’ve found it [here](http://www.warelex.com/products/webcam/Buy)."

@@ -1,0 +1,5 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1332,2008-05-28T13:49:12+00:00,"Aristotle Pagaltzis",pagaltzis@gmx.de,http://plasmasturm.org/,comment,0,"It’s just a file. Can’t you copy it and open the copy?"
+1333,2008-05-28T14:16:10+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"If I do that whilst firefox is running I get a corrupt database."
+1330,2008-05-29T02:42:27+00:00,"Aristotle Pagaltzis",pagaltzis@gmx.de,http://plasmasturm.org/,comment,0,"Hmm. Maybe write some trivial Javascript that performs the queries within Firefox and then use [JSSh](http://www.croczilla.com/jssh) to pull them out into an external process?"
+1331,2008-05-29T09:46:17+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Yes, that did occur to me too, but is tragically more work than a cron job with a SQL statement in it 😉"

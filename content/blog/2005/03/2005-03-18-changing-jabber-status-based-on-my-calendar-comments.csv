@@ -1,0 +1,21 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+388,2005-03-18T17:18:00+00:00,ralphm,,,comment,0,"Yes, a modular design of components that work together to act as one client to the outside world, is something that would be pretty nice to have. As a workaround, you could implement a proxy that injects the special ‘in a meeting’ presences towards the server, and let the real client in the dark about it. You may also need to intercept and process the presence packets from the real client.
+
+I’ve started work on something like this, which actually does both above mentioned solutions. Due to changes in priorities it is now waiting to be worked on again, however…"
+389,2005-03-21T12:57:00+00:00,Pip,,,comment,0,"That’s a very interesting idea.
+
+At the very least it should be possible to hack a normal HTTP or SOCKS proxy to perform the calendar/status checking for the client. This would mean that it would actually work on every client, plus could lead to future extensibility for other related tasks.
+
+A Jabber-specific proxy would probably be better, but I think for at least getting started then hacking something that already exists is a reasonable thing to do."
+390,2005-04-11T04:35:00+00:00,Nolan,,,comment,0,"This is where DBUS support would come in handy. The calendar app sends an event message over DBUS, and any local applications receive it and act on it. In this case Psi would preferabbly need a plugin to listen on the calendar’s channel over DBUS.
+
+Another possibility would be to put the calendar app on the Jabber network and using the remote control JEP, set your other client’s status to away.
+
+For a quick hack DBUS is probably the way to go, and is supposedly being worked on. A Jabberfied calendar would be to sexy to live without though:
+
+Calendar app: “Hey, I’m busy. Is there a better time for you?”, “I’m still busy, but I’m open…”
+
+Ah, the things that can be done."
+391,2005-04-13T19:46:00+00:00,Pip,,,comment,0,"Nolan, you’re right, DBUS support would make it very easy indeed!
+
+Only the day after I made this post I read the remote-control JEP and saw Remko’s screenshots – this looks very cool and probably the easiest thing to do (presuming that other clients would be likely to have remote control support before they have a DBUS plugin). This would be really cool to have."

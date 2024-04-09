@@ -1,0 +1,11 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+178,2004-11-26T13:16:00+00:00,Anonymous,,,comment,0,"If you use labels (and you have implemented the ‘unread’ label) you can show only unread entries in any label by searching for label:unread label:mylabel"
+179,2004-11-28T20:38:00+00:00,Pip,,,comment,0,"Cool – nice tip!"
+180,2004-12-05T10:59:00+00:00,Anonymous,,,comment,0,"Thanks for the post, Phil. It made me search for the documentation. Here it is; nicely presented and detailed:
+
+How do I use advanced search?
+
+[http://gmail.google.com/support/bin/answer.py?answer=7190&amp;topic=41](http://gmail.google.com/support/bin/answer.py?answer=7190&topic=41)
+
+Demetris  
+<http://kikizas.net/>"

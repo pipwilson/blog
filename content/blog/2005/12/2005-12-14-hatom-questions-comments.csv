@@ -1,0 +1,25 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+710,2005-12-15T01:38:00+00:00,"David P. Janes",,,comment,0,"one word: tidy  
+example: my blog  
+[parsed](http://www.trinityanne.com/tools/extract/?microformat=hatom&submit=1&uri=http%3A//blog.davidjanes.com/#entry-2)
+
+The intention of hAtom isn’t to replace syndication, for so many reasons, such as those Pilgrim notes. But if hAtom isn’t doable, I’m not sure if any XHTML microformat is."
+711,2005-12-15T11:00:00+00:00,Pip,,,comment,0,"“The intention of hAtom isn’t to replace syndication”
+
+Yes, I realise, it’s just the point about XHTML (which indeed you make) that bothers me.
+
+Tidy is all well and good up to a point, but it’s not a panacea, and microformats relying on valid XHTML is a problem that’s not going to go away. Writing them by hand is already hard enough for professionals."
+712,2005-12-15T22:02:00+00:00,"David P. Janes",,,comment,0,"My view of the world (on this issue!) has three tiers:
+
+Top Tier Users will do what they do.
+
+Middle Tier Users (say, people comfortable making minor changes to templates) will be helped along by things such as validators, and the tools from the bottom tier.
+
+Bottom Tier Users — which let’s face it, will be most people — will only generate microformats incidently via the tools they are using. Hopefully, these tools will be written by top tier people! The analogous situation is RSS, which is XML that validates good enough for use (and is mostly generated without user input). Yes, blech, but it’s a cruel world."
+713,2005-12-16T00:14:00+00:00,Pip,,,comment,0,"I think that would be nice, but I think it’s also pretty optimistic. What you’re really betting on is Microformats being adopted by enough top-level users that they can be used (even unknowingly) by bottom-level users. RSS has an obvious user benefit, Microformats only maybe."
+714,2005-12-16T15:58:00+00:00,"David P. Janes",,,comment,0,"That is the core of the problem. the question I’m asking myself is: can a compeling application be written that incidently creates microformats. I think that’s what can make the ball roll.
+
+I guess in someway, that’s the relationship between blogs and rss. If RSS had to be created by hand, well…"
+715,2005-12-16T16:46:00+00:00,Pip,,,comment,0,"I really don’t know if a compelling application can happen. You’d presume so, but I’ve yet to hear of or see one.
+
+Remember that originally RSS did have to be created by hand, but it was fairly simple to do (easier, I’d argue, than adding an hReview to an existing webpage)."

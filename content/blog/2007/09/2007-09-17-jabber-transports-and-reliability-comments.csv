@@ -1,0 +1,32 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1179,2007-09-18T00:31:00+00:00,Gareth,,,comment,0,"I think that article’s bobbins to be honest.
+
+As you say, the transport’s are hopelessly unstable and even if they were improved they are still just another point of failure.
+
+It’s also totally unclear how transports solve his lowest common denominator problem. If you want to support some service above this the client will still need to know the capabilities of the person they are talking to.
+
+If I were a client author even though the effort might be bigger I’d probably want to have the protocol code in my control and not in some external project that I am not part of. If MSN breaks something suddenly, I now need to make sure this other project makes a fix and release. I then have to hope that this release is rolled out in a timely manner to the servers that run the transport.
+
+Similarly as an end user, when a protocol breaks, it’s clear with a multi protocol client where to go for a fix. With the transport system I have to hunt around for a server that’s installed the latest transport.
+
+Thanks, but no thanks."
+1180,2007-09-25T15:01:00+00:00,"Mathew Peet",,,comment,0,"Google are using jabber protocol for their google talk. They have a client   
+and I think it is possible to configure other clients to use their system   
+if you want to talk to other people on google.
+
+Because it’s for google users it isn’t the solution for everyone, unless   
+we all register with google.
+
+I guess they take the code and make it their own, and will update when   
+they update their client, making sure not to break anything."
+1181,2007-09-25T18:24:00+00:00,"Phil Wilson",,,comment,0,"Yes they are, and yes it is possible, but it doesn’t matter in this context because they’re running a Jabber-only server, not running any transports.
+
+Unless that’s not your point?"
+1182,2007-09-26T08:28:00+00:00,"Mathew Peet",,,comment,0,"Yes but I got so confused when writing.
+
+Like said in a different tread, the best solution would be to change the people."
+1183,2007-11-18T18:50:00+00:00,sander,,,comment,0,"*“As you say, the transport’s are hopelessly unstable and even if they were improved they are still just another point of failure.”*
+
+It’s no additional point of failure compared to multi-protocol clients.
+
+Anyway, I believe a big company like Google could drastically improve the situation by providing stable transports…preferably open-sourced of course."

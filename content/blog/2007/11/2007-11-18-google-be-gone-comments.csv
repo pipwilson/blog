@@ -1,0 +1,25 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1191,2007-11-19T01:08:25+00:00,Gabe,urmom111@gmail.com,http://lj.writelarge.com,comment,0,"So, what happened? How and why did Google shut you down? I’m just curious because I am far too entrenched in Google-land for my own comfort level, and I want to start making steps toward Google-independence.
+
+Ironically, I’ve resumed using Microsoft products recently."
+1192,2007-11-19T13:37:07+00:00,Steve,steve@twindx.com,http://www.twindx.com/,comment,0,"That’s fubar. I can’t believe how rubbish they’ve been."
+1193,2007-11-19T13:51:20+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Gabe&gt; One day I went to log in to my gmail and it said “Sorry, your account has been disabled because we suspect that you may have broken the Terms of Use”. I was left logged in to Google Reader, Google Search and iGoogle (and still am).
+
+Here is the error message I get sent to : <https://mail.google.com/support/bin/answer.py?answer=61805>
+
+As far as I can tell I’ve done nothing actually wrong, and trying to contact them has so far been fruitless.
+
+Of course, all my Google Docs are left in limbo, my Google Maps are inaccessible etc. etc. etc."
+1194,2007-11-19T17:50:05+00:00,Fin,fintan.darragh@gmail.com,,comment,0,"This is balls! I hope it doesn’t happen to me…"
+1195,2007-11-20T17:20:54+00:00,grendelkhan,grendelkhan@gmail.com,http://grendelkhan.livejournal.com,comment,0,"That’s ridiculous. If they suspect a TOS violation, they could just prevent you from sending email through them, or perhaps from receiving mail as well, rather than locking you out of your account entirely."
+1196,2007-11-21T09:42:39+00:00,Anthony,anthony@v-assist.co.uk,http://codeandeffect.co.uk/blog/,comment,0,"It is pretty poor that you only find out how badly they’ll behave when they decide to do it, when it’s too late, and you don’t even have a fee to withdraw in protest. Shouldn’t have to, but self-hosting is probably the best policy if they’re going to issue summary justice without warning.
+
+You didn’t say something about Search Engines and China did you? 😉 Hope that they get you back on as soon as."
+1197,2007-11-21T10:08:37+00:00,Hendy,htanata@gmail.com,http://codeftw.blogspot.com,comment,0,"Not even able to view or export your data, that’s worrying. And the worst part is no response from them. I hope it can be resolved soon."
+1198,2007-11-21T10:32:22+00:00,Anthony,anthony@v-assist.co.uk,http://codeandeffect.co.uk/blog/,comment,0,"Not wishing to add to your torment, but until they sort your account out and you get your blogger back, what will their search spider be doing now all your years of entries are suddenly missing? I hope they recognise the trouble they’ve caused."
+1199,2007-11-21T10:42:55+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"I have in fact just got my Google Account back, but with no warning – I just tried to log in and it worked. I’ve not heard anything at all about why it went away or why it’s come back (or even that it had done – if I hadn’t checked I still wouldn’t know).
+
+I’m currently in the process of backing up everything I can get my hands on.
+
+Luckily I still own my blogger archives so I’ve put the static HTML in place underneath WordPress – I’m looking at the easiest way of migrating them into WordPress right now."
+1200,2007-11-25T02:59:27+00:00,"Eric TF Bat",bat@flurf.net,,comment,0,"As an emergency backup to GMail, I recommend FastMail (<http://fastmail.fm/>), a more-than-adequate mail system based in Melbourne, Australia. They have a little more downtime than Google, often due to the lads fiddling around on the production server when they shouldn’t, but they’re a lot more accountable and can be reached by phone if all else fails. They also did IMAP a long time before Google did."

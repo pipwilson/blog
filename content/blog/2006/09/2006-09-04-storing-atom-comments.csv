@@ -1,0 +1,23 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+922,2006-09-05T08:29:00+00:00,Anthony,,,comment,0,"“like a wheel within a wheel…”"
+923,2006-09-06T14:33:00+00:00,"Elias Torres",,,comment,0,"Check this APP implementation out for WordPress.
+
+<http://torrez.us/archives/2006/08/21/486/>"
+924,2006-09-06T22:39:00+00:00,"Aristotle Pagaltzis",,,comment,0,"Why *wouldn’t* you have the data spill out? How else would you properly query it?
+
+All of my own design approaches have focussed on exactly that approach: storing the XML fragment for an entry verbatim in a column, with additional columns storing the various other bits of metadata. The other columns are always derived from the XML fragment, of course. Consider them an intentional denormalisation for the purpose of easier querying – a common practice anyway.
+
+Works for me."
+925,2006-09-07T09:37:00+00:00,Pip,,,comment,0,"OK, maybe I meant controlled spillage. I think it would be easy to start with a single field storing the data and have subsequent developers extract more and more of the info until it was all stored in unique fields.
+
+As for querying, I’d use the XPath features of the database I was using.
+
+Even as it is, I’d be unconvinced by code that stores the XML then writes to fields – I’d prefer to do that using triggers (despite my normal utter hatred of all things trigger-related)."
+926,2006-09-09T01:37:00+00:00,"Aristotle Pagaltzis",,,comment,0,"OK, you can query it using XPath functions… but does the engine do anything to optimise for XPath queries? If it just parses the fragments on every query, there’s no gain over sticking everything in a single XML document and querying it with XPath directly – no relational DB involved. Would probably be faster, even.
+
+Using triggers in conjunction with XPath functions to autopopulate the columns sounds like a very good approach, though. (I don’t hate triggers, I just find that they’re easily overused as lipstick on a schema pig.)"
+927,2006-09-09T16:36:00+00:00,Pip,,,comment,0,"At work, for example, we use Oracle, which seems to have very good support for native XML. My knowledge is lacking in the particulars, but [http://www.oracle.com/technology/tech/xml/xmldb/Current/TWP\_Mastering\_XMLDB\_Queries.pdf](http://www.oracle.com/technology/tech/xml/xmldb/Current/TWP_Mastering_XMLDB_Queries.pdf) seems like a nice introduction to the features available, although there’s no detail on how it manages things like caching and optimisation (I can’t imagine that Oracle wouldn’t have thought of this though).
+
+I think the really nice feature is that it can take an XML Schema and create a DB with native fields. The user can then query it in whichever way they like.
+
+Obviously MySQL’s support is currently beta, and I have absolutely no idea about support in other RDBMSs."

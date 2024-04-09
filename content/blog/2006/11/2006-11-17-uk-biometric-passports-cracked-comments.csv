@@ -1,0 +1,48 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+999,2006-11-17T11:53:00+00:00,"Anthony Up North",,,comment,0,"As fascinating as it is disturbing. Booze up and brewery springs to mind!"
+1000,2006-11-20T19:46:00+00:00,"Mathew Peet",,,comment,0,"It is possible to read the information stored on the RFID card, at the moment it contains the same information as the passport. To read the information you need the key which is printed on the passport, the data is also signed with an additional key.
+
+It’s not necessary to crack the encoding because it should be readable by travel agents or anyone who would usually need to see your passport. This is the sort of thing that will probably be implemented by any half capable programmer by reading the instructions 🙂
+
+This allows the passport to be checked in an additional way, much like the use of holograms and digital watermarks.
+
+In the future additional information will be added, such as fingerprint information, it seems likely that this will be encrypted and available only to ‘the authorities’."
+1001,2006-11-20T23:51:00+00:00,Pip,,,comment,0,"I think you’re missing the point, perhaps deliberately.
+
+“To read the information you need the key which is printed on the passport”
+
+but this won’t be how travel agents read it – how do
+
+“the data is also signed with an additional key”
+
+Given the article, this does not appear to be true. In fact, it states: ‘The information contained in the chip is not encrypted’.
+
+Also, I think you miss some of the point – “This allows the passport to be checked in an additional way, much like the use of holograms and digital watermarks.” – except that this method of checking is now entirely redundant as it is more easily reproducible than probably the passport itself.
+
+Also, the key to your comment is “it seems likely” that the more important information will be encrypted – well, at the moment they’re using 3DES – effectively 112 bit security, but publishing the key (I realise the terminology is inaccurate, I’m trying to keep it simple for legibility). How do you think they are going to improve this level of security? At what point, for example, do you not think that your fingerprints will become an additional way of checking your passport, much like the use of holograms and digital watermarks?/"
+1002,2006-11-22T12:37:00+00:00,"Mathew Peet",,,comment,0,"If there is a digital signature it wouldn’t be encrypted, you could copy it, but you couldn’t change the picture. It does say the picture can’t be changed in the article.
+
+Yes it will be possible to copy a valid passport, but this will make it harder to forge one.
+
+Why does the information on the chip need to be encrypted, it’s all readable from the passport. You need physical access to the passport to use this RFID technology.
+
+The technology that has been implemented here I think it harmless, and can only be used to better automate passport control, ticket purchase, etc.
+
+What is dangerous as pointed to in the article is when extra information starts to be incorporated into the passport – the additional biometric information such as fingerprints. This will be a requirement for countries if their citizens are to enter the US without a visa.
+
+This information should have extra encryption to prevent it from being copied, however resourceful criminals will still be able to get fingerprints from other places (especially if finger print readers become fashionable as a way of identifying yourself).
+
+I think the article you linked to is pretty bogus, in that the cards are functioning in the way they are specified to work. All the attacker has done is read the information by reading the instructions of how to read the information. It would be possible for a forger to make an exact copy of the passport, but it does make it harder to make your own ‘new passport’ or change the details on an existing passport.
+
+The real danger of ID cards/ extra information on passports will be when people trust them too much and stop thinking critically.
+
+I’m not sure I said much new here, but just repeated things from the first post 🙂"
+1003,2006-11-23T10:21:00+00:00,Pip,,,comment,0,"Well, you’ve changed your stance on the encryption, now that you’ve actually read the article.
+
+You’ve also highlighted than any joe schmoe can read your passport, making it easier to forge the passport.
+
+The article is non-bogus in that the way that the passports are currently designed to work appears to me to be flawed. I would never implement a piece of security in \*software\* that could be broken by reading plain text, let alone in something like a passport.
+
+Mainly the article is an awareness piece. I can’t imagine that anyone would previously have assumed that information stored on an RFID chip could be read by anything other than a governmental body. They are already trusted too much.
+
+I think you have started off by giving the public way too much credit. People, by nature, don’t think critically, they think lazily."

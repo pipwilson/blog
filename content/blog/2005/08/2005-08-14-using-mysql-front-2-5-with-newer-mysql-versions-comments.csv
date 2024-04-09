@@ -1,0 +1,5 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+566,2006-07-27T20:06:00+00:00,Anonymous,,,comment,0,"this is a great line of text to google – but can you put a link to the download for 2.5 and help us all"
+567,2006-07-27T22:45:00+00:00,Pip,,,comment,0,"Instead of using MySQL-Front, try using HeidiSQL, which is by the same author but free and compatible with all MySQL versions.
+
+<http://www.heidisql.com/>"

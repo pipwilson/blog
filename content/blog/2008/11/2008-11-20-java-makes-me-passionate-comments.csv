@@ -1,0 +1,4 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1400,2008-11-20T21:39:06+00:00,adnan.,adnan.ali@gmail.com,http://www.jaaduhai.com,comment,0,"have you played with Stripes?"
+1401,2008-11-21T12:22:16+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"Very briefly, yes. It seemed very similar to Struts2 although seems to have an advantage with the Stripes Reloader <http://www.stripesbook.org/stripes-reload.html>"
+1402,2008-12-25T17:05:16+00:00,"Steve Jenson",stevej@pobox.com,http://saladwithsteve.com,comment,0,"You should check out JavaRebel, it dramatically reduces the amount of time you spend developing java webapps."

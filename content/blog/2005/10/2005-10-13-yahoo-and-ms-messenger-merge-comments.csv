@@ -1,0 +1,18 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+614,2005-10-13T16:02:00+00:00,"Charl van Niekerk",,,comment,0,"I’m not so sure that Google Talk actually is “open communication” because, as far as I understand, it doesn’t talk to the public Jabber network.
+
+So the protocol might be open, but the network isn’t.
+
+(Appologies in advance if I have my facts wrong; I don’t use Google Talk myself.)"
+615,2005-10-13T20:32:00+00:00,Pip,,,comment,0,"Your facts are right as things stand.
+
+The Google Talk servers currently don’t federate with other Jabber servers, but the company has publically committed to do this (on the Google Talk site, on the jabber development mailing list ‘jdev’, and in a public online chat hosted by the Jive Messenger guys).
+
+For me, this is enough of an assurance to be able to recommend Google Talk above other IM networks for anyone moving away from MSN Messenger."
+616,2005-10-14T15:29:00+00:00,"Charl van Niekerk",,,comment,0,"Ah, I should stay more updated with Jabber issues. In that case, I’m fully behind Google Talk too! 🙂"
+617,2005-10-28T20:23:00+00:00,Fin,,,comment,0,"Good news at any rate, I can’t be doing with both of those. MSN is my choice because ALL of my friends have it.
+
+I’m getting a mac soon so what I really want to do is use ichat with MSN. Doubt that will happen, though.
+
+It’s more likely they’ll try to block Google here. But we can all dream…"
+618,2005-10-28T20:33:00+00:00,Pip,,,comment,0,"They’ll block Google? Jesus!"

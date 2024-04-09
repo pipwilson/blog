@@ -1,0 +1,2 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+35,2004-06-26T21:21:00+00:00,Anonymous,,,comment,0,"I would like to hear more about how you think an aggregator ought to work. I am part of the renewed Jabberzilla project ( <http://jabberzilla.jabberstudio.org> ), and we are considering creating a client that works with pubsub.com and mimir. Swing by the site, hang out in our room <jabberzilla@conference.jabbber.org> , or shoot me an IM at <carlb@jabber.org>."

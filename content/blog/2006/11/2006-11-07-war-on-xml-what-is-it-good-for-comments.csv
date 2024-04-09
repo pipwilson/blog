@@ -1,0 +1,7 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+978,2006-11-08T02:05:00+00:00,Anonymous,,,comment,0,"Why would any monopoly spend money to support an open standard?!"
+979,2006-11-10T18:10:00+00:00,"Aristotle Pagaltzis",,,comment,0,"Ah, so that is the question. Well, that’s a good guess. I think easy client-side transclusion (some sort of XInclude profile maybe) could have been a killer app. Even just dedicated markup for footnotes, sidenotes and pullquotes might have gotten entire populations of web inhabitants to switch, if coupled with some updates to CSS (consider the accessibility angle here as well as the force of the standards compliance movement among designers creating for the open web). There would quite conceivably have been scope for better SVG integration, as well.
+
+More ideally, there would have been several iterations by now, so there might have been a confluence of additions, each individually too weak to get any particular publisher to switch, but in combination enticing enough. Heck, people would switch just because of the presence of new and shiny features, even in absence of an immediate need for them.
+
+Microsoft have been able to afford their torpor because it was simply a reflection of the web’s."

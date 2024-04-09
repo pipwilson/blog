@@ -1,0 +1,20 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1421,2009-01-18T01:00:43+00:00,"Jeremy Keith",jeremy@adactio.com,http://adactio.com/,comment,0,"But you can’t sit on the sofa and flip through a book with a webcam. Remember, the barcode reader is very small and it’s wireless. The act of dragging it across a barcode in the book is like underlining a passage in a book, filling in a crossword or doodling in the margins."
+1422,2009-01-18T11:46:15+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"Ah was it? That makes more sense. I was pretty much imagining a very big thing. Remember I wasn’t there! 🙂"
+1423,2009-01-19T01:16:09+00:00,alf,alf@hubmed.org,http://hublog.hubmed.org/,comment,0,"That was the bit that grabbed me too – made this when I got home: <http://alf.hubmed.org/spotify-qr/>
+
+I was picturing magazines with QR codes next to playlists and album reviews. The only trouble with Spotify URLs is that they won’t work on a phone, so ideally the service at the QR code’s URL would be a generic solution that would output the playlist in multiple formats as appropriate."
+1424,2009-01-19T12:37:36+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"@alf, yes that’s exactly the kind of thing I was imagining as well."
+1425,2009-01-26T11:30:41+00:00,"Tom Insam",tom@jerakeen.org,http://jerakeen.org/,comment,0,"Once upon a time, a long long time ago (1989), the Radio Times used to print barcodes underneath programmes in their printed schedule. You could get a video recorder who’s remote control had a barcode scanner, and if you scanned the barcode, your VCR would record the programme.
+
+Panasonic, apparently.
+
+Anyway, it was utterly crushed by VideoPlus. But there you go, it’s a 20-year-old idea. 🙂"
+1426,2009-01-28T05:26:55+00:00,Josh,jdimauro@gmail.com,http://blog.metacarpal.net/,comment,0,"Jeremy’s vision has been a mild obsession of mine, as well, for quite some time now.
+
+What’s needed is a camera, a processor that can recognize and decode QRCodes, and medium-range wireless connectivity to a phone, tablet, or PC. This is doable. It was less doable a few years ago, and will be more doable in a few years. With the right software on a phone, it could be a solved problem. IF we can stop thinking of QRCodes as convenient methods for distributing advertisements.
+
+What’s more, I don’t think you should have to wait for a publisher to create pre-augmented publications. Rather, it should be something that you can start slapping, willy nilly, across your printed landscape. Like wiki notes for paper.
+
+Which is a topic for the next PaperCamp…"
+1427,2009-02-10T20:49:11+00:00,Richard,mail@richardskingdom.net,http://www.richardskingdom.net/,comment,0,"My Nokia E71 phone can read both barcodes and QR codes using its inbuilt digital camera. It also has wifi and HDSPA data connections…"

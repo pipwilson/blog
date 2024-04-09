@@ -1,0 +1,4 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1016,2006-12-18T13:05:00+00:00,Steve,,,comment,0,"It’s ridiculous. UTC would be far better – it’s what the bloody servers are running at in the first place. And when you’ve got countries around the world that span multiple timezones, that AREN’T America, like Australia for example, you end up with a really nasty sliding scale of timezone offsets. East US to West Australia would be about 13 hours, West US to East Australia about 19 hours.
+
+Just bite the bullet, use a standard and let the n00bs figure out for themselves what it all means."

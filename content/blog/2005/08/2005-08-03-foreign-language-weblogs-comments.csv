@@ -1,0 +1,22 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+545,2005-08-04T11:42:00+00:00,Yvonne,,,comment,0,"The trouble with the Google translator service is that it does tend to mangle any expressions that are not 100% literal.
+
+Alternatively you could just reconfigure your brain to cope with switching between languages 🙂 I find it easier to switch to German than French, though, I must admit."
+546,2005-08-08T06:39:00+00:00,"Christoph Görn",,,comment,0,"Hallo Phil, danke für die Blumen. I will try to get things better interlationalized, e.g. post in english."
+547,2005-08-08T07:39:00+00:00,Pip,,,comment,0,"Hey, no problem Christoph – it does me good to stretch my language muscles – it’s not as if they get much practice.
+
+Also, your comment reminds me that I’m still not serving UTF-8. Must fix!"
+548,2005-08-08T22:40:00+00:00,Em,,,comment,0,"You linguistic wossname you. I’ll have you know that the five minute disorientation in question is actually likely to [help protect you from senile dementia](http://news.bbc.co.uk/2/hi/health/3794479.stm) in, ooh, um, about sixty years’ time. So get practicing!
+
+OTOH, getting your aggregator to do automatic Google translations should not be much of a problem. You can guess at the language in which a post is written by the characters, the letter frequency, and so forth.
+
+Sonst hast du immer noch die Möglichkeit, dein Deutsch zu üben und zu verbessern. Kann doch nicht schaden, oder? 🙂"
+549,2005-08-09T08:46:00+00:00,Pip,,,comment,0,"Pfah, Ich sollte, aber natuerlich ich bin zu faul 🙂
+
+Oh, and my grammar stinks.
+
+wouldn’t it be nice if one day all the promises of weblogging tools which generate a correct lang attribute via text-analysis actually come true?"
+550,2005-08-09T09:03:00+00:00,"Christoph Görn",,,comment,0,"Em: actually all my post in the rss feed are having some dc:language tag, so guessing the language shouldnt be the problem. and… I needed to hack it into WordPress by myself, the internet seems to be all english 🙁"
+551,2005-08-09T09:12:00+00:00,Pip,,,comment,0,"Christoph, are you sure? Before I made my earlier comment I looked at your feed for language markers but couldn’t see any.
+
+I looked at <http://feeds.feedburner.com/datenbrei/> and <http://b4mad.net/datenbrei/feed/rdf/> and neither appear to use dc:language."

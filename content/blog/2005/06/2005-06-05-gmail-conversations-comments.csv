@@ -1,0 +1,37 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+469,2005-06-05T13:15:00+00:00,Andrea,,,comment,0,"They must have been “working out kinks in our ‘Conversation’ feature” for a year now, and you *still* can’t manually un-group emails. It’s not really an issue for me anymore, as I file all my emails in Thunderbird and only keep them in my account as backup, but still.
+
+And the storage counter on the main page irks me more than it probably should. I don’t even NEED 2.26 GB of disk space! Get out of “Beta” first!
+
+Ahem. That is to say, I hear you."
+470,2005-06-05T14:14:00+00:00,Pip,,,comment,0,"I’m glad it’s not just me 🙂"
+471,2005-06-06T08:53:00+00:00,Scribe,,,comment,0,"I’ve always thought the same was true of whatever mail client I ever used (including Thunderbird, currently) – it’s nice being able to switch from ordering by date, to a “thread view” mode, but it’d be even nicer to then be able to manipulate those threads. Does \*anything\* let you do this? :-/"
+472,2005-06-06T09:48:00+00:00,Pip,,,comment,0,"I don’t believe so, no. This is interesting though – why aren’t we allowed to manipulate these threads? Why do we have to work within an arbitrarily imposed order on human conversations?
+
+Whilst it is true of all mail clients, I think it’s worse (or possibly just more obvious) in Gmail because of the enforcing of viewing your mails as conversations."
+473,2005-06-08T14:29:00+00:00,Scribe,,,comment,0,"This is definitely something I’d like to see in a mail client (maybe it’s time to learn XUL…), along with other grouping functionality too. Think how many mails you get pertaining to the same subject, but not necessarily in response to each other… The closest we have at the moment, I guess, are Smart Folders and Labels (at least in Thunderbird), but why not allow people to “tag” individual mails or smoething?"
+474,2006-04-17T02:25:00+00:00,Anonymous,,,comment,0,"I am so annoyed with the ‘grouping’ into conversations that I have now stopped using Gmail! It is utterly useless and frustrating for receiving things like logs on a regular basis, which obviously make no sense to lump together in one bundle. I thought this would have been a pretty simply feature for Google to include."
+475,2006-04-17T14:48:00+00:00,Pip,,,comment,0,"They should always float to the top though, and i don’t think that the same subject line is enough to trigger conversation grouping. sounds a little strange to me."
+476,2007-04-19T13:33:00+00:00,Anonymous,,,comment,0,"The conversation view in Gmail is the most ridiculous and crappy way of doing things. Google not only wants to control the internet…it wants to control how we use it too. It’s frustrating. I have given up using Gmail (webmail version) and I only use it with POP3 and I have also adviced everyone to stop using it after they had enormous problems. Gmail webmail interface has already lost more than about 10 users from my side."
+477,2007-04-19T17:39:00+00:00,"Phil Wilson",,,comment,0,"How would you rather it was done?"
+478,2007-08-17T05:36:00+00:00,Trejkaz,,,comment,0,"I like the notion of conversations and the way that tags apply per-thread instead of per-message. My issue is with the execution.
+
+One particular example, I have a stack of messages from the same forum notifier about the same forum message so they all have the same subject. Some of them get grouped together, some of them don’t. This in itself wouldn’t be a major issue if we had some way to group them back together, but since we don’t, it’s awful. 🙁
+
+And I gather that even if they fix the problem now, it isn’t going to retroactively apply to older threads anyway."
+479,2007-09-05T12:14:00+00:00,Karen,,,comment,0,"I must say, this ‘conversation’ thing does annoy me too, sometimes it gathers completely unrelated messages into one conversation(ie, messages from different people, with different subjects, etc., I can’t even begin to understand how they dos it), then when you want to browse quickly through your “sent” mail or “received” mail, that’s another annoying bit, as mail gets hidden behind one single thread, even it it doesn’t belong there!!  
+If they don’t offer another viewing option soon, I might give it up too!"
+480,2009-07-05T04:45:21+00:00,Joe,joe@thinkers.com,,comment,0,"I like the conversation view it improves my mail reading experience 90% of the time. And the losses in the other 10% aren’t irrecoverable.
+
+Innovation requires change.  
+Changes can be scary.  
+And the first one isn’t the final destination."
+481,2009-09-15T07:30:44+00:00,sam,gonzo5680@gmail.com,,comment,0,"Joe, we aren’t talking about major life changes here. I just want to be able to read my email a 100% of the time.
+
+Give me date and time sorting or give me death."
+482,2009-09-26T10:30:39+00:00,Dennis,dennis@ddddesigns.com,,comment,0,"I just can’t believe that Google still hasn’t added a lab to allow you to turn off conversations altogether. Just seems like bad programming to me. If I know that there is a “feature” that has glitches, I offer the page without the feature. Can’t the big G do the same?"
+483,2010-11-23T12:46:52+00:00,dezz,dezz@mailinator.com,,comment,0,"So many years now and still no manual grouping of conversations 🙁
+
+redicoulus
+
+With FB introducing messaging Google will lose millions of ppl"

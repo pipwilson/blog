@@ -1,0 +1,14 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1134,2007-05-06T20:58:00+00:00,Greg,,,comment,0,"Phil, I enjoy reading your blog, but you really have to come up with some better complaints about firefox under ubuntu. Neither Bugzilla or Launchpad will have anything on your issue since it is a pref setting.
+
+Set layout.word\_select.stop\_at\_punctuation to true.
+
+Oh and btw, if you are still wondering about the flash and greasemonkey problems you wrote about a while back, check my comment: <http://philwilson.org/blog/2007/03/things-i-cant-do-in-firefox-without.html#6034922099684275089>
+
+Keep up the good work on the blog, I really enjoyed your wife’s poem."
+1135,2007-05-06T22:34:00+00:00,"Phil Wilson",,,comment,0,"Hi Greg, thanks for that – it works a treat.
+
+However it’s still a completely bizarre option for the Ubuntu build to set by default (reproduced on three other machines so it’s not just me), and I found it very hard to search anything that might have been related.
+
+I’ll try harder to come up with things that bother me in the future 🙂"
+1136,2007-05-06T22:46:00+00:00,"Phil Wilson",,,comment,0,"For the Google searchers, the appropriate Bugzilla entry is here: [https://bugzilla.mozilla.org/show\_bug.cgi?id=190615y](https://bugzilla.mozilla.org/show_bug.cgi?id=190615y) and Launchpad is here: <https://bugs.launchpad.net/ubuntu/+source/firefox/+bug/87550> and the suggestion to fix it in Firefox 3: [http://wiki.mozilla.org/Firefox3/Location\_Bar#Change\_selection\_behaviour](http://wiki.mozilla.org/Firefox3/Location_Bar#Change_selection_behaviour)"

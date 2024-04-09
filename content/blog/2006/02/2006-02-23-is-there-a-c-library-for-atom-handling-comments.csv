@@ -1,0 +1,9 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+798,2006-04-22T12:56:00+00:00,JC,,,comment,0,"So, are you going to write it yourself? I am looking for the same thing and came to the same conclusion: nothing exists."
+799,2006-04-23T14:56:00+00:00,Pip,,,comment,0,"I did start, but my C++ just isn’t really good enough. As far as I know, no-one is working on one either.
+
+I wonder if it’s possible to run Mark Pilgrim’s Universal Feed Parser through py2exe and call that from normal C++ code?"
+800,2006-07-09T22:13:00+00:00,"Eduardo Habkost",,,comment,0,"Did you find something useful? Did you had to write something yourself?
+
+I will need to handle Atom using C++, also (for Google Calendar API, more precisely), so I am interested in any additional information you have found, and possibly joining efforts, if you had to write it yourself. 🙂"
+801,2006-07-09T23:23:00+00:00,Pip,,,comment,0,"Nope, I gave up and moved to Python instead. Sorry Eduardo!"

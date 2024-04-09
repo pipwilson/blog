@@ -1,0 +1,4 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1385,2008-10-26T19:09:31+00:00,TJantunen,turo.jantunen@gmail.com,http://tjantunen.com,comment,0,"I moved my posts from blogger beta to wordpress without using any plugins. I wrote instructions into my blog: <http://tjantunen.com/2007/0/21/import-blogger-posts-to-wordpress/>  
+It takes a few minutes and you do not need to use any plugins."
+1386,2008-10-26T22:45:30+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Yes, the exact same process works on local wordpress.org installs, it’s excellent!"

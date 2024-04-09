@@ -1,0 +1,30 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+747,2006-01-23T09:36:00+00:00,amillionlittlepieces,,,comment,0,"I agree entirely, next they’ll want folders…"
+748,2006-01-23T17:23:00+00:00,Mark,,,comment,0,amen
+749,2006-01-24T15:32:00+00:00,Anonymous,,,comment,0,"Out of all the people on the Interweb, there have to be a few who don’t, can’t or won’t entertain a mental model of email compatible with Gmail’s approach.
+
+Spare a little pity for them, too… great new approaches may involve retraining time."
+750,2006-01-25T16:53:00+00:00,Somnius,,,comment,0,"So you do understand Gmail’s philosophy, hugh?  
+Have you got 1.5 Gig of mails and are afraid of running out of space? I’m sure you don’t.  
+Do you really NEED to archive all your mails? Say…you archive even spam, hugh? You archive even one-line mails your friends send you telling they’re at work already? So then, man, let me tell you you’re stupid!  
+There’s no need to make use of Gmail’s space with useless stuff. You would say “what do you care?”. I do care. If something affects Gmail, it affects me, cause I rely pretty much on Gmail and if something goes wrong with Gmail, then it goes wrong with me.  
+You would say, yet, that Gmail won’t get any benefit from my saving space, but then again I would say “Man, you’re still so stupid! I don’t care if it’s indeed a benefit or not for Gmail. I don’t lose anything trying”.  
+So, know-it-all, somehow Gmail agreed to finally put the button up there. They could have discarded user’s requests. But they didn’t."
+751,2006-01-25T17:21:00+00:00,Pip,,,comment,0,"I know English isn’t your first language, but I seriously don’t know whether you’re agreeing with me or not."
+752,2006-01-25T17:24:00+00:00,Pip,,,comment,0,"Although a slight correction: I have 2.7GB of space in my Gmail account.
+
+Additionally, I have 5,500 mails in my archive and another 1000 in my spam folder. This uses a total of 6% of my total space allocation."
+753,2006-01-30T17:16:00+00:00,Pip,,,comment,0,"Ah, actually I understand you now, your point actually being: “I don’t lose anything by trying to help Gmail save space”.
+
+I’m not entirely sure there’s a logical reply to that."
+754,2006-02-17T14:26:00+00:00,"Tom Heath",,,comment,0,"Hey Pip. Interesting post. I hear what you’re saying, but in the spirit of good debate I have to disagree 🙂 I use the Delete feature regularly (via the drop-down, incidentally) for a couple of reasons: 1) relevance and 2) privacy.
+
+1\) Gmail is great for receiving all those mailing list posts and announcements. Some of them I wanna keep for posterity, and having 2.7Gb to play with means I can just do that without having to think about it. However, some of them are totally transient and will have no relevance to me ever again once I’ve read them. If I wanna do something with the info in them I’ll store it in some other way. It’s this second type of message that I delete.
+
+Despite what Google seems to think, powerful search of my email won’t solve my information management problems. It will help, but it won’t solve it. I see no point in keeping irrelevant mail just because I can, and risk polluting those email search results in the process.
+
+2\) Google already knows enough about me thanks very much. I’m prepared to give up a little bit of my privacy in return for access to loads of online storage, but anything I don’t particularly wanna keep I’d happily delete rather than contribute it to Google’s ever-growing profile of me. (Of course you could argue that the stuff I choose to keep is the stuff that makes the profile interesting, but that’s another issue. You could also question whether Google actually gets rid of the stuff that’s “Deleted Forever”, but worth a try I guess.)
+
+At a general level, I think that Gmail is interesting mainly because of the amount of storage. The other features are pretty incidental IMHO, and can be achieved in a regular mail client by just having one big folder (called “Archive” perhaps?) where you drag everything you wanna keep, and a decent full text search over that. This is how I manage my highest volume non-Gmail mailboxes.
+
+The real Gmail-seeded innovations should come with people building apps that backend to Gmail for storage via GmailFS, and with the integration of Gmail and GoogleTalk. (At last someone has realised that email and IM support roughly the same sorts of tasks). How many people will want Google archiving their IM chats as well as their email is a different question."

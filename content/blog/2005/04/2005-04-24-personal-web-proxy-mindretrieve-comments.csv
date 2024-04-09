@@ -1,0 +1,10 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+435,2005-04-24T18:58:00+00:00,alf,,,comment,0,"I just got Beagle running today and it comes with a Firefox extension that tells the beagle daemon to automatically index every page you visit. Seeing as it combines this index with IM logs, feeds and files, I think I prefer this to a proxy. It also doesn’t give the (however minimal) speed decrease of routing everything through a proxy. No cached pages though."
+436,2005-04-24T19:21:00+00:00,Pip,,,comment,0,"Yes, if I could get Beagle running on Windows, and anything running in the .NET runtime didn’t slow my machine to a complete crawl (even with 1GB RAM), that’s what I’d prefer to use. 😉
+
+Certainly all of the main desktop search tools I’ve used have been complete memory hogs, and intrusive on my day-to-day computer usage. MindRetrieve has been memory-light and fast. I have indexers for the rest so I can certainly live with it until something better comes along."
+437,2005-06-15T18:01:00+00:00,Anonymous,,,comment,0,"This is a great tool. Hadn’t ever used one until you posted your blog entry. As I do my usual work stuff, IT slave labor :), and a lot of personal research I’ve gotten into the habit of saving the more important articles because some sites tend to redesign and can’t find the article at all or not easily sometimes. Now I get the best of both world: can visit the page and if it’s gone go back to my cache.
+
+You are the man,
+
+A fellow PHPBF4 guy"

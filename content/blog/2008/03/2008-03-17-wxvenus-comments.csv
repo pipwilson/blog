@@ -1,0 +1,17 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1295,2008-03-18T17:00:33+00:00,Ciaran,ciaran@ciarang.com,http://blog.ciarang.com,comment,0,"I can vouch for the ‘cross-platform’ part – it works for me on Windows, after a small amount of tinkering. Screenshot here: <http://blog.ciarang.com/posts/venus-cache-browser/>
+
+I did notice that it’s very slow when moving from one feed to another, which may well have something to do with me pointing it at a Venus cache on a different machine via a Windows file share. (Almost the ‘remote’ part?) Anyway, if I had to guess, I’d say unbuffered file reading, but I haven’t had time to look."
+1294,2008-03-18T17:26:08+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Excellent stuff! Not sure why you had to change the planet\_http\_status to http\_status – it seems to work on my machine. I’ll check when I get home.
+
+Improving performance is high on my list, but given my weak Python and the fact that I want to keep it XML native as far as possible, it might take some time 🙂
+
+The “remote” part will probably one or more of:
+
+a) atom.xml output from a remote Venus installation
+
+b) Atom-over-XMPP (messaging)
+
+c) XMPP pub/sub"
+1296,2008-03-19T19:17:39+00:00,Ciaran,ciaran@ciarang.com,http://blog.ciarang.com,comment,0,"The planet\_http\_status thing was due to a missing drv\_libxml2 – gory details here if anyone has the same problem:  
+<http://blog.ciarang.com/posts/venus-cache-browser/#comments>"

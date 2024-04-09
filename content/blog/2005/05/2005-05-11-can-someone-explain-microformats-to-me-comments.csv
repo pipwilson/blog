@@ -1,0 +1,29 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+444,2005-05-11T16:11:00+00:00,l.m.orchard,,,comment,0,"Well, from my understanding, this is all about laziness and worse-is-better.
+
+Going to write a about an upcoming concert in your blog? You’re probably going to mention the name of the band, so why not mark it up with a \[span class=”summary”/\] while you’re at it? And there’s probably going to be a mention of time, so why not throw in an \[abbr title=”20050511…” /\] along the way? Linking to the venue website? Slap a class=”url” on that link. Oh, and surround the bit that talks about the event with a span or a div with a class=”vevent”.
+
+There. You’ve written what you were going to write about anyway, but now you’ve thrown in a few not-so-painful cues for a machine to understand it. That’s a microformat– an agreed upon way to mark up what you were going to write about anyway in HTML.
+
+Ideally, you \*should\* be publishing in valid XHTML. But, if you’re not, there are tag soup parsers out there that can get some use out of old-school HTML crud.
+
+See, writing pristine XML isn’t lazy. And if it’s not lazy, it doesn’t happen. And, yeah, I should be using a “calendar event” construction tool or some sort of forms-based UI. But there isn’t one on my blog, where I’m going to write about this thing.
+
+So, without a microformat, things remain opaque to machines. But, with a microformat that doesn’t demand too much of a rise out of me, I just might choose to mark up my content in a way that is at least \*easier\* for a machine to parse– rather than being all but impossible.
+
+It’s all about compromises to make things more available to machines in ways that people might actually use."
+445,2005-05-11T20:41:00+00:00,Pip,,,comment,0,"That’s a really interesting way of looking at it, which I’d have noticed was I still subscribed to your blog 😉
+
+But to me it smells like a “boil the oceans” approach. Instead of producing RSS alongside websites, why didn’t we try and make everyone just use the same IDs and classes on their HTML elements? Oh, and surround the bit where you talk about your cat photos with a span or a div with a class=”catphoto”.
+
+You see, to my mind, this is actually \*more\* work than publishing your data in another format entirely. Also, it assumes you’re handwriting your HTML, which, I’m sorry to say, just not that many people \*actually\* do (comparatively of course).
+
+Also I’d actually disagree with the “you should be publishing in valid XHTML”, because I basically agree with Anne van Kesteren, and I think XHTML is a bad idea (NB: that’s a pretty short summary :), but that’s a side-issue.
+
+You write on your blog about why not put the data in the content, but equally, why not put it in the feed? Tantek says “Does it make sense to ask everyone to write envelopes differently just because you’ve figured out a new way to write letters or new things to put in your letters?” well in that case, shoot all versions after Netscape’s 0.90 dead on the spot. This argument doesn’t hold water for me.
+
+It seems to me that microformats are generating pseudo-standards (remember kids, you can extend these any time you like! That’s why things that begin with X are so cool!) in order to artificially generate million-dollar markup."
+446,2005-05-12T10:29:00+00:00,"Cori Schlegel",,,comment,0,"I haven’t made up my mind about microformats yet, and my understanding of them’s also not very deep (yet), but WRT Pip’s comment, I can’t determine if he means that the microformats are extensible or not. If that’s the message then it’s incorrect, because most of them reference the [GMPG Principals statement](http://gmpg.org/principles) (see the item on Interoperability) and are copyright Technorati."
+447,2005-05-12T11:18:00+00:00,Pip,,,comment,0,"Blimey. That’s interesting.
+
+In which case, maybe I was just imagining all of Tantek &amp; co’s references to a benefit of choosing XHTML being its extensibility? I don’t think so though. Very interesting."

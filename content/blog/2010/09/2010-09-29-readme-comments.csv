@@ -1,0 +1,6 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1586,2010-09-30T06:26:10+00:00,"Gareth Simpson",G@xurble.org,,comment,0,"Do you not like instapaper?"
+1587,2010-09-30T08:46:13+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"I understand its appeal but I’ve had trouble fitting it into my workflow. Even if I did, it’d just be another “readme” source that I’d need to schedule in somehow."
+1588,2011-01-04T14:24:27+00:00,Nathan,nathan@nathanwong.co.uk,,comment,0,"The main benefit I’ve found of instapaper here is that it can email your kindle all of your “read later” articles every day."
+1589,2011-01-04T16:05:48+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,1588,"Yes, now that I have a kindle I’m starting to reasses this!"
+1590,2011-01-08T17:11:09+00:00,"Tim Allen",tim@timallen.me.uk,,comment,0,"I’ve been using Instapaper with my Kindle along side KindleFeeder for RSS feeds. So far I’ve got better results with Instapaper but that’s probably because I filter out the articles I don’t want to read before adding it…"

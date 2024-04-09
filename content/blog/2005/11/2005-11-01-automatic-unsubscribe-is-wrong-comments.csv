@@ -1,0 +1,24 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+641,2005-11-02T01:24:00+00:00,Fintan,,,comment,0,"It certainly would be better if, at least, the program publicised the days left clearly."
+642,2005-11-02T12:53:00+00:00,Pip,,,comment,0,"Ah yes, that would be nice too."
+643,2005-11-02T18:20:00+00:00,Fin,,,comment,0,"Oh and just to make you ‘aware’, so to speak, I’ve got myself a new blog. It’s called [Dech](http://www.dech.co.uk/)."
+644,2005-11-02T20:35:00+00:00,"Jack Brewster - Newsgator Tech Support",,,comment,0,"I’ve added a feature request to provide a warning when an automatic unsubscription is going to occur. (40761)
+
+It’s worth noting a few things about this feature:
+
+1 – The intention behind the feature is for comments feeds or other short-term subscriptions.
+
+2 – It’s off by default. The only way this can be turned on is by the end user.
+
+3 – The unsubscription is based on X days of inactivity where X is determined by the user (60 days by default). If you apply this option to a regularly updated feed, you’ll basically never auto unsubscribe."
+645,2005-11-02T20:38:00+00:00,"Jack Brewster - Newsgator Tech Support",,,comment,0,"Just noticed the question about whether it stops updating or deletes. It’s the latter.
+
+An unsubscribe event removes the feed content from FeedDemon. If you want to keep a feed’s content, but don’t want it to update any longer, you can disable updating in the feed properties."
+646,2005-11-02T22:04:00+00:00,Pip,,,comment,0,"Thanks for your comments Jack. I was certainly aware of the points from your first comment and I fully understand what the intention is, and it’s a lauable one.
+
+I think that no notification is possibly acceptable if the feed just stopped updating, but if it, and the contents of items already retrieved are deleted then the user must be notified."
+647,2005-11-02T22:13:00+00:00,Pip,,,comment,0,"Thanks for the pointer fin, your new blog style is excellent!"
+648,2005-11-04T17:22:00+00:00,Fin,,,comment,0,"How good of Mr. Brewster to get back to you!
+
+Now that’s customer support with a ‘zing’!"
+649,2005-11-04T23:47:00+00:00,Pip,,,comment,0,"Yeah, impressive!"

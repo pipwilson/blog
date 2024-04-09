@@ -1,0 +1,3 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+575,2005-08-25T14:40:00+00:00,alf,,,comment,0,"I think the rdf:resource is connected to the rdf:ID rather than the rdf:about there, but the rdf:ID has “-pip” on the end so it still might not correspond to the same thing."
+576,2005-08-25T14:42:00+00:00,Pip,,,comment,0,"Yes I agree. I thought the same thing but completely forgot to mention that in my post (I’ll update it). Almost all of my blog posts are made in a hurry and I invariably forget things 🙂"

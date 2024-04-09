@@ -1,0 +1,7 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1359,2008-07-07T23:27:15+00:00,"Mike Nolan",michael@michaelnolan.co.uk,http://www.michaelnolan.co.uk/,comment,0,"Because kses sucks for cleaning HTML?"
+1360,2008-07-08T11:55:04+00:00,alf,alf@hubmed.org,http://hublog.hubmed.org/,comment,0,"I don’t know why sites make their embed codes so complicated; all you need is
+
+&lt;object type=”application/x-shockwave-flash” width=”432″ height=”285″ data=”http://static.videoegg.com/ted2/flash/loader.swf?Quality=High&amp;file=http://static.videoegg.com/ted/movies/MarkBittman\_2007P\_high.flv&amp;allowFullscreen=true”/&gt;"
+1361,2008-07-08T11:55:44+00:00,alf,alf@hubmed.org,http://hublog.hubmed.org/,comment,0,"Without the smart quotes…"
+1362,2008-07-08T12:05:53+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Thanks alf, you’re right, that did the trick. Genius."

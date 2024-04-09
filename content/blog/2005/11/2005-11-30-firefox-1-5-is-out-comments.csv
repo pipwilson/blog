@@ -1,0 +1,22 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+690,2005-11-30T14:30:00+00:00,"Ben Ward",,,comment,0,"Firefox 1.5 doesn’t use Cairo for rendering as far as I know. That was just in someone’s personal, experimental branch. All the Cairo work will be in the Gecko 1.9 work (which may or may not come to be called Gecko 2.0, but will eventually form Firefox 2.0 or 3.0).
+
+I rather like the new options pane. OK, so it’s very Mac-esque so I’m inevitably comfortable with it (as I use both MacOS and Windows on a regular basis). The thing is, as far as I’m aware, there isn’t a standard way of presenting application options on Windows. Thuss, I don’t think it really affects how ‘native’ Firefox feels. All a matter of taste though, I’m sure.
+
+The only other major feature I can think of is that the speeded up Back/Forward code is in there, so end-users will probably find that 1.5 feels faster (on top of Gecko 1.8 being faster at rendering than 1.7 was)."
+691,2005-11-30T16:26:00+00:00,Pip,,,comment,0,"Bizarre, I’d have **sworn** it was in Jesse’s changelog.
+
+As a Windows and Linux guy, I can honestly say that when I only knew how the new options pane worked because I’d seen it on Ben Goodgers’ weblog. Otherwise I would have had no idea.
+
+As for the faster back/forward – like I say, I’ve been on 1.5 at work for however many weeks or months it is now, and 1.0.7 at home, and I can honestly say that I hadn’t noticed the difference."
+692,2005-12-01T10:31:00+00:00,Pip,,,comment,0,"Ah, it seems that SVG rendering uses Cairo, but the main Gecko engine doesn’t (yet).
+
+see [https://bugzilla.mozilla.org/show\_bug.cgi?id=310957](https://bugzilla.mozilla.org/show_bug.cgi?id=310957)"
+693,2005-12-01T13:43:00+00:00,Jaap,,,comment,0,"The extra whitespace in the toolbar menus is actually there in all windows (XP) applications. Check your menus in IE and Notepad, there’s extra whitespace right there.
+
+As for why it’s there, I don’t know. But I do know that the firefox guys put it there to math the look of the overall UI more."
+694,2005-12-01T14:31:00+00:00,Pip,,,comment,0,"I don’t know whether it’s my imagination, whether I’ve just got used to it, or it has actually changed, but the whitespace now looks smaller than it used to. nonetheless, the “tools” Menu still looks completley wrong – the vertical spacing seems too big."
+695,2005-12-02T09:18:00+00:00,PK,,,comment,0,"FF 1.5 is Cool! Can you convert your Instant Textile script, working with FF1.5 and Greasemonkey 0.6.4?"
+696,2005-12-02T16:16:00+00:00,Pip,,,comment,0,"I’ll certainly try!"
+697,2005-12-28T21:42:00+00:00,Anonymous,,,comment,0,"So, has anyone found a way to revert the vertical spacing to the 1.0.7 default?"
+698,2006-01-01T19:00:00+00:00,Pip,,,comment,0,"I don’t know of anyone who’s looked into it, but I wouldn’t have thought it would be too hard to find out where the spacing is specified."

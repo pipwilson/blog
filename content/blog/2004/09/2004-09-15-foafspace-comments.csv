@@ -1,0 +1,24 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+150,2004-09-20T14:17:00+00:00,Anonymous,,,comment,0,"The reason my Dumps are in mysql format rather than NTriples was mainly because they have the important information about which file it came from, so I didn’t bother dumping it, in any case the big problems now are simply scale – you will be looking at a 50-100 million triples, you will need to distribute your scutter across machines etc. We certainly do need new good mini-scutters, I really wish I’d done it properly originally.
+
+I certainly won’t be sending it out again… I’ve got thoughts on better ways to get foafnaut working well again though.
+
+[Jim Ley](http://www.blogger.com/r?http%3A%2F%2Fjibbering.com%2F)"
+151,2004-09-20T18:18:00+00:00,"Christopher Schmidt",,,comment,0,"I had a copy of Jim’s data from 2004-03-03 available as a mysql dump (bz2, which expands to 900 meg when unbzipped). I’ve unzipped it, run the script in question on it to convert to n3, and rebzipped it. The n3 file is 643 Meg, and the bzipped file is 34 meg.
+
+It’s at <http://www.kid666.com/crschmidt/foaf.20040303.n3.bz2> .
+
+Keep in mind that many tools can’t really deal with this all as one file – Redland had problems with this until the most recent release of Raptor, I believe – so you may not find it easy to dump stuff out into something usable. Also, working with huge stores is often not that quick – I’m surprised that FoafSpace is still keeping up so well.
+
+I’m also happy to see people getting data out of other LJ-based sites: 6 of the top 20 are LJ-based. Whee for LJ 🙂"
+152,2004-09-21T11:22:00+00:00,Pip,,,comment,0,"FoafSpace is doing remarkably well so far with their custom RDF parser. I wonder what impact the switch to Jena will have?
+
+Christopher, I think you pointed me at your more recent dump a month or so ago? Anyway, if it was on the web, then I’ve got it and have also run the script on this data. I’ve performed a little splitting on it and Jena seems to be coping, but I’ve yet to ask it anything really hard. 🙂"
+153,2004-09-22T15:19:00+00:00,Anonymous,,,comment,0,"FoafSpace is keeping up ‘cos it’s not storing a live triple store, it just keeps some of the info in an RDBMS with links back to the raw RDF files on the web, it’s those that are then displayed.
+
+[Jim.](http://www.blogger.com/r?http%3A%2F%2Fjibbering.com)"
+154,2004-09-22T15:37:00+00:00,Pip,,,comment,0,"Cheats. 😉"
+155,2004-09-23T13:29:00+00:00,"Gene McCulley",,,comment,0,"Actually, it does store the equivalent of the triples, but only the subset that are used currently in the indexing and in a specialized format instead of an RDBMS.
+
+As for releasing the data dump, there is currently no support for dumping the data back out in a form that would be easy to deal with as RDF, but I might add something like that in the future."
+156,2004-09-23T13:47:00+00:00,Pip,,,comment,0,"Gene, sounds cool. And anyway, surely the point of RDF is that it isn’t easy to work with? 😉"

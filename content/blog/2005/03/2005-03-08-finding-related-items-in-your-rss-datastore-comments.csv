@@ -1,0 +1,9 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+352,2005-03-08T17:50:00+00:00,alf,,,comment,0,"If every weblog had a little OAI-compatible search engine, then your spider could go from site to site asking a) if there were any results at that site and b) if that site recommended any other sites for this kind of information.
+
+<http://hublog.hubmed.org/archives/000486.html>
+
+How likely is that to happen though."
+353,2005-03-09T11:31:00+00:00,Pip,,,comment,0,"Exactly.
+
+It’s a nightmare. Where’s the RSD file for blogrolls? WSIL seems a little too obscure to me. I’ve seen some people put links to OPML files in the &lt;head&gt; section of their webpage, but with no common identifier (and, urgh, OPML), it’s pretty useless."

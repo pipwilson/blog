@@ -1,0 +1,21 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+552,2005-08-10T11:34:00+00:00,Em,,,comment,0,"Not quite sure if Bridget is back in fashion as such. The new column seems to have attracted a few unenthusiastic reviews.
+
+As for DScaler, I’ve heard rumours of it causing XP to freeze with certain cards eg. the bt878 chipset and certain drivers, usually fixed by a change of drivers?
+
+However, I don’t do Windows, and ymmv."
+553,2005-08-10T11:44:00+00:00,Pip,,,comment,0,"No, they haven’t been too favourable, have they? I’ll find out for myself tomorrow 🙂
+
+aha! My card has the bt878 chipset, god knows if there are any other drivers for my card, it was hard enough finding anything in the first place 🙁 Boo.
+
+I guess it’s about time I tried \*nux again, time to restart my “good text editor” hunt. Gnoppix is such a blessing. 🙂"
+554,2005-08-10T15:42:00+00:00,Josh,,,comment,0,"Aha! Yes I vicariously live your life through your blog entries! Hehehe.
+
+anyway; Dude! Did I sell you that card? The name seems oddly familiar. And should I be feeling guilty about it? 🙂"
+555,2005-08-10T15:54:00+00:00,Pip,,,comment,0,"Hello stranger!
+
+No you didn’t, it came bundled with my PC back in ’98. A vintage year for crappy TV cards 🙂"
+556,2005-08-11T00:17:00+00:00,Em,,,comment,0,"Incidentally, it occurs to me that the reason why some drivers crash DScaler might be that DScaler has its own bt878 driver? (why else does it need a sys in ring0 on xp? Suspicious) Not sure about this, but it occurs to me that any other drivers on the system would then have to be in Ignore Me I’m Invisible mode to avoid complications, crashes, etc. What’s it do if you just don’t install drivers before running dscaler, or set the driver settings to something moronically basic?
+
+Again, I know bugger-all about windows, so YMMV."
+557,2005-08-11T08:43:00+00:00,Pip,,,comment,0,"Good idea, I’ll take a look!"

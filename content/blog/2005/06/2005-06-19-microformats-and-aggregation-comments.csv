@@ -1,0 +1,9 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+500,2005-06-19T22:36:00+00:00,"ryan king",,,comment,0,"You say: “so that I can aggregate and store data sensibly and separately from, but related to, the main content.”
+
+But the review is the content. There’s no need to seperate parts of it from the others."
+501,2005-06-19T22:57:00+00:00,Pip,,,comment,0,"I knew someone would say that 😉
+
+A review is not a single entity, it is made up of all those parts that hReview and RVW take into account. From the perspective of syndication (which is where I was coming from), the ‘content’ is the main review text.
+
+Things like the rating, review type and so on should be stored separately, not in the same field as, the review body."

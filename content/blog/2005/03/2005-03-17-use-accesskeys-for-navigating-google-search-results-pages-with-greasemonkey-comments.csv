@@ -1,0 +1,54 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+373,2005-03-17T18:39:00+00:00,Aaron,,,comment,0,"This is great, Phil.
+
+Just wanted to let you know that the first sentence in your post has a typo – it says “Alt+. and Alt+.”. (neither of them is a comma).
+
+But nice script. I’ll add it to the wiki if it isn’t already there."
+374,2005-03-18T10:46:00+00:00,Pip,,,comment,0,"Thanks for that Aaron, I would have fixed it sooner had Blogger actually been responding 🙂
+
+Thanks also for adding it to the wiki already! Fast moving!"
+375,2005-03-20T20:21:00+00:00,Michael,,,comment,0,"Great! Very cool."
+376,2005-03-25T13:21:00+00:00,clapu,,,comment,0,"<http://www.google.fi> has a slightly different web page:  
+&lt;img src=/intl/fi/nav\_current.gif …  
+<http://www.google.se> has /intl/sv/nav\_current.gif…
+
+With this fix it should work with local googles too:
+
+“//img\[contains(@src,’/nav\_current.gif’)”
+
+Very handy script, btw."
+377,2005-04-01T08:57:00+00:00,Pip,,,comment,0,"clapu, thanks for spotting that, I’d never have seen it myself! I’ll update the script. Thanks."
+378,2005-04-02T00:29:00+00:00,Anonymous,,,comment,0,"This is a great script. Works well with AccessBar (i.e. tells you what keys are defined). I have one suggestion:
+
+In FF, you can turn off the default setting for the Location Bar to make it search google normally instead of the “I’m Feeling Lucky” search.
+
+The default URL when you type something in is e.g. “keyword:soccer”
+
+You should include an “@include keyword:\*” bit in your code.
+
+Cheers!"
+379,2005-04-16T04:36:00+00:00,lepton,,,comment,0,"Nice work! I was looking all over for something like this."
+380,2005-04-16T17:57:00+00:00,Pip,,,comment,0,Thanks!
+381,2005-05-13T13:25:00+00:00,bredend,,,comment,0,"Nice one, used an prev/next extension before but that one was buggy.  
+I changed the keys to left Alt+Z and left Alt+X because i still want find-as-you-type.
+
+Let’s see if i can make some ‘macros’ for webbased applications at work."
+382,2005-05-29T16:39:00+00:00,Anonymous,,,comment,0,"Can anyone modify this to use Lexisnexis. i.e. go thru the pages like this google script. If you need some information, like to get into lexis, please email me at <Jonathanquinn@gmail.com>"
+383,2005-09-26T20:47:00+00:00,Anonymous,,,comment,0,"I kept getting a javascript error:  
+Error: a has no properties  
+Source File: googleaccesskeys.user.js
+
+I added the following code right after you set the variable ‘a’ and it seems to have fixed the problem:  
+if (!a) {  
+ return;  
+}"
+384,2005-09-27T09:17:00+00:00,Pip,,,comment,0,"Ah yes, hadn’t seen that. Should still work though."
+385,2006-08-08T19:34:00+00:00,Anonymous,,,comment,0,"hi  
+I’ve just recently discovered Greasemonkey, and this script would be very useful. Unfortunately, it does not work – I’ve tried it on Windows / Firefox 1.5 at work and on Linux / Firefox 1.5 at home, and nothing happens when I press alt+,/. . Am I missing something or has Google changed their html code? I analyzed html, and script seems to be doing the right think. Any ideas?   
+thx"
+386,2006-10-22T18:56:00+00:00,Anonymous,,,comment,0,"Instead of ALT, how do I change it to use CTRL? The ALT key is hard to reach on my Powerbook keyboard.
+
+[Your IP address](http://www.mynetworkip.com)"
+387,2006-10-27T19:38:00+00:00,Anonymous,,,comment,0,"This script does not work anymore, everybody who is looking for a working alternative should take a look at the “Add Prev/Next Accesskeys” on userscripts.org  
+Direct Link:  
+<http://userscripts.org/scripts/show/3152>"

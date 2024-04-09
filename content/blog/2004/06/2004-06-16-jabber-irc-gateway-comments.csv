@@ -1,0 +1,35 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+25,2007-02-03T18:46:00+00:00,Anonymous,,,comment,0,"Hello
+
+i have a MAC with the Programm ADIUM.  
+How can i install a jabber irc gateway. Have yo a Server?
+
+Bye
+
+/airjump"
+26,2007-06-03T14:05:00+00:00,Anonymous,,,comment,0,"hmm.. strange.. how come you’re not mentioning the first and most stable implementation of irc client/server and xmpp/jabber MUC in a single piece of software? <http://www.psyced.org>"
+27,2007-06-03T19:06:00+00:00,"Phil Wilson",,,comment,0,"Strange? Not really.
+
+a) this post was written in 2004  
+b) even after looking at the psyc wiki there’s no real immediate indication that psyc provides a gateway or component architecture which can plug in to an existing Jabber server and be discoverable from a client. [About halfway down on the “Jabber” page](http://about.psyc.eu/Jabber#Supporting_MUCs_from_PSYC), and after almost three thousand words, it starts talking about integration. If you really want to push this as a solution, the documentation needs to be way, way clearer. Even now, I’m not sure whether it’s suitable."
+28,2007-10-07T18:31:00+00:00,Anonymous,,,comment,0,"&gt;&gt; a) this post was written in 2004
+
+\*lol\*"
+29,2009-01-27T22:35:08+00:00,lynX,lynX@phil.didnt.get.psyced.org,,comment,0,"The wiki page on Jabber isn’t the manual for using psyced. The appropriate page is at <http://www.psyced.org/psyc-jabber.en.html>
+
+psyced doesn’t plug into Jabber servers. psyced IS a Jabber server itself which provides chatrooms in both IRC and MUC protocols natively. By default. There is no extra installation requirement. You just go there and you are in it.
+
+And psyced already provided this feature in 2004 AFAIR."
+30,2009-01-28T10:43:28+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"I read that page too (and again just now). It’s not exactly the most user-friendly thing in the world and still didn’t really answer the questions I had five years ago.
+
+You’ll also note that I was specifically after a plugin of some sort anyway, not a replacement server."
+31,2010-10-18T18:41:07+00:00,Randall,rsindlin+philwilson@seas.upenn.edu,http://www.seas.upenn.edu,comment,0,"How about a 2010 update? 🙂 I was just looking for an IRC-Jabber gateway, to let me use Xchat with a kerberos-authenticated XMPP server. I tried Pidgin (which can do both) but really don’t like it. I’ve gotten quite used to Xchat, and don’t feel like trying a 3rd thing.
+
+This was the first(ish) page that Google popped up in one of my later searches, and, quite frankly, was the best information I’d seen so far. (Yes, the Google Gods hate me 🙂
+
+I’d love to see a synopsis of current packages that can let an IRC client connect to a kerberized Jabber service."
+32,2010-10-18T20:35:31+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"Hm, pretty unlikely that I will revisit this any time soon, sorry! Your problem will likely be the kerberos authentication, which, even if xchat supports it (which I can’t remember), will probably get eaten somewhere along the line.
+
+I’m quite surprised that there doesn’t seem to be an xchat plugin for talking to XMPP servers though (or at least not one listed on xchat.org), you’d think that would be an itch that some developer out there would have had a long time ago."
+33,2010-10-18T20:36:04+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"Also, if this was the best information you could find, I think your search may be in vain! 🙂"
+34,2010-11-02T16:29:07+00:00,Dara,daradib@applemon.com,http://www.ocf.berkeley.edu/~daradib/,comment,0,"Randall, if you haven’t already, take a look at [Bitlbee](http://www.bitlbee.org/)."

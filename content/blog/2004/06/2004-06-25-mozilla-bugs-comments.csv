@@ -1,0 +1,20 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+36,2004-06-25T16:02:00+00:00,Jim,,,comment,0,"Phil, to be honest I normally find Mozilla makes a far better fist of printing than IE, although the print preview sometimes does not match the printout."
+37,2004-06-27T13:05:00+00:00,Pip,,,comment,0,"Since about Mozilla 1.4 printing has been pretty good although I think historically that’s not been the case. You only have to take a look through the closed bugs in Bugzilla to see that there were some quite major problems in printing for a good long while."
+38,2004-11-16T03:25:00+00:00,Anonymous,,,comment,0,"Go to ‘about:config’ and use a filter of ‘checkloaduri’.
+
+Set that value to false (double click on it) and you should be able to load from file:// urls."
+39,2004-11-16T12:36:00+00:00,Pip,,,comment,0,"Hot damn! It works! That’s excellent!"
+40,2005-12-31T12:01:00+00:00,Anonymous,,,comment,0,"Hi guys  
+i have a similar problem.  
+its to do with php and javascript.  
+Security Error: Content at [http://localhost/PROJ\_PHP/jobsandassets/index.php](http://localhost/PROJ_PHP/jobsandassets/index.php) may not load or link to file:///C|/Program%20Files/Apache%20Group/Apache2/htdocs/PROJ\_PHP/jobsandassets/templates/res/menu1.js.  
+version of mozilla  
+Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8) Gecko/20051111 Firefox/1.5"
+41,2006-01-01T10:47:00+00:00,Pip,,,comment,0,"Hi anonymous, I don’t think this is quite the same thing. It looks like your PHP page is including a JavaScript file but linking to it using a file URI like:
+
+&lt;script src=”file:///C|/Program%20Files/Apache%20Group/Apache2/htdocs/PROJ\_PHP/jobsandassets/templates/res/menu1.js” type=”text/javascript”&gt;&lt;/script&gt;
+
+you should be using the HTTP URI instead:
+
+&lt;script src=”http://localhost/PROJ\_PHP/jobsandassets/templates/res/menu1.js” type=”text/javascript”&gt;&lt;/script&gt;"

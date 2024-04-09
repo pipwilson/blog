@@ -1,0 +1,13 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+769,2006-02-13T02:46:00+00:00,alf,,,comment,0,"I was thinking about that today. Do you have a link for how to do the CSS properly?"
+770,2006-02-13T08:12:00+00:00,"Henri Bergius",,,comment,0,"A List Apart had a [very good article](http://www.alistapart.com/articles/holygrail) on making CSS elastic layouts."
+771,2006-02-13T14:08:00+00:00,Pip,,,comment,0,"I think the best overall article is Roger Johansson’s [Fixed or fluid width? Elastic!](http://www.456bereastreet.com/archive/200504/fixed_or_fluid_width_elastic/)
+
+The real key is using *em*s as a width definer.
+
+The A List Apart article is good too."
+772,2006-02-14T04:40:00+00:00,Aristotle,,,comment,0,"Read [Overuse of floats considered harmful](http://dbaron.org/log/2005-12#e20051228a) before following the advice in that ALA article."
+773,2006-02-14T19:40:00+00:00,Pip,,,comment,0,"Wise comment from Aristotle there. It’ll be interesting to see how web developement layout progresses over the next few years and how we consider floats in the future."
+774,2006-02-16T00:58:00+00:00,"Andy Budd",,,comment,0,"I agree that elastic layouts are a good way to go. In my defense, andybudd.com was built at least 3 years ago before elastic design really took off. I really want too redesign, but just don’t have the time at the moment."
+775,2006-02-18T23:09:00+00:00,Pip,,,comment,0,"That’s fair enough, but you don’t need to do an entire redesign to make your existing site more usable and accessible."
+776,2006-03-03T15:28:00+00:00,Yvonne,,,comment,0,"I’ve done mine now (as a result of this post, though, ahem)."

@@ -1,0 +1,36 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1403,2010-07-28T06:11:00+00:00,Luciano,lpanebr@gmail.com,,comment,0,"Thanks for this great work. I actually liked this script a lot!
+
+The only weird thing I found is that it sets “#ticket .description h3” and “#content #newticket label\[for=type\], #content #newticket #type” to display:none…
+
+Had to edit the script to get then back. Here’s my h3:
+
+\#ticket .description h3 {  
+ color: #006699;
+
+ font-size: 1.0em;
+
+ border-bottom: 1px solid #006699;
+
+ display: block;
+
+}"
+1404,2010-07-28T10:41:24+00:00,Luciano,lpanebr@gmail.com,,comment,0,"Hello again!
+
+I have ended up making another small tweeks to the script CSS. In case you want to check them out just let me know and I’ll sent the modified script to you.
+
+Things I’ve touched:  
+ \* h3 was hidden  
+ \* ticket type was hidden  
+ \* textarea width  
+ \* cooler and smaller layout for the ticket properties table layout  
+ \* cooler layout for tables inside the ticket description  
+ \* added a definition list layout  
+ \* wiki content h1, h3…"
+1405,2011-02-10T10:28:22+00:00,Dimitar,me@dreamture.net,,comment,0,"Hi. I have a problem. My greasemonkey doesnt recognize the script. It shows “No scripts installed” when I visit trac site. I would be very thankful if you can help me with that.
+
+Best regards,  
+Dimitar"
+1406,2011-05-26T08:21:51+00:00,Derek,gamesbook@gmail.com,http://headspace.posterous.com,comment,0,"Please can you restore the images for this entry?"
+1407,2011-05-26T18:22:03+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"If I could find them, I would!"
+1408,2011-05-26T19:19:50+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"Hurray, backups rock 🙂"

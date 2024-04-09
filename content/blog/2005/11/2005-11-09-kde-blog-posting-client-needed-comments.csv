@@ -1,0 +1,104 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+654,2005-11-09T16:03:00+00:00,alf,,,comment,0,"I was looking for a Gnome blogging client last week, and couldn’t find anything that supported RSD. Even a Firefox extension would have been good enough (at least Flock already has this)."
+655,2005-11-09T16:10:00+00:00,Andrea,,,comment,0,"Well, I don’t have answers for you, will questions do?
+
+I recently thought about checking out Linux (after seeing a prettypretty screenhot of a KDE desktop or other in some computer mag), but I’m not sure which, um, version to pick.
+
+Would you recommend Kubuntu for an absolute beginner, i.e. Windows user? It’d have to be on a live CD, at first. The FAQ on the Kubuntu site sounds horribly technical, but the screenshots look nice. (I am *such* a girl.)
+
+Any advice? 🙂"
+656,2005-11-09T16:47:00+00:00,"Irregular Shed",,,comment,0,"Hello funsters.
+
+I use Linux fulltime at home. I don’t like KDE, I prefer Gnome, so I use regular Ubuntu instead (the only difference is the default desktop environment provided).
+
+First thing to remember – Gnome can run KDE apps, and KDE can run Gnome apps. You need the libraries there, but with a Debian-based distro like \*buntu you can snag all these dead easy by just chosing the package you want to install in whatever package manager you choose to use. Synaptic is the standard GUI-frontend, you might have a KDE-based equivalent, I dunno.
+
+When you get into your GUI-frontend of choice, find the list of repositories and add ‘universe’ and ‘multiverse’ after ‘main’ to the archive.ubuntu.com entries. (Can’t remember the correct name for the category, I’m on my work Windows box right now.) Then refresh your package list, and get the list of all packages available, as opposed to just the officially sanctioned Ubuntu ones. You can do all this from the command line as well, but seeing as Andrea’s a n00b it’s probably better to get used to things gently!
+
+For Flickring, look up a package in Synaptic/KDE equivalent called ‘fspot’. It’s a photo manager provided by Novell as a sample app to show off Mono, their C#/.NET environment, and is a damned fine program in its own right. It’s built for Gnome so it has a Gnomey look-n-feel, but as mentioned, the desktop environment isn’t too important on an X desktop.
+
+For blogging, I use a carefully written bookmarklet to my site’s ‘compose’ page, but I found there’s a nice little blog applet that got installed with Gnome. If you use your package manager to search in descriptions for ‘blog’ you’ll almost certainly spot it. I’ve reinstalled after laptop death last week, so I’ll have to look it up to find the name.
+
+Steve"
+657,2005-11-09T18:49:00+00:00,Pip,,,comment,0,"“Gnome can run KDE apps, and KDE can run Gnome apps” – it’s true but you end up with the most incoherent desktop experience evah! All your apps end up looking and acting differently and it’s rubbish 🙁 If you pick one, you should really try and stick with it.
+
+I think KDE is easier for first-time Linux users to get to grips with (although I’m sure other people would say the same about Gnome -I just know my family have found KDE easier to use), and Kubuntu is the easiest I’ve used so far, but it doesn’t have a LiveCD version yet (they’ve said they’ll start producing Kubuntu Live CDs from the next release, which should be in six months’ time). In the meantime, the best LiveCD KDE-based Linux is probably [Knoppix](http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A//www.knoppix.org/&ei=REByQ9ODM76iiAKYtPGHCw&sig2=OorZ__tg0LqlGuQylwUikw) but it really isn’t as good as Kubuntu.
+
+If you want to try a Gnome-based Linux then there is a LiveCD version of Ubuntu on the [download page](http://www.ubuntulinux.org/download/).
+
+KDE’s version of Synaptic is called Adept and is Kubuntu-specific rather than KDE specific. The normal KDE application installer-thing (package manager) is called YaST.
+
+The multi/universe stuff is good advice.
+
+I don’t have a machine powerful enough to be able to deal with running a .NET/Mono app at the same time as anything else, so that’s right out for me. 🙁"
+658,2005-11-09T19:51:00+00:00,Andrea,,,comment,0,"**Irregular Shed**, all this went right over my head. 🙂 Wooosh. I guess “packages” and repositories and such only really make sense when you start poking at the system yourself.
+
+And hmm, the Kubuntu folks seem to be offering a Live CD? Like, [here](http://se.releases.ubuntu.com/kubuntu/breezy/), for example. Confused now.
+
+BTW, [this test](http://www.zegeniestudios.net/ldc/) tells me [Mandriva](http://www.mandrivalinux.org/) would be the best Linux distribution for me, with Ubuntu and Kubuntu ranking fifth and sixth, respectively. No clue how they calculated that, though. Mandriva comes with an installation GUI, I assume, and I wanted one. Doesn’t matter with a LiveCD, of course. Hrm."
+659,2005-11-09T20:32:00+00:00,Pip,,,comment,0,"That test is cool! It recommended Kubuntu to me, so I’m happy 🙂
+
+I didn’t know about those Live CDs, so definitely give it a go!
+
+Mandriva is good, but I haven’t used it for about eighteen months. I think Kubuntu now is easier than Mandriva was then but of course it could have got much better in the meantime.
+
+Whichever you end up choosing, it’s all a completely differnet experience to Windows so don’t be put off by not being able to do something straight away (but I’m sure you knew that :)."
+660,2005-11-09T21:07:00+00:00,"Irregular Shed",,,comment,0,"I’ve been using Ubuntu since I first heard of it on Debian Weekly News last year – previously I was using Debian, but getting annoyed with the lack of speed of software updates. Before that I used Red Hat 9, that was my first desktop Linux (except for an abortive attempt with Suse in 1999 and Monkey Linux in 1997 for curiosity). I’ve tried Mandrake (aka Mandriva) as well, and hated it. After all this testing, I’ve settled on Ubuntu – I like its design and philosophy. And I’m glad Kubuntu seems to be pushing the right buttons as well =)
+
+KDE vs Gnome is the latest Sinclair vs Commodore-style arguement. I found KDE too Windows-like, which is probably why n00bs like it!
+
+YAST is a SUSE-specific tool (or at least it was until they open sourced it, dunno if any other distros use it). Synaptic (and by association, Adept) are frontends for apt, which in itself is a frontend for dpkg, which is the Debian-based package manager (all Debian-derived distros use it because it’s SO BLOODY GOOD). Erm, this is neither here nor there, just a bit of history =)
+
+Right, Pip… I’m running FSpot on a 400MHz PII laptop, so you probably *could* manage to run it. But if you’re not going to be running GTK+ apps it might jar, I guess! I know what you mean about the desktop feel, but if you can’t find anything specific to your desktop then you can at least find *something*…
+
+An excellent newbie resource for Ubuntu is here: <http://ubuntuguide.org/> – a lot of it will be of use to Kubuntu as well. The Ubuntu wiki is invaluable as well, it took me through the finer points of getting my wifi card working.
+
+Anyway, good luck getting on with it. If there’s anything I can help with, just shout and I’ll see if I can shed any light.
+
+Steve"
+661,2005-11-09T22:30:00+00:00,Andrea,,,comment,0,"Thanks very much for the info, guys, I’ll definitely give it a go! And I generally like fiddling around until things work, so I shouldn’t get put off too fast. Hopefully.
+
+Sorry for hijacking your post, Pip. Carry on. 😉"
+662,2005-11-09T22:42:00+00:00,Pip,,,comment,0,"Ooooh hey, that’s a great link!
+
+To be fair, I think the KDE vs. Gnome argument is a lot quieter than it used to be. In fact, it’s comparatively non-existent 🙂
+
+I think KDE is definitely more Windows-like, and to be honest that makes my life a whole lot easier, and that’s what I like 🙂 I spent more than a solid year on Enlightenment back in the day, so I feel like I’ve done my penance in advance 🙂
+
+I think YaST has been more adopted by at least one other distro, but yes it originated with Novell and SUSE.
+
+Maybe I should find out how to write KDE apps. How hard can it be? 🙂"
+663,2005-11-10T21:40:00+00:00,Pip,,,comment,0,"No problem Andrea, it’s great!"
+664,2005-11-11T19:13:00+00:00,Andrea,,,comment,0,"Yay, I’m posting this from Konqueror!
+
+Finding out how to properly burn the .iso onto a CD took longer than starting up the whole thing. \*sets out to explore\* 🙂"
+665,2005-11-11T20:21:00+00:00,Pip,,,comment,0,Excellent!
+666,2005-11-15T07:22:00+00:00,mathew,,,comment,0,"Wow it’s hard to search for blogging tools without finding peoples blogs about tools. Googling “blogging clients qt clients kde” resulted in this information: <http://www.kde-apps.org/content/show.php?content=29552>
+
+Sorry I dont know much about blogs so I dont know if it is fit for your purposes…
+
+As for linux live cd distros I recommend knoppix.
+
+As for linux distros I recommend debian stable, unless you like broken things… still have to know what graphics hardware you have unfortunately, but this is what knoppix is invented for (And partition resizing with QTparted yay). I’m sure SuSE is nice too although I didn’t try yet.
+
+This web page comes top on google for “blogging clients kde”"
+667,2005-11-15T07:27:00+00:00,mathew,,,comment,0,"The favourite quote I found while searching.
+
+“The problem for KDE is Qt.”
+
+Surely KDE is Qt or was that the point?"
+668,2005-11-15T09:35:00+00:00,Pip,,,comment,0,"Yes, that link you give is to KBlogger which I linked to in my post. The fact that this is now the top of google for those search terms is very worrying!
+
+Debian stable is fine so long as you don’t want to upgrade anything for four years at a time 🙂"
+669,2005-11-15T16:16:00+00:00,mathew,,,comment,0,"Sorry I was very tired at the time of writing. I thought klogger was such an obvious name that you where asking where it was. :@)
+
+I just want the OS to work, I dont mind to add applications from source. Maybe using debian stable and then creating your own debian packages whatever other apps you want to use is better than using some other software that is going to fail on you."
+670,2005-11-26T02:44:00+00:00,TundraMan,,,comment,0,"Try the new Ubuntu packaged version of kflickr and you should not have installation problems.
+
+<http://www.destination-linux.org/kflickr/>
+
+if you have any problems write me at asselsm \[at\] gmail \[dot\] com and I will help."
+671,2005-11-26T14:51:00+00:00,Pip,,,comment,0,"Thanks very much! That works brilliantly, first time! Not only that, but it’s a great app! Thanks again!"
+672,2006-04-13T09:56:00+00:00,"Boaz Arad",,,comment,0,"It took me quiet a while to find this page, Kflickr doesn’t seem to have much google presence.
+
+I also found myself struggling with FlickrUploadr and FlickerFS untill you finnaly pointed me to Kflickr – it works like a charm, thanks!"

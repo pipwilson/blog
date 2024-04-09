@@ -1,0 +1,11 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1591,2011-01-02T09:11:40+00:00,"Paulo Fisch",i@guru.gg,http://guru.gg,comment,0,"Can you copy the link to the attatchment on the Kindle with a click-hold or similar?
+
+GMail does seem to use hyperlinks rather than JS high-jinks for attachments, so you should be able to cut/paste the attachment URL to download in the same window."
+1592,2011-01-02T10:23:37+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,1591,"I did try that but couldn’t seem to get copy working. I will googlevestigate further."
+1593,2011-01-02T10:50:03+00:00,"Cheng Soon",cheng.soon@hackermonthly.com,http://hackermonthly.com,comment,0,"Hey Phil,
+
+I’m Cheng Soon, the Hacker Monthly guy. I could tweak our subscription management system so you could directly receive the MOBI as attachment on your kindle address. However, I will need somebody to test it before rolling it out to all customers (Kindle doesn’t ship to Malaysia). If you’re interested, could you drop me an email? cheng dot soon at hacker monthly"
+1594,2011-01-02T18:26:26+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,1593,"Hi Cheng Soon, yes that sounds great! I’ll drop you an email!"
+1595,2011-06-05T12:09:38+00:00,"John O'Brien",John.OBrien@gmail.com,,comment,0,"Did this feature get implemented? I’d be keen to get auto delivery to my kindle address too…"
+1596,2011-06-22T15:12:29+00:00,sayanee,sayanee@gmail.com,http://sayan.ee/,comment,0,"Hey guys! Yes, like John I would also love to have my monthly subscription auto delivered to my Kindle 🙂 And I would love to help out in the testing as well! Did this feature get implemented? Thanks!"

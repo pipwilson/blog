@@ -1,0 +1,12 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+859,2006-04-27T08:14:00+00:00,Gareth,,,comment,0,"Couldn’t you have a “not project time” trac project?"
+860,2006-04-27T10:33:00+00:00,Pip,,,comment,0,"I didn’t think of that.
+
+I’d only thought about one Trac instance per person for non-project time.
+
+Hmm, your idea could work you know."
+861,2006-05-02T12:25:00+00:00,"Henri Bergius",,,comment,0,"The way we’re trying to solve this is to enable multiple different “project extranets” in Trac, or whatever, and then using the [DBE](http://www.digital-ecosystem.org/) peer-to-peer network to actually copy tasks and work reports to our centralized [OpenPsa](http://www.openpsa.org/) install.
+
+This isn’t quite ready yet, but the [first implementation](http://bergie.iki.fi/blog/how-openpsa-uses-dbe.html) is promising.
+
+The good part about this is that if different orgs participate in the same Trac-managed development project, each can get their tasks to their own project management software. Assuming it supports DBE, of course 🙂"

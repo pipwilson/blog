@@ -1,0 +1,31 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+363,2005-03-14T06:57:00+00:00,Anonymous,,,comment,0,"hey Phil,
+
+as i saw you on the JBother forum as a member today and since your ‘main dev. language is Java’ why not take a closer look at JBother and help develop it? 🙂
+
+it’s surely promising and is actively developped.
+
+cheers,
+
+Stellaris"
+364,2005-03-14T09:59:00+00:00,Pip,,,comment,0,"Hi Stellaris, good spotting 🙂
+
+I think JBother has potential, especially since it’s based on Smack, so you’ve got a much better chance at JEP feature-gain than other clients which implement their own XMPP parsers.
+
+My problem is that for me, any client \*must look native\*, and Swing just doesn’t (even in the WinLAF). I spent a few minutes wondering about how hard it would be to port JBother to SWT, but then I decided “too hard” 🙂
+
+I have glanced at the JBother source code (I’ve not looked in detail), and I’m not sure how"
+365,2005-03-14T10:10:00+00:00,Pip,,,comment,0,"Oops, mucked up that comment a bit, sorry. Ignore the last half-sentence 🙂"
+366,2005-03-14T11:04:00+00:00,"Spoială Cristian",,,comment,0,"gaim suport jabber"
+367,2005-03-14T12:29:00+00:00,Pip,,,comment,0,"You’re right, GAIM does support Jabber, but getting UI patches commited is likely to be a nightmare seeing as it’s a cross-platform client and I (currently) only have Windows machines available to me.
+
+Also, the worst UI bug on Windows is a bug in GTK, so for someone not steeped in GTK lore like me, it’s almost pointless."
+368,2005-03-14T23:44:00+00:00,sander,,,comment,0,"Some remarks:  
+1\) you say there are 14 servers, this is not true: there are even more servers :O) e.g. Tigase, Ambriosa and chime (three new open source servers) are not listed. I also heard Sun has a server with XMPP support…and there are probably more…
+
+2\) recommended clients: one client that is missing in that list is Coccinella ( <http://hem.fyristorg.com/matben/> ). This client is written in Tcl/tk (which is a relative easy language they say to me), it has many cool features, it is not death, it is multiplatform, it supports many JEPs, it should be fully XMPP compatible,… Oh yes, about the user interface: Matts (the auther of the client) started doing cvs commits for Tile support ( <http://tktable.sourceforge.net/tile/> )."
+369,2005-03-16T11:49:00+00:00,Pip,,,comment,0,"Sander, you’re right of course, there are seemingly hundreds of servers. 🙂
+
+Apple are bundling one in their next OSX release aren’t they? I can’t remember which one off-hand though.
+
+I didn’t mention the Coccinella because it’s not on the recommended client list for any platform. I’m only really interested in platform-specific clients, too (or ones with sufficient work to make them look and feel native on each platform they run on), so that also rules out the Coccinella."

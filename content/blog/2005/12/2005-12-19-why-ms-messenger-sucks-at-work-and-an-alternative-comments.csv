@@ -1,0 +1,34 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+718,2006-01-10T10:06:00+00:00,Anonymous,,,comment,0,"MSN Messenger 8 does support offline messaging btw (and its pretty damn neat!)"
+719,2006-01-10T10:57:00+00:00,Pip,,,comment,0,"Is that available for public use yet?"
+720,2006-01-10T12:51:00+00:00,BenWard,,,comment,0,"Not so far as I’m aware. There is a beta kicking about but it’s listed as “Coming Soon” on the [Live Ideas](http://www.ideas.live.com/) page.
+
+I’ve not hunted it out myself as I’m quite happy with the Gaim 2.0 beta (and AdiumX on the Mac, of course). No-one I know who’s tried it has said anything positive, though.
+
+We did use MSN at work for a while, mostly convenience and because something oddball in the corporate firewall (I guess) was preventing any unofficial clients from connecting to the MSN network.
+
+Someone did deploy Live Communication Server at a later date, but the client wasn’t much cop in my opinion, plus they set ‘security restrictions’ which prevented writing hyperlinks in our messages. Seriously.
+
+I have an inkling that LCS does have the capability to connect to the MSN network as well, but I’m not sure as our network admin didn’t switch it on.
+
+I have to ask about Miranda. I fell out of love with it after a few weeks because I whilst I found the plug-ins approach appealing from a customisation point of view, the resultant inconsistency of the UI, plus the pref-happy nature of the plug-ins eventually made me step back and ask why I was persevering with it.
+
+What kind of customisation are you referring to? Is there a harder-core way of customising it without suffering death-by-preference-pane?"
+721,2006-01-10T12:59:00+00:00,Pip,,,comment,0,"Interesting information about LCS.
+
+About Miranda: yes, it’s open source, so first of all you can create an installer with better default preferences such as something more sensible for your company and network and bundled pre-configured plugins; if you want to go more hard core, you can create an entirely new preferences pane, just listing the things which you think are the most relevant to your business (with the option to switch back to the ‘classic’ nightmare options pane).
+
+But certainly out of the box, Miranda has one of the most unusable preferences panes I’ve ever seen or used.
+
+GAIM is theoretically good, and to be fair I’ve not used it since a 2.0 beta I think, but it’s always felt very definitely non-native, and that’s a major sticking point for deploying a Windows-based company."
+722,2006-01-10T16:17:00+00:00,"Charl van Niekerk",,,comment,0,"Personally I would go for a (sadly) separate solution for VoIP like using SIP/Asterisk and all that stuff. The nice thing however is that it can integrate with your existing PABX your company is running. There are lots of cool stuff you can do with that.
+
+But I have to admit I’m not an expert on this subject."
+723,2006-01-10T19:25:00+00:00,Pip,,,comment,0,"I’d normally recommend dedicated clients but a problem I’ve seen is that most VoIP clients also come with normal IM capability which leads to a problem of separation of records of conversations from your normal IM, and again you’re probably going through a third party server (although maybe Asterisk At Home can help here?).
+
+In all honesty, VoIP is something I know very little about."
+724,2006-07-19T08:40:00+00:00,Anonymous,,,comment,0,"The SDK for Messenger is a piece of cake and actually quite gratifying to write an in-house IM specific to your company…much easier to integrate video and IP with other SDK’s as well"
+725,2006-07-19T08:41:00+00:00,Anonymous,,,comment,0,"and ya, I know….this thread was from january 🙂 ah, back when I still had a job….those were the days…"
+726,2007-02-05T12:08:00+00:00,Anonymous,,,comment,0,"proxy can block MSN at work  
+You can use soft on **<http://www.surfnolimit.com>** to bypass any proxy and firewalls  
+Work great with all appz 🙂"

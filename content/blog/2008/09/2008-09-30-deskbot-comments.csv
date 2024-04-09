@@ -1,0 +1,8 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1384,2008-10-05T12:41:48+00:00,kael,ka-el@ubiquite.net,,comment,0,"Looks interesting. I like the idea of using a dedicated client for bots.
+
+BTW, it’s possible to receive del.icio.us (and Twitter) updates (except private ones) in near real-time thanks to Gnip.
+
+Get a Gnip account, go to the [del.icio.us filter page](https://s.gnipcentral.com/publishers/delicious/filters/new), add your JabberID, a comma-separated list of tags (in the “Tag” form) and users (in the “Actor” form), subscribe to [xmpp:gnip@xmpp.gnipcentral.com](gnip@xmpp.gnipcentral.com), and voilà you get del.icio.us bookmarks sent to you in near real-time.
+
+I’m running a bot that publishes updates as presence stanza. It’s even possible to subscribe with different JID resources (e.g. <romeo@montague.net>/del.icio.us &amp; <romeo@montague.net>/twitter)."

@@ -1,0 +1,42 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1235,2007-12-30T11:14:29+00:00,"Reinoud Elhorst",wiidiaplayer@claude.nl,http://wiidiaplayer.wordpress.com/,comment,0,"Hi Phil,
+
+Please let me know if you have any problems with WiidiaPlayer, if it’s MTASC you’re having trouble with, it took me a couple of days myself to get it working.
+
+The player part of WiidiaPlayer is nothing more though than what you can build using the FLash IDE; it still won’t allow you to download anything.
+
+The solution to downloading is not that hard though: the WiidiaServer should be able to get you on your way there. The problem is that the wiidiaserver speaks only the server-part of the protocol, and you’d need the client part; still almost all that you need is there.
+
+RTMP (for video) is nothing more than a handshake, a play command from the client, and an flv file hacked into pieces and padded with headers.
+
+Come to think of it: probably the easiest way to save an RTMP stream is just to let it play in the browser, capture the stream into a file (not entirely sure how to do this, I’m sure a little hacking with tcpdump should do the trick), and then using a simple parser to filter out the bits that are flv (most of the code for that is there in the WiidiaServer).
+
+I wouldn’t mind helping you on your way, but as I recall the iPlayer streams are ip-limited to the UK (I live in the Netherlands); still anything I can do, let me know!"
+1234,2007-12-30T14:03:38+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Thanks for that Reinoud, some useful information.
+
+FYI, your suggested method of download via playing in the browser and capturing it is exactly how one of the commercial tools I tested, Replay Media Catcher, does it.
+
+The last time I did anything at all in Flash was in 2001, so it’s all very exciting. Still, if the RTMP stream is as simple as you suggest, maybe I should take a closer at the python client I earlier dismissed for incompleteness."
+1238,2008-01-06T20:14:26+00:00,"Mark McLaren",mark.mclaren@gmail.com,http://cse-mjmcl.cse.bris.ac.uk/blog/,comment,0,"Hi Phil,
+
+This is all very interesting. On the above xbmc thread I saw the entry by Strawp with the PHP script showing how to derive the  
+RTMP stream URL and thought that it might be fun to create a Firefox bookmarklet that does the same thing.
+
+The resultant bookmarklet works on both the BBC iPlayer page variants (e.g. <http://www.bbc.co.uk/iplayer/page/item/aaaaaaaa.shtml> and <http://www.bbc.co.uk/programmes/aaaaaaaa>).
+
+Get it here:
+
+<http://mark.mclaren.googlepages.com/iPlayer.html>"
+1240,2008-01-07T10:13:51+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Excellent! I’d planned to turn it into a Greasemonkey script, and you seem to have done all the work for me 🙂"
+1243,2008-01-21T07:22:14+00:00,"Stuart Langridge",sil@kryogenix.org,http://www.kryogenix.org/,comment,0,"I shall be deeply, deeply pleased when Gnash can do this 🙂"
+1244,2008-01-24T17:19:39+00:00,Gareth,gazhay@gmail.com,,comment,0,"I tried pulling the curl modifications from Gnash that rob had done, but alas it kept crashing my computer, I didn’t have time to pin it down.
+
+In other words, gnash is probably going to be the only way to do it."
+1236,2008-03-07T16:43:24+00:00,"Dan W",dan@iamdanw.com,http://www.iamdanw.com,comment,0,"BBC just launched an iPhone version with h.264 streaming. Could be workable for xbmc"
+1237,2008-03-07T17:02:48+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Interesting stuff, thanks Dan."
+1241,2008-03-19T01:20:02+00:00,fx,fcmodz@yahoo.com,,comment,0,"I am working on an xbmc universal type plugin to incorporate many streaming video sources, but mostly from flash video sites. I came across hulu.com which also uses RTMP streams to stream their video. I googled and read bits from the rtmp threads at xbmc.org and of course this article you wrote. 🙂 I just wanted let you know that RTMP support on xbmc is wanted for more applications than bbc player, and what’s the xbmc status on adding this? I couldn’t find any kind of definite answer on the forums..
+
+Thanks.."
+1242,2008-03-19T10:18:34+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"In summary: there hasn’t been any progress at all 🙂"
+1239,2008-03-20T00:16:17+00:00,"Thijs Triemstra",info@collab.nl,http://rtmpy.org,comment,0,"We started a RTMP implementation for Python in the [RTMPy](http://rtmpy.org) project and made the first successful connection between the flash player and python a few days ago. This should make it easy to grab streams from iPlayer, or setup your own iPlayer service."
+1245,2009-01-28T18:43:48+00:00,"James Robinson",jamesrobinson120@ntlworld.com,,comment,0,"Can you please tell me if there is a diect rtmp link for BBC3 and BBC4? As there is an auth code after the @ number, how can I use Aplian FLV Media Player to play BBC3 and 4 etc? Please reply direct to e-mail address (genuine replies only please!). Thanks."

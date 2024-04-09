@@ -1,0 +1,28 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+294,2005-02-15T22:13:00+00:00,Mark,,,comment,0,"Wow, quite visionary.
+
+Question is, are all/any of these great ideas actually possible?
+
+I’ve tried experimenting with the python eval powers of WikidPad and had mixed results. Most of what I’ve tried has not worked. Unsure whether the thing is limited to a subset of Python (in which case our dreams are screwed) or whether there is some magic needed to enable general-purpose Python abilities."
+295,2005-07-20T18:04:00+00:00,"J Wynia",,,comment,0,"I’ve currently got an “FTP wrapper” that I’m using to run WikidPad on 3 PC’s, all using the same data. Works pretty well. It downloads, runs WikidPad, waits for it to close and then uploads the data. Just 3 files dumped into the wiki directory (and edited for your FTP settings) and then use the wrapper to start it up. I’m about 70% done writing and packaging it up for use by others. Will post on [my blog](http://www.wynia.org) when written up. Could easily be modified to run SVN commands instead of FTP for full version control (likely my next step)."
+296,2005-07-20T20:56:00+00:00,Pip,,,comment,0,"That sounds cool! Originally I was using a scheduled SyncBack task to do FTP transfer between different machines, but something hooked right in sounds a bit better!
+
+I’d used the WikidPad API to do submit and retrieves from SVN, and that worked OK, but I only did it as proof on concept, not as anything serious."
+297,2006-03-15T14:32:00+00:00,"Jack James",,,comment,0,"This sounds exactly what I’m after. Just from reading this, my mind also went racing off on various possibilities. Very interesting article thanks. Although I now see that wikipad is open source. Can’t wait to try it!"
+298,2006-10-24T18:51:00+00:00,"Bartosz Milewski",,,comment,0,"You might be interested in a similar product made by my company, Reliable Software. It’s called **Code Co-op** and it’s mainly a P2P version control system, but it has a built-in wiki capability. You can create wiki sites and let other people join and collaborate on them. No server necessary.
+
+There is one unique wiki feature in Code Co-op: it lets you create simple text-based databases, complete with a version of SQL. All database entries are free-form wiki files.
+
+This is a commercial product, so it costs money–buy it only if you need a version control system. However, you can use it for free for a month. It’s now in beta. The download site is [http://www.relisoft.com/co\_op/50annc.html](http://www.relisoft.com/co_op/50annc.html) ."
+299,2007-07-17T03:43:00+00:00,Anonymous,,,comment,0,"Can you post details on how you were able to configure the regex for styling text to match that of **JSPWiki** syntax?."
+300,2007-07-20T18:02:00+00:00,Anonymous,,,comment,0,"Well, I’m truly sorry, because I just can seem to find Wikidpad a truly easy to use application. I obviously do not possess the same knowledge level as the folks on previous posts. So what I would really like to see is something simple and straightforward as a WordWiki…! Why not?
+
+The question is: as long as wiki requires all this cumbersome systems to run, it will not trickle to the masses…
+
+And Wikidpad seems to be a great program, but I just cannot relate to its overly “technical” approach. Why can’t I just set up new links utilizing the same syntax I’m used to in other wikis? And if I could customize the syntax, well, you’ve lost me already…
+
+I want to write down directly in hyper-text, not learn a new programming language, or fiddle with several neat tricks."
+301,2007-07-20T20:54:00+00:00,"Phil Wilson",,,comment,0,"July 17th Anon: I’m afraid I don’t have the syntax file any more – at work we’ve moved to Confluence and I updated my live config file.
+
+July 20th Anon: Out of the box WikidPad uses a virtually identical syntax to several other wikis I’ve used. It can’t be the same as them all. Such is life. On the other hand, you can write down directly in hyper-text, it’s called Frontpage or Dreamweaver. Try Nvu if you want a free version. Good luck with that."
+302,2007-07-24T17:09:00+00:00,Anonymous,,,comment,0,"Ok. If you don’t have the actual file what pointers can you provide in terms of **file names** to be edited and **file locations** etc.?"

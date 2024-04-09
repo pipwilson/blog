@@ -1,0 +1,15 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1630,2012-03-26T09:03:07+00:00,"Tim Allen",tim@timallen.me.uk,,comment,0,"What do you think of the apps delivered with the TV? Have you tried any of the video on demand apps?
+
+I wrote a couple in a previous job and they’ve been deployed to all Samsung TVs but I have no idea how well they work or scale as I left the company a couple of weeks after I finished them, before they were properly tested!"
+1631,2012-03-26T22:07:59+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"I use iPlayer via the app all the time, and I’ve used the Cartoon Network and a couple of others – they all work pretty well – quality is good, but something in the hardware is quite underpowered for what’s being asked of it – there’s significant lag between making an action on the remote and seeing something happen on-screen which isn’t there when you’re in the EPG or other native functionality. It is really quite frustrating, especially if you’re asked to enter some text via the on-screen keyboard. At that point I typically load the Samsung Remote app on my phone and use the hardware keyboard there. To make the point, the iplayer interface is that of <http://www.bbc.co.uk/iplayer/bigscreen/> but the carousel takes about 4 seconds to change to the next item once you’ve selected the arrow. It is very painful.
+
+I have the 40″ Samsung 5500.
+
+The app store is terrible too, and there’s no way of browsing all apps online (that I’ve found). There is an Excel spreadsheet you can download(!) but that just lists the titles and the regions they’re available in. I’m really just after writing something which can display something useful whilst I listen to 6music 🙂
+
+So: functionality great, let down by underspec’ed C/GPU."
+1632,2012-03-26T22:09:01+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"The perceptible lag is probably exacerbated by the couching of the interface in terms that you see on phones and on computers – devices which typically have near-instant response times."
+1633,2012-03-27T20:45:52+00:00,"Tim Allen",tim@timallen.me.uk,,comment,0,"The original Cartoon Network app was one of mine. Can’t say whether it’s changed since I left the company that owns it, but I’m glad it works pretty well. The TVs don’t really have enough horsepower to do much HTML and XML manipulation and the lag on the network interface is a lot longer than I expected. The CN app does a minimum of calls to web services (largely because the servers, housed just outside of Sheffield, can’t handle too much load!).
+
+I have to say that the Samsung TVs had the best interactive platform of all the major manufacturers when I was writing for them (2 1/2 years ago) but Philips have the best quality control!"

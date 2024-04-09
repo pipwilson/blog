@@ -1,0 +1,11 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+758,2006-01-31T00:14:00+00:00,Mark,,,comment,0,"the ‘notes’ field also cuts you off at 255. Might want to include that one too."
+759,2006-01-31T12:27:00+00:00,Pip,,,comment,0,"ah really? I didn’t know that. I’ll put a patch in at some point."
+760,2006-02-01T00:41:00+00:00,Aristotle,,,comment,0,"There’s a very good reason **not** to cut the content off: some people fill the fields primarily by pasting content from the source page, in which case you often want to paste a lot of source material, then edit it down to something that will fit. And if there’s a hard limit on the form inputs, this is impossible.
+
+Instead, you want to give the user a counter telling them how many bytes the currently entered content is long. If you’re so inclined, add some additional visual cue like turning the text or a label red or something.
+
+Note that I purposely talked about *bytes* here: del.icio.us cuts off at 255 bytes, but uses UTF-8, so 255 bytes &lt; 255 characters if your description contains any character outside of US-ASCII."
+761,2006-02-01T10:55:00+00:00,Pip,,,comment,0,"Yes, I realised both the reasons for not cutting the text off, and I agree with del.icio.us’ decision, hence you can install this if you like.
+
+After I’d done it, I did actually think about not limiting the text field, and turning it red if you had over 255 characters – I hadn’t realised they limit to 255 *bytes*, that’s interesting, I’ve never had to count bytes in JavaScript before."

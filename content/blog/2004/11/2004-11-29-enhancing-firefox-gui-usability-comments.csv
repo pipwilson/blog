@@ -1,0 +1,86 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+181,2004-12-02T21:56:00+00:00,Anonymous,,,comment,0,"Personally I just press the backspace key,
+
+AndyH"
+182,2004-12-02T22:19:00+00:00,Pip,,,comment,0,"Oh yeah, me too 🙂 That or use mouse gestures (I use the [Optimoz extension](http://www.blogger.com/r?http%3A%2F%2Foptimoz.mozdev.org%2F)).
+
+But still, for those rare occasions when it’s necessary, I want that back button to be as easy to hit as it can be 🙂"
+183,2004-12-04T18:43:00+00:00,Anonymous,,,comment,0,"Good stuff!
+
+I use the Back button very often and this should help a great deal (I also have my preferences set to “use small icons, small, no text”).
+
+Chu Yeow"
+184,2004-12-04T21:14:00+00:00,Anonymous,,,comment,0,"Hey Phil…tried my best…adding /\* before and after….and just couldn’t get it to work?….Using 1.0 any suggestions?….Thanks"
+185,2004-12-05T00:25:00+00:00,Pip,,,comment,0,"Hi anon, putting /\* … \*/ around the CSS will stop it working.
+
+There’s possibly a combination of settings which stops the CSS from working as-is (this is just a guess), in which case you could try using:
+
+\#back-button .toolbarbutton-icon {  
+padding-left: 10px !important;  
+padding-right: 10px !important;  
+}
+
+instead. If that still doesn’t work, leave another comment with you contact details (or use my [contact form](http://www.blogger.com/r?http%3A%2F%2Fphilwilson.org%2Fcontact%2F)) and I’ll see if I can help."
+186,2004-12-05T13:43:00+00:00,Anonymous,,,comment,0,"/\* Force the label to be visible, even in no text \*/  
+\#back-button .toolbarbutton-text {  
+ display: -moz-box !important;  
+}
+
+/\* Put the label to the right of the button (it is only for the back button, but you can adapt for all buttons ! \*/  
+\#back-button .toolbarbutton-menubutton-button {  
+ -moz-box-orient: horizontal !important;  
+}"
+187,2004-12-05T14:29:00+00:00,nate,,,comment,0,"It \*is\* a feature of the Longhorn IE. Well, at least the mock-ups we’ve seen so far. These versions of IE have replaced the entire toolbar with a huge BACK button, as can be seen in screenshots here: [Longhorn IE](http://www.blogger.com/r?http%3A%2F%2Fwww.winsupersite.com%2Fimages%2Fshowcase%2Flonghorn_4051_101.jpg). In any case, you are correct about the current version of IE, but Longhorn emphasizes this quite a bit more."
+188,2004-12-05T16:13:00+00:00,guiverunit,,,comment,0,"This works best for me:  
+/\* Make the Back button bigger \*/  
+\#back-button .toolbarbutton-icon {  
+padding-left: 10px;  
+padding-right: 8px;  
+}  
+ /\* Force the label to be visible, even in no text \*/  
+\#back-button .toolbarbutton-text {  
+display: -moz-box !important;  
+padding-right: 4px;  
+padding-bottom: 2px;  
+}  
+/\* Put the label to the right of the button \*/  
+\#back-button .toolbarbutton-menubutton-button {  
+-moz-box-orient: horizontal !important;  
+}"
+189,2004-12-05T16:21:00+00:00,Pip,,,comment,0,"Ah, thanks for that nate. The image Ben Roe linked to in his article when referring to Longhorn was the standard IE6 ‘selective text on right’, but this is clearly quite different!
+
+Also, many thanks to the Anonymous poster above with the intimate knowledge of the custom Mozilla properties, I’ll update the post to reflect this new info! Obviously I should have spent longer in the DOM Inspector!"
+190,2004-12-08T09:52:00+00:00,Anonymous,,,comment,0,"I’ve got this to work on the Back and Forward buttons, can anyone get the label to the left on the Reload, Stop and Home buttons?"
+191,2004-12-08T11:40:00+00:00,Anonymous,,,comment,0,"Sorry, I meant to the right."
+192,2004-12-08T21:28:00+00:00,Pip,,,comment,0,"Hmm, nothing springs to mind…I don’t think you can float the elements to be the other way around.
+
+Maybe you can set direction:rtl on the button? I’ll have a play later."
+193,2004-12-09T14:27:00+00:00,"Jeff Barr",,,comment,0,"If you are using a 3-button mouse on Windows, you can easily remap the middle button to the Back action, as described in my recent [blog post](http://www.blogger.com/r?http%3A%2F%2Fwww.syndic8.com%2F%7Ejeff%2Fblog%2Findex.php%3Fp%3D30)."
+194,2004-12-12T06:47:00+00:00,Anonymous,,,comment,0,"Well, I’ve figured out how to get the labels on for all the buttons. Took a bit of config, but it works.
+
+The line: -moz-box-orient: horizontal !important; needs to be placed under the buttons section in the browser.css file within the classic.jar archive.
+
+The cell padding etc can still be modified via userChrome.css
+
+Hope this helps others.
+
+Cheers,  
+yayo"
+195,2005-08-01T17:43:00+00:00,Anonymous,,,comment,0,"I had to add !important to all of the declarations to get it to work for me. I’m very happy with the results: a nice, big button that even my twitchy little mouse can hit."
+196,2005-08-02T18:12:00+00:00,Hal,,,comment,0,"I have a special “go back” key on my IBM keyboard. Unfortunately I hit it a lot accidently. When I do need to go back, though, it works like a charm.
+
+Still good that you’re highlighting how easily you can customise Firefox though."
+197,2005-08-15T23:14:00+00:00,Anonymous,,,comment,0,"This is what my fourth mouse button is for."
+198,2007-03-23T09:19:00+00:00,Dmitry,,,comment,0,"I am improove perfomance of my firefox with this styles …"
+199,2007-05-31T09:02:00+00:00,Anonymous,,,comment,0,"Does the big back button work for mac? I can’t stand how the back button on firefox doesn’t work. It is too fancy, it wants to give me a bazillion options in history, I just want it to GO BACK."
+200,2007-06-03T22:52:00+00:00,"Phil Wilson",,,comment,0,"Um, I have no idea! Try it out and let us know!"
+201,2007-08-15T09:20:00+00:00,Anonymous,,,comment,0,"Hi,  
+anybody here knows if it’s possible to make firefox look like this?
+
+[here](http://ficod.deviantart.com/art/Firefox-GUI-mockup-62358031)
+
+Basically what is needed is to “extend” the “bar” look behind the tabbar and make the “go” button as big as the stop one: is it possible to do it with a theme?
+
+cheerz,  
+Salvo"
+202,2007-08-15T12:10:00+00:00,"Phil Wilson",,,comment,0,"without investigating. I don’t think so."

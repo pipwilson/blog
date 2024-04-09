@@ -1,0 +1,5 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+4,2004-12-24T08:06:00+00:00,Ratnakar,,,comment,0,"Nope it did not work for me"
+5,2004-12-25T00:07:00+00:00,Pip,,,comment,0,"Ratnaker&gt; Maybe you’ve got the remnants of an old Adobe SVG install hanging around? I just did it with Firefox 1.0 (Gecko/20041107 Firefox/1.0) on Windows XP (I’ve previously done it on XP Home, XP Pro and 2000 – no idea about Win98 though) and it worked fine."
+6,2004-12-27T23:05:00+00:00,Anonymous,,,comment,0,"Works perfectly for me with firefox 1.0  
+Thank you!"

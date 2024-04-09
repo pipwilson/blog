@@ -1,0 +1,57 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1201,2007-11-26T01:22:45+00:00,leff,jason.brackins@gmail.com,http://leff.blogspot.com,comment,0,"I’m not surprised at all. If the xml working group had a slogan it would be “Formalizing simple things until they’re difficult.” It’s always supposed to be easy, but it never is."
+1202,2007-11-26T01:45:39+00:00,"Sam Ruby",rubys@intertwingly.net,http://intertwingly.net/blog/,comment,0,"Default namespaces are a serialization artifact. Once read into memory, whether the namespace was a default, or even what prefix was used, doesn’t much matter. So, what you need to do is register a prefix for you to use at runtime, and use it.
+
+xp = doc.xpathNewContext()
+
+xp.xpathRegisterNs(“atom”, “http://www.w3.org/2005/Atom”)
+
+results = xp.xpathEval(“/atom:feed”)
+
+Note: the above works even if somebody uses the default prefix, or a prefix of atom or even a prefix of a. Also note that it is faster not to use // if you know the path.
+
+A more complete example:
+
+<http://www.intertwingly.net/code/venus/filters/mememe.plugin>"
+1203,2007-11-26T02:24:47+00:00,"Adam Fitzpatrick",ajfitzpatrick@lurking.org,http://lurking.org/lurker/,comment,0,"You only need to make a small change.
+
+&gt;&gt; import libxml2  
+&gt;&gt; doc = libxml2.parseFile(“/home/pip/allposts.xml”)  
+&gt;&gt; ctxt = doc.xpathNewContext()  
+&gt;&gt; ctxt.xpathRegisterNs(“a”, “http://www.w3.org/2005/Atom”)  
+&gt;&gt; results = doc.xpathEval(“//a:feed”)
+
+You can reuse the XPath context object for other XPath queries on the same document.
+
+There are two subtle things to note. First, prefix:localname in XPath matches an element with that local name in the namespace referred to by that prefix, but a name without a prefix in an XPath expression always means that name in “the namespace you have when you don’t have a namespace” (or “the null namespace” as Daniel Veillard less whimsically describes it in the email Aristotle Pagaltzis quotes in the blog post you refer to). Like Veillard says, XPath just doesn’t have the “default namespace” concept like XML itself does.
+
+It doesn’t help that the Namespaces in XML specification doesn’t define a practical term for “the null namespace”; it uses cumbersome language like “the namespace name has no value” (see the definition of “expanded name”, or section 6.2 (Namespace Defaulting) for example).
+
+Incidentally, though this characteristic of XPath is very inconvenient for element names, \*attribute\* names with no prefix in XML are also in the null namespace, so XPath’s behaviour is obviously a much better fit for matching attribute names.
+
+The other issue is that XPath implementations basically never use the document’s namespace prefix bindings (quite reasonably so, for two reasons: those bindings can differ on every element in the document; and, more commonly, different documents can and do use different prefixes, and you basically never want to discriminate between documents on the basis of the prefix).
+
+This means that option 1 won’t work (because the lack of prefix in the source document isn’t the problem), option 2 won’t be necessary, and option 3 won’t be a problem if there turns out to be a next time after all."
+1204,2007-11-26T03:49:01+00:00,anon,get@your.own,,comment,0,"For the lazy one-shot jobs where you don’t want to write the extra few lines for your own xpathContext to resolve namespaces correctly, can do the lazy pretend-there-aren’t-any idiom:  
+results = doc.xpathEval(“//\*\[local-name()=’feed’\]”)"
+1205,2007-11-26T05:18:37+00:00,"Edward O'Connor",hober0@gmail.com,http://edward.oconnor.cx/,comment,0,"Why not use the Universal Feed Parser?"
+1206,2007-11-26T06:21:00+00:00,"Aristotle Pagaltzis",pagaltzis@gmx.de,http://plasmasturm.org/,comment,0,"`>>> import libxml2<br></br>>>> doc = libxml2.parseFile(""/tmp/feed.atom"")<br></br>>>> xc = doc.xpathNewContext()<br></br>>>> xc.xpathRegisterNs(""atom"",""http://www.w3.org/2005/Atom"")<br></br>0<br></br>>>> results = xc.xpathEval(""//atom:feed"")<br></br>>>> len(results)<br></br>1`"
+1207,2007-11-26T08:47:01+00:00,"Jeni Tennison",jeni@jenitennison.com,http://www.jenitennison.com/blog/,comment,0,"It’s hardly ideal, but you could use paths like “//\*\[name() = ‘feed’\]”. Really there should be a way of binding a prefix (eg atom) to the namespace before you evaluate any XPaths, so you can do “//atom:feed”."
+1208,2007-11-26T09:12:05+00:00,"Asbjørn Ulsberg",asbjorn@ulsberg.no,http://asbjorn.ulsberg.no/,comment,0,"What would you do with XML nodes in the empty namespace (xmlns=””), then? I kind of agree with you, though. However, I don’t think it’s worth making so much fuzz about; it only requires one more line of code to define the Atom namespace with a prefix and then sprinkle the prefix out in the XPath statements.
+
+Making the default namespace equivalent of the empty namespace should probably be done explicitly anyhow, with an optional parameter to parseFile() or something similar. It has to be under the author’s control whether he wants to access empty namespaced elements or not, and I think the default behaviour should be as it currently is."
+1209,2007-11-26T10:14:11+00:00,alf,alf@hubmed.org,http://hublog.hubmed.org/,comment,0,"PHP5’s SimpleXML (based on libxml2) has a registerXPathNamespace function – maybe Python has an equivalent?
+
+Otherwise yes, in the past I’ve just mangled the “xmlns=” bit of the default namespace declaration so that it doesn’t apply any more."
+1210,2007-11-26T10:38:58+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Sam, Adam and Aristotle, I was strongly under the impression that I had tried that. It is possible that I made a typo. Your comments certainly suggest it, although the interpreter didn’t report any problems with my syntax.
+
+I used “//feed” in my example simply to demonstrate that regardless of the base document the query should return something. My actual XPath query was “/feed”.
+
+Asbjørn, you’re right but given that I thought I’d tried the single-line sprinkling suggested by Sam and Aristotle, I was hoping to draw out the XPath experts and it seems to have worked 😉
+
+I did actually look for an equivalent of xpath.flipBozoBit() which would allow me to query the default namespace directly.
+
+Edward – I had libxml2 to hand and wanted to run some very specific atom-based queries. Plus I wanted to increase my understanding of the library.
+
+Jeni and anon, thanks very much for that, it’s a useful selector I’d forgotten about."
+1211,2007-11-26T22:06:19+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"I really must have made a terrible typo first time around as setting the namespace context really does work. How very embarrassing and frustrating. Thanks all!"

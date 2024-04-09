@@ -1,0 +1,38 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+677,2005-11-22T14:06:00+00:00,Ton,,,comment,0,"Hi Phil,
+
+My piece is primarily about two things:
+
+First I need/want to stay in control of my own data and information. It needs to be in one spot (or always synched automatically).
+
+Second I need/want to be able to specify seamlessly the amount of access to info in accordance with the nature of a relationship and the context of the exchange.  
+(I may allow you to know all kinds of businessrelated stuff, but not personal, or only part of both etc.)
+
+Peer to peer in my article does not neccessarily mean only available when I am online. It mainly means cutting out the centralized hub/data collection that most social networking stuff now has, where I have only limited control over it.
+
+hope that clarifies.
+
+best,
+
+Ton"
+678,2005-11-22T14:15:00+00:00,Pip,,,comment,0,"Yes, many thanks. About two minutes after I hit “post” I thought ‘I wonder if he really meant decentralised instead of peer-to-peer?’, because of course p2p has implied connotations.
+
+You’d be happy then, if any centralisation was on your own PC, instead of some third-party hub?"
+679,2005-11-22T16:43:00+00:00,Ton,,,comment,0,"Yes, centralized on my own hub would be fine (and the info of others on their own space). E.g. I regard my blog as an on-line presence portal, giving access to “me”.
+
+Shades of intimacy/trust would then determine what you see on my blog. Maybe it would be cool if I could write in a blogposting about work I do, and colleagues would be able to see the clients name, and the general public wouldn’t, in the same posting."
+680,2005-11-22T18:46:00+00:00,Pip,,,comment,0,"I see.
+
+So would you have previously spent the time necessary to mark what kind of content was appropriate to what group? Do you think people would really do this? I can’t easily see how a heuristic could work it out for you and mask whatever it felt necessary.
+
+The trend at the moment would be to publish blog postings targeted at different audiences, so the filtering is at the level of the post rather than the content, it would be good if this could be improved, but I can’t see an easy way to do this."
+681,2005-11-22T21:38:00+00:00,Ton,,,comment,0,"Hi Phil,
+
+no I can’t see an easy way of recreating the flexible levels of trust we so easily build into our f2f conversations on-line. But I would like it to!
+
+Maybe we are going about it the wrong way at this time. Taking the information as a startingpoint and then think of metadata to specify conditions for different people to see it. Maybe we should take the relationship as starting point and then think of ways of adding info to that.
+
+Not sure if that makes any sense at all. Just daydreaming. Ran across a couple of guys the other day who demonstrated a way of storing info just by storing relationships and patterns. The actual info objects were not stored at all. Didn’t understand it very well yet, but it looked intriguing enough to think this might be a way forward."
+682,2005-11-26T16:08:00+00:00,Pip,,,comment,0,"Yes, I think that approach is certainly worth thinking about. Quite often these things are just a matter of perspective."
+683,2008-12-31T14:21:15+00:00,"Joey g",Graphite@Joeyguerra.com,,comment,0,"This post is old. Are you still interseted in this?"
+684,2009-01-07T10:53:21+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"Yes I am!"

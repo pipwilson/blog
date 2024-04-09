@@ -1,0 +1,36 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1102,2007-03-15T10:07:00+00:00,"Irregular Shed",,,comment,0,"No easy way to tab out of a Flash widget, sadly, seeing as it’s an embedded application that captures the focus. I get caught as well, both with tab and by trying to use the scroll wheel on the mouse.
+
+I’m sure someone could come up with a plugin that would allow it. As for Greasemonkey usage, maybe hacking the Chrome gubbins would allow it?"
+1103,2007-03-15T10:32:00+00:00,"Phil Wilson",,,comment,0,"For flash, that’s just crazy. There must be a way of allowing users to get out of it, even if it’s another keyboard shortcut. I was expecting that F6 would work, but it doesn’t. Once your tab focus is inside a Flash widget, it’s trapped forever. Lame.
+
+Yes, some Chrome gubbins would allow it (I suppose there might already be a keyboard shortcut that I just don’t know about), but it should be part of the base install."
+1104,2007-03-15T14:49:00+00:00,Alastair,,,comment,0,"There must be a way, when you have a screen reader it provides a way. (Although perhaps it is via Flash and the screen reader, rather than a browser command?)"
+1105,2007-03-15T15:10:00+00:00,finn,,,comment,0,"A similar problem that’s been irritating me recently is that you can’t tab out of a rich-text editing context in Firefox. You can, however, shift-tab (backwards) out of one. [Bug 190513](https://bugzilla.mozilla.org/show_bug.cgi?id=190513) (opened Jan 2003)."
+1106,2007-03-15T15:56:00+00:00,Anonymous,,,comment,0,"See also [bug 78414](https://bugzilla.mozilla.org/show_bug.cgi?id=78414)."
+1107,2007-04-08T17:11:00+00:00,Greg,,,comment,0,"Assuming you are using keyconfig extension:  
+ <http://extensionroom.mozdev.org/more-info/keyconfig>
+
+You can add a bit of js to make the change to nsIPrefService.
+
+var prefs = Components.classes\[“@mozilla.org/preferences-service;1”\].getService(Components.interfaces.nsIPrefService);  
+prefs = prefs.getBranch(“greasemonkey.”);  
+prefs.setBoolPref(“enabled”, !prefs.getBoolPref(“enabled”));
+
+Let me know if you need more help with keyconfig.
+
+In regards to the flash issue, one thing I have found that helps quite a bit is the flashblock extension:
+
+<http://flashblock.mozdev.org/>
+
+This prevents flash from trapping your keypresses, and mouse wheel scrolling."
+1108,2007-05-06T22:36:00+00:00,"Phil Wilson",,,comment,0,"Thanks Greg, I do do those things on my own PC, but for the Flash issue in particular I’d rather not have to remember and install an extension for something that should be part of the native build. I consider this to be a serious usability issue."
+1109,2007-05-09T03:44:00+00:00,Greg,,,comment,0,"I am hoping this bug will be closed soon:
+
+[https://bugzilla.mozilla.org/show\_bug.cgi?id=78414](https://bugzilla.mozilla.org/show_bug.cgi?id=78414)
+
+Things like this:
+
+Reported: 2001-05-01 14:28 PDT by dave shultz
+
+Tends to make me wonder how a bug of this sort can be left for this long."

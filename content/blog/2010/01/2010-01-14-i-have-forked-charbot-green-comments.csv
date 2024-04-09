@@ -1,0 +1,14 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1550,2010-01-14T06:48:59+00:00,Damian,pldms+bfjdd@mac.com,,comment,0,"H2 is no different to SQLite. Both are little embedded SQL engines, no server requred. And neither are pure ruby (unless someone has ported SQLite to ruby, which is more likely than I care to admit 🙂"
+1551,2010-01-14T08:21:48+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"I don’t think that’s quite true about H2. I see that it has both a server mode and embedded mode whereas SQLite is embedded only I think.
+
+I’ve never used H2 before and both Libby’s instructions and the H2 installer start it in server mode, so I didn’t even realise it had an embedded mode until your comment 🙂
+
+Obviously the bit about pure ruby is just the fact that there are native ruby bindings for sqlite rather than going via jruby."
+1552,2010-01-25T11:20:20+00:00,Hayeky,hayeky@gmail.com,,comment,0,"Hello Phil. Your greasemonkey script “Show link destination on hover” seems not working in Google Reader. Can you fix it? Thanks a lot."
+1553,2010-01-31T00:11:39+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"Gosh, I’d forgotten I’d even written that (it’s here: <http://userscripts.org/scripts/show/45557>).
+
+I will have a look at it and update it on userscripts.org if I can find out why it doesn’t work on Google Reader!"
+1554,2010-01-31T00:18:47+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"After a brief look, I suspect the problem is that the Greasemonkey script only runs when the page is first loaded, but of course when you click on feeds an folders in Google Reader it loads new content via javascript, so the greasemonkey rules don’t get applied.
+
+I might be possible to add an event listener to pick this up, but it will probably be some time before I can get around to it I’m afraid."

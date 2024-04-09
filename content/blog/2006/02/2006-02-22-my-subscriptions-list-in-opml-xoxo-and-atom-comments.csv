@@ -1,0 +1,17 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+790,2006-02-22T01:21:00+00:00,alf,,,comment,0,"The Atom version does seem nice and clean, especially compared to the others, and you’re right – I’ve run into uses of Atom that didn’t necessarily need the updated field and had to fake it before."
+791,2006-02-22T02:00:00+00:00,"Kevin Marks",,,comment,0,"Well, [Technorati Favorites](http://technorati.com/account/importfaves.html) will import your XOXO."
+792,2006-02-22T04:24:00+00:00,Aristotle,,,comment,0,"Another option is [XBEL](http://xbel.sf.net/) – see, f.ex., the [PlanetAtom subscription list](http://planetatom.net/feeds.xml). Uche Ogbuji wrote [a](http://copia.ogbuji.net/blog/2005-06-27/Wow___XML_) [bunch](http://copia.ogbuji.net/blog/2005-11-14/I_already_) [of](http://copia.ogbuji.net/blog/2005-11-15/I_must_be_) [entries](http://copia.ogbuji.net/blog/2005-11-16/Does_it_co) [on](http://copia.ogbuji.net/blog/2005-12-02/XML_Bookma) [that](http://copia.ogbuji.net/blog/2005-12-05/XSLT_for_c); we discussed the option of using Atom as well, but rejected it because of *atom:updated* and the lack of a way to represent a hierarchical folder structure directly in the markup.
+
+One thing XBEL has in common with the other options you explored is that it already has some implementations – a number of browsers –, but support is far from ubiquitous."
+793,2006-02-22T09:16:00+00:00,Aristotle,,,comment,0,"PS.: there’s no reason you can’t just used the current datetime as the value of *atom:updated* elements. Such an element is metadata about the entry in the feed but not necessarily about the alternate representation it points to."
+794,2006-02-22T11:07:00+00:00,Pip,,,comment,0,"Yes, I knew about XBEL, and had read Uche’s posts and the following comments, but quite frankly, the last thing I wanted to do was start generating a format that in reality no-one is ever likely to use for this kind of thing.
+
+(and yes, my updated element is in fact just the timestamp for the export, and not the atual last updated timestamp for the feed, but doing that feels rather horrible – I do feel that if I’m describing a feed, I should probably be providing the last time *it* updated.
+
+Kevin, whilst Technorati Favourites should import my XOXO, I have no idea how exactly I’m supposed to specify it. It certainly fails to import the file I link to in my main post."
+795,2006-02-23T15:12:00+00:00,l.m.orchard,,,comment,0,"For what it’s worth, Technorati Favorites seemed to enjoy [my XOXO output](http://decafbad.com/blog/2006/02/23/opml-to-xoxo-to-technorati-favorites-2). But, I’m not entirely sure what the significant difference is between [yours](http://philwilson.org/feeds/subscriptions-xoxo.xml) and [mine](http://decafbad.com/2006/02/subs-amusements.xoxo). In fact, yours would seem to be the better constructed XOXO, with more semantic cues."
+796,2006-02-24T12:27:00+00:00,Pip,,,comment,0,"That’s interesting Les. Mine is a closer mapping of what you’d expect from Atom maybe.
+
+I was going to try adding class=”feed” to each of the feed links, but Technorati appear to have updated their import script so that mine works now. Nice!"
+797,2006-02-24T12:29:00+00:00,Pip,,,comment,0,"Although it might be nice to know exactly what the script was doing so we’d know what to give it."

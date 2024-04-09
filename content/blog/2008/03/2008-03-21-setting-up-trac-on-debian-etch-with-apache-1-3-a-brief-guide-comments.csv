@@ -1,0 +1,3 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1297,2008-03-21T19:54:45+00:00,"Dirkjan Ochtman",dirkjan@ochtman.nl,,comment,0,"You might have an easier time using mod\_wsgi (it should just work with Apache 1.3)."
+1298,2008-03-21T20:23:28+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Hm yes, the instructions (<http://trac.edgewall.org/wiki/TracModWSGI>) do seem a lot easier!"

@@ -1,0 +1,55 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+633,2005-10-30T20:01:00+00:00,"Ryan King",,,comment,0,"(sorry about the markup, Blogger wouldn’t let me use blockquote’s)
+
+re: nofollow:
+
+<http://microformats.org/wiki/rel-nofollow>
+
+It is a microformat, though it didnt’ follow the [microformat process](http://loadaveragezero.com/app/drx).
+
+*Tagging is more intruiging, and a good example but I’m not sure if I’m sold on it as a solid application of the technology, although I can see that it clearly works in practice.*
+
+I’m not sure what rubrick you’re using for evaluation usage of microformats. Without that its kinda tough to answer your questions.
+
+*I think I’m mainly distrustful of tagging in an open system, where gaming starts to come in to it in a far less controlled manner than say, closed systems like del.ico.us or flickr or for someone organising the posts on their own blog.*
+
+I know what gaming looks like, but I have some [really smart coworkers](http://technoati.com) who’re doing an awesome job of fighting tag spam (and web spam in general).
+
+The value of such an open system is that, though there will be leeches, who contribute nothing but noise, they will not override the value of those participating honestly.
+
+*At the moment, they just sound like so much hype, so little substance.*
+
+Well, I try to avoid hyping, I just talk about the work we’re doing and help people to apply it. If there’s hype it might be because people are *excited about the possiblities*.
+
+We don’t claimed to have solved all the world’s problems, or even all of our own, but [we certainly have substance](http://microformats.org/wiki/)– just because much of our work is still in the research/exploration stage doesn’t mean its not exciting.
+
+Re: hReviews in feeds:
+
+I believe [drx](http://loadaveragezero.com/app/drx) has feeds and these are all blog posts, which certainly have feeds: [1](http://epeus.blogspot.com/2005_04_01_epeus_archive.html#111484565269684374), [2](http://blog.ftwr.co.uk/archives/2005/10/03/blubeckers-hampton-court/), [3](http://dougal.gunters.org/blog/2005/08/03/french-vanilla-latte), [4](http://epeus.blogspot.com/2005_04_01_epeus_archive.html#111484565269684374).
+
+*So slightly chicken and egg here – if no-one is doing it, why should I bother adding the functionality to my parser?*
+
+Because you think its a good idea and you’d like to help promote it. 😀"
+634,2005-10-31T00:37:00+00:00,Pip,,,comment,0,"Yes, sorry I think I clearly differentiate between compound microformats like hReview and hCard and [elemental microformats](http://microformats.org/wiki/elemental-microformat) specifically the ones which use the rel attribute. When I talk about microformats, I’m normally talking about compound microformats.
+
+On tagging more broadly, as I said, *“I can see that it clearly works in practice.”*, I don’t feel comfortable with it, but that’s my problem 🙂
+
+*“If there’s hype it might be because people are excited about the possiblities.”*
+
+ha! it might be, it might also be because Tantek talks about it. The man has a lot of sway. 😉 I’d imagine the reality is probably a mix of the two.
+
+drx is interesting; I’ve not seen it before (also, congratulations, it’s not often someone shows me something new on the web ;)) and you’re right, those posts do use hReviews, but only one of them still has a relevant post in its feed, and in my 5 minute attempt, failed the transform (probably my fault, further attempts tomorrow, it’s quarter to one in the morning after all).
+
+*“Because you think its a good idea and you’d like to help promote it. :D”*
+
+I do think it’s intriguing, and I’ll be trying to influence the bits of the web I hold sway over to see what I and other people can do with it. I’ll probably post to microformats-discuss when I do.
+
+Thanks for replying, and sorry for the Blogger restrictions. There goes our million-dollar markup, eh? 🙂"
+635,2005-11-02T17:41:00+00:00,alf,,,comment,0,"A small point – it’s actually Danny Ayers’ hreview2rdfxml, originally here: <http://pragmatron.org/xslt/hreview2rdfxml.xsl>
+
+It needs updating, as it doesn’t work very well with most of the hReview microformat examples I’ve come across. This is also true for most the hCalendar microformat usage that I’ve tried to parse with XSLT. This is perhaps a deficiency of the XSL, but people are certainly using a wide range of interpretations of the microformat specs (which are also still changing) – so I’d say it may have been proven that microformats work in the wild, but it’s also been shown that they can be very fragile (especially in the long term)."
+636,2005-11-02T22:11:00+00:00,Pip,,,comment,0,"Ah, I hadn’t realised it wasn’t yours originally. I’ll update the post. I’m sure Danny would be very upset 🙂
+
+Interesting points about the variation over time. Of course, changes in the spec almost certainly won’t be reflected in, say, older blog posts whilst data that was generated and posted as a first-class citizen of a feed would be able to be updated by changing the feed template.
+
+Er, probably."

@@ -1,0 +1,30 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+985,2006-11-14T23:21:00+00:00,Gareth,,,comment,0,"Have you tried sniffing the headers that Firefox is sending?
+
+Maybe something in the accept header to include wml or something ?
+
+Just somewhere to start."
+986,2006-11-14T23:31:00+00:00,"Irregular Shed",,,comment,0,"Can you get it to show you page 888? Who needs TV on your mobile when you can just read it, eh? =)"
+987,2006-11-15T10:45:00+00:00,Pip,,,comment,0,"Well, I am getting WML content back (with, I think, the right MIME-type). Annoying, I don’t think that the LiveHTTPHeaders extension works with Firefox 2, otherwise I would have sniffed the headers already, but I’ll look into the alternatives.
+
+888 – I wish!"
+988,2006-11-15T13:33:00+00:00,"Aristotle Pagaltzis",,,comment,0,"Works for me:
+
+curl -iA ‘Nokia6630/1.0 (2.39.129) Series60/2.6 Profile/MIDP-2.0 Configuration/CLDC-1.1’ ‘http://www.teletextmobile.co.uk/portal.aspx?pn=806&amp;uid=1111702181083416953519691784019712536148&amp;rnd=23112’"
+989,2006-11-16T11:24:00+00:00,Anonymous,,,comment,0,"Did you quote the URL with single quotes? Otherwise under Linux the shell spots the ampersand and wget just gets the page “http://www.teletextmobile.co.uk/portal.aspx?pn=80”
+
+I got back a page about “Halo 3 spring  
+s into action”."
+990,2006-11-16T22:56:00+00:00,"Paul S",,,comment,0,"This worked!
+
+wget ‘http://www.teletextmobile.co.uk/portal.aspx?pn=806&amp;uid=1111702181083416953519691784019712536148&amp;rnd=23112′ –user-agent=’Nokia6630/1.0 (2.39.129) Series60/2.6 Profile/MIDP-2.0 Configuration/CLDC-1.1’ -O – | lynx -stdin"
+991,2006-11-16T23:00:00+00:00,"Paul S",,,comment,0,"or
+
+wget ‘http://www.teletextmobile.co.uk/portal.aspx?pn=806&amp;uid=1111702181083416953519691784019712536148&amp;rnd=23112′ –user-agent=’Nokia6630/1.0 (2.39.129) Series60/2.6 Profile/MIDP-2.0 Configuration/CLDC-1.1’ -O – | lynx -stdin -dump -nolist | perl -ne “print if /Teletext Entertainment/../Add to My Teletext/”"
+992,2006-11-17T12:41:00+00:00,Pip,,,comment,0,"Matt and Paul: You are both right and I am a jackass.
+
+I should rig my keyboard so that if I’m in a terminal and enter double-quotes it gives me an electric shock.
+
+I even noticed that it was running in the background but didn’t even stop to ask why. My excuse is that it was late. The *reason* is that I was stupid 🙂
+
+Thanks very Paul for the hyper-useful code, too!"

@@ -1,0 +1,44 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+328,2005-03-01T22:19:00+00:00,"Rachel Blackman",,,comment,0,"As a random note, if you find Trillian Pro’s Jabber does meet your criteria, there’s most likely a way to arrange site licenses for a company. Buying a $25 license for every single person would be insane.
+
+That said, I’ve heard rumors of someone writing an MSN Messenger server gateway; basically a c2s component for an XMPP server which translates MSNP into XMPP. I think it’s pretty beta-quality right now, but it might be worth checking out. (Alas, I don’t have a URL handy, but poking around jdev might produce something.) If you can find that, it would let folks simply use their existing MSN Messenger clients."
+329,2005-03-02T20:18:00+00:00,Pip,,,comment,0,"Yeah, trying to arrange some kind of site license is probably possible, but obviously I’m far too lazy to pursue such a thing 🙂
+
+I know there is a C# app on jabberstudio which effectively runs as an MSN Messenger proxy so that users can use the MSN Messenger client for connecting to a Jabber server, which I tried out a few months ago, but it’s now years old, not under active development, and doesn’t work with the newer MSN Messenger protocols (booo!). I think that’s the one you mean, although I will also have a look around to see if there’s anything newer."
+330,2005-03-03T00:43:00+00:00,"Rachel Blackman",,,comment,0,"That is, I fear, probably the one I was thinking of. I didn’t realize it was abandonware. 🙁
+
+\*snrk\* Maybe that’s something we should write at Cerulean; an IM-translator proxy. Log onto Jabber from an MSN client, log onto MSN from an AIM client, etc…
+
+Okay, maybe not.
+
+That said, of the Jabber clients you’ve looked at, Rival seems the one that reminds me the most of MSN. (We sort of tend to be off in our own little world of usability concepts with Trillian.)"
+331,2005-03-03T18:55:00+00:00,Anonymous,,,comment,0,"Coccinella meets most of your requirements. So I will only describe the things it does not meet (fully) yet:  
+\* user friendly: this is a work in progress; many work is already done on this part, but more to do of course 🙂  
+\* audio/video transfer: Coccinella can initiate Gnomemeeting sessions (future versions of Gnomemeeting will also support SIP!), but AFAIK Gnomemeeting is not available for Windows people…"
+332,2005-03-03T20:09:00+00:00,Pip,,,comment,0,"Actually, I had no idea that The Coccinella was cross-platform; I’d always assumed it was Linux-only. That’ll teach me to pay more attention 🙂
+
+The Coccinella has some interesting features, and the upcoming SIP is certainly something worth keeping an eye on, but when it runs on Windows it’s painfully obvious that it’s a non-native app (even without using it), and so much of the GUI behaviour is non-standard for Windows (although standard for Tcl of course, which is what I’m guessing it is). Certainly the Gnomemeeting stuff is interesting, and I think there has actually been some work on getting Windows Netmeeting and Gnomemeeting to play together but I don’t know how far it’s got, but for the moment it’s a Linux-only feature.
+
+Thanks for pointing it out though, if only for showing me up for not knowing it ran on Windows and Mac 🙂"
+333,2005-03-09T16:43:00+00:00,Pip,,,comment,0,"Rachel, yeah, I’m sure you guys are just dying to get into the proxy market 😉
+
+Rival looks pretty acceptable when you’re just looking at the roster, but as soon as you start to use it you realise that’s it’s really nowhere near good enough, with some bits skinned, others not, inconsistent UI and so on."
+334,2005-04-21T19:59:00+00:00,Gallows,,,comment,0,"I’ve been using Neosmt as the client for a internal Jabber server. Once you get over the “odd” menu access is really is a very good client. File tranfer is quick and meeting rooms are simple to administer. It did have some issues with file locking on older versions but they seem to have sorted it in the latest release.
+
+Not exactly ready for a full corporate deployment as it won’t run in a locked down user environment without modification of local file access rights on XP / 2000. It also needs a automated user settings methodology but still a \*very\* good client. If you want a full corporate solution then perhaps investigation of their kbee product might be in order."
+335,2005-04-21T20:47:00+00:00,Pip,,,comment,0,"That’s excellent info, thanks very much!
+
+I’ve certainly looked at their kbee product, and it seems quite impressive."
+336,2005-10-06T18:52:00+00:00,Anonymous,,,comment,0,"Our Jive on Linux server and Exodus on Windows clients setup is working well. Jive supports server-managed rosters very well and is very functional in other areas and easy to administer."
+337,2005-10-07T07:07:00+00:00,Pip,,,comment,0,"Yes, Jive is excellent, and like I said in my post, I’d recommend it time and time again, but clients are a different matter."
+338,2005-12-20T20:48:00+00:00,Anonymous,,,comment,0,"I do not use MSN Messenger at all, having found Yahoo! Messenger to be superior and easier to use (plus most people I know use Y!M). That said, Spark (by the Jive Messenger people) is a decent client, SSL/TLS connections, file transfer, password change, profile change, etc. The UI is clearly not Y!M quality, but it is still quite usable.
+
+We also use JETI, a Java-based client. Jeti definitely needs some UI work, and we have not yet used it with SSL/TLS. The advantage with Jeti is that it doesn’t require an installation."
+339,2006-02-02T09:34:00+00:00,Anonymous,,,comment,0,"whats wrong with gaim? please dont bite, i ask meekly…."
+340,2006-02-02T10:35:00+00:00,Pip,,,comment,0,"The last time I used it, it was completely obvious that it was a port from a Linux application, and that’s not acceptable if you’re going to be rolling out to all business layers in a Windows-based company.
+
+I see there’s a new version out though, so I’ll download and take another look."
+341,2006-02-25T10:30:00+00:00,Anonymous,,,comment,0,"I have been on the same search myself (wish I had found this page!!) – but have come to exactly the same conclusion. Those users who need Video in the organisation will be deployed neos, everyone else Pandion. Its a shame we can’t have the GUI look and feel of Pandion with neos functionality!!"
+342,2006-06-25T01:19:00+00:00,Anonymous,,,comment,0,"I used neosmt for almost a year, but switched to Pandion. Neosmt has some nasty performance problem when you get more contacts connected, and pandion with the same list has been rock solid for me."
+343,2006-06-25T08:08:00+00:00,Pip,,,comment,0,"Ah, interesting to know, thanks!"
+344,2007-07-24T14:42:00+00:00,"Nik Gore",,,comment,0,"How has this been for you? With the completion of a more stable Jingle, how is the client search Going? Did you ever settle on a client that met your needs?"

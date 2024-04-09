@@ -1,0 +1,38 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+318,2005-02-10T16:59:00+00:00,Anonymous,,,comment,0,"You mention user agent spoofing, but it’s not difficult to install. There is an extension you can have him install that should be simple enough. If you don’t already know about it, the link is:
+
+<http://www.chrispederick.com/work/firefox/useragentswitcher/download/>
+
+I hope it helps. Sorry for the anonymous posting. I didn’t want to register with Blogger.
+
+Richard  
+zxfiles AT yahoo DOT com"
+319,2005-02-10T17:16:00+00:00,Pip,,,comment,0,"Yeah, I know the one, but really, it’s just not worth it 🙂
+
+If I was there in person it might be a differenet matter! 🙂"
+320,2005-02-10T18:34:00+00:00,Scott,,,comment,0,"How about installing View in IE? If you get to a complaining page like the bank you right click and then click ‘View this page in IE’
+
+What the {insert explative} could the bank possibly be doing that needs IE only?
+
+Reams of Firefox tips on my [site](http://www.blogger.com/r?http%3A%2F%2Fusers.tns.net%2F%7Eskingery%2Ffirefox%2FHome_Page.html)."
+321,2005-02-10T19:45:00+00:00,Pip,,,comment,0,"ActiveX maybe? Some DHTML menus? Who knows?
+
+Yes, ‘View in IE’ is a possibility. I forget that it’s an extension and it’s not actually built into Firefox 🙂"
+322,2005-02-11T19:27:00+00:00,Pip,,,comment,0,"In fact, even that’s probably not enough since it may well redirect you through to an error page, so clicking “open this site in IE” will literally just take you to that error page, whereas it would really need to actually go to the desired page.
+
+Anything more than one step is just not viable.
+
+I’m so hard to please 🙂"
+323,2005-02-11T20:49:00+00:00,Anonymous,,,comment,0,"I work for a bank, though not yours.
+
+The product managers for our online banking aren’t willing to declare a browser as ‘supported’ until **everything** works perfectly. So one logoff confirmation dialog would be enough to ‘not support’ firefox.
+
+Having said that, we don’t block access at all, more trouble than it’s worth."
+324,2005-02-12T01:17:00+00:00,Pip,,,comment,0,"Anon: Really? wow, that **is** interesting! I guess if it’s financial, they can’t take any chances!"
+325,2005-02-16T15:06:00+00:00,j,,,comment,0,"” Anon: Really? wow, that is interesting! I guess if it’s financial, they can’t take any chances!”
+
+Yep – I used to be an IT auditor for 2 banks (not yours), and for a while we would only support IE – because that was the only browser that had been tested to death on the system (as it was the most popular browser). We were not going to let anything go live is it was not flawless.
+
+You should have seen the looks I got when I would complain that they didn’t support Lynx – some of us are old skool dammit!"
+326,2005-04-04T02:42:00+00:00,Anonymous,,,comment,0,"I’ve been using the nationwide site for years and I’ve never noticed any problems using FF or Mozilla for online banking."
+327,2005-04-05T14:30:00+00:00,Pip,,,comment,0,"Really? It was definitely rejecting Mozilla browsers when I looked, but maybe it was just a temporary thing."

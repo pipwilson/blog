@@ -1,0 +1,11 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1451,2009-03-24T17:46:02+00:00,"Sending files to Ubuntu Intrepid over bluetooth | Ubuntu-News - Your one stop for news about Ubuntu",,http://www.ubuntu-news.net/2009/03/24/sending-files-to-ubuntu-intrepid-over-bluetooth/,pingback,0,"\[…\] over bluetooth to a computer running the latest stable version of Ubuntu, Intrepid Ibex, 8.10. More here This is a bit of a problem for me since my main camera is my trusty Nokia N95. What you can do is \[…\]"
+1452,2009-05-04T04:44:36+00:00,tabunfile,tabun@hotmail.com,http://n/a,comment,0,"I added the repositories for blueman and reloaded, but need the GPG keyfile. Where can I get this? I also changed Intrepid to Jaunty."
+1453,2009-05-05T22:21:54+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"Well, it might keep asking you if it’s OK to continue but you shouldn’t \*need\* the GPG key.
+
+The keyfile is here [http://keyserver.ubuntu.com:11371/pks/lookup?op=get&amp;search=0x6B15AB91951DC1E2](http://keyserver.ubuntu.com:11371/pks/lookup?op=get&search=0x6B15AB91951DC1E2)
+
+the instructions for adding it are here: <https://help.launchpad.net/Packaging/PPA#Adding%20a%20PPA%20to%20your%20Ubuntu%20repositories>
+
+both those links are from this page: <https://edge.launchpad.net/~blueman/+archive/ppa>"
+1454,2009-05-07T16:42:20+00:00,tabun,tabun@hotmail.com,,comment,0,"Thanx a lot for the info…it’s just annoying to have the error message come up each time I run Update Manager."

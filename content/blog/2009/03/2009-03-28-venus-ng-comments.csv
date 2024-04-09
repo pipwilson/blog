@@ -1,0 +1,19 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1455,2009-03-28T11:19:50+00:00,"Santiago Gala",sgala@apache.org,http://memojo.com/~sgala/blog/,comment,0,"Now, as a test case, write a Newsgator scraper that turns it into an atom feed an use diff with the venus generated feed to check it really works… 🙂"
+1456,2009-03-28T13:02:59+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"I’m pretty convinced I shouldn’t need to do that – once you’ve managed to get an HTTP 200 from a Newsgator feed then you’re really just testing Feedparser rather than anything else since you’ve already successfully navigated the various Newsgator-specific authentication mechanisms. Of course, there should probably be some unit tests to check you’re actually getting that HTTP 200.
+
+It would be good, on the other hand, to keep the newsgator-namespaced elements from the feeds they provide (which indicate whether an item has been read or not, for example) and make them available to the Venus templates. A few unit tests would be good here."
+1457,2009-04-16T11:57:09+00:00,Jack,jack.mottram@gmail.com,http://jackmottram.com,comment,0,"Thanks for this. I’ve been looking for a way to read my Newsgator-synced feeds offline on an Eee PC, and venus-ng works a treat."
+1458,2009-04-16T13:39:58+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"If you can install wxwidgets on your Eee you can have an excitingly crappy desktop experience of your newsgator feeds via <http://philwilson.org/code/wxvenus/>"
+1459,2009-04-16T19:58:04+00:00,Jack,jack.mottram@gmail.com,http://jackmottram.com,comment,0,"Turns out I can install wxwidgets, and wxvenus starts up fine, but just says ‘Welcome’, so I’m a bit stuck:- where in MainFrame.py should I be setting VENUS\_DIR, CACHE\_DIR and SOURCE\_DIR? And, when I do, should VENUS\_DIR and CACHE\_DIR point to my existing venus-ng stuff? If so, er, what’s my SOURCE\_DIR?
+
+Sorry for the possibly very dim questions – I know naff all about python."
+1460,2009-04-16T23:23:38+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"Oh, you shouldn’t have to do any of that – I do keep meaning to add this to the welcome page – just go “file-&gt;open” and point it at the .ini file you use to run venus. It will grab all the locations from there.
+
+Actually I recently hit a wall with wxVenus because it turns out the HTML renderer it uses on Linux doesn’t support CSS, but I’ll see what I can do anyway. Cheers for giving it a go! 🙂"
+1461,2009-04-17T09:15:38+00:00,Jack,jack.mottram@gmail.com,http://jackmottram.com,comment,0,"Loading up the .ini file sort of works – a list of my feeds appears in the top left pane, but clicking on them doesn’t do anything.
+
+Here’s the error:  
+`<br></br>File ""/home/jack/wxvenus/MainFrame.py"", line 244, in OnFeedListSelect<br></br>    self.itemList.SetItems({})<br></br>  File ""/usr/lib/python2.6/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py"", line 11925, in SetItems<br></br>    self.AppendItems(items)<br></br>  File ""/usr/lib/python2.6/dist-packages/wx-2.8-gtk2-unicode/wx/_core.py"", line 11787, in AppendItems<br></br>    return _core_.ItemContainer_AppendItems(*args, **kwargs)<br></br>TypeError: Sequence of strings expected.<br></br>`"
+1462,2009-04-17T09:17:49+00:00,Jack,jack.mottram@gmail.com,http://jackmottram.com,comment,0,"Oh, and thanks for your help! Having a nice way to read my feeds on the Eee has been a sort of holy grail since I got it (since the Newsgator web interface is like pulling teeth)."
+1463,2009-04-17T12:08:03+00:00,Phil,phil@philwilson.org,http://philwilson.org/blog/,comment,0,"OK, thanks. I have a more recent version at home which I’ve not committed yet. I’ll put it up tonight."

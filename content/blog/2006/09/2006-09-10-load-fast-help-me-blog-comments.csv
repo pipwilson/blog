@@ -1,0 +1,24 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+938,2006-09-11T12:28:00+00:00,"Irregular Shed",,,comment,0,"Me, I use [Performancing for Firefox](http://performancing.com/firefox). Or rather, I used a hacked-up version of Performancing because I don’t like it using &lt;i&gt; and &lt;b&gt; when I’ve been converted to &lt;em&gt; and &lt;strong&gt;.
+
+It’s not perfect, not by a long stretch, but it’s fast, free and easy to hack (it’s a Firefox extension – so loads of Javascript and CSS)."
+939,2006-09-11T12:39:00+00:00,Pip,,,comment,0,"Blogging is often the third thing I’m doing at the time, so I definitely need a separate app."
+940,2006-09-11T13:19:00+00:00,"Irregular Shed",,,comment,0,"Well Performancing exists as a seperate pane at the bottom of Firefox that you can show and hide at will, and saves whatever you’ve entered into it between sessions. It is actually quite good, you know…
+
+Maybe as we start using ActionScript 3 and Flex I can write a nice one in Flash and make a tidy little cross-platform blog writer as an exercise. Perhaps. Maybe."
+941,2006-09-12T19:37:00+00:00,Pip,,,comment,0,"Pfah. I don’t trust them still.
+
+Maybe I should try and knock something up myself."
+942,2006-09-27T10:59:00+00:00,Anonymous,,,comment,0,"i recommend to try flex. is app is awesome … i’m working with it since 20 days and i’m really thrilled 🙂
+
+greetings from hamburg (germany)
+
+Michael"
+943,2006-09-27T12:39:00+00:00,Pip,,,comment,0,"Flex is an application framework though isn’t it, rather than an actual tool?
+
+I must admit that I do keep meaning to have a proper look at it, but so far haven’t got around to it."
+944,2006-09-28T06:40:00+00:00,Anonymous,,,comment,0,"Hey Phil,
+
+in fact flex is a framework. i used to call it “flash for for real developers” 🙂
+
+the real power of flex is, that you can develop powerfullweb 2.0 apps very fast and simple."

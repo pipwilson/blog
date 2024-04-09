@@ -1,0 +1,10 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+6719,2014-04-24T12:08:24+00:00,couda,danilo.couto@gmx.ch,,comment,0,"Hi Phil thank you for your grate post about the integration of the Envers in Play 1.2.4.
+
+I’m trying to run Envers in Play 2.2.2 but it seem that your instruction is not enough for the new version. After making some changes (update or save) on Entities annotated with @Audited nothing happens in the database schema :-(.
+
+Could you please write some short notes about the integration of Envers in Play 2.2.2? I would be very appreciate, if you could help me.
+
+Best regards,  
+couda"
+6869,2014-04-24T21:39:48+00:00,Phil,wordpress@philwilson.org,http://philwilson.org/blog/,comment,6719,"Hi couda, I’m afraid I don’t know how to use Envers with Play 2.2.2, I’ve not even used it!"

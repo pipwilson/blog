@@ -1,0 +1,10 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1061,2007-02-16T20:03:00+00:00,leff,,,comment,0,"Oh, ””’Come On!””’, media wiki has ”the best” ”’syntax”’ ””’Ever””’!."
+1062,2007-02-16T20:54:00+00:00,Luke,,,comment,0,"Why do we even have the Wiki syntax? I always wondered about that.
+
+Some of the more complex syntax rules I have seen at various Wiki’s are almost as difficult to remember for un-initiated users as HTML tags.
+
+They also create a similar amount of visual clutter as standard HTML. So why not stick to a stripped down HTML subset for all the formating rules?
+
+Or even better – use xml for all formating, and then apply formating via css."
+1063,2007-02-17T09:45:00+00:00,"Mathew Peet",,,comment,0,"No WYSIWYG wikis yet?"

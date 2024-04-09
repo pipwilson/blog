@@ -1,0 +1,62 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+169,2004-11-23T16:29:00+00:00,Anonymous,,,comment,0,"This is only because all the Microsoft products are speaking their own proprietary speak. All English people understand one another. All French people understand one another.
+
+To get an Englishman and Frenchman to communicate requires that one or the other learns a new language or they both learn an intermediate language (Esperanto for example).
+
+The standards based approach would be to have everyone speak Esperanto natively irrespective of their country of origin.
+
+OOo speaks ‘Esperanto’ (XML) – any ‘Esperanto’ application (including the latest versions of MSOffice) should have no problems with the data so long as they follow the standard.
+
+Would you rather your data only be read by the English speakers? or the whole wide world?
+
+Richard@Home ( <http://richardathome.no-ip.com> )"
+170,2004-11-23T23:50:00+00:00,Anne,,,comment,0,"The problem is that the French are outnumbered and there are enough English speaking people who don’t give a shit about the French minority and tells them to learn English."
+171,2004-11-24T09:04:00+00:00,"Charl van Niekerk",,,comment,0,"Good point, but one thing that you should remember:
+
+Open Source products (in particular) typically focus on *universal* interoperability. For example, Open Office utilising XML and Firefox with its heavy support for web standards.
+
+Universal interoperability means that there are many different applications written by many different people/groups/organisations that all conform to the same standards irrespective of their origin and can therefore interoperate as seamlessly as possible.
+
+Microsoft products (I could be wrong, but then they fooled me well) doesn’t seem to give a flying rat’s \*ss to universal interoperability. They only care about interoperability between *their own* products, happily leaving the Open Source community in the dark about its proprietary formats. Therefore, it’s all about guesswork for these other platforms…
+
+Open Office provides suprising support for proprietary Microsoft formats under the current circumstances. They have put a *lot* of time into reverse-engineering.
+
+Now ok, I’m mainly talking about the client side here, but server side it’s much of a similar issue. There has just been more work on the client side so far.
+
+So, like I said at the start, you have a point there. But it’s not really just as simple as that."
+172,2004-11-24T11:50:00+00:00,Pip,,,comment,0,"Charl,
+
+I think the ‘Universal Standards’ is a red herring.
+
+For example, the fact that OOo uses XML means that importing OOo docs might be easier because XML parsers already exist, but that’s all – data will still be lost if you’re importing/exporting to/from another format. The use of XML doesn’t make OOo more interoperable *per se* – you’ve just got to look at WordML to see that ([an example](http://www.blogger.com/r?http%3A%2F%2Fwww.simonstl.com%2Farticles%2FofficeXML%2FwordML.html)). The benefit, I think, is really in the documentation.
+
+MS app are written from the ground up with the idea of close-knit integration with the other applications in the same stable (so things like Exchange connectivity, Sharepoint using Windows authentication and SQL Server stored procedures to generate pages, etc.).
+
+Don’t get me wrong, MS and MS products drive me crazy, but from the server-side, there’s just no way you could roll out five enterprise-level apps (off the top of my head let’s say they’re: email; IM; intranet; extranet and a database) in a morning and have them all interoperate instantly (I’m not saying they’d all be correctly configured :), followed by an afternoon of installing the client versions on all the desktops in your office and having them all connect to the server software and work straight off.
+
+You simply can’t do that on the free platforms.
+
+I’d love for someone to prove me wrong."
+173,2004-11-25T09:39:00+00:00,Anonymous,,,comment,0,"Yeah, the benefit of it all is only in the documentation. It’s just that open source programs, in the spirit, freely provides guides about their formats. Microsoft doesn’t. Open Office tries to support Microsoft formats (very difficult for them); Microsoft couldn’t care less to support Open Office (very easy for them – yet they don’t care.
+
+But ok, this is in principle. In practice, the problem is that open source programs are developed by many different companies/groups/teams/individuals. All Microsoft software is manufactured by one company, making it much easier for them to get their various teams working on the different software packages to collaborate and make their software more interoperable.
+
+Of course there are stuff like OpenLDAP, but there is still a *huge* shortage of administrative automation in the open source industry. Something to work on…"
+174,2004-11-25T09:40:00+00:00,"Charl van Niekerk",,,comment,0,"Whoops, sorry the previous comment was made by me. For some reason the wrong option was selected under “Posting As”."
+175,2004-11-25T09:58:00+00:00,Pip,,,comment,0,"I agree completely."
+176,2005-06-15T17:23:00+00:00,Anonymous,,,comment,0,"For 5 years I was a MSFT only developer (playing with OSS and Linux on the side) and the more I learn the more I tend to side with MSFT. Having worked with very intelligent Java developers and OSS business people they are very intelligent but compared to the MSFT people I’ve been exposed to just don’t understand, “lets rock and roll thoughtfully but quickly”. It just seems that MSFT has a business to run and users to satisfy so if more companies would contribute with an eye on getting something out the door in a reasonable time there probably wouldn’t be a much proprietary stuff coming from MSFT.
+
+Do I have issues with MSFT and some of their stuff (both business practices and software), absolutely. However having used software of both sides I’m consistently impressed with some of the things that MSFT does, especially when I compare it to what’s available in the OSS/Linux world. Granted a lot of the OSS people are working for free so that has a huge impact on the quality and timeliness of changes to their stuff but at the end of the day my CIO/CTO/COO could care less, they just want their stuff to run.
+
+A great example of this is the Software Factory (MSFT) vs Model Driven Architecture (see: [http://www.theserverside.net/news/thread.tss?thread\_id=30082](http://www.theserverside.net/news/thread.tss?thread_id=30082)), MSFT, in my mind, is taking a more pragmatic approach but the MDA school is really trying to have a ‘design once, run anywhere’ mentality."
+177,2005-06-15T20:26:00+00:00,Pip,,,comment,0,"Interesting comments, but I think I disagree. My reply is slightly rambling, but I think there are a few coherent points 🙂
+
+What you have to remember with MS is that they spend tens (if not hundreds) of millions a year on research, and that’s not all research for products ten years from now, but for next year. They make massive investment into short and medium term gains in addition to the longer-term work they do (which is what people typically comment on) which is what tends to give them a leg-up against OSS development houses.
+
+What I’ve always found interesting about people who have always developed in MSFT-only environments (and this is personal experience only), is that as soon as they leave it, they’re stumped for what to do. MSFT provides such an all-encompassing support structure for developers using their tools that they simply don’t have to make decision that OSS developers do because they don’t have the opportunity. The easiest example is Visual Studio. What’s the toughtest questions you’re going to face there? Which of two MSFT libraries you’ll use? Compare and contrast with a Perl or Java developer. I would say that this is why OSS developers spend a lot more time being architecture astronauts – most of the time their choice of tools means thay they have to be.
+
+Also to take into consideration is that a lot of OSS development is specifically aimed at a number of platforms (let’s say OSX, Windows XP and Linux). This just isn’t possible using MSFT-only tools, so a lot more thought has to be put into the architecture and design of an application before the programming starts (in fact, in the thread you point out, this is the basis for the MSFT guy’s first major disagreement with MDA).
+
+Also, I’ve met any number of OSS developers who are very keen on “lets rock and roll thoughtfully but quickly”, but they tend to work on smaller projects. The larger the project, the less this seems to be apparent, despite individual opinion. I believe that part of this is due to the fragmentation of developer focus mentioned above. MSFT teams are able to sustain this attitude because of their constrained toolset. As soon as you pull together 30 different OSS developers, you’ll likely find yourself with 30 people who have used 20 different toolsets to meet their goals, and coalescing this experience and creating agreement amongst them on which toolset to use for the application can be very difficult.
+
+In effect, I don’t think you’re wrong, but I think there are a number of caveats and areas to be explored in the points you make 🙂"

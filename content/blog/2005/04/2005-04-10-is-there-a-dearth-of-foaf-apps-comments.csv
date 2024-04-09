@@ -1,0 +1,37 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+428,2005-04-11T06:03:00+00:00,Gareth,,,comment,0,"Surely there are no killer apps because no-one can think of any?
+
+It’s not like there aren’t any platforms witj FOAF-like properties out there. I use several myself – Livejournal, Flickr, Audioscrobbler.
+
+Don’t you think that each one of these apps does it’s own FOAF stuff perfectly well, better in fact for being totally targeted at the app in hand?
+
+I know FOAF can do far more than these services, but there doesn’t seem to be room for a killer FOAF app if all the services out there implement FOAF’s big idea well enough for already.
+
+The problem with FOAF is that we’re all quite used to managing without it.
+
+Until someone comes up with something novel that just can’t be achieved without it, FOAF is a solution looking for a problem."
+429,2005-04-12T14:11:00+00:00,Pip,,,comment,0,"Quite. It’s entirely possible that FOAF is essentially Fool’s Gold, but something in me is horrified by the thought. 🙂
+
+Although all the web applications you mention produce FOAF, there’s no application I know of which actually uses any of this data for anything.
+
+FOAF is often mooted as the social-software interop panacea, so why isn’t anyone doing anything about it?
+
+Why isn’t there an app where I can enter my username, get a FOAF map of my contacts, and how I’m related to them in \*other\* social software apps? I think that would be great. I want to see my whole social network, and I want it in a funky Flash interface if I want, like so many of the cool Flickr viewers.
+
+Part of the problem, I think is that there aren’t really any good FOAF management tool (FOAF-a-matic is OK for basic creation, but little more). I need to be able to go to a webpage (maybe hosted on my webserver, maybe not), enter some details, and have it save it back to my web server. For example, my own FOAF file doesn’t link to my Flickr FOAF, my Audioscrobbler FOAF, my del.icio.us FOAF and so on, because it’s just too much bother. This needs to be easier.
+
+The RDF-ers go on about how RDF is for machines, not people, but where are the interfaces for people, not machines?"
+430,2005-04-13T15:48:00+00:00,amillionlittlepieces,,,comment,0,"I don’t think a killer app is the problem, what is needed is a business model that thrives from joining this stuff together…
+
+FOAF won’t work until requires nil effort. I put something together that generated a FOAF style, degrees of seperation model from MSN Messenger data – that solves the usability problem, but again there is no business model.
+
+I want to do nil data input, and have everything where social networking has an implementation recognise who I know. The problem with this is it requires a centralised FOAF identity.
+
+Actually, to backtrack. The killer app integrating FOAF into MS Outlook."
+431,2005-04-13T18:49:00+00:00,Pip,,,comment,0,"That’s a good point. There was a beta app back in Oct 2004 that produced FOAF from your Outlook contacts (see <http://rdfweb.org/pipermail/rdfweb-dev/2004-October/013796.html>) but I don’t know if it was continued (I’ve mailed the author so hopefully I’ll find out).
+
+Plaxo are in the game quite heavily, and very interested in FOAF (see [http://support.plaxo.com/bin/answer.py?answer=642&amp;topic=59](http://support.plaxo.com/bin/answer.py?answer=642&topic=59)), and they integrate with Outlook.
+
+I think “look for the rich white man”, whilst it sounds right, may not necessarily be true. Look at LiveJournal and del.icio.us.
+
+I know Gareth disagrees, but I think the problem isn’t a business model, but a usage model. What do you want FOAF for?"

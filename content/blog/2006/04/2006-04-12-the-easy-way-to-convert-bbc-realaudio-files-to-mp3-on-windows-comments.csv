@@ -1,0 +1,57 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+836,2006-05-17T10:33:00+00:00,"Chao Xian",,,comment,0,"Net Transport has a 30-day trial before you have to buy ($25). D’oh!"
+837,2006-05-17T11:32:00+00:00,Pip,,,comment,0,"The older versions (which are still lurking around on the net) don’t have this, they just bug you every now and again to register.
+
+Which, of course, if you find the software useful, you should do!"
+838,2006-05-17T12:53:00+00:00,"Chao Xian",,,comment,0,"link to v1.8.7 download:  
+<http://www.aplusfreeware.com/categories/internet/files/NT187.zip>"
+839,2006-06-28T17:38:00+00:00,Anonymous,,,comment,0,"you can download radio1 too,  
+simply drag over a radio4 url and tehn edit using the final name in the radio1 integrated player url. hope that kind of makes sense"
+840,2006-06-30T08:12:00+00:00,dengyu_li,,,comment,0,"i don’t know why you remove my comment?????????? may be for my adding of some url, but see the people called “Chao Xian”, in his comment, there is also the url, why did you remove his comment? this is not fair!!!!!!!!!!!!!!!!!!!!"
+841,2006-06-30T08:16:00+00:00,Pip,,,comment,0,"You always link to the same site, which looks like a spam site to me. Chao Xian adds something to the conversation and links to a site which isn’t his own."
+842,2006-07-01T01:19:00+00:00,dengyu_li,,,comment,0,"how did you know that site isn’t chao xian’s? may be all the site are his, but you just didn’t know~~~~~~~~~~~  
+i am just a new to the blog, so i am not familiar with some rules, i just think you can tell me, but not remove my comment, so crude."
+843,2006-07-01T19:34:00+00:00,Pip,,,comment,0,"Actually, I know him in real life, so I know he doesn’t. Also, his post wasn’t simply an advert for a website (regardless of who owns it), it was a link to a direct download of the file I was talking about in my post.
+
+I routinely delete comments which look like they are just adverts for websites added by spam robots, and I’m afraid to say that yours looked like one.
+
+Had you instead maybe linked to a blog post you had written about the same piece of software, or linked to a blog post which had a link to a piece of software which did the same thing as my post is talking about, I would have left your comment."
+844,2006-11-15T14:56:00+00:00,callum,,,comment,0,"if you are a linux user then this handy little script will do the whole thing for you. here is my mary ann hobbs breezeblock to ogg vorbis downloader:
+
+\#!/bin/bash  
+\# catchbreezeblock – capture “Radio1 Breezeblock”   
+\# copy this file to your home area and   
+\# chmod u+x thisfilename  
+\# then run it by:  
+\# ./thisfilename
+
+\# Just use todays date in the filename  
+DATE=`date +%F` # Save the date as YYYY-MM-DD
+
+\# Where to save it – the Breezeblock became the “Radio 1 Experimental” in October 2006  
+FILE=/tmp/music/breezeblock.$DATE.ogg   
+\#STREAM=http://www.bbc.co.uk/radio/aod/shows/rpms/radio1/breezeblock.rpm  
+STREAM=http://www.bbc.co.uk/radio/aod/shows/rpms/radio1/hobbs.rpm
+
+\# tags for the OGG Vorbis file   
+AUTHOR=”Mary Ann Hobbs”  
+ALBUM=”Radio 1″  
+TITLE=”Breezeblock – $DATE”
+
+\# Use mplayer to capture the stream $STREAM to the file $FILE  
+/usr/bin/mplayer -really-quiet -cache 500 -ao pcm:file=”$FILE.wav” -playlist “$STREAM”
+
+\# Encode to .ogg, quality 2, and tag the file  
+echo OggEnc $TITLE, $AUTHOR, $ALBUM  
+oggenc -q 2 -t “$TITLE” -a “$AUTHOR” -l “$ALBUM” -n “1/1” -G “Radio” -R 48000 -o “$FILE” “$FILE.wav”
+
+\# Remove the raw audio data file  
+echo Cleaning up  
+rm “$FILE.wav”"
+845,2006-11-15T16:28:00+00:00,Pip,,,comment,0,"Thanks for that callum – very useful."
+846,2007-02-21T10:42:00+00:00,Golden,,,comment,0,"Didn’t work for me – says it can’t tell the size and hangs up"
+847,2007-02-21T12:23:00+00:00,"Phil Wilson",,,comment,0,"Net Transport you mean?
+
+I think the BBC recently changed how their files work so you’ll need to download the .ram file, open it up in notepad and copy/paste the URL of the .rm file into Net Transport instead.
+
+It’s a pain in the bum, I know."

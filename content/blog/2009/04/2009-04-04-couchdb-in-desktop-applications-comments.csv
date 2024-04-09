@@ -1,0 +1,16 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1465,2009-04-05T14:14:25+00:00,"Chris May",chris.may@warwick.ac.uk,http://blogs.warwick.ac.uk/chrismay,comment,0,"If you’re content to use a key-value database like couchDB (i.e. you don’t want/need an RDBMS), how about using one of the DBM-derivatives? QDBM, or Tokyo Cabinet, say?
+
+They’re fast and lightweight, and they don’t require a separate server process. QDBM is pretty mature and has APIs for most languages and packages for every unix and even Windows.  
+Tokyo Cabinet is super-cool at the moment but doesn’t have a win32 build as far as I know."
+1466,2009-04-05T21:11:19+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"My excellent reason for not choosing either of those is that I’ve never heard of them 🙂
+
+In fact, as I progress with some work around the edges I’m beginning to wonder whether I need anything other than the disk-based XML files I already have (although I need to refactor how I store them).
+
+A little bit of digging suggests that neither QDBM or Tokyo would suit my purposes at the moment – I must be cross-platform (at least Windows and Linux) and I must have Python bindings. No win32 for Tokyo, and no Python for QDBM!"
+1467,2009-04-07T10:28:32+00:00,"Matt Hamilton",matth@netsight.co.uk,http://www.netsight.co.uk,comment,0,"Or as you are already in python, why not just use the ZODB?
+
+-Matt"
+1468,2009-04-07T21:37:14+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,1467,"In all honesty, just having “Zope” in the title puts me off. 😉
+
+I know I can use StandaloneZODB but it’s just so much more boring!"

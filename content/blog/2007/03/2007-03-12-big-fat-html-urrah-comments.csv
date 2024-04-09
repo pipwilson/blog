@@ -1,0 +1,20 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1099,2007-03-12T20:06:00+00:00,"Devon Young",,,comment,0,"Great thought. I really don’t see why most people have any reason to use XHTML….and 99% of those who use it, use aren’t using it right and therefore blow away their own arguments about why they use it."
+1100,2007-03-13T20:03:00+00:00,"Charles Iliya Krempeaux",,,comment,0,"I think the reason some people like XHTML over HTML is that they believe it is easier to “parse” (XML in general, including) XHTML, as compared to HTML.
+
+That by having everyone use XHTML, they can use a generic XML parser to process handle XHTML.
+
+They don’t seem to have this processing and handling power for HTML on the server-side. (Client side you have this power, of course. But NOT server-side.)
+
+Well,… that’s the belief anyways.
+
+And I guess there is some truth to it.
+
+For example, PHP developers tend to like to use [SimpleXML](http://php.net/simplexml). But SimpleXML required well formated XML. (And HTML generally is not XML.)
+
+There are other PHP tools for handling HTML… like [DOM](http://php.net/dom)… but I’m not sure if that’s automatically compiled into most distributions of PHP. (And custom compiling PHP is beyond most developers’ tendencies.)
+
+— [Charles](http://changelog.ca)"
+1101,2007-03-14T16:59:00+00:00,"Joe Dolson",,,comment,0,"Personally, I use XHTML because I find the syntax to be fundamentally more logical. I like the requirement to complete every element and the case sensitivity…for that reason, I simply find it easier to use than HTML.
+
+However, as you noticed, there’s absolutely NOTHING wrong with using HTML; nor is there anything superior about using XHTML. I don’t really buy the arguments that delivering XHTML as text/html is such a horrible thing, myself — but that may be because I have reasons for using XHTML which really have nothing to do with the parsability of XML."

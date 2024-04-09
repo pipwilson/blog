@@ -1,0 +1,14 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1571,2010-07-29T21:41:35+00:00,"Gareth Simpson",g@xurble.org,,comment,0,"You should turn it into a live twitter account and embed an affiliate code and make yourself rich.
+
+Or something."
+1572,2010-07-30T05:43:59+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,1571,"Isn’t that last.fm’s model? Anyway, I’d still need to fix the problem of linking to the correct location in amazon. I think in theory it should be in the amazon affiliate or product apis, but I can’t find it.
+
+Bah."
+1573,2010-07-30T10:22:33+00:00,alf,alf@hubmed.org,http://hublog.hubmed.org/,comment,0,"This might help for looking up the track in Amazon: <http://gist.github.com/500278>"
+1574,2010-07-30T11:29:10+00:00,"Steve Anderson",steve@twindx.com,http://www.dailyrnail.co.uk,comment,0,"At the moment it says that Gideon Coe is playing, when it should be Lauren Laverne. Dunno what that’s about.
+
+Anyway, at some point soon I’ll be using this to push data to the massive LED scrolling sign that’s sat, redundant, next to my desk =)"
+1575,2010-07-30T13:13:43+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"Thanks Alf, I was having real trouble finding which of the many Amazon APIs this feature was in. The last time I did any work with Amazon, there was only one 🙂 I’ve also pulled your branch on github but haven’t tried it out.
+
+Steve – the twitter feed hasn’t updated since 9pm last night for some reason. I’ll kick Nigel 😉"

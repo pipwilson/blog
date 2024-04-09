@@ -1,0 +1,69 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1220,2007-12-18T12:11:32+00:00,Mark,mark@dcs.shef.ac.uk,,comment,0,"OK I’m tempted to take the bait and have a look at doing this. I’d already got as far as working out the URL but was then kind of stumped for a way of downloading the rtmp stream (without using something like Orbit Downloader). Often you can just change the rtmp:// to http:// and the stream will work using the RTMPT protocol, but unfortunately this doesn’t seem to work.
+
+Hopefully Red5 will provide the missing link, although from a quick glance at the source code I’m not entirely sure how to do it.
+
+Java definitely seems the way to go though, as it would allow a signed applet to be added to the pages via greasemonkey which could provide a download button for the flv files.
+
+Now I just have to work out how Red5 works!
+
+Mark"
+1223,2007-12-28T15:10:23+00:00,"Arnar Birgisson",arnarbi+blogs@gmail.com,,comment,0,"Hey there. I’m somewhat affiliated with RTMPy and although you are correct in that RTMP implemenation is incomplete yet, there is active work being done on it. So far, we have alpha support for AMF through \[PyAMF\](<http://pyamf.org/>) which is being used as the basis for the RTMP implementation.
+
+If you would be interesting in helping out with a client for downloading from BBC in the near future, that would be an intersting test for RTMP client functionality. Please stop by our mailing list if you feel so inclined 🙂"
+1221,2007-12-28T22:57:28+00:00,Iain,ikwallace@gmail.com,http://strawp.net,comment,0,"Is there any kind of forum or wiki where people are working on this? I see MythTV working on this, and I was linked from a thread on the XBox Media Center forums: <http://www.xboxmediacenter.com/forum/showthread.php?t=27063>
+
+I’ve gotten as far as decompiling the flash player to see what it’s doing and deciding that it’s going to take considerably longer than a dull Saturday afternoon to hack something together.
+
+How are you getting the URLs? I’ve found the stream traffic was encrypted."
+1222,2007-12-31T19:28:46+00:00,Gareth,gazhay@gmail.com,,comment,0,"If I find the time, I’m going to try to do some work on an AppleTV player, so far it looks like these links may help.
+
+<http://osdir.com/ml/gnu.gnash.devel2/2006-11/msg00278.html>
+
+<http://osflash.org/documentation/rtmp>
+
+But that still won’t cross the hurdle of actually getting the url in the first place."
+1219,2008-01-02T04:40:51+00:00,"Gnash Developer",gnash-dev@gnu.org,http://lists.gnu.org/archive/html/gnash-dev/,comment,0,"Check the gnash-dev mailing list archives for recent progress on RTMP support. Join the list to help contribute to making this work with the BBC web site and streams."
+1224,2008-01-21T14:17:06+00:00,Hubert,hubert@bugmenot.com,,comment,0,"There’s another (free) app for capturing RTMP Flash streams called Orbit Downloader – <http://www.orbitdownloader.com>
+
+Alas, it is also only available for Windows, but it does the job marvellously and you can’t fault the price."
+1227,2008-07-27T06:37:20+00:00,lofty,andy@earthsong.free-online.co.uk,,comment,0,"I have been trying to do this as well, and got about as far as you did.
+
+A few extra bits I found out:
+
+The SECRET\_KEY changes every time you request the mediaselector file.
+
+The reply when you request the mediaselector file includes the header ‘Vary: Cookie’, which indicates to caching proxies that they should get a fresh copy every time the cookies change."
+1228,2008-07-27T13:01:20+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Hi lofty – most of this has now been cracked – go check <http://beebhack.wikia.com/wiki/Programs> and <http://po-ru.com/projects/iplayer-downloader/>"
+1229,2008-08-01T17:34:20+00:00,Brian,brian@themarsdens.org.uk,,comment,0,"Sorry but none of the versions of the downloader work for me, on any platform. Resulting file is 0 bytes in size, finds MP4 file but dfails to download it. Given up trying to make it work."
+1230,2008-08-01T18:27:57+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Apparently there were some changes on the 30th July which stopped the downloader working for a while. It’s been updated now – get the latest from <http://po-ru.com/projects/iplayer-downloader/>"
+1231,2008-08-08T08:55:25+00:00,MattC,blog@lickham.co.uk,,comment,0,"from a very quick casual look my understanding was that the iplayer-downloader only handled the RealAudio over RTSP streams (using mplayer), not the MP3 over RTMP streams?"
+1232,2008-08-08T09:04:12+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Yes, I think you’re right although I do believe an RTMP version is coming."
+1226,2008-09-30T08:21:38+00:00,"Ding Jiang Zhu",anon@nym.co,http://none,comment,0,"Yes this is true, now there is MP3 support  
+see this clipping from the Authors Website:
+
+Paul Battley Wrote at 2008-09-23 21:06 UTC (6 days ago)  
+using Firefox 3.0.1 on Linux:
+
+I’ve just uploaded a new version with proper radio download support—which just meant detecting radio programmes and changing the extension to mp3!
+
+That’s version 0.1.12 of the library and command-line tools, and version 1.8 of the GUI.
+
+Hurra !"
+1225,2008-10-08T00:15:36+00:00,boardtc,boardtc@gmail.com,,comment,0,"I tried it for mary ann hobbs  
+<http://www.bbc.co.uk/mediaselector/3/stream/check/iplayer?pid=b006wqb7>  
+but the file was not found…"
+1233,2009-03-17T19:40:34+00:00,andersson,professor.frink@telia.com,,comment,0,"I had this problem today. Since i use mplayer in firefox, i just typed “ps lax | grep mplayer” in a shell and got this:
+
+0 0 17665 17464 20 0 174336 8488 – Ss ? 0:00 mplayer -wid 0x220080a -vf scale=640:-3 -osdlevel 1 -nojoystick -noconsolecontrols -cookies -softvol -slave -user-agent NSPlayer -nomouseinput -cache 512 [rtsp://rmv8.bbc.net.uk:554/radio4fmcoyopa/radio\_4\_fm\_-\_monday\_2100.ra?timestamp=1237240768&amp;pid=b00j3vn9&amp;BBC-UID=64998765964d0de8f7947d6ad1740198c717267800d0205bdc6dc842b46f86d8&amp;SSO2-UID=](rtsp://rmv8.bbc.net.uk:554/radio4fmcoyopa/radio_4_fm_-_monday_2100.ra?timestamp=1237240768&pid=b00j3vn9&BBC-UID=64998765964d0de8f7947d6ad1740198c717267800d0205bdc6dc842b46f86d8&SSO2-UID=)
+
+Then just take the URL and download it with mplayer. Here is the result of the nice radio program  
+[http://www.bbc.co.uk/iplayer/episode/b00j3w8k/Sound\_Architecture\_The\_Spaces\_That\_Speak/](http://www.bbc.co.uk/iplayer/episode/b00j3w8k/Sound_Architecture_The_Spaces_That_Speak/)  
+i got today:
+
+<http://andersson.is-a-geek.org/aac/>
+
+Video seems to be harder since you probably need to find a nice proxy in the UK.  
+If you succed – put the result on <http://thepiratebay.org>
+
+Greetings from Uppsala, Sweden"

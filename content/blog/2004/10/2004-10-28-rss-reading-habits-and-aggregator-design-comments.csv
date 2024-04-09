@@ -1,0 +1,13 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+162,2004-10-29T03:29:00+00:00,Synop,,,comment,0,"BTW, I think Sauce Reader has two features that might help you:
+
+1\. When you select a feed we show all the items as a list in the Browser window. This means you can scan them quickly. You can also delete, etc the items from right inside the browser window. No click, view, click, view etc cycle. This means Sauce Reader can be used in 2-pane mode (F11).
+
+2\. If you select a folder that contains a number of feeds then all those items are displayed in the Items window and Browser window. So, you could just group all your feeds in a single folder and then view that folder in the aggregator. This gives you a single, scanable browser page to view all items. Better still, by default this “Over view” will only include the new items.
+
+Everyone has very different habits for their reading and the different tools are already being optimised to support different habits…
+
+cheers, Nathan"
+163,2004-10-29T10:22:00+00:00,Pip,,,comment,0,"Nathan, thanks. I know that SauceReader provides those features, and I actually like SauceReader quite a lot (apart from the stupid extra-space bug underneath the tree control, but that’s what you get for using 3rd party controls 😉 ), but like all .NET aggregators it’s just. so. slow.
+
+I run a 2GHz machine with 1GB RAM and it takes an \*age\* to load, although much of the in-application tasks have got much, much quicker over the past few iterations."

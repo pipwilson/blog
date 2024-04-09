@@ -1,0 +1,34 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+705,2005-12-13T00:35:00+00:00,"David P. Janes",,,comment,0,"Why not try marking up your pages with hAtom?
+
+This may help:  
+<http://www.blogmatrix.com/tools/rewrite/>
+
+The main problem with blogger &amp; hAtom is that blogger doesn’t provide a method for getting ISO dates."
+706,2005-12-13T09:54:00+00:00,Anonymous,,,comment,0,"I’ve actually implemented part of the SVG timeline viewer.
+
+I have something that:
+
+\* reads your FOAF to find all RSS channels  
+\* parses them all to create an ordered list of items by date  
+\* plots the result on an SVG diagram, as a line with dots coloured coded by source of RSS items  
+\* adds in your name and your picture for good measure
+
+The results are sucky from a UI perspective, which is where my initial impetus ran out. Stupid me.
+
+Cheers,
+
+L."
+707,2005-12-13T20:45:00+00:00,"Irregular Shed",,,comment,0,"I’ve been using WikidPad for a while and when I was initially looking around for recommendations for desktop Wikis for Windows discovered that you quite liked it just as my download was finishing. Great minds, &amp;c.
+
+As such I’m curious as to how you’re looking to expand it, and what exactly you plan to do with RSS feeds with it once you’ve done it.
+
+Sorry this comment isn’t very eloquent, I’m hugely tired. Work’s Christmas ‘do’ – it was teetotal but the bowling has knackered me out."
+708,2005-12-13T22:49:00+00:00,Pip,,,comment,0,"ah, hAtom, yes. That might be a nice way of future proofing data extraction. I’ll have to actually have a look at it now instead of just reading about it 🙂
+
+Hopefully I can fix the date field in the XSLT.
+
+Hey Leigh, that’s some good work there! I should try and finish off what I’ve got here (takes an RSS/Atom feed, finds tags, plots cumulative and separate frequency over time – good for del.icio.us, Flickr and weblogs).
+
+Shed – I’ve already done some WikidPad integration with JSPWiki, but really I want to do non-wiki things with it, it’ll just give me a nice framework for writing GUI Python applications. I’m lazy, see 🙂"
+709,2005-12-18T18:50:00+00:00,Andy,,,comment,0,"That greasemonkey form manipulation sounds awesome. It is so hard keeping track of all the places I frequent and post on."

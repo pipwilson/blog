@@ -1,0 +1,50 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+222,2004-12-26T10:23:00+00:00,Gareth,,,comment,0,"LJ, emails you replies to comments you make already.
+
+It’s very effective.
+
+Additionally a page monitoring system should be a couple of lines of java or php or whatever and a bookmarklet.
+
+You have a server don’t you?
+
+Lazyweb? LazyPhil more like 😉"
+223,2004-12-26T15:09:00+00:00,Pip,,,comment,0,"Yes, it’s all easy, but I’m a busy man 🙂
+
+There are already two projects I meant to release last week and haven’t got around to!"
+224,2004-12-26T21:42:00+00:00,Anonymous,,,comment,0,"I just recently read about the subject of comment-tracking on another blog (it’s in German, otherwise I would link to it). The idea is to ping your own blog from wherever you’re leaving a comment (reverse trackback), and there \*seems\* to be an implementation in the works here: [http://commentstrack.net](http://www.blogger.com/r?http%3A%2F%2Fcommentstrack.net).
+
+Oh, and there’s been a Lazyweb request, too: [http://www.lazyweb.org/archives/008972.html](http://www.blogger.com/r?http%3A%2F%2Fwww.lazyweb.org%2Farchives%2F008972.html)Sorry if you were already aware of this, just thought you might be interested.
+
+– [Andrea](http://www.blogger.com/r?http%3A%2F%2Fcuriouser.revise.org%2F)(PS. Is the “Books” part of your site supposed to serve a 404?)"
+225,2004-12-26T23:27:00+00:00,Pip,,,comment,0,"The problem with reverse trackback is that every weblog system that does and will exist needs to support it (i.e. provide a form field for the comment tracking). It doesn’t help with the installed base of weblogs.
+
+I figured there had probably already been a Lazyweb request, but didn’t realise it was so recent (on a side note, Lazyweb seems to need to be trackbacked to for questions to show up again – I thought that had been changed?)
+
+Oh, and I read German (and French) just fine (I can just about struggle on with Italian and Spanish) so please don’t worry about linking to foreign language articles! 🙂"
+226,2004-12-26T23:28:00+00:00,Pip,,,comment,0,"And no, it’s not *supposed* to be broken, but it is 🙂"
+227,2004-12-27T00:55:00+00:00,Anonymous,,,comment,0,"(What the. First Blogger breaks my comment, then doesn’t allow &lt;p&gt; or &lt;br&gt; tags?)
+
+Oops, shouldn’t make assumptions about other people’s language skillz. The blog entry I meant is here: [http://www.das-netzbuch.de/article/2102/](http://www.blogger.com/r?http%3A%2F%2Fwww.das-netzbuch.de%2Farticle%2F2102%2F), with links to related blogtalk. As I said in my comment to that post, the simplest way to track your own comments would be to temporarily bookmark the blog conversation in a toolbar folder and check back later for replies. Not a real solution for *geeks*, of course. 🙂 (And not exactly the thing you were talking about.)
+
+– [Andrea](http://www.blogger.com/r?http%3A%2F%2Fcuriouser.revise.org%2F)"
+228,2004-12-27T02:39:00+00:00,Pip,,,comment,0,"Cheers for the link Andrea!
+
+Although it doesn’t say so on the posting form, Blogger automatically inserts &lt;br&gt; and &lt;p&gt; tags for you when you use a carriage return.
+
+The bookmarking of comments is what I was doing before (but with automatic updating instead of manual), but Firefox 1.0 doesn’t support it any more. And like you say, it’s not for geeks 🙂
+
+I’ve actually written the bookmark which rewrites forms to post through to a proxy and inserts the old POST destination as a hidden INPUT, but there’s a problem: with Blogger you don’t enter the comment on the same page as the post, so whilst you may be able to keep track of a comments you’ve made on Blogger blogs, the system won’t actually know which page to monitor to keep track of new comments. Don’t know what to do about that yet.
+
+The other problem with my idea is, of course, that you’ll be notified if the page changes *in any way* such as site design, amendments to the post, etc.
+
+Still worth a try though 🙂"
+229,2004-12-27T12:36:00+00:00,Anonymous,,,comment,0,"Okay, the talk of FORMs and INPUTs went right over my head. *Woosh.* As far as I understand it, right now there are possible server- and client-side as well as desktop solutions to the problem, and all of them have drawbacks, mostly due to blogware diversity. My proposal: everyone starts using WordPress and someone writes the required plugin. There, problem fixed. 😉
+
+I read your post again, especially the bit about Firefox’s bookmark notify feature. I had never even noticed that, oops? I did have an [extension](http://www.blogger.com/r?http%3A%2F%2Ftexturizer.net%2Ffirefox%2Fextensions%2F%23bookmarkchecker) installed that checked my bookmarks for broken links and updated pages, but that was when the browser was still called Firebird, and the extension wasn’t updated for use with the 1.0 release.
+
+I just emailed the author of the extension to ask if he could consider an update, but if he declares it a dead project (it’s in the ‘obsolete’ directory on his homepage), I might just make a Lazyweb request, HAH.
+
+– [Andrea](http://www.blogger.com/r?http%3A%2F%2Fcuriouser.revise.org%2F)(You should un-break that books page, so that one could stalk your reading list if one wanted to. :-))"
+230,2005-01-04T11:49:00+00:00,Pip,,,comment,0,"Yep, everyone should just move to WordPress, that’ll make it a lot easier.
+
+But you can buy all the hosting. 😉"

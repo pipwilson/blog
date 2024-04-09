@@ -1,0 +1,5 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1441,2009-03-05T22:34:00+00:00,"Dirkjan Ochtman",dirkjan@ochtman.nl,http://dirkjan.ochtman.nl/,comment,0,"If only you tried hg, too…"
+1442,2009-03-06T00:19:00+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"I’m slightly interested by hg but it doesn’t seem to have gained quite enough ground to take the time with. I realise that makes it a chicken and egg situtation but I only have finite time!"
+1443,2009-03-06T01:07:20+00:00,"Mike Nolan",michael@michaelnolan.co.uk,http://www.michaelnolan.co.uk/,comment,0,"If you don’t have enough time you’re obviously sleeping too much."
+1444,2009-03-15T01:07:44+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"Actually I’ve been using bzr for a couple of projects again recently, and it really is much easier than git. Ideally I’d be pushing my code back to a central repository like github, if only just for advertising and network effects, but I can lose that provided I can actually, you know, work more easily."

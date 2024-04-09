@@ -1,0 +1,28 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1301,2008-03-27T01:45:56+00:00,"Massimiliano Mirra",bard@hyperstruct.net,http://hyperstruct.net,comment,0,"Even if it’s not for self-hosting, give <https://launchpad.net> a try.
+
+I’ve migrated SamePlace from trac to Launchpad and am quite happy with it. It does support bzr, both hosted and remote."
+1302,2008-03-27T01:57:50+00:00,"Bill Rawlinson",bill.rawlinson@gmail.com,http://cf-bill.blogspot.com,comment,0,"This is going to sound a little crazy but there is another bug tracker called Lighthouse:  
+<http://lighthousepro.riaforge.org/>
+
+It is a free package that runs on coldfusion. I do not know if it works with the Blue Dragon (which will be open source by june of this year) [http://www.newatlanta.com/products/bluedragon/open\_source/overview.cfm](http://www.newatlanta.com/products/bluedragon/open_source/overview.cfm)
+
+Perhaps not the perfect solution but it would be one you would have control over."
+1303,2008-03-27T11:03:42+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"I did think about Launchpad, but the UI seems a little arcane. I’ll give it a go though!"
+1304,2008-03-27T14:11:57+00:00,"Steve Alexander",steve@canonical.com,https://launchpad.net,comment,0,"I’m happy that you’re trying out Launchpad. If you have questions or need help, ask on #launchpad on freenode, or contact me and I’ll see what I can do.
+
+(My job is part of the Launchpad development team.)"
+1305,2008-03-27T19:40:53+00:00,"Sarat Pediredla",sarat@hedgehoglab.com,http://hedgehoglab.com,comment,0,"if nothing fits your needs and you don’t mind hosting your own tomcat server, we would be happy to give you a free open source version of our soon to release bug tracking product fixx."
+1299,2008-03-28T09:56:02+00:00,"Dirkjan Ochtman",dirkjan@ochtman.nl,,comment,0,"You should check out Roundup, I think."
+1300,2008-04-17T12:13:42+00:00,"Corey Trager",ctrager@yahoo.com,http://ifdefined.com,comment,0,"BugTracker.NET is a free open source web based bug tracking system with an approach heavily influenced by FogBugz. (I’m the author).
+
+It is for sure simple, fast, and free.
+
+It has the same approach as FogBugz with regards to no required fields; comments, attachments displayed in a narrative; a screen capture utility that let’s you turn a screenshot into a bug entry in three clicks…
+
+The three screenshots at the bottom of the following link show that it’s not only easy to add more fields if you need them, but it’s easy to REMOVE the ones you don’t need:  
+[http://www.ifdefined.com/doc\_bug\_tracker\_custom\_fields.html](http://www.ifdefined.com/doc_bug_tracker_custom_fields.html)
+
+Here’s what other folks have written about it:  
+[http://www.ifdefined.com/bugtrackernet\_others\_say.html](http://www.ifdefined.com/bugtrackernet_others_say.html)"
+1306,2008-04-17T21:43:33+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"That’s very nice, but I don’t have an MS host."

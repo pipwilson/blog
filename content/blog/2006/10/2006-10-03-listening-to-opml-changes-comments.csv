@@ -1,0 +1,11 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+950,2006-10-04T01:24:00+00:00,"Pito Salas",,,comment,0,"Phil, Pito Salas here, of the BlogBridge team. We’ve considered building a RON feature just like you describe but most users have told us that they think using SmartFeeds for the purpose does the trick and is actually far more flexible.
+
+However, if you are inspired, we’d be glad to do what we can to help you get the feature implemented.
+
+Would love to have you as one of our happy users!"
+951,2006-10-04T12:00:00+00:00,Pip,,,comment,0,"Thanks for the comment Pito!
+
+Like I said in the post, my problem is that I don’t actually care about the list of feeds, and in my case, I actually want one smartfeed per Guide. As far as I can see, that means I’d have to enter the Guide title by hand for each Guide I want a smartfeed for, and then I’d have to create a new Guide with my smartfeeds in, and then navigate by hand through those.
+
+I realise this means that BlogBridge may not be exactly what I’m looking for in this regard, which is fine, but it is the only aggregator I’ve tried to far which supports OPML subscription so I’ll probably have a \*very\* quick go at seeing if I can make it behave how I want."

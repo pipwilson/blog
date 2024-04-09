@@ -1,0 +1,27 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+233,2005-01-04T12:52:00+00:00,Anonymous,,,comment,0,"Why, thank you. 🙂 Consider yourself (or your reading list) stalked. Hmm. I just might pick up *Life of Pi* at some point, based on your review.
+
+I signed up for allconsuming.net some time ago, but [my list](http://www.blogger.com/r?http%3A%2F%2Fallconsuming.net%2Fweblog.cgi%3Furl%3Dhttp%3A%2F%2Fcuriouser.revise.org%2F) isn’t terribly interesting, as I haven’t yet gotten around to including comments or ratings for each book. And it doesn’t search the Amazon.**de** inventory, so it’s not the perfect solution for me anyway.
+
+Did you ever think of using the Javascript include? Just wondering.
+
+– [Andrea](http://www.blogger.com/r?http%3A%2F%2Fcuriouser.revise.org%2F)"
+234,2005-01-04T13:13:00+00:00,Pip,,,comment,0,"Yeah I used it for a while but it was just too slow 🙁 The allconsuming server can be pretty slow at times, which is why I’d rather use the pre-generated files or at least use the API and cache the files locally for rendering.
+
+I didn’t realise that it wouldn’t search the Amazon.de inventory; you’d have thought that given an ISBN for a German book it would have at least tried to retrieve details from the .de website. That’s quite depressing.
+
+I wouldn’t quite call my throwaway one-liners about books reviews 😉
+
+There are a few things about allconsuming that I’d like to be better (like support for ratings and dates books are added and so on), some of which [Alf Eaton’s RVW tool](http://www.blogger.com/r?http%3A%2F%2Falf.hubmed.org%2Fcgi-bin%2Frvw.cgi) deals with, but it isn’t as pretty or as comprehensive (it also claims to support amazon.de, but a quick test crashes it :).
+
+Also, I don’t think there’s any work on allconsuming going on – the guy behind it is now working on the recently released [43things.com](http://www.blogger.com/r?http%3A%2F%2Fwww.43things.com) which is a real shame."
+235,2005-01-04T20:03:00+00:00,Anonymous,,,comment,0,"Yes, the server’s really slow. That’s another reason why I’m not using the service as much as I could (and I don’t need to keep track of six books at a time ;-)). Searching for the ISBN didn’t even occur to me before, but no, that doesn’t search Amazon.de either. Oh well.
+
+Playing around with rvw! right now, way cool app. It does work with German books for me, it just doesn’t handle umlauts very well. Or at all.
+
+Heh, ‘stop procrastinating’ is at #4 on [43things zeitgeist](http://www.blogger.com/r?http%3A%2F%2Fwww.43things.com%2Fzeitgeist%2F). I can sooo relate.
+
+– [Andrea](http://www.blogger.com/r?http%3A%2F%2Fcuriouser.revise.org%2F)"
+236,2005-01-06T15:28:00+00:00,leff,,,comment,0,"Hi.  
+I just wanted to say that you’ve got me, Rakka, and now Nyx hooked on allconsuming. Great find."
+237,2005-01-06T16:36:00+00:00,Pip,,,comment,0,"woo! cool!"

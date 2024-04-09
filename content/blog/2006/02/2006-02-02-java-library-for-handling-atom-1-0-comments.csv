@@ -1,0 +1,17 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+765,2006-02-03T03:00:00+00:00,"Patrick Chanezon",,,comment,0,"Thanks for the kind comments Phil, have fun with ROME.
+
+P@"
+766,2006-02-09T07:52:00+00:00,"Mark Woodman",,,comment,0,"Hi Phil,
+
+We’re not the first, but AFAIK we’re the most active… and Atom 1.0 support is a big differentiator at the moment.
+
+Have fun with ROME, and if you get stuck, don’t hesitate to join the mailing lists and ask for help.
+
+Regards,   
+ Mark"
+767,2006-02-09T10:20:00+00:00,Pip,,,comment,0,"Thanks guys.
+
+It says a lot for the ease of use that I was able to get started reading, parsing and creating Atom 1.0 feeds with a pre-0.8 CVS version of ROME, without any documentation.
+
+There are a couple of nicities I’d like to see, but what’s already there is great!"

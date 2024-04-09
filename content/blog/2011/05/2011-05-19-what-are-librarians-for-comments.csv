@@ -1,0 +1,5 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1616,2011-06-11T10:02:33+00:00,a13ph,meta.a13ph@gmail.com,,comment,0,"I suppose for all parties involved it would be better if libraries would collect this data (which books you and your relatives took, probably etc) and made it accessible for you – after all, it is your data too. Then it could be used for refining Amazon recommendations or whatever.  
+First I thought of simply integrating mainstream recommendation service(s) with such data, but then remembered Locker Project and i adapted idea to more future-proof and more open trends.
+
+Similar approach could be used to other “real-world services” which collect your data but barely use it."

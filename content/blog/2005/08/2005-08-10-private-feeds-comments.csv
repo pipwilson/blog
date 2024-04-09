@@ -1,0 +1,33 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+558,2005-08-11T10:30:00+00:00,Em,,,comment,0,"“I suspect this is an alternative point of entry to a standard authentication method like HTTP Basic”: if you mean the //username:password@ URL scheme, it’s specified in the [URL RFC](http://www.ietf.org/rfc/rfc1738.txt) (see 3.1. Common Internet Scheme Syntax). Rather wonderfully, however, the same RFC also states specifically that “no username or password is allowed for HTTP”. This was expanded on later in [RFC 2396](http://www.ietf.org/rfc/rfc2396.txt), which mentions the practice as “NOT RECOMMENDED” (see 3.2.2. Server-based Naming Authority).
+
+Also note [RFC 3986](http://www.gbiv.com/protocols/uri/rfc/rfc3986.html) – 3.2.1. User Information, which refers to this as “deprecated”.
+
+I think Microsoft removed the username@password capability from IE a while ago, because it was mostly applied for phishing purposes eg <http://www.ebay.com@192.168.0.1>.
+
+In summary, if LJ are still using that URL, they are cutting corners, and ideally should’ve found an alternative way of dealing with this. I suspect they have, since the [FAQ](http://www.livejournal.com/support/faqbrowse.bml?faqid=149&q=rss) does not seem to mention this scheme, suggesting instead that one append ?auth=digest to the URL of the rss feed, which uses, well, HTTP Digest authentication.
+
+I don’t know how widely that is supported by RSS viewers though. It’s not something I’ve tried.
+
+Off-topic, do you realise that LJ user username does in fact exist? It appears to be full of worrying poetry. The [first entry](http://www.livejournal.com/users/username/6235.html) in the RSS feed begins “Laying on the beach one night/flailing my willy out of spite”."
+559,2005-08-11T12:02:00+00:00,Pip,,,comment,0,"Hurray, I’m glad I was wrong. I did go through the HTTP Authentication RFC ([2617](http://www.ietf.org/rfc/rfc2617.txt)) looking for it, but couldn’t find it. It didn’t occur to me to look in the URL RFC. Lucky for me you’re so dedicated 🙂
+
+I know I heard rumours about MS removing username@password support from IE some time ago, but until very recently that’s what some people at my last company were using for FTP access, so unless it was a fix in SP2 it still seems that this is possible (note heinous lack of research on my part, such a bad blogger :).
+
+I had seen LJ’s support of HTTP Digest, but not that particular FAQ page, so didn’t know if it was officially supported ot not. Nice to see that it is.
+
+I think most desktop-based clients are coming around to HTTP-based authentication, although I don’t instantly see support for it in Bloglines, and FeedOnFeeds definitely doesn’t support it (although Magpie which it uses at the backend may well do).
+
+Gosh, that poetry is actually quite frightening. I’m not sure I can cope with reading any of the others."
+560,2005-08-11T20:26:00+00:00,Em,,,comment,0,"Arg, nono.
+
+As specified in the URL RFC, it is perfectly accepted to have a username – password combination in an ftp:// URL.
+
+It’s just Naughty and Illegal for http 🙂"
+561,2005-08-13T14:50:00+00:00,Andy,,,comment,0,"fof DOES support username:password@ combinations as I use it for my own feeds that I have"
+562,2005-08-13T16:23:00+00:00,Pip,,,comment,0,"Well, really I think that’s URL authentication and not HTTP-level.
+
+FeedOnFeeds doesn’t let you set a username and password to be used for any kind of actual authentication, and indeed doesn’t have anywhere where it can store such a thing. Passing a username/password combo in the URL is probably completely negates having a password-protected feed in the first place."
+563,2005-08-14T00:05:00+00:00,Pip,,,comment,0,"I half take it back 🙂
+
+More recent versions of Snoopy do actually have support for digest authentication. I’ll have to download the latest version of FoF to see if there’s actually anything in the UI or DB to store auth data."

@@ -1,0 +1,12 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+970,2006-11-01T16:14:00+00:00,Richard,,,comment,0,"Being a techie I guess you’ve already tired the lastest firmware? Mind you it looks like the last firmware release was 2004, so might not be an issue. I guess the other thing to try is a factory reset and try setting things up again, in case there is a corruption somewhere. The final option is that the unit is old and duff and you’ll need to trawl the web for a new one!! ;o)"
+971,2006-11-01T16:54:00+00:00,Pip,,,comment,0,"Yeah, I did trawl for newer firmware, but apparently I’m already running the most stable version.
+
+I did also do a factory reset, but that didn’t do anything except give me another 30 minutes of re-configuring everything 🙂
+
+I can live with the slower rate for the time being, but it does rather look like I’ll have to get a new one at some point.
+
+The most annoying thing about it all was that all through, my wife was sitting on the sofa, using her laptop connected to the wifi, and it was fine! 🙂"
+972,2006-11-03T14:19:00+00:00,Anonymous,,,comment,0,"maybe try hyperwrt?"
+973,2006-11-04T15:33:00+00:00,Pip,,,comment,0,"As far as I can tell, HyperWRT is only for the WRT series (as the name suggests) – I have a WAG."
+974,2006-12-28T08:07:00+00:00,Anonymous,,,comment,0,"amazing! I had this problem all of a sudden as well (my wag54g performed quite well for a year) after a year I got the same problems as described, constantly flickering of the message “a network cable is unplugged” restored the old firmware, back to the new, tried everything until it drove me almost mad. I tried your settings (slowing the speed down to 10mb fd) and it seems to be working fine now. Thanks!"

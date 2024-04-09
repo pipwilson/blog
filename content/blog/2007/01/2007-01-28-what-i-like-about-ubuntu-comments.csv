@@ -1,0 +1,26 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1037,2007-01-29T04:04:00+00:00,HeyGabe,,,comment,0,"Hi ya Pip. I found your blog via your Flickr. Hope you don’t mind the presumption.
+
+Anyway, I really, really like Ubuntu. I got a terrible virus/worm in January (I was warned, and disregarded it. Never again.)
+
+I dual boot now but only because I don’t like any of the linux alternatives to the iPod’s firmware. (Don’t belive the hype. Amarok is good, but it’s no itunes.)
+
+What I like about Ubuntu is this: It may not work somtimes, but it never works \_against\_ me."
+1038,2007-01-29T10:36:00+00:00,"Phil Wilson",,,comment,0,"Hi Gabe, no problem with you being here at all 🙂
+
+Fortunately for me, I completely despise iTunes, so Amarok is a welcome relief – it probably helps that I don’t own at iPod 😉
+
+This is my third attempt at switching to Ubuntu (I ran Mandrake in a former life), and it’s so far going better than previously."
+1039,2007-01-29T13:25:00+00:00,"Irregular Shed",,,comment,0,"As Pip knows, I’m a long term Ubuntu user. I’ve got three boxes I use daily running with it, and I’ve never had any problems with normal hardware (my old Thinkpad gave me a challenge because the PCMCIA network card I have wasn’t supported in the install until 6.06 came along).
+
+Regarding iPod firmware, Gabe – have you tried Rockbox? I’m a convert, I’ve ditched the Apple iTunesDB altogether now. (I’m with Pip, iTunes is horrid.)"
+1040,2007-02-03T11:06:00+00:00,"Mathew Peet",,,comment,0,"I’m using debian stable and unstable on different machines. Yes this system is never actively working against the user.
+
+Pip&gt; Yes your problem will be with the Proprietary ATI drivers. Are they easy to install for you?"
+1041,2007-02-03T13:21:00+00:00,"Phil Wilson",,,comment,0,"Yes, they were very easy to install. I’ve since installed the free ones, but Beryl stopped even working, so I’ve gone back to the non-free ones.
+
+I think the problem is actually Beryl. Using either of the drivers, I can shutdown from within Metacity A-OK. But from Beryl I have to logout, \*then\* shutdown."
+1042,2007-02-08T23:35:00+00:00,"Mathew Peet",,,comment,0,"ATI have recently released new drivers which are meant to be better (in past week/two weeks). My friend using Suse says he gets much better frame rates than previously (2000 fps faster?!). If their are updates it might be worth cheching for you.
+
+Sorry I dont know much about this issue because my ATI card at home is so old it is best supported by the open source driver. IE it doesn’t do much 🙂"
+1043,2007-02-09T08:26:00+00:00,"Phil Wilson",,,comment,0,"Literally seconds after I read your comment the Ubuntu Software Updater told me about new fglrx drivers, so I’ve installed those and hopefully that’s what I needed 🙂"

@@ -1,0 +1,78 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1110,2007-03-19T18:26:00+00:00,"Luis Villa",,,comment,0,"The link to your twitter page is busted.
+
+\[And this is a nice hack that might lead to me finally getting a twitter account. Dammit.\]"
+1111,2007-03-19T19:45:00+00:00,"Phil Wilson",,,comment,0,"Thanks! Fixed!"
+1112,2007-03-21T08:55:00+00:00,"Raphael Slinckx",,,comment,0,"Very nice idea !  
+Using it now.
+
+You can also embed the icon in the python extension, by base64-encoding it and loading at runtime. Also since 2.18 deskbar supports installing by drag and dropping a .py link to the prefs panel and it gets installed automatically. Finally, you should probably add a simple config dialog to store the twitter username and password.
+
+Very nice work !"
+1113,2007-03-21T09:59:00+00:00,"Phil Wilson",,,comment,0,"Thanks very much for that Raphael. I had seen other extensions using base64-encoded icons but none of them worked, so I didn’t bother 😉
+
+Yes, you’re right about the preferences, but I was too lazy 🙂"
+1114,2007-04-26T18:26:00+00:00,mithras86,,,comment,0,"I really like your idea to post to twitter with deskbar, but i cannot get python-twitter to work. First by ubuntu doesn’t recognize the easy\_setup command.
+
+Secondly, i get (after some python traceback calls) the following error rule after I started the python script “setup.py test”:  
+pkg\_resources.DistributionNotFound: simplejson&gt;=1.5
+
+What should I do, easy\_setup cannot be installed through the repo?
+
+TIA!"
+1115,2007-04-30T01:29:00+00:00,Xlife,,,comment,0,"Really cool, thanks 😉
+
+@mithras86:
+
+Try this:  
+wget [http://peak.telecommunity.com/dist/ez\_setup.py](http://peak.telecommunity.com/dist/ez_setup.py)
+
+sudo python ez\_setup.py
+
+sudo easy\_install -U simplejson
+
+That should take care of the dependencies.
+
+Best Regards"
+1116,2007-05-01T18:48:00+00:00,mithras86,,,comment,0,"Yes, that does the trick, thanks a lot!
+
+Please note you point to the icon “twitter.png”, but provided an icon called “deskbar-twitter.png”, so you should change one of them to get the icon working.
+
+But furthermore: this is really cool, i’ll post it at forums i’m visiting very often!"
+1117,2007-06-11T16:49:00+00:00,Amblin,,,comment,0,"I’ve put together a more complete twitter plugin for Deskbar. If anyone is interested it’s [here](http://www.butterfat.net/wiki/Projects/DeskbarPlugins)"
+1118,2007-08-21T18:50:00+00:00,Fred,,,comment,0,"It’s telling me that the api.Update() method requires exactly two arguments where I supplied four (?!). Anyone else having this problem?"
+1119,2007-09-07T08:48:00+00:00,Ajnasz,,,comment,0,"Nice work!
+
+A small modification required if you want to use it with ptyhon-twitter 0.4:
+
+@@ -20,8 +20,8 @@ HANDLERS = {  
+ #It simply always displays “Hello World” in the dropdown list.  
+ class TwitterMatch(Match):  
+ def action(self, text=None):  
+– api = twitter.Api()  
+– api.PostUpdate(‘TWITTER\_USERNAME’, ‘TWITTER\_PASSWORD’, self.name)  
+\+ api = twitter.Api(‘TWITTER\_USERNAME’, ‘TWITTER\_PASSWORD’)  
+\+ api.PostUpdate(self.name)  
+ def get\_category(self):  
+ return “actions”  
+ def get\_verb(self):"
+1120,2007-09-07T11:23:00+00:00,"Phil Wilson",,,comment,0,"Excellent, thanks for the patch!"
+1121,2007-09-20T01:38:00+00:00,reda,,,comment,0,"Hi, Thanks a lot for your work.
+
+I don’t use Twitter but I like the concept, and your tool is perfect
+
+However, I don’t think everybody wants to go through installing that lib (unless there are distro packages),  
+so I made my own version using only HTTP methods (which are included by default I think)
+
+anyway here is it  
+[  ](http://ubuntuforums.org/showthread.php?t=554874)<http://ubuntuforums.org/showthread.php?t=554874>
+
+it’s still far from perfect but I tried it and it worked
+
+Again very nice tool, I think I’ll give this twitter thing a try 🙂"
+1122,2009-09-27T21:36:06+00:00,"Helen Neely",helen.neely@gmail.com,http://valashiya.blogspot.com,comment,0,"Thank guys for sharing you code, I have downloaded them and will roll up my sleeves and start hacking it later this weekend. Will leave a comment to let you know how it goes."
+1123,2009-11-21T16:00:59+00:00,Evans,evans.doug@gmail.com,http://jroller.com/evans,comment,0,"This is a nice piece. I just started using Ubuntu as my main OS and this seems like a good way to get to know my way around it. I will also play with your code and let you know if I can contribute to it.
+
+Thanks for posting."
+1124,2010-11-18T17:07:12+00:00,"Ivan Lezhnjov Jr.",ivan.lezhnjov.jr@gmail.com,,comment,0,"Cool. Could you write a plugin for Google Buzz? I think it must be fairly easy to do but I’m the worst programmer ever."
+1125,2011-04-30T23:40:06+00:00,"Debby Bruck",debweb0@hotmail.com,,comment,0,"Look kinda neat. My only concern is the bulking up of all layers at the top of web browsers. This leaves less actual page view when we continue to add more horizontal bars. Thanks for the intro to this option. I just plain love twitter. Debby"

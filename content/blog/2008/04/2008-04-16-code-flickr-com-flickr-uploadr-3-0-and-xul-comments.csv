@@ -1,0 +1,4 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1315,2008-04-16T23:47:06+00:00,"Richard Crowley",r@rcrowley.org,http://rcrowley.org/,comment,0,"You’re right about the partial and obscure (not to mention frequently wrong) documentation on XULRunner but it does have significant advantages over competitors in the cross-platform desktop space. The ability to link custom native libraries (think GraphicsMagick and FFmpeg) and true multi-threading were my main reasons for choosing XULRunner.
+
+On top of that, the vast majority of the source code is actually JavaScript, not C++. Take it for a spin, it’s actually more inviting than you may think!"

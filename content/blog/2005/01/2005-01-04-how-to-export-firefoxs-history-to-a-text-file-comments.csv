@@ -1,0 +1,171 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+238,2005-03-04T20:24:00+00:00,"Acting True",,,comment,0,"Hi, I’d like more information about this — I went to the link and it wasn’t clear or wasn’t there."
+239,2005-03-04T23:49:00+00:00,Pip,,,comment,0,"If you followed the link to bugzilla (i.e. [](https://bugzilla.mozilla.org/show_bug.cgi?id=241438)) then yes, it’s all very unclear.
+
+What exactly would you like more information about?"
+240,2005-05-17T06:52:00+00:00,Anonymous,,,comment,0,"I tried to open the export history.dat-link but it doesn’t work.
+
+i get the following error in the firefox javascript-console:
+
+Fehler: uncaught exception: Einem Skript von “http://philwilson.org” wurden UniversalXPConnect Sonderrechte verweigert.
+
+in english this stands for, that firefox denied the priviliges to run this script.
+
+anyone has an idea how to get this one running?
+
+greetings
+
+michael"
+241,2005-05-17T07:07:00+00:00,Pip,,,comment,0,"Hi Michael.
+
+Type “about:config” in your Firefox address bar and type “xpconnect” into the text box marked “filter” and check that the preference “security.xpconnect.plugin.unrestricted” is marked as “true”. I \*think\* that’s the problem you’re having."
+242,2005-06-12T13:56:00+00:00,Anonymous,,,comment,0,"I’m also having trouble with export history.dat-link on this page. The Java Console reports, “Error: uncaught exception: A script from “http://philwilson.org” was denied UniversalXPConnect privileges.”
+
+security.xpconnect.plugin.unrestricted is true in about:config.
+
+Any other ideas?"
+243,2005-06-12T14:05:00+00:00,Pip,,,comment,0,"Yes – you need to viewing a local HTML page in Firefox before you click the bookmarklet.
+
+Just view any webpage, save it to disk (or create a new page on your hard drive), load it in Firefox then click the link. Loading the local page puts Firefox into a lower security mode which lets the bookmarklet access the files on the hard drive."
+244,2005-07-07T12:00:00+00:00,GJ,,,comment,0,"Is it not possible to export firefox history when the URL is remote (not a local file) ? If yes, then what do I have to do extra?
+
+I would like to export the history irrespective of the URL (local, remote or about:blank)
+
+Please do help.
+
+Regards,  
+Gautam Jain"
+245,2005-07-07T13:09:00+00:00,Pip,,,comment,0,"I don’t think it’s possible to do it unless you’re in the local context because of security constraints. Obviously being able to dump a file to hard drive, named as you want it, via JavaScript, would be a massive hole."
+246,2005-09-01T13:28:00+00:00,"Jimmy Carlyle",,,comment,0,"Hi
+
+I’ve spent some of today looking for something like this and it worked great. Only trouble is how can I import the file onto another FireFox installation.
+
+The user got a new PC is the reason.
+
+Cheers
+
+Jimmy"
+247,2005-09-01T13:38:00+00:00,Pip,,,comment,0,"If you need to move the Firefox history between machines, you *should* just be able to copy the history.dat file from the profile directory:
+
+\* close Firefox on both computers  
+\* find the profile directory on each computer (on Windows this will be something like C:Documents and SettingsUsernameApplication DataMozillaFirefoxProfilessdfkjsh4.default)  
+\* copy the history.dat from the source profile directory to the destination profile directory
+
+I believe that should work just fine."
+248,2005-09-03T14:50:00+00:00,wom,,,comment,0,"Hi, for a university project I need a way to track user surf paths. The history.dat as RDF is a already a big help. But it is incomplete in the way that it does not recognize back button actions and does not distiguish beetween link following and typing in an URL in the adress field. Is there a way to enrich the history with that data?"
+249,2005-09-03T15:44:00+00:00,Pip,,,comment,0,"Hi wom. I seem to remember that the Mozilla suite’s history.dat is far richer in data than Firefox’s and does at least some (if not all of) the things you’re asking about."
+250,2005-11-10T22:10:00+00:00,Anonymous,,,comment,0,"WOM: Try writing a firefox extension."
+251,2005-12-13T12:55:00+00:00,Anonymous,,,comment,0,"hello Phil,
+
+a few months ago i told you that i have problems to use the javascript. because of much work i had no time to look at your blog earlier. your advice to solve my problem did work very nice and now i have a full functional xml file.
+
+thx for this phil.
+
+now i am working on a script to convert the xml file to a clear listing with the visited sites.
+
+i will finish this script until end of the week probably and post a link to my website where everyone is allowed use it.
+
+would be nice if some of you guys would test my script.
+
+greetings from germany"
+252,2005-12-13T12:57:00+00:00,Anonymous,,,comment,0,"the prior comment was written by me (Michael) 🙂"
+253,2005-12-13T14:14:00+00:00,Pip,,,comment,0,"Excellent news, Michael, I’m glad I could be of use. I look forward to seeing your script!"
+254,2005-12-13T16:43:00+00:00,Anonymous,,,comment,0,"Writing the script was more easier than i had imagined.
+
+i made a little webpage for this script. would be interesting if it works with other history files than mine.
+
+in the future i will optimize the script and perhaps add some enhancements.
+
+you can find the script here: [http://www.universe-hero.de/kortas\_net/projects/ffhistory/index.php](http://www.universe-hero.de/kortas_net/projects/ffhistory/index.php)
+
+for comments, reportings bugs or some special ideas feel free to write me an email: m(.at.)kortas(.dot.)net
+
+greetings
+
+Michael"
+255,2005-12-22T17:39:00+00:00,"sari gordon",,,comment,0,"Wow, I’m a total dunce when it comes to any of the abbreviations you’re talking about, but I managed to export a list of the sites I’ve visited today. My plan is to blog my travels in an attempt to illustrate my goal of reading the entire web (). If you could develop this into an extension, I would be a happy blogger! Thanks for your efforts!"
+256,2005-12-22T18:58:00+00:00,Pip,,,comment,0,"wow, I’m glad I could help! This stuff doesn’t work in the latest version of Firefox, so I’ll have to do something better anyway!"
+257,2006-01-25T19:39:00+00:00,Anonymous,,,comment,0,"Phil, please help! I accessed your file about moving Firefox’s history to text, and it worked great. The only problem is, the history.dat file shows a whole bunch of files that the history.rtf.txt does not (the history.rtf.txt only shows the last nine days). I want to find out the dates accessed for all of these files in history.dat. Is there any way for me to do that?
+
+Also, if a user goes into Firefox and goes to the history, and deletes a specific site (just right-clicks and hits delete, like that), will that site still show up in history.dat, or in the text version?
+
+Please help – I’m really desperate to figure this out. Thanks in advance! I’m at ubergottin @ herzeleid . net if you want to email me directly, or post here. (I tried to follow the link on the “contact you” part of this site, but it didn’t work for me.)
+
+Lindsay"
+258,2006-02-03T05:46:00+00:00,Anonymous,,,comment,0,"Phil, Thank you so much for doing this! It worked great – until I updated to ver 1.5.
+
+Hope to see your new version soon. I wish I could find an old version of FireFox to install so I could continue to use your bookmarklet for now.
+
+Sival"
+259,2006-02-06T20:32:00+00:00,leo4must,,,comment,0,"The export history.dat is no longer working with FF 1.5.0.1 on Windows XP Pro SP2. It worked fine earlier (FF versions on WinXP SP2), but now Javascript console says:  
+ uncaught exception: \[Exception… “Component returned failure code: 0x80004005 (NS\_ERROR\_FAILURE) \[nsIRDFXMLSource.Serialize\]” nsresult: “0x80004005 (NS\_ERROR\_FAILURE)” location: “JS frame :: javascript:(function(){netscape.security.PrivilegeManager.enablePrivilege(%22UniversalXPConnect%22);var rdfhis =Componens.classes (… too much to type)"
+260,2006-02-07T12:32:00+00:00,Pip,,,comment,0,"Thanks leo – I did say at the beginning of the post “Note that this doesn’t currently work in Firefox 1.5”.
+
+When I get a chance, I really will look at an alternative that works in FF 1.5!"
+261,2006-02-15T01:30:00+00:00,Anonymous,,,comment,0,"There is an extension, Enhanced History Manager ([https://addons.mozilla.org/extensions/moreinfo.php?id=420&amp;application=firefox](https://addons.mozilla.org/extensions/moreinfo.php?id=420&application=firefox)), that, while it doesn’t do a direct export of the history file, allows you to select entries in the history and copy them to the clipboard. From there, you can paste into a text editor.
+
+I’m using it in Firefox 1.5"
+262,2006-03-08T22:41:00+00:00,Anonymous,,,comment,0,"The extended history manager only lists the URLs when you copy and paste — it does not include page titles or view date/times."
+263,2006-03-17T18:14:00+00:00,Anonymous,,,comment,0,"FYI There’s a utility at  
+<http://www.sunturbine.com/dork/>  
+that exports the HISTORY.DAT file to a tab delimited text file. Free/source code included."
+264,2006-06-09T08:28:00+00:00,Anonymous,,,comment,0,"Hi,  
+Does anybody know here if it’s possible to force history.dat outside the profile like the brower.bookmarks.file staff?
+
+ I try to have this for my network users whom can’t get the whole profile roaming bu I could’nt find any clue.
+
+Thanks."
+265,2006-06-09T09:52:00+00:00,Pip,,,comment,0,"Well, you can force the entire Firefox profile to a network drive, for example, using something along the lines of:
+
+browser.cache.disk.parent\_directory = X:wherever
+
+Other than that, no, I don’t think so."
+266,2006-06-09T11:02:00+00:00,Anonymous,,,comment,0,"I guess I have no choice but doing this 🙁
+
+Thank for your help."
+267,2006-06-27T07:21:00+00:00,Anonymous,,,comment,0,"Thank you very much for your efforts, I was able to extract my foxfire history into a text file: it worked Great 🙂
+
+By using the warning you gave about the file being overwritten without a notice, I renamed the file before running another dat file through and was happy to not lose anything..
+
+Thanks again  
+rhage2"
+268,2006-06-28T03:55:00+00:00,Anonymous,,,comment,0,"I know most people haven’t heard of Google, but Google Browser-Sync is out for FF. (Check in the labs section). It is supposed to synchronize Passwords, Bookmarks, &amp; History. I think there is a bug in the initial release, as when I try and sync one of my PCs with a large history or bookmark file, it quits. BUT, it’s a step in the right direction."
+269,2006-07-05T13:53:00+00:00,Anonymous,,,comment,0,"I would like and many of my customers would like, a way to remove all sexual terms and links from the history file, without clearing the history.  
+People get so embarrassed when you type a l in the browser and get lesbian something.. most just have me turn off history all together"
+270,2006-07-05T16:22:00+00:00,Pip,,,comment,0,"You and me both!"
+271,2006-07-24T01:14:00+00:00,Anonymous,,,comment,0,"Hi, I’m just a blue collar guy who likes to turn his history off for the same reason as mentioned before. I don’t no how though. Can someone help me with this? Much appreciated"
+272,2006-11-16T19:28:00+00:00,Anonymous,,,comment,0,"Can someone send a solution for a mac user. I have students playing in bad sites and do not want to accuse the wrong one. You can email an answer to <mmorse@hotmail.com>"
+273,2007-03-09T22:22:00+00:00,Ben,,,comment,0,"<http://www.sunturbine.com/dork/> now redirects to <http://www.purescience.com/dork/>, which is 404. The “Dork” conversion utility is now hard to find; a copy of it is on [Bug 242438](https://bugzilla.mozilla.org/show_bug.cgi?id=241438)"
+274,2007-03-10T00:11:00+00:00,"Phil Wilson",,,comment,0,"Hi Ben, thanks very much for that useful update!"
+275,2007-06-03T20:03:00+00:00,"Ed Mullen",,,comment,0,"I’ve made DORK available at:
+
+<http://edmullen.net/utility/dork.zip>"
+276,2007-06-03T21:59:00+00:00,"Phil Wilson",,,comment,0,"Ace, thanks for that Ed."
+277,2007-07-22T17:53:00+00:00,Jim-BobH,,,comment,0,"Thanks to Ed Mullen for enabling me to access Dork and to its author Keith Anderson.
+
+Suggestions to Keith and other users:
+
+1\. Every time you run it it will OVERWRITE any history.txt file it previously created, so if you don’t want to lose your “history history” you had better move or rename the existing one.
+
+(The above fact is in the Dork readme.txt but the following warning is not.)
+
+2\. If you run it with Firefox running you will get:
+
+ERROR: Could not open file. Error 32
+
+which apparently means the file is in use by another application (in this case, I closed Firefox and Dork seems to work perfectly).
+
+IHTH
+
+Jim"
+278,2007-12-05T12:23:00+00:00,Anonymous,,,comment,0,"if you get the “uncaught exception: Einem Skript von “http://philwilson.org” wurden UniversalXPConnect Sonderrechte verweigert.” error, this is a security issue. Try adding the following lines to your user.js file located in your profile dir (create it, if it does not exist):
+
+user\_pref(“capability.principal.philwilson.id”, “http://philwilson.org”);  
+user\_pref(“capability.principal.philwilson.granted”, “UniversalXPConnect”);
+
+Save the file, restart Firefox. This should work. But be careful with granting rights to pages you don’t know and trust!"
+279,2007-12-06T23:31:00+00:00,dglp,,,comment,0,"Interesting stuff here. I am looking for a way to graph my browsing history and haven’t had any joy finding explanations of history.dat. And here we are at Firefox 2.0 and Mork is still in place.
+
+Are there any straightforward ways of converting the mork file into a format that will preserve the number of visits per site?"
+280,2007-12-09T06:06:00+00:00,Anonymous,,,comment,0,"In the latter case you don’t have to shutdown Firefox but you can just create a copy of the history.dat file and use the copy with DORK.  
+Thanks for this wonderful tool."

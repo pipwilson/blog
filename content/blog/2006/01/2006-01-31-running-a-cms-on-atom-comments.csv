@@ -1,0 +1,7 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+762,2006-02-01T01:03:00+00:00,Aristotle,,,comment,0,"Note that Atom has three attributes for a category: the required *term*, an optional human-readable *label*, and an optional *scheme* with a URI to identify the taxonomy.
+
+You could use some sort of permanent unique identifier for the term, and just let users edit the label.
+
+A possible implementation would be to store categories as entries filed in category Category, which is identified by a predefined term. The ID of such a category entry would then serve as the category term and its title would provide the human-readable category label. The summary/content of such a category entry could be used for a description of the category. Such a category would not manifest as a page on the site if you don’t want to make one; remember that an entry need not have an *alternate* link."
+763,2006-02-01T13:57:00+00:00,Pip,,,comment,0,"Excellent suggestion, I think that should do nicely!"

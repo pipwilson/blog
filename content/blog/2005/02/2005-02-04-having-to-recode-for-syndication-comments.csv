@@ -1,0 +1,14 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+313,2005-02-05T09:35:00+00:00,Anne,,,comment,0,"Perhaps you should request aggregators to support it. However, this is essentially the same problem as web browsers face. They have to provide some interface for the attribute. However, they don’t, and therefore we create hacks to work around that problem."
+314,2005-02-05T13:10:00+00:00,"Tom Adams",,,comment,0,"Could you not use XSLT (or write a little program) to add “URI: <http://>…” to the bottom of a blockquote? I’ve only just started playing with XSLT but I’m sure it’s possible."
+315,2005-02-06T02:26:00+00:00,Pip,,,comment,0,"Well, browsers don’t **have** to provide an interface for it (there’s nothing in the spec about how to display it IIRC), which is probably why they don’t – in fact, does any browser do anything with the cite source of blockquote or q elements? Even showing it in a tooltip? Probably not 🙁
+
+The problem is that our hacks around it, whether they’re CSS or JS, work at the presentation layer, which we have no control over in aggregators (which is why XSLT wouldn’t work – aggregators apply their own to the raw source of the feed).
+
+Getting aggregator authors to support it is a possibility; I mean, they have to provide a transformation, so why not provide as much info as they can? But every day another aggregator appears, so it sounds like a losing battle and I can’t see a realistic alternative to just including the source of the quote in the text.
+
+I really hate being defeatist 🙁"
+316,2005-02-07T16:16:00+00:00,leff,,,comment,0,"Well, the only other option, really, is to filter your content when you’re building your feeds to be more aggregator friendly. The only way to have the best of both worlds is to serve different things to aggregators and browsers 🙁"
+317,2005-02-07T17:06:00+00:00,Pip,,,comment,0,"Except for the lameasses like me who use hosted services 😉
+
+I could always redirect my current feed to atually point at an XSLT’d version of my feed with the relevant data extracted to be visible, which I guess is kind of the JS equivalent, but that’s one too many hoops for me I think 🙂"

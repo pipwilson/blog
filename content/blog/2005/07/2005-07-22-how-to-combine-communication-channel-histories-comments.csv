@@ -1,0 +1,49 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+512,2005-07-22T12:50:00+00:00,ILoveJackDaniels,,,comment,0,"Phil, that sounds incredibly powerful, and if I could be any help as well, should something like this come up, I’d be glad to put time towards it."
+513,2005-07-22T14:29:00+00:00,leff,,,comment,0,"Great idea! If I had a mobile phone at all, I’d jump on this project."
+514,2005-07-22T21:39:00+00:00,Manuzhai,,,comment,0,"I’ve been working on some scripts to archive my SMS messages as chatlog style messages with \[YYYY/mm/dd hh:mm\] Name: message style lines. I got myself some hacked piece of software that exports all of my messages to an easy to parse textfile, I transfer that file to my computer and have python scripts to parse it into nice file-per-person logs. By the time Python for Series 60 is a little further along, I should be able to cut the hacked thing out of the loop, and maybe automate it a little bit more.
+
+I have also been working on scripts that consolidate my chatlogs from different IM-clients, and I will be writing a script that takes sessions from the same person from different files and puts them in order in a new file."
+515,2005-07-23T23:59:00+00:00,Pip,,,comment,0,"That sounds excellent manuzhai! I don’t suppose you want to drop me a line either here or via the contact form or email with a few more details about exactly what you’re doing?"
+516,2005-07-26T12:12:00+00:00,Em,,,comment,0,"Teensy point:- you need a mechanism in there to infer author identity across the various channels, since unless you’re a very organised person (much more so than me, anyway) with equally organised friends, those on your various contact lists are variably known as, say:
+
+“Bob Whoever ” on email,
+
+“PricklesTheHedgehog” on GAIM, “B\_Whoever” on Skype,
+
+and “Work Bob: 071234567890” on your mobile.
+
+You know that, but there’s no obligation for you to ever have formalised it anywhere. And it might get fun if you know several Bobs, or if a few of your friends have surprising nicknames. So there’s maybe some fun initial join-the-dots setup to plan for in there somewhere:
+
+“im:PricklesTheHedgehog” == “sms:Work Bob” == actual identity and so forth.
+
+Or I might just be plain wrong. Happens all the time."
+517,2005-07-26T12:29:00+00:00,Pip,,,comment,0,"Yes, this is a very good point, and you’re definitely not wrong 🙂
+
+Fortunately I’m very organised about naming my contacts in the same way on different platforms, and the join-the-dots work is something I enjoy trying to solve in my free time 🙂
+
+Effectively, what I have is a FOAF file which lists lots of people in foaf:knows elements and uses the foaf:nick for the different ways I refer to them on different systems (based on their nicknames rather than their actual IM or email addresses, which I assign them in each app). When a new person crops up in my IM client or email contact list who isn’t already in my FOAF address book (which is, I guess, effectively what it is) I get prompted to add them in (I do this manually).
+
+There’s certainly no obligation for anyone to have performed this kind of formalisation before they want to start using such a tool, but it quickly becomes an invaluable bit of time investment (although probably doesn’t scale if you’re really popular :)."
+518,2005-07-26T15:16:00+00:00,em,,,comment,0,"Nice solution. Though I’m not organised at all. I’ve been using the same SIM since 1999, when some phones had strict limits on string length – so the newer the contact is, the closer the phone’s idea of their name approaches reality.
+
+Only thing is sometimes on stuff like IRC, the nick is sometimes appropriated for humour/drama eg.:
+
+/nick OsamaBinLaden  
+&lt;OsamaBinLaden&gt; Stupidity is a religious duty, and we hope to be rewarded for it by God!
+
+Not that there’s not enough data to solve that, just a touch more effort than a plain grep.
+
+Leaving you only with the problem of how to extract sms messages from a phone without some horrifyingly complex manufacturer-specific solution (eg Oxygen)."
+519,2005-07-26T17:52:00+00:00,Pip,,,comment,0,"Crikey, a six-year old SIM. I’m not sure my annual-upgrade mind can understand that 🙂
+
+The IRC problem is an excellent point, but fortunately for me, one I don’t suffer from because I almost never use it 🙂
+
+So yes, we’re left again with getting the data off of the phone. I think it should be reasonably straightforward for Symbian phones, and possibly for modern SonyEricssons too. Anything else and you’re probably screwed. I mean, er, “locked in”. 🙂"
+520,2005-07-27T10:24:00+00:00,"Paul Mison",,,comment,0,"The Mac OS X address book can tie together phone numbers, email addresses and AIM login names, that’s the guts of em’s point handled (albeit only in one place).
+
+I’m sure my phone’s address book has an email entry too, although I don’t think I’ve ever used email from the phone."
+521,2005-07-27T11:06:00+00:00,Pip,,,comment,0,"Yes, from the OS X perspective, this is almost a completely different prospect because the address book already hooks together Mail and iChat. Added to which I’m guessing that there’s something in Salling Clicker that lets you sync your contacts very easily with your SonyEricsson phone.
+
+Lucky I’ve not got one then, eh? 😉"
+522,2005-08-08T07:29:00+00:00,"Christoph Goern",,,comment,0,"Moin, I use gsmlib on a linux box to get my SMS out of two mobile devices, via bloootoooth and serial/usb conection. Doing so I fetched about a megabyte in the last years, this 1MB text file is obviously indexable…"

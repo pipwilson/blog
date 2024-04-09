@@ -1,0 +1,14 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+128,2004-08-17T21:57:00+00:00,raster,,,comment,0,"Hmmm, you know, I wrote some code to pull events out of Outlook via Perl’s Net::IMAP module and shoot the data into a vCal/iCal file that Apple’s iCal can then use. This lets me avoid using Outlook and instead just use iCal.
+
+If only I could get some of the Perl Jabber modules to work, I might be able to push it a bit further for notification…."
+129,2004-08-22T14:23:00+00:00,Anonymous,,,comment,0,"ical -&gt; rss -&gt; <http://rss2jabber.berlios.de>
+
+Please [LazyWeb](http://www.blogger.com/r?http%3A%2F%2Flazyweb.org) grant us ical -&gt; rss!"
+130,2004-08-24T09:03:00+00:00,Pip,,,comment,0,"It’s not that easy though is it? Because you need the server-side bit to only send messages when it’s actually important. I guess you could get rss2jabber to scan the feed every fifteen mins or something but you’d still need some app which regenerates the RSS frequnetly enough to be able to insert items at the point when you’d like to be notifed about them and hope that rss2jabber’s scan time coincides with it.
+
+I don’t think RSS is the right medium for this unless you’re producing RSS 1.0 with embedded event data and your aggregator can understand it."
+131,2004-08-30T16:19:00+00:00,Anonymous,,,comment,0,"You might want to look at Outlook Redemption (<http://www.dimastr.com/redemption/>) which allows access to Outlook data without the security boxes. Also, Outlook allows you to subscribe to other people’s iCalendar feeds, so I’m told, so it might allow you to export your current calendar as iCalendar?"
+132,2004-08-30T22:42:00+00:00,Pip,,,comment,0,"That looks like a good developer tool, but I’m really not that interested in having to write my own (although if push comes to shove I will).
+
+I think you can manually export your calendar (I’ll have to check when I get in the office), but ideally I want to be able to move away from using Outlook as much as possible, otherwise I’d have to manually export it every day or something."

@@ -1,0 +1,17 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+143,2004-09-07T16:06:00+00:00,Anonymous,,,comment,0,"U can see this kind of sites everywhere on the internet. The unwillingness of visitors to support a site financially forces it to using banners, nothing new there. That an article about (x)html, probably released within a CMS, isn’t validated says nothing about its qualities. This could very well be the lack of support for standards within the CMS, wich is something u see in almost any CMS software.
+
+I don’t know why u choose this specific site, but while of course there are better sites, i have seen worse too. Ranting on their print solution while not using a print stylesheet urself (a print of this article takes 2 pages on mozilla, 3 on IE, because the whole menu is included) is not really is also somewhat silly."
+144,2004-09-07T17:04:00+00:00,Pip,,,comment,0,"There’s nothing wrong per se with banners, and that’s not what I was complaining about.
+
+My rant was about the overall legibility of the article, and more generally the site.
+
+The design is classic ’98 style. Poor icons, poor layout and just about everything else about the site takes away any reason I might want to stay there and actually use it.
+
+The problem with writing authoratatively about HTML and XHTML is that if you don’t adhere to those rules yourself (a couple of silly errors creeping in are allowed), you’ll have zero credibility. This isn’t restricted to just HTML. If you’re writing a book about spelling and misspell words, no-one’s going to take you seriously. Insert your own hackneyed analogy here.
+
+Of course, I know that this isn’t necessarily the author’s fault, the article might be great; but in this case the larger site is doing its author a disservice. I keep trying to read the article, but without editing the CSS myself, I can’t.
+
+In this case, I don’t believe the CMS is causing the validation problems – the template designer is. Just after the HTML 4.01 Transitional Doctype there’s a meta tag with a trailing XHTML-stylee /. But this isn’t what was really bothering me.
+
+I really shouldn’t have to write a custom stylesheet just to be able to \*read an article\*. I’m not even \*trying\* to print it. In fact, given that I have no problems distinguishing between colours on the web and can increase font sizes wherever I like because I use firefox, I can’t imagine any circumstance at all where I should have to write a stylesheet just to be read an article on the web. I can’t imagine why you’d suggest that I should do this."

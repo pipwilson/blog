@@ -1,0 +1,4 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1488,2009-08-10T08:48:25+00:00,"Dirkjan Ochtman",dirkjan@ochtman.nl,http://dirkjan.ochtman.nl/,comment,0,"Heh, you mirror my thoughts: <http://twitter.com/djco/status/3162385438>. There’s a thread in GReader support forums about adding support for authenticated feeds, maybe you could add your thoughts there?"
+1489,2009-09-14T16:17:41+00:00,Nate,nathan.hahn@gmail.com,,comment,0,"Not sure if this is still an issue for you or not, but Google Reader supposedly has an undocumented API. Simply do a search for “Google Reader API”. I haven’t researched this much myself."
+1490,2009-09-15T10:08:50+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,1489,"Yes indeed, and I’ve even used it, but an actual, documented API with client libraries (like the other Google apps) would be very welcome."

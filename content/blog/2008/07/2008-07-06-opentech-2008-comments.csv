@@ -1,0 +1,26 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1355,2008-07-06T23:24:52+00:00,"Jon Mandell",jon@confabb.com,http://confabb.com,comment,0,"Phil,
+
+Hoped you all enjoyed using the recent integration of ripplerap into Confabb. YOu mentioned the presentations on slideshare so I wanted to point out that we are pulling those in as well as blog mentions, photos and videos here
+
+<http://confabb.com/conferences/77260-open-tech-2008/media>
+
+Jon  
+confabb.com"
+1356,2008-07-06T23:36:23+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Thanks Jon. Yes, I liked both confabb and ripplerap a lot, although it hadn’t actually occurred to me look up OpenTech on confabb! I’ll take a closer look tomorrow."
+1353,2008-07-07T20:27:53+00:00,Sam,s@msmith.net,http://www.ukuug.org/events/opentech2008/,comment,0,"Hey Phil,
+
+Could you elaborate on why you thought the layout of the schedule was rubbish? We can then look at fixing it for next year
+
+Glad you enjoyed the day.
+
+Cheers  
+Sam  
+(Opentech co-organiser)"
+1354,2008-07-07T23:10:17+00:00,Phil,blog@philwilson.org,http://philwilson.org/blog/,comment,0,"Hi Sam, thanks for stopping by and many thanks for organising a really great day!
+
+To be fair it got better before the event when the abstracts loaded underneath each section rather than by the side, but we’d have been better off had the abstracts been duplicated elsewhere and linked from the talk’s title, leaving the ajax out of the schedule altogether (I see from the source that they were actually separate files, included with jquery). I think having seen the side-loading version, the damage was done for me; first impressions and all that. I guess it didn’t help that abstracts varied from nothing to about three hundred words which, when dynamically loaded into the page meant that before clicking you didn’t know where the rest of the page was going to go.
+
+You could also have done with a print stylesheet which disabled the sidebar and big heading.
+
+Had Jeremy’s version had speaker names on it and linked through to the abstracts, it would have been perfect imho."

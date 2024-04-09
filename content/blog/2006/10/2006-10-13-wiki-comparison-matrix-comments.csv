@@ -1,0 +1,11 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+960,2006-10-13T13:50:00+00:00,Anthony,,,comment,0,"Just installed Mediwiki 1.8.1 on my own server, and I’m sure it said the reason it offered me a table prefix option was for multiple wikis on the same Db.
+
+I’ll remove LocalSettings.php and check."
+961,2006-10-13T13:58:00+00:00,Anthony,,,comment,0,"Scrub that I’ve got my paradigms mixed up – it’s for multiple installations and not for multi-wiki management.
+
+My apologies – delete and revoke all my privs!"
+962,2006-10-13T15:03:00+00:00,Pip,,,comment,0,"I don’t think I can ever forgive you."
+963,2006-10-13T15:23:00+00:00,Anthony,,,comment,0,"sudo “I can forgive you”"
+964,2006-10-16T11:01:00+00:00,alf,,,comment,0,"Could you add a row for prices?"
+965,2006-10-16T13:21:00+00:00,Pip,,,comment,0,"Done (messily)."

@@ -1,0 +1,27 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+862,2006-05-04T16:47:00+00:00,raster,,,comment,0,"“Tails Export is not available for MacOSX” 🙁"
+863,2006-05-04T18:42:00+00:00,Pip,,,comment,0,lame!
+864,2009-07-13T14:04:26+00:00,"Joanna Bryson",jjb@cs.bath.ac.uk,http://www.cs.bath.ac.uk/~jjb/,comment,0,"Do you know of a public google calendar that has the Bath term dates etc. on it? Sorry to post this here, but you were the only one who turned up when I searched for “university of bath google calendar” 🙂"
+865,2009-07-16T19:51:35+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"Hi Joanna, no problem! I’ll post about it on [the Web Services blog](http://blogs.bath.ac.uk/webservices/) tomorrow so that something else crops on Google 😉
+
+In the meantime, there isn’t a Google calendar for this that already exists, but it takes about two minutes to import it yourself.
+
+step 1)
+
+Go to <http://www.bath.ac.uk/semester/> and look underneath the Key on the right hand side and choose which calendar you want from:
+
+ \* Full chart  
+ \* Full chart with university week numbers  
+ \* Staff chart (without the teaching days and student vacation dates marked)  
+ \* Staff chart with university week numbers
+
+Right-click the one you want and copy the link to your clipboard
+
+step 2)
+
+Go to Google Calendar and click “Add” in the bottom left corner and then click “Add by URL”
+
+Paste in the link you copied from the semester page and click “Add”. That’s it! You can now click “Back to Calendar” and you’ll see all the items from the calendar you imported.
+
+At the moment the calendar you add will expire at the end of the academic year so you’ll need to go through this again next year. Hassle us on <web-support@bath.ac.uk> and we’ll look into making sure that if you add it once, you never need to add it again!"
+866,2009-07-22T13:24:49+00:00,Phil,phil@philwilson.org,http://philwilson.org,comment,0,"OK, it took me a few days to get around to, but I’ve reproduced these instructions, with pictures, on <http://blogs.bath.ac.uk/webservices/2009/07/22/getting-the-university-of-bath-term-dates-into-google-calendar/>"

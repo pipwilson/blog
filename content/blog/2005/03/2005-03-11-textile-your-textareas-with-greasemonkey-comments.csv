@@ -1,0 +1,46 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+354,2005-03-15T08:38:00+00:00,Gareth,,,comment,0,"[This guy](http://www.geekfun.com/archives/000487.html) has an interesting comment on your textile stuff – namely that rework is next to impossible.
+
+Do you think it would be useful to inject a second textarea that you put your textile stuff in that updates the original text area with the html-ed text?
+
+Still won’t help you after you’ve hit post but it might be better than now."
+355,2005-03-15T16:15:00+00:00,eas,,,comment,0,"I’m the griper Gareth references.
+
+Dual textareas, one for input, the other for the output, would help things somewhat. More compact would be to have a button that toggles between the transformed and untransformed text. However, I’m not sure it would be enough better to make it worthwhile for my sloppy and impatient self.
+
+What might be cool is to store the original text with some persistance and have a button for recovering it.  
+If it persisted within a browswer session, it would be useful for thos e situations when I’m making a one-off entry in some system I have no control over (like this one), that I might want to preview, but I’m unlikely and/or unable to return to later and edit.
+
+If it persisted across browswer sessions, that would open it to a wider range of uses. From my point of view, I’m not sure how much utility it adds, since I don’t enter much text into systems I don’t control that I might want to return to and edit later. On the otherhand, someone using Blogger might.
+
+I don’t know much about javascript, but as I recall, its possible to do something like this as far as storing the text(I think SquirrelMail uses it to store drafts).
+
+Ideally the Greasemonkey script would have some context awareness and only present the cached source-text relevant to the form in question.
+
+This could be accomplished a few ways.
+
+1\) URL matching, but URLs can change.  
+2\) Hostname matching  
+3\) Matching of the contents of the textarea with a transformed version of the cached text (with allowances for differences in whitespace &amp; captitalization).
+
+\#3 is probably the highest precision."
+356,2005-03-16T20:39:00+00:00,Pip,,,comment,0,"Well, let’s not get carried away 🙂
+
+You’re right though, the ability to keep editing the original textile text would be really good (especially seeing as I’ve just fallen foul of it myself!).
+
+I’ll definitely give it a go."
+357,2005-03-17T16:22:00+00:00,Dotan,,,comment,0,"I ran into a bit of a problem running this on my old Textile-formatted blog entires (which mix in non-markup parentheses and HTML links, along with the textile codes), so I made a small fix to the links RegExps, described here: <http://corky.net/dotan/log/2005/03/javascript-textile-follow-up.html>"
+358,2005-06-24T00:43:00+00:00,"Mike Sugarbaker",,,comment,0,"I’ve extended this to translate Textile to BBCode or MediaWiki markup as well as HTML. It’s still only one way, however. Here it be: [Lingua Franca](http://www.gibberish.com/hacks/gm/linguafranca.user.js)."
+359,2005-06-24T07:41:00+00:00,Pip,,,comment,0,"That’s awesome!
+
+I have a version which keeps the original text, I’ll clean it up and update the main script."
+360,2005-11-07T22:28:00+00:00,"Tiago Silveira",,,comment,0,"Hello, Phil!
+
+I just posted a small rewrite of Jeff Mainard’s script, do you believe there interest in rewriting the greasemonkey script?
+
+My post explaining what I did is here:  
+[http://jroller.com/page/dukejeffrie/?anchor=textile\_in\_javascript](http://jroller.com/page/dukejeffrie/?anchor=textile_in_javascript)"
+361,2005-11-07T22:46:00+00:00,Pip,,,comment,0,"Hi Tiago, thanks for this. I’ve been meaning to release a more powerful rewrite of the greasemonkey script for about six months now, hopefully this should prompt me into it; I’ll try and get a new version out in the next few days."
+362,2007-04-26T22:13:00+00:00,Santa,,,comment,0,"\*commen?\*
+
+should be bold, no?"

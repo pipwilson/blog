@@ -1,0 +1,9 @@
+﻿"Comment ID","Timestamp GMT",Author,"Author email","Author URL",Type,Parent,Comment
+1494,2009-12-15T09:31:10+00:00,"Tweets that mention philwilson.org » Blog Archive » Setting up the Play framework on Google App Engine -- Topsy.com",,http://topsy.com/tb/bit.ly/4Rt5Tm,pingback,0,"\[…\] This post was mentioned on Twitter by Phil Wilson, Pete Fairhurst. Pete Fairhurst said: RT @pip: Setting up the Play Framework on Google App Engine: <http://is.gd/5ogzr> (Good work, fella!) #java #web #gae \[…\]"
+1495,2009-12-17T11:21:14+00:00,Werbemittel,,,comment,0,"Great info, I was just browsing google for info on this, thanks!"
+1496,2009-12-21T11:52:46+00:00,"Byju Veedu",byjupv@gmail.com,,comment,0,"It is a very usefull post. I was struggling to get it run on GAE and was using 1.1 build. I will see following your instructions."
+1497,2010-05-17T17:07:51+00:00,Tatoluffy,tatoluffy@gmail.com,,comment,0,"Thank you philwilson!!
+
+I think is interesting play with appengine but if you want one aproach to relational databases, persistence with appengine isn’t a properly solution.
+
+Regards,"
