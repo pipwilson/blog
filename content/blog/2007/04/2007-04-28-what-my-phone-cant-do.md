@@ -9,7 +9,7 @@ show_comments = "false"
 comments_file = "/content/blog/2007/04/2007-04-28-what-my-phone-cant-do-comments.csv"
 +++
 
-<span style="color: #551a8b; text-decoration: underline;">[](http://www.flickr.com/photos/pip/16699626/ "My Nokia 6630")[![](http://farm1.static.flickr.com/12/16699626_1a27b4adc3_m.jpg "My phone")](http://www.flickr.com/photos/pip/16699626/)  
+<span style="color: #551a8b; text-decoration: underline;">![![](http://farm1.static.flickr.com/12/16699626_1a27b4adc3_m.jpg "My phone")](http://www.flickr.com/photos/pip/16699626/)
 </span>
 
 As I’m frequently reminded by calls asking me to take up a “special offer” the 18 month contract with <a>Orange</a> for my [Nokia 6630](http://en.wikipedia.org/wiki/Nokia_6630) expired some time ago so I’ve been trying to work out if I really want a new phone or whether I should just reduce my monthly phone bill by a factor of ten by going pay-as-you-go.

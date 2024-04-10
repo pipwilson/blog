@@ -21,8 +21,6 @@ and it’s quite an arduous process to enable comments for old posts. Do I do it
 
 Probably.
 
-<ins datetimte=""></ins>
+<ins datetimte="">It’s also quite upsetting that [the &lt;$BlogItemCreate$&gt; tag](http://help.blogger.com/bin/answer.py?answer=773) (which <q>adds the link that lets people leave new comments</q> provides a URL with unescaped ampersands, immediately invalidating your all-new-l33t-web-skillz template. Of course, you could hand code the URL since your blog ID is unique and you can get the post ID from the &lt;$BlogItemNumber$&gt; tag but that relies on the Blogger comment form staying in the same location (currently http://www.blogger.com/comment.g). If it ever moves it’d mean updating your template and republishing your whole site.
 
-It’s also quite upsetting that [the &lt;$BlogItemCreate$&gt; tag](http://help.blogger.com/bin/answer.py?answer=773) (which <q>adds the link that lets people leave new comments</q> provides a URL with unescaped ampersands, immediately invalidating your all-new-l33t-web-skillz template. Of course, you could hand code the URL since your blog ID is unique and you can get the post ID from the &lt;$BlogItemNumber$&gt; tag but that relies on the Blogger comment form staying in the same location (currently http://www.blogger.com/comment.g). If it ever moves it’d mean updating your template and republishing your whole site.
-
-Swings and roundabouts innit? How important is validation to *you*?
+Swings and roundabouts innit? How important is validation to *you*?</ins>

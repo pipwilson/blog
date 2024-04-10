@@ -21,4 +21,6 @@ The unpredictable impact of externalities can affect your goals too easily. This
 
 I am trying to [do more cycling](https://philwilson.org/blog/2023/02/riding-my-bike-online/) this year; I was doing well last year but injured myself in September and completely fell off the wagon. So this year I’ll be tracking my progress in two ways. Firstly I’m competing with my wife who has also started an exercise programme (and neither of us wants to “lose” to the other – a highly effective motivation!) and secondly I’ve got a physical year-long tracker on the wall in my office where I’m tracking when I do and don’t get on my bike. I’m expecting that there will be full weeks of no cycling (when I’m on holiday and when I’m inevitably ill), but so long as I can keep more green than red across the full year, I’ll be happy.
 
-<figure class="wp-block-image size-large">[![](https://philwilson.org/blog/wp-content/uploads/2024/01/20240109_104632-1024x700.jpg)](https://philwilson.org/blog/wp-content/uploads/2024/01/20240109_104632-scaled.jpg)</figure>Hopefully this will prove to be a far healthier way of both staying on track, and being fair to myself, rather than focusing on simply incrementing a number.
+![A photo of a 365-day calendar where each of the first 8 days has been coloured in green to show that I cycled on those days](https://philwilson.org/blog/wp-content/uploads/2024/01/20240109_104632-scaled.jpg)
+
+Hopefully this will prove to be a far healthier way of both staying on track, and being fair to myself, rather than focusing on simply incrementing a number.

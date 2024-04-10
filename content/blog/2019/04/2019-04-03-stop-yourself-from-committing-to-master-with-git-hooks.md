@@ -27,16 +27,30 @@ Add git hooks
 
 Create a file called `pre-commit` and give it this content:
 
-```
-!/bin/sh<br></br> prevent commit to local master branch<br></br> branch=```
-git symbolic-ref HEAD
-```<br></br> if [ "$branch" = "refs/heads/master" ]; then<br></br>     echo "pre-commit hook: Can not commit to the local master branch."<br></br>     exit 1<br></br> fi<br></br> exit 
+```bash
+!/bin/sh
+ prevent commit to local master branch
+ branch=git symbolic-ref HEAD
+ if [ "$branch" = "refs/heads/master" ]; then
+     echo "pre-commit hook: Can not commit to the local master branch."
+     exit 1
+ fi
+ exit
 ```
 
 Create a file called `pre-push` and give it this content:
 
-```
-!/bin/sh<br></br> Prevent push to remote master branch<br></br> while read local_ref local_sha remote_ref remote_sha<br></br> do<br></br>     if [ "$remote_ref" = "refs/heads/master" ]; then<br></br>         echo "pre-push hook: Can not push to remote master branch."<br></br>         exit 1<br></br>     fi<br></br> done<br></br> exit 0
+```bash
+!/bin/sh
+ Prevent push to remote master branch
+ while read local_ref local_sha remote_ref remote_sha
+ do
+     if [ "$remote_ref" = "refs/heads/master" ]; then
+         echo "pre-push hook: Can not push to remote master branch."
+         exit 1
+     fi
+ done
+ exit 0
 ```
 
 Mark them as executable

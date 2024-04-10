@@ -27,6 +27,4 @@ and it does return a WML page, but it appears to be a portal page, and doesn’t
 
 I admit to being a wget noob, so where exactly am I going wrong? It’d be great to pull this content and push it into, say, a widget on my desktop, but not until I break the wget idiot-barrier.
 
-<ins datetime=""></ins>
-
-OK, so installed the [User Agent Switcher Firefox extension](https://addons.mozilla.org/firefox/59/) and configured it with the Nokia 6680 User-Agent (“Mozilla/4.0 (compatible; MSIE 5.0; Series80/2.0 Nokia9300/05.22 Profile/MIDP-2.0 Configuration/CLDC-1.1)”) and that worked a treat, giving me the content I wanted, but putting the same string into wget still gave me the Teletext Mobile splash page. Help welcome!
+<ins datetime="">OK, so installed the [User Agent Switcher Firefox extension](https://addons.mozilla.org/firefox/59/) and configured it with the Nokia 6680 User-Agent (“Mozilla/4.0 (compatible; MSIE 5.0; Series80/2.0 Nokia9300/05.22 Profile/MIDP-2.0 Configuration/CLDC-1.1)”) and that worked a treat, giving me the content I wanted, but putting the same string into wget still gave me the Teletext Mobile splash page. Help welcome!</ins>

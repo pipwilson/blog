@@ -37,8 +37,10 @@ Now use that list of filenames to identify the files in your search list, CTRL+c
 
 Then you just need to `cat` the files together. e.g.
 
-```
-cat file-1.mp4 >> saved-video.mp4<br></br>cat file-2.m4s >> saved-video.mp4<br></br>cat file-3.m4s >> saved-video.mp4
+```bash
+cat file-1.mp4 >> saved-video.mp4
+cat file-2.m4s >> saved-video.mp4
+cat file-3.m4s >> saved-video.mp4
 ```
 
 Now you should be able to play saved-video.mp4 and do whatever you like with it!

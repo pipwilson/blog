@@ -30,6 +30,4 @@ The one thing that was very definitely lacking was the number of people attendin
 
 After all that though, I want to repeat that it was a very good, fun event that I was totally not expecting to happen but I’m extremely pleased that it did! Well done to all involved!
 
- <ins></ins>
-
-Bristol Wireless also have [some good coverage](http://www.bristolwireless.net/news/?p=412), and I’ve uploaded [my photos to Flickr](http://www.flickr.com/photos/pip/sets/72157605861093412/)
+ <ins>Bristol Wireless also have [some good coverage](http://www.bristolwireless.net/news/?p=412), and I’ve uploaded [my photos to Flickr](http://www.flickr.com/photos/pip/sets/72157605861093412/)</ins>

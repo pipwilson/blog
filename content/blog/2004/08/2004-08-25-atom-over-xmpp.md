@@ -23,6 +23,4 @@ This is a big step towards my perfect aggregator. In fact, if Atom starts suppor
 
 I can’t wait.
 
-<ins></ins>
-
-Oops, [stpeter points out](http://www.saint-andre.com/blog/2004-08.html#2004-08-25T13:36) that I should also have credited [pgmillard](http://www.pgmillard.com/blog/), who actually wrote the pubsub spec! Sorry about that Peter!
+<ins>Oops, [stpeter points out](http://www.saint-andre.com/blog/2004-08.html#2004-08-25T13:36) that I should also have credited [pgmillard](http://www.pgmillard.com/blog/), who actually wrote the pubsub spec! Sorry about that Peter!</ins>
