@@ -32,21 +32,18 @@
     {% endblock description %}
 
     <title>
-      {% block title %}
-        {% if section.title and section.ancestors | length < 2 %}  {# for root and blog home page #}
+      {% block title -%}
+        {% if section.title and section.ancestors | length < 2 -%}  {# for root and blog home page #}
           {{ section.title }} -
-
-        {% elif section.title and section.subsections %}  {# for year-based archive pages #}
+        {% elif section.title and section.subsections -%}  {# for year-based archive pages #}
           {{ section.title | date(format="%Y") }} -
-
-        {% elif section.title %}  {# all other sections are month-based archive pages - might not hold true in long term! #}
+        {% elif section.title -%}  {# all other sections are month-based archive pages - might not hold true in long term! #}
           {{section.title | date(format="%B %Y") }} -
-
-        {% elif page.title %}
+        {% elif page.title -%}
           {{ page.title }} -
-        {% endif %}
+        {% endif -%}
         {{ config.title }}
-      {% endblock title %}
+      {% endblock title -%}
     </title>
 
     {% block head %}{% endblock head %}
