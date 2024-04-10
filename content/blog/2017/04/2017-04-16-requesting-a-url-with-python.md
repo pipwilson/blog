@@ -20,8 +20,7 @@ requests
 
 [Requests](http://docs.python-requests.org/en/master/) calls itself “HTTP for Humans”, and is mostly short and concise, but I need to send some extra headers with the request because of some user-agent filtering on the server.
 
-```
-
+```python
 import requests
 
 url = 'http://www.howmanypeopleareinspacerightnow.com/peopleinspace.json'
@@ -43,8 +42,7 @@ print(inspacenow["people"][0]["name"]) # 'Peggy Whitson'
 
 [urllib3](http://dillinger.io/) describes itself as a ‘powerful, sanity-friendly HTTP client’ and it’s more verbose than I’d like for my simple case, but feels like it might scale into a larger application quite well.
 
-```
-
+```python
 import urllib3
 import json
 
@@ -59,8 +57,6 @@ print(response.data) # response body as byte string
 inspacenow = json.loads(response.data.decode('utf-8')) # response body as JSON object
 
 print(inspacenow["people"][0]["name"]) # Peggy Whitson
-
-
 ```
 
 unirest
