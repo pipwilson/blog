@@ -2,6 +2,6 @@
 
 #KONSOLEH AREA END - PLEASE ADD MANUAL CHANGES BELOW
 RewriteEngine On
-RewriteRule ^blog/feed$ /atom.xml [P,L]
+RewriteRule ^blog/feed(/?)$ /atom.xml [P,L]
 RewriteRule ^blog/feed/atom$ /atom.xml [P,L]
 RewriteRule ^blog/tags/(.*)$ /tags/$1/ [P,L]
