@@ -11,7 +11,7 @@ comments_file = "/content/blog/2010/03/2010-03-21-reading-ebooks-comments.csv"
 
 I’ve now read three books on my phone ([you can see which ones here](http://www.flickr.com/photos/pip/tags/ebook/)). I never thought it would be possible to read on a screen that wasn’t designed for this purpose; I was sure that you’d need a Kindle or Nook-type screen to be able to read in comfort and for long periods of time.
 
-<figure class="wp-caption alignright" style="width: 180px">[![The girl with the dragon tattoo](http://farm5.static.flickr.com/4046/4450710314_d91795ffd0_m.jpg "The Girl with the Dragon Tattoo")](http://www.flickr.com/photos/pip/4450710314/ "The girl with the dragon tattoo by Pip, on Flickr")<figcaption class="wp-caption-text">The Girl with the Dragon Tattoo on my Motorola Milestone</figcaption></figure>
+[![The girl with the dragon tattoo](http://farm5.static.flickr.com/4046/4450710314_d91795ffd0_m.jpg "The Girl with the Dragon Tattoo")](http://www.flickr.com/photos/pip/4450710314/ "The girl with the dragon tattoo by Pip, on Flickr")
 
 It turns out that when I have time to read it’s typically on the train or bus (OK, mostly waiting for the train or bus followed by a brief journey), and then a few hours at weekends. Reading on my phone is fine for these use cases and in fact normally more useful since I always know where my phone is, and it always knows where I left off from.
 

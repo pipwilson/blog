@@ -13,7 +13,7 @@ Congratulations to The Guardian for making me write a blog post.
 
 It’s coming up to Christmas, and like all newspapers The Guardian have a [Christmas Gift Guide](https://www.theguardian.com/lifeandstyle/ng-interactive/2016/dec/01/christmas-gift-guide-2016-shopping-buy-online). It actually looks quite nice, with well-sized images, responsive layout, good filtering and obligatory animated falling snow. When I opened it there were a couple of items which I was interested in buying. So far, so Christmas.
 
-<figure aria-describedby="caption-attachment-1438" class="wp-caption aligncenter" id="attachment_1438" style="width: 1795px">[![Screenshot of The Guardian's Christmas Gift List app](http://philwilson.org/blog/wp-content/uploads/2016/12/screenshot-www.theguardian.com-2016-12-01-21-43-08.png)](http://philwilson.org/blog/?attachment_id=1438)<figcaption class="wp-caption-text" id="caption-attachment-1438">Screenshot of The Guardian’s Christmas Gift List app</figcaption></figure>
+[![Screenshot of The Guardian's Christmas Gift List app](http://philwilson.org/blog/wp-content/uploads/2016/12/screenshot-www.theguardian.com-2016-12-01-21-43-08.png)](http://philwilson.org/blog/?attachment_id=1438)
 
 The whole thing is very similar to [Amazon’s ‘stream’ app](https://www.amazon.com/stream) (“Interesting finds, updated daily”) for browsing items. The difference comes when you actually click an item.
 
@@ -31,7 +31,7 @@ Can I therefore take a short moment to suggest to web developers everywhere that
 
 Just in case anyone was wondering, I did go and look up the implementation to see if this was the fault of a crazy JavaScript framework. As far as I can tell, it’s not. Check out lines 237 and 238 of <https://giftguide.imd1.uk/js/gui/xmas/view/singularProductView.js>:
 
-```
+```js
 var targetUrl = $(event.currentTarget).attr('data-target');
 window.open(targetUrl,"Christmas gift");
 ```
