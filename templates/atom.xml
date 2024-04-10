@@ -2,55 +2,53 @@
 <?xml-stylesheet href="/atom.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ lang }}">
     <title>{{ config.title }}
-    {%- if term %} - {{ term.name }}
-    {%- elif section.title %} - {{ section.title }}
-    {%- endif -%}
+    {% if term -%} - {{ term.name }}
+    {% elif section.title -%} - {{ section.title }}
+    {% endif -%}
     </title>
-    {%- if config.description %}
+    {% if config.description -%}
     <subtitle>{{ config.description }}</subtitle>
-    {%- endif %}
+    {% endif -%}
     <link rel="self" type="application/atom+xml" href="{{ feed_url | safe }}"/>
     <link rel="alternate" type="text/html" href="
-      {%- if section -%}
+      {% if section -%}
         {{ section.permalink | escape_xml | safe }}
-      {%- else -%}
+      {% else -%}
         {{ config.base_url | escape_xml | safe }}
-      {%- endif -%}
+      {% endif -%}
     "/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>{{ last_updated | date(format="%+") }}</updated>
     <id>{{ feed_url | safe }}</id>
-    {% set section = get_section(path="blog/_index.md") %}
-    {%- for page in section.pages %}
-    {% if loop.index0 == 10 %}{% break %}{% endif %}
+    {% set section = get_section(path="blog/_index.md") -%}
+    {% for page in section.pages -%}
+    {% if loop.index0 == 10 -%}{% break -%}{% endif -%}
     <entry xml:lang="{{ page.lang }}">
         <title>{{ page.title }}</title>
         <published>{{ page.date | date(format="%+") }}</published>
         <updated>{{ page.updated | default(value=page.date) | date(format="%+") }}</updated>
-        {% for author in page.authors %}
+        {% for author in page.authors -%}
         <author>
-          <name>
-            {{ author }}
-          </name>
+          <name>{{ author }}</name>
         </author>
-        {% else %}
+        {% else -%}
         <author>
-          <name>
-            {%- if config.author -%}
-              {{ config.author }}
-            {%- else -%}
-              Unknown
-            {%- endif -%}
-          </name>
+          <name>{% if config.author -%}{{ config.author }}{% else -%}Unknown{% endif -%}</name>
         </author>
-        {% endfor %}
+        {% endfor -%}
         <link rel="alternate" type="text/html" href="{{ page.permalink | safe }}"/>
         <id>{{ page.permalink | safe }}</id>
-        {% if page.summary %}
+        {% if page.taxonomies.tags -%}
+          {% for tag in page.taxonomies.tags -%}
+            {% set term = get_taxonomy_term(kind="tags", term=tag) -%}
+            <category scheme="https://philwilson.org/blog" term="{{ term.slug }}" />
+          {% endfor -%}
+        {% endif -%}
+        {% if page.summary -%}
         <summary type="html">{{ page.summary }}</summary>
-        {% else %}
+        {% else -%}
         <content type="html" xml:base="{{ page.permalink | escape_xml | safe }}">{{ page.content }}</content>
-        {% endif %}
+        {% endif -%}
     </entry>
-    {%- endfor %}
+    {% endfor -%}
 </feed>
