@@ -13,13 +13,13 @@
       <a href="{{ post.permalink }}">read more</a>
     </div>
   </div>
-{% endmacro input %}
+{% endmacro post_preview %}
 
 {% macro post_preview_short(post) %}
   <div class="post-preview">
     <p class="post-title"><a href="{{ post.permalink }}">{{ post.title }}</a> <span>- {{ post.date| date(format="%d %B, %Y") }}</span></p>
   </div>
-{% endmacro input %}
+{% endmacro post_preview_short %}
 
 {% macro month_number_to_name(month_number) %}
   {% if month_number == "01" %}
@@ -45,8 +45,8 @@
   {% elif month_number == "11" %}
     November
   {% elif month_number == "12" %}
-    December    
+    December
   {% else %}
     Unknown
   {% endif %}
-{% endmacro input %}
+{% endmacro month_number_to_name %}
