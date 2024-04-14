@@ -1,0 +1,31 @@
+{% macro wordcount(pages) %}
+    {% set wordcount_array = pages | map(attribute='word_count') %}
+    {% set wordcount = 0 %}
+
+    {% for wordcount_item in wordcount_array %}
+        {% set_global wordcount = wordcount + wordcount_item %}
+    {% endfor %}
+    {{ wordcount }}
+{% endmacro wordcount %}
+
+{% macro years_of_blogging(pages) %}
+    {% set newest_post = pages | sort(attribute='date') | first %}
+    {% set oldest_post = pages | sort(attribute='date') | last %}
+
+    {% set newest_timestamp = newest_post.date | date(format="%s") | int %}
+    {% set oldest_timestamp = oldest_post.date | date(format="%s") | int %}
+
+    {% set years_of_blogging = (oldest_timestamp - newest_timestamp) / (60*60*24) / 365 | round %}
+    {{ years_of_blogging }}
+{% endmacro years_of_blogging %}
+
+{% macro average_time_to_read(pages) %}
+    {% set reading_time_array = pages | map(attribute='reading_time') %}
+    {% set readingtime = 0 %}
+
+    {% for reading_time_item in reading_time_array %}
+        {% set_global readingtime = readingtime + reading_time_item %}
+    {% endfor %}
+    {% set number_of_pages = pages | length %}
+    {{ readingtime / number_of_pages | round }}
+{% endmacro average_time_to_read %}

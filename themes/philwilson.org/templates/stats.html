@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% import "stats-macros.html" as stats_macros %}
+
+{% block content %}
+
+{% set section = get_section(path="blog/_index.md") %}
+
+<p>I've written {{ section.pages | length }} blog posts, totalling {{ stats_macros::wordcount(pages=section.pages) }} words over about {{ stats_macros::years_of_blogging(pages=section.pages) }} years.</p>
+
+<p>My average blog post takes {{ stats_macros::average_time_to_read(pages=section.pages) }} minutes to read.</p>
+
+<h2>Number of posts published each year</h2>
+
+{% set posts_by_year = section.pages | group_by(attribute="year") %}
+
+<ol>
+{% for yearname, posts in section.pages | group_by(attribute="year") %}
+    <li>{{ yearname }}: {{ posts | length }} posts</li>
+{% endfor %}
+</ol>
+
+{% endblock content %}
