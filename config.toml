@@ -31,7 +31,8 @@ highlight_code = true
 
 nav = [
   { name = "About", path = "/about/" },
-  { name = "Blog", path = "/blog/" }
+  { name = "Blog", path = "/blog/" },
+  { name = "Stats", path = "/blog/stats" }
 ]
 
 latest_text = "Check out my latest post:"
