@@ -111,3 +111,17 @@ article + article {
   font-size: 75%;
   color: grey;
 }
+
+table#blogstats {
+  width: 100%;
+
+  .year {
+    width: 3em;
+  }
+
+  .postcount > span{
+    display: inline-block;
+    padding-left: 0.5em;
+    background-color: lightblue;
+  }
+}

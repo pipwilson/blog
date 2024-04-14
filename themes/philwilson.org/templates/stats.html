@@ -13,10 +13,19 @@
 
 {% set posts_by_year = section.pages | group_by(attribute="year") %}
 
-<ol>
-{% for yearname, posts in section.pages | group_by(attribute="year") %}
-    <li>{{ yearname }}: {{ posts | length }} posts</li>
+{% set max_posts_in_a_year = 0 %}
+{% for year, posts in posts_by_year %}
+    {% if posts | length > max_posts_in_a_year %}
+        {% set_global max_posts_in_a_year = posts | length %}
+    {% endif %}
 {% endfor %}
-</ol>
+
+<table id="blogstats">
+{% for yearname, posts in section.pages | group_by(attribute="year") %}
+    {% set postcount = posts | length %}
+    {% set percentage = (postcount / max_posts_in_a_year)*100 %}
+    <tr><td class="year"><a href="/blog/{{ yearname }}">{{ yearname }}</a></td><td class="postcount"><span style="width: {{ percentage }}%">{{ posts | length }}</span></td></tr>
+{% endfor %}
+</table>
 
 {% endblock content %}
