@@ -8,11 +8,9 @@ content:
       fields: [title, draft, date]
     fields:
       - { name: title, label: Title, type: string }
-      - { name: description, label: Description, type: string }
       - { name: date, label: Date, type: date }
-      - { name: body, label: Body, type: text, options: {autoresize: true}}
-      - { name: draft, label: Draft, default: true, type: boolean }
-      - { name: toc, label: TOC, default: true, type: boolean }
+      - { name: body, label: Body, type: rich-text, options: {autoresize: true}}
+      - { name: draft, label: Draft, default: false, type: boolean }
       - name: taxonomies
         label: Taxonomies
         type: object
@@ -25,15 +23,4 @@ content:
               - name: name
                 label: Tag
                 type: string
-          - name: categories
-            label: Categories
-            list: true
-            type: string
-      - name: extra
-        label: Extra
-        type: object
-        fields:
-          - name: keywords
-            label: Keywords
-            type: string
     filename: "{primary}/index.md"        
