@@ -2,4 +2,4 @@
 template = "stats.html"
 +++
 
-## Blogroll
+## Stats
