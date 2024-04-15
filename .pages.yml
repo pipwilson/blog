@@ -1,0 +1,226 @@
+  - name: config
+    label: Zola Configs
+    path: config.toml
+    type: file
+    fields:
+      - name: title
+        label: Website title
+        type: string
+      - name: description
+        label: Website description
+        type: string
+        description: Will be provused for any page with no description.
+      - name: default_language
+        label: Website Default Language
+        type: string
+      - name: date_locale
+        label: Website Default Date Locale
+        type: string
+      - name: compile_sass
+        label: Compile sass
+        default: true
+        type: boolean
+        description: Compile the sass in your theme (recomendded)
+      - name: minify_html
+        label: Minify html
+        default: false
+        type: boolean
+      - name: build_search_index
+        label: Build Search Index
+        default: true
+        type: boolean
+      - name: generate_feed
+        label: Generate Feed
+        default: true
+        type: boolean
+      - name: feed_filename
+        label: Feed Filename
+        default: "atom.xml"
+        type: string
+      - name: output_dir
+        label: Output Directory
+        default: "public"
+        type: string
+      - name: theme
+        label: Theme Name
+        type: string
+        description: Specifiy the theme name if installed.
+      - name: highlight_code
+        label: Markdown Highlight Code
+        default: true
+        type: boolean
+        description: Highlight the code in Markdown.
+      - name: render_emoji
+        label: Markdown Render emoji
+        default: true
+        type: boolean
+        description: Render emojis in Markdown.
+      - name: external_links_target_blank
+        label: Markdown External Links Target Blank
+        default: true
+        type: boolean
+        description: Equivalent to rel="noopener"
+      - name: external_links_no_follow
+        label: Markdown External Links No Follow
+        default: false
+        type: boolean
+        description: Equivalent to rel="nofollow"
+      - name: external_links_no_referrer
+        label: Markdown External Links No Referrer
+        default: false
+        type: boolean
+        description: Equivalent to rel="noreferrer"
+      - name: smart_punctuation
+        label: Markdown Smart Punctuation
+        default: false
+        type: boolean
+        description: Change `...` to `…`, `"quote"` to `“curly”`.
+      - name: recent
+        label: Recent Posts
+        default: true
+        type: boolean
+      - name: recent_items
+        label: Posts Recent Items To List
+        type: number
+        options:
+          min: 1
+      - name: footer_credit
+        label: Zola Footer Credit
+        default: true
+        type: boolean
+      - name: footer_credit_override
+        label: Override The Credit
+        type: string
+      - name: textlogo
+        label: Replace the logo
+        type: string
+        description: Use an SVG code in this field
+      - name: base_url
+        label: Website URL
+        type: string
+        pattern: ^(https?:\/\/)?(www\.)?[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(\/[^\s]*)?$
+      - name: sitedesc
+        label: Site Description
+        default: true
+        type: boolean
+        description: enables or disables the display of the site description below the logo.
+      - name: copyright_start_year
+        label: Copyright Start Year
+        type: date
+        options:
+          format: YYYY
+      - name: headhr
+        label: Header line
+        type: boolean
+        description: show or hide horizontal rule below header
+      - name: foothr
+        label: Footer Line
+        type: boolean
+        description: show or hide horizontal rule above footer
+      - name: title_separator
+        label: Website Title Separator
+        type: string
+        description: Separator between title and title_addition, set as |, -, _, etc
+      - name: title_addition
+        label: Title Addition
+        type: string
+        description: A default value for title addition
+      - name: author
+        label: Author
+        type: string
+        description: Put Your Name here
+      - name: keywords
+        label: Keywords
+        type: string
+        description: Keywords used for the primary site index
+      - name: twitter_meta
+        label: Twitter Meta
+        type: string
+        description: for SEO - twitter-site and twitter-creator
+      - name: banner
+        label: Preview image
+        type: image
+        description: Used as default image for OpenGraph/(e.g. Facebook, Twitter...) if page specific image is undefined. 
+      - name: seo
+        label: SEO
+        default: true
+        type: boolean
+        description: Enable or disable seo-related meta tags= opengraph, facebook, twitter
+      - name: mail
+        label: Your Email
+        type: string
+        description: Put your Email to list it in your blog
+      - name: mail_encode
+        label: Email Encoding
+        default: true
+        type: boolean
+        description: This obfuscates your email address, javascript is used to decode it at page load.
+      - name: feed
+        label: RSS Feed
+        type: boolean
+        default: true
+        description: This adds the RSS feed icon in the footer.
+      - name: uglyurls
+        label: Ugly URL
+        type: boolean
+        default: false
+        description: If set to true then links are generated with the full path. eg https://abridge.netlify.app/index.html
+      - name: integrity
+        label: Site Integrity
+        type: boolean
+        default: true
+        description: Increases site security, should normally be true. (setting to false is useful during js development)
+      - name: js_bundle
+        label: JS Bundle
+        type: boolean
+        default: true
+        description: Multiple javascript files combined into a single file (setting to false is useful during js development)
+      - name: js_switcher
+        label: Dark/Light Theme Switcher
+        type: boolean
+        default: true
+        description: The button that allows manually changing between light/dark mode.
+      - name: js_copycode
+        label: Code Copy Button
+        type: boolean
+        default: true
+        description: The copy button on code blocks that allows you to copy them to the clipboard.
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    format: toml-frontmatter
+    path: content/posts
+    view:
+      fields: [title, draft, date]
+    fields:
+      - { name: title, label: Title, type: string }
+      - { name: description, label: Description, type: string }
+      - { name: date, label: Date, type: date }
+      - { name: body, label: Body, type: text, options: {autoresize: true}}
+      - { name: draft, label: Draft, default: true, type: boolean }
+      - { name: toc, label: TOC, default: true, type: boolean }
+      - name: taxonomies
+        label: Taxonomies
+        type: object
+        fields:
+          - name: tags
+            label: Tags
+            type: string
+            list: true
+            fields:
+              - name: name
+                label: Tag
+                type: string
+          - name: categories
+            label: Categories
+            list: true
+            type: string
+      - name: extra
+        label: Extra
+        type: object
+        fields:
+          - name: keywords
+            label: Keywords
+            type: string
+    filename: "{primary}/index.md"        
