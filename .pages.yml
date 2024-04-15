@@ -1,14 +1,18 @@
+media:
+  input: static/images
+  output: images
 content:
   - name: posts
-    label: Posts
+    label: Blog posts
     type: collection
     format: toml-frontmatter
     path: content/blog
     view:
-      fields: [title, draft, date]
+      fields: [title, draft, date, slug]
     fields:
       - { name: title, label: Title, type: string }
-      - { name: date, label: Date, type: date }
+      - { name: slug, label: Slug, type: string }
+      - { name: date, label: Date (2024-01-01 17:00:00), type: date }
       - { name: body, label: Body, type: rich-text, options: {autoresize: true}}
       - { name: draft, label: Draft, default: false, type: boolean }
       - name: taxonomies
@@ -23,4 +27,4 @@ content:
               - name: name
                 label: Tag
                 type: string
-    filename: "{primary}/index.md"        
+    filename: "{year}-{month}-{day}-{slug}.md"
