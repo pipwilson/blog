@@ -1,7 +1,7 @@
 +++
 title = 'WordPress is gone, static site blogging with Zola is here'
 slug = 'wordpress-is-gone-blogging-with-zola'
-date = '2024-04-15'
+date = '2024-04-15 20:00:00'
 draft = false
 taxonomies.tags = [
 	'blogging',
