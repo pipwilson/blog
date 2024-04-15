@@ -5,7 +5,9 @@
 {# This template is used to show which posts are associated with a particular taxonomy term #}
 
 {% block content %}
-  <h1>{{ term.pages | length }} page(s) tagged with "{{ term.name }}"</h1>
+  {% set num_posts = term.pages | length %}
+  <h1>{{ num_posts }} post{{ num_posts | pluralize }} tagged with "{{ term.name }}"</h1>
+  <p>See <a href="/blog/tags/">all tags</a> and <a href="/blog/">the latest posts</a></p>
   <div class="taxonomy-container">
     {% if paginator.pages %}
       {% for post in paginator.pages %}
@@ -14,12 +16,12 @@
     {% endif %}
 
   <nav class="pagination">
-      {% if paginator.previous %}          
+      {% if paginator.previous %}
           <a class="previous" href="{{ paginator.previous | regex_replace(pattern=`(tags/)`, rep=`blog/tags/`) }}">‹ Previous</a>
-      {% endif %}      
-      {% if paginator.next %}          
+      {% endif %}
+      {% if paginator.next %}
           <a class="next" href="{{ paginator.next | regex_replace(pattern=`(tags/)`, rep=`blog/tags/`)}}">Next ›</a>
       {% endif %}
-  </nav>    
+  </nav>
 </div>
 {% endblock content %}
