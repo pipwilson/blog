@@ -12,7 +12,7 @@ content:
     fields:
       - { name: title, label: Title, type: string }
       - { name: slug, label: Slug, type: string }
-      - { name: date, label: Date (2024-01-01 17:00:00), type: date }
+      - { name: date, label: Date (2024-01-01 17:00:00), type: date, options: { time: true, format: YYYY-MM-DD HH:mm:ss }
       - { name: body, label: Body, type: rich-text, options: {autoresize: true}}
       - { name: draft, label: Draft, default: false, type: boolean }
       - name: taxonomies
