@@ -1,0 +1,5 @@
++++
+template = "search.html"
++++
+
+## Search

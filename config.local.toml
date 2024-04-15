@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "http://127.0.0.1:1111"
+base_url = "http://localhost"
 
 title = "local site testing"
 
@@ -22,6 +22,9 @@ theme = "philwilson.org"
 taxonomies = [
     { name = "tags", feed = true, paginate_by = 10 }
 ]
+
+[search]
+index_format = "elasticlunr_json"
 
 [markdown]
 # Whether to do syntax highlighting
