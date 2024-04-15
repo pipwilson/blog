@@ -11,7 +11,7 @@ taxonomies.tags = [
 +++
 The move is finally done and sometime last week I switched my blog over to a statically-generated site powered by [Zola](https://www.getzola.org/). This is the first post I’ve written directly into Zola.
 
-![](images/2024/04/blossom%20view.jpg)
+![](/images/2024/04/blossom%20view.jpg)
 
 In a month’s time [I’ll have been writing this blog for 22 years](https://philwilson.org/blog/2002/05/522/). 
 
