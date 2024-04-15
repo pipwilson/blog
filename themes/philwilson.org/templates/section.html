@@ -6,6 +6,7 @@
 <h1>{{section.title | date(format="%Y") }}</h1>
 {% else %}
 <h1>{{section.title | date(format="%B %Y") }}</h1>
+<p>Or you can see <a href="/blog/{{ section.title | date(format="%Y") }}">all posts in {{ section.title | date(format="%Y") }}</a></p>
 {% endif %}
 
 {% if section.pages %}
@@ -20,7 +21,7 @@
 <code>SUBSECTIONS</code>
 <ol>
   {% for subsection in section.subsections %}
-    {% set this_subsection = get_section(path=subsection, metadata_only=true) %}    
+    {% set this_subsection = get_section(path=subsection, metadata_only=true) %}
     <li><a href="{{ this_subsection.path }}">{{ this_subsection.title | date(format="%B %Y") }}</a></li>
   {% endfor %}
 </ol>
