@@ -11,7 +11,7 @@ taxonomies.tags = [
 +++
 Posting to a statically-generated site is theoretically easy - it's just a file on your desktop after all.
 
-![](images/2024/04/pens.jpg)
+![](/images/2024/04/pens.jpg)
 
 But whilst the words are easy, it's also easy to mess up the metadata, and wouldn't it be nicer to get it right in one shot? After all, the ideal for writing on your blog is hit the keyboard with your fingers until your point is made and hit "send".
 
