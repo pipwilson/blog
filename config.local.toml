@@ -20,7 +20,7 @@ build_search_index = true
 theme = "philwilson.org"
 
 taxonomies = [
-    { name = "tags", feed = true, paginate_by = 10 }
+    { name = "tags", feed = false, paginate_by = 10 }
 ]
 
 [search]
