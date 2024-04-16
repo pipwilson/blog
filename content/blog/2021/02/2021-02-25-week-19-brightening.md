@@ -1,14 +1,16 @@
 +++
-title = "Week 19: Brightening"
-date = "2021-02-25 17:31:04"
-slug = "week-19-brightening"
-[taxonomies]
-tags = ['general','weeknotes']
-[extra]
-show_comments = "false"
-comments_file = "/content/blog/2021/02/2021-02-25-week-19-brightening-comments.csv"
+title = 'Week 19: Brightening'
+slug = 'week-19-brightening'
+date = '2021-02-25 17:31:04'
+draft = false
+taxonomies.tags = [
+	'general',
+	'weeknotes',
+	'zola',
+	'flowers',
+	'daylio',
+]
 +++
-
 - There is blossom on trees!
 - There are primroses in the garden! At last, life!
 - I am making very, very slow progress in getting my blog moved over to Zola. Maybe an hour a week is not enough?
