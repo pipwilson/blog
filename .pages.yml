@@ -27,4 +27,4 @@ content:
               - name: name
                 label: Tag
                 type: string
-    filename: "{year}-{month}-{day}-{slug}.md"
+    filename: "{year}-{month}-{day}-{fields.slug}.md"
