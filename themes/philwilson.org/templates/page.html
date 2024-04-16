@@ -49,15 +49,5 @@
     {% endif %}
   {% endif %}
 
-  <section id="recentposts">
-    <h3>Latest posts:</h3>
-
-    {% set section = get_section(path="blog/_index.md") %}
-    {%- for page in section.pages %}
-    {% if loop.index0 == 5 %}{% break %}{% endif %}
-      <article class="post">
-          {{ post_macros::post_preview_short(post=page) }}
-      </article>
-    {%- endfor %}
-  </section>
 {% endblock content %}
+
