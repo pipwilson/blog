@@ -9,6 +9,6 @@ So after titling the last post "[Finding out how to write](https://philwilson.or
 
 ![applause](/images/2024/04/applause.webp)
 
-Thanks to [Gareth](https://xurble.org/) for [letting me know](https://mastodon.social/@xurble/112285173826941265).
+Thanks to [Gareth](https://xurble.org/) for letting me know.
 
 I guess I'll soon be changing my deployment process to run [zola check](https://www.getzola.org/documentation/getting-started/cli-usage/#check) before actually putting changes live!
