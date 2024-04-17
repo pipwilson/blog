@@ -19,7 +19,7 @@ But it's not quite like that when you have to faff with [frontmatter](https://da
 
 This means that some people have come up with their own workflows which I've been having a look at.
 
-[Ron Erdos is using VS Code Snippets](%5Bhttps://moonbooth.cohttps://moonbooth.com/hugo/blog-post-workflow/) to create the outline of his blog posts - that's a nice approach which is pretty simple to mimic.
+[Ron Erdos is using VS Code Snippets](https://moonbooth.com/hugo/blog-post-workflow/) to create the outline of his blog posts - that's a nice approach which is pretty simple to mimic.
 
 A [few](%5Bhttps://github.com/https://github.com/devidw/obsidian-to-hugo) [different](%5Bhttps://blog.marco.https://blog.marco.ninja/posts/2023/08/25/my-publishing-pipeline/) [people](https://github.com/dashedstripes/obsidian-to-hugo) have worked out different ways to convert their [Obsidian](https://obsidian.md/) vaults (or subset of notes) to their static blog.
 
