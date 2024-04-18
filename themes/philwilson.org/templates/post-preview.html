@@ -8,9 +8,10 @@
       {% if post.summary -%}
         {{ post.summary }}
       {% else %}
-        {{ post.content | safe | striptags | truncate(length=400) }}
+        {# the </p> ensures that we close an open tag if it gets truncated in the middle, and then the whole thing is stripped #}
+        {{ post.content | truncate(length=400, end="...</p>") | striptags | safe }}
       {%- endif %}
-      <a href="{{ post.permalink }}">read more</a>
+      <p class="read-more"><a href="{{ post.permalink }}">read more</a></p>
     </div>
   </div>
 {% endmacro post_preview %}
