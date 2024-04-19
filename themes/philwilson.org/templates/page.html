@@ -1,7 +1,5 @@
 {% extends "base.html" %}
 
-{% import "post-preview.html" as post_macros %}
-
 {# This template is used for each blog post #}
 
 {% block content %}
@@ -27,7 +25,7 @@
         {% endfor %}
       </span>
       {% if page.date %}
-      and other posts made in <a href="/blog/{{ page.date | date(format="%Y") }}/{{ page.date | date(format="%m") }}">{{ page.date | date(format="%B %Y") }}</a>.
+      and all posts made in <a href="/blog/{{ page.date | date(format="%Y") }}/{{ page.date | date(format="%m") }}">{{ page.date | date(format="%B %Y") }}</a>.
       {% endif %}
       </p>
     </section>
