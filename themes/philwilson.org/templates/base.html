@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="author" content="Phil Wilson">
+    <meta name="generator" content="Zola https://www.getzola.org/">
 
     <style>
       :root {
@@ -12,22 +14,13 @@
       }
     </style>
 
-    <meta name="theme-color" content="{{ config.extra.accent }}" />
-
+    <meta name="theme-color" content="{{ config.extra.accent }}">
     <meta property="og:type" content="website">
 
-    {% block rss %}
+    {% block rss -%}
     <link rel="alternate" type="application/atom+xml" title="philwilson.org feed" href="{{ get_url(path="blog/feed/", trailing_slash=false) }}">
     <link rel="blogroll" type="text/xml" href="{{ get_url(path="links/blogroll.opml") }}">
-    {% endblock %}
-
-    {% block description %}
-      {% if page.description %}
-        <meta name="description" content="{{ page.description }}" />
-      {% else %}
-        <meta name="description" content="{{ config.description }}" />
-      {% endif %}
-    {% endblock description %}
+    {% endblock -%}
 
     <title>
       {% block title -%}
@@ -65,11 +58,10 @@
     {% block content %} {% endblock content %}
     </main>
     <footer class="footer-about">
-      {% block footer %}
-        {% if config.extra.footer_page %}
-          {{ config.extra.footer_page | markdown | safe }}
-        {% endif %}
-      {% endblock footer %}
+      {% block footer %}{% endblock footer %}
+      {% if config.extra.footer_page %}
+        {{ config.extra.footer_page | markdown | safe }}
+      {% endif %}
     </footer>
   </body>
 </html>
