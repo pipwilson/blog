@@ -2,6 +2,10 @@
 
 {% import "post-preview.html" as post_macros %}
 
+{% block title %}
+<title>Pages tagged with {{ term.name }} - {{config.title}}</title>
+{% endblock title %}
+
 {# This template is used to show which posts are associated with a particular taxonomy term #}
 
 {% block content %}
