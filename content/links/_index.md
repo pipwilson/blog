@@ -1,5 +1,4 @@
 +++
 template = "blogroll.html"
+title = "Blogroll"
 +++
-
-## Blogroll
