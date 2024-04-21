@@ -32,6 +32,8 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 
+author_profile_url = "https://0.gravatar.com/avatar/ae6c08ea318da70038c7a967f97e30db2c6a56a51c5a2e1e35897d94c0ebd144"
+
 nav = [
   { name = "About", path = "/about/" },
   { name = "Blog", path = "/blog/" },

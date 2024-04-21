@@ -7,6 +7,21 @@
     <meta name="author" content="Phil Wilson">
     <meta name="generator" content="Zola https://www.getzola.org/">
 
+    {% block title -%}
+      {% set title = "" %}
+      {% if section.title and section.ancestors | length < 2 -%}  {# for root and blog home page #}
+          {% set title = section.title %}
+      {% elif section.title and section.subsections -%}  {# for year-based archive pages #}
+        {% set title = section.title | date(format="%Y") %}
+      {% elif section.title -%}  {# all other sections are month-based archive pages - might not hold true in long term! #}
+        {% set title = section.title | date(format="%B %Y") %}
+      {% elif page.title -%}
+        {% set title = page.title %}
+      {%- endif %}
+      {% set title = title ~ " - " ~ config.title %}
+      <title>{{ title }}</title>
+    {% endblock title -%}
+
     <style>
       :root {
         --accent-color: {{ config.extra.accent }};
@@ -16,26 +31,14 @@
 
     <meta name="theme-color" content="{{ config.extra.accent }}">
     <meta property="og:type" content="website">
+    {% if section or page %}
+    <meta property="og:image" content="https://dynamic-og-image-generator.vercel.app/api/generate?title={{title}}&author={{config.author}}&avatar={{config.extra.author_profile_url | safe}}&websiteUrl={{current_url | safe}}&theme=tinacious" />
+    {% endif %}
 
     {% block rss -%}
     <link rel="alternate" type="application/atom+xml" title="philwilson.org feed" href="{{ get_url(path="blog/feed/", trailing_slash=false) }}">
     <link rel="blogroll" type="text/xml" href="{{ get_url(path="links/blogroll.opml") }}">
     {% endblock -%}
-
-    <title>
-      {% block title -%}
-        {% if section.title and section.ancestors | length < 2 -%}  {# for root and blog home page #}
-          {{ section.title }} -
-        {% elif section.title and section.subsections -%}  {# for year-based archive pages #}
-          {{ section.title | date(format="%Y") }} -
-        {% elif section.title -%}  {# all other sections are month-based archive pages - might not hold true in long term! #}
-          {{section.title | date(format="%B %Y") }} -
-        {% elif page.title -%}
-          {{ page.title }} -
-        {% endif -%}
-        {{ config.title }}
-      {% endblock title -%}
-    </title>
 
     {% block head %}{% endblock head %}
     {% block styles %}
