@@ -8,7 +8,6 @@
     <meta name="generator" content="Zola https://www.getzola.org/">
 
     {% block title -%}
-      {% set title = "" %}
       {% if section.title and section.ancestors | length < 2 -%}  {# for root and blog home page #}
           {% set title = section.title %}
       {% elif section.title and section.subsections -%}  {# for year-based archive pages #}
@@ -18,7 +17,12 @@
       {% elif page.title -%}
         {% set title = page.title %}
       {%- endif %}
-      {% set title = title ~ " - " ~ config.title %}
+
+      {% if title %}
+        {% set title = title ~ " - " ~ config.title %}
+      {% else %}
+        {% set title = config.title %}
+      {% endif %}
       <title>{{ title }}</title>
     {% endblock title -%}
 
