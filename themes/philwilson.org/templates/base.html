@@ -37,7 +37,7 @@
     <meta property="og:type" content="website">
     {% if section or page %}
     <meta property="og:url" content="{{current_url | safe}}">
-    <meta property="og:image" content="https://dynamic-og-image-generator.vercel.app/api/generate?title={{title}}&author={{config.author}}&avatar={{config.extra.author_profile_url | safe}}&websiteUrl={{current_url | safe}}&theme=tinacious" />
+    <meta property="og:image" content="https://dynamic-og-image-generator.vercel.app/api/generate?theme=tinacious&title={{title}}&author={{config.author}}&avatar={{config.extra.author_profile_url | safe}}&websiteUrl={{current_url | safe}}" />
     {% endif %}
 
     {% block rss -%}
