@@ -29,3 +29,14 @@ jobs:
             password: ${{ secrets.SFTP_PASSWORD }}
             local-dir: ./public/
             server-dir: ${{ secrets.REMOTE_PATH }}
+
+  send_webmentions:
+    name: send webmentions
+    runs-on: ubuntu-latest
+    needs: build_job
+    steps:
+      - name: Install webmention.app
+        run: npm install @remy/webmention
+
+      - name: Send webmentions
+        run: npx webmention https://philwilson.org/atom.xml --limit 1 --send
