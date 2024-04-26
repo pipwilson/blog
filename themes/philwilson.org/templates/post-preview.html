@@ -1,4 +1,5 @@
 {% macro post_preview(post) %}
+<article class="post">
   <div class="post-preview">
     <h3 class="post-title"><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
     <span>
@@ -14,6 +15,7 @@
       <p class="read-more"><a href="{{ post.permalink }}">read more</a></p>
     </div>
   </div>
+</article>
 {% endmacro post_preview %}
 
 {% macro post_preview_short(post) %}

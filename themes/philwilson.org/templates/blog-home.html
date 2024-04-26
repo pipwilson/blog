@@ -5,7 +5,6 @@
 {% block content %}
   {% for page in section.pages %}
     {% if loop.index0 == 7 %}{% break %}{% endif %}
-      <article class="post">
           {{ post_macros::post_preview(post=page) }}
       </article>
   {% endfor %}
