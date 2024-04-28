@@ -8,7 +8,7 @@
     <div class="post-title">
       <h1 class="p-name">{{ page.title }}</h1>
       <span>
-        {% if page.date %}{{ page.date | date(format="%d %B, %Y") }}{% endif %}
+        {% if page.date %}<a href="/blog/{{ page.date | date(format="%Y")}}/{{ page.date | date(format="%m")}}" title="See all posts in {{ page.date | date(format="%B %Y") }}">{{ page.date | date(format="%d %B, %Y") }}</a>{% endif %}
       </span>
     </div>
     {{ page.content | safe }}
