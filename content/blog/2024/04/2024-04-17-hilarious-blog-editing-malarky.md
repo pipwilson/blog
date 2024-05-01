@@ -7,6 +7,8 @@ tags = ['zola', 'incompetence']
 +++
 So after titling the last post "[Finding out how to write](https://philwilson.org/blog/2024/04/finding-out-how-to-write/)", it turns out I broke just about every single link in it by writing in one tool, pasting into another, not checking it had pasted in OK and then hitting "send". Excellent work Phil, good job.
 
+<!-- more -->
+
 ![applause](/images/2024/04/applause.webp)
 
 Thanks to [Gareth](https://xurble.org/) for letting me know.

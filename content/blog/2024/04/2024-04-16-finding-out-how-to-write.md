@@ -15,6 +15,8 @@ Posting to a statically-generated site is theoretically easy - it's just a file 
 
 But whilst the words are easy, it's also easy to mess up the metadata, and wouldn't it be nicer to get it right in one shot? After all, the ideal for writing on your blog is hit the keyboard with your fingers until your point is made and hit "send".
 
+<!-- more -->
+
 But it's not quite like that when you have to faff with [frontmatter](https://daily-dev-tips.com/posts/what-exactly-is-frontmatter/).
 
 This means that some people have come up with their own workflows which I've been having a look at.

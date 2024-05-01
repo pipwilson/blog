@@ -7,7 +7,7 @@
     </span>
     <div class="summary">
       {% if post.summary -%}
-        {{ post.summary }}
+        {{ post.summary | striptags | safe }}
       {% else %}
         {# the </p> ensures that we close an open tag if it gets truncated in the middle, and then the whole thing is stripped #}
         {{ post.content | truncate(length=400, end="...</p>") | striptags | safe }}

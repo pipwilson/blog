@@ -12,6 +12,8 @@ This week I had to chase a badger out of the garden because it was trying to bre
 
 Spring on the edge of the city is literally wild.
 
+<!-- more -->
+
 * I made it more obvious on [/bins](https://philwilson.org/bins/) which bin needs to be collected next (I mostly look at this on my phone so BIG LETTERS and <span style="background-color: lightgreen">background colours</span> are good). [Code](https://github.com/pipwilson/bin-collections/) and [why I wrote this](https://philwilson.org/blog/2023/10/when-my-bins-go-out/).
 * I shredded two crates' worth of paperwork going back to 2001. Boring work, but look! now I have two crates' worth of space to fill with Lego!
 * Did lots of [playing with my blog](https://github.com/pipwilson/blog/commits/production/), including bugfixes and template changes so it publishes faster, and spent a bit of time thinking about how to add comments
