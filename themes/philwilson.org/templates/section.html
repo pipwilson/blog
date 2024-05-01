@@ -13,7 +13,6 @@
   <ol class="pagelist">
   {% for post in section.pages | reverse %}
     <li><a  href="{{ post.permalink }}" >{{ post.title }}</a><br>
-      {{ post.content | truncate(length=200, end="...</p>") | striptags | safe }}<br>
       <small>Published on {{ post.date | date(format="%d %B") }} in {% for tag in post.taxonomies.tags %} <a href="/blog/tags/{{ tag }}">{{ tag }}</a>{% endfor %}</li></small>
   {% endfor %}
   </ol>
