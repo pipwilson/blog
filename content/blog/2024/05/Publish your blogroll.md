@@ -6,7 +6,7 @@ taxonomies:
   tags:
     - opml
 ---
-You can view [an HTML version of my blogroll here](https://philwilson.org/links/), and also download the OPML from that page. Some of the links are probably dead, but they don't show up in my feed reader so ¯\\\_(ツ)_/¯
+You can view [an HTML version of my blogroll here](https://philwilson.org/blogroll/), and also download the OPML from that page. Some of the links are probably dead, but they don't show up in my feed reader so ¯\\\_(ツ)_/¯
 <!-- more -->
 
 [![Screenshot of the blogroll page](/images/2024/05/blogroll.png "Look at all the lovely people I read")](/blogroll)
