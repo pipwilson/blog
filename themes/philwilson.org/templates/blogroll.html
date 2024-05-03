@@ -4,11 +4,11 @@
 
 <h1>The things I read</h1>
 
-{% set data = load_data(path="content/links/blogroll.opml", format="xml") %}
+{% set data = load_data(path="content/blogroll/blogroll.opml", format="xml") %}
 
 {% if data %}
 
-<p><a href="/links/blogroll.opml">Download the file to import into your feed reader</a>.</p>
+<p><a href="/blogroll/blogroll.opml">Download the file to import into your feed reader</a>.</p>
 <div id="blogroll">
   {% for entry in data.opml.body.outline %}
     {% if entry["@htmlUrl"] %}

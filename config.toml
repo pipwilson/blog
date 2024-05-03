@@ -38,7 +38,7 @@ nav = [
   { name = "About", path = "/about/" },
   { name = "Blog", path = "/blog/" },
   { name = "Stats", path = "/blog/stats" },
-  { name = "Blogroll", path = "/links" }
+  { name = "Blogroll", path = "/blogroll" }
 ]
 
 latest_text = "Check out my latest post:"
