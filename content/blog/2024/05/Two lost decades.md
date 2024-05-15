@@ -30,6 +30,6 @@ But here's the real deal: with 20 years of this behaviour we now _know_ that thi
 * Get takeaway food delivered by a company that employs its staff.
 * Use the website, not the app.
 
-None of these things are real hardships, and I'm not suggesting people become digital hermits or opt completely out of the modern world, but where possible the items on the left gives better value to you than the items on the right.
+None of these things are real hardships, and I'm not suggesting people become digital hermits or opt completely out of the modern world, but where possible doing the items on the left gives more material value to you than the items on the right.
 
 In an age where all the VC-subsidised access to those things is easy and directly tangible it can be hard to revert to potentially spending more for less, but we've also learned that money is the only lever we have. Use it wisely.
