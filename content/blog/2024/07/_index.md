@@ -1,5 +1,7 @@
 ---
-title: 2024-07-01
-date: 2024-07-01 00:00:00
-draft: false
+sort_by: date
+title: '2024-06-01'
+template: section.html
+weight: 5
+transparent: true
 ---
