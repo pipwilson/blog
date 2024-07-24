@@ -11,7 +11,7 @@ taxonomies:
 Back in March when I was working on my Wordpress-to-Zola exporter I'd written some PHP to generate a .zip file with my markdown site in it, but there was a problem.
 
 Although the file size was correct, opening it with Windows Explorer revealed that there were no files in it, but opening it with [7-zip](https://www.7-zip.org/) showed that all the files were there as expected. Baffling!
-
+<!-- more -->
 I eventually found someone online with the same problem, fortunately [in an issue](https://github.com/pierrejoye/php_zip/issues/32) on [the official PHP ZIP extension repo](https://github.com/pierrejoye/php_zip)  
 
 Thankfully [one of the comments there revealed my problem](https://github.com/pierrejoye/php_zip/issues/32#issuecomment-1199671727)
