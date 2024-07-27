@@ -11,7 +11,7 @@ taxonomies:
     - disappointment
 ---
 
-I use my local library a lot, and use the [LibrariesWest app](https://play.google.com/store/apps/details?id=uk.co.solus.librarieswest) and [website](https://www.librarieswest.org.uk/) to do my browsing and make reservations. While website is "ok", the app is a travesty, and has been for years (my app review in 2016 started with "Works, after a fashion, but incredibly slow and unintuitive."). Both are provided by [Solus UK](https://wp.sol.us/).
+I use my local library a lot, and use the [LibrariesWest app](https://play.google.com/store/apps/details?id=uk.co.solus.librarieswest) and [website](https://www.librarieswest.org.uk/) to do my browsing and make reservations. While website is "ok", the app is a travesty, and has been for years (my app review in 2016 started with "Works, after a fashion, but incredibly slow and unintuitive."). <!--more-->Both are provided by [Solus UK](https://wp.sol.us/).
 
 A new release of the app came out a few months ago - if anything the app is now slower and clunkier than ever before. Every review of the app since its update has been 1 star out of 5.
 
