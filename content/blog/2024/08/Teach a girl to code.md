@@ -24,7 +24,7 @@ Layout was with tables.
 
 ![Grandma says this was all tables back in my day](/images/2024/08/tables-for-layout.jpeg)
 
-This was super-easy to visualise by setting the attribute `border="1"` (even though [it's deprecated](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table#deprecated_attributes)) so she could quickly get an idea of what she wanted her page to look like, and kept all of the layout in both the same file and the same syntax that she was slowly getting to grips with with the rest of the page.
+This was super-easy to visualise by setting the attribute `border="1"` (even though like most of the other stuff above [it's deprecated](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table#deprecated_attributes)) so she could quickly get an idea of what she wanted her page to look like, and kept all of the layout in both the same file and the same syntax that she was slowly getting to grips with with the rest of the page.
 
 All of these breaks with good practice meant that she ended up with a page she was happy to make changes to by herself, using a brand new language but which kept the simplicity and idioms from other tools she's used in the past. Maybe there's a point in the future where I teach those good practices but I strongly believe that starting with them here (CSS for layout! CSS for styles! Accessibility!) would have raised the barrier to entry way too high, and she'd have dropped the whole thing.
 
