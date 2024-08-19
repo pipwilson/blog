@@ -1,6 +1,6 @@
 ---
 title: Teach a girl to code HTML
-date: 2024-08-04 12:51:49
+date: 2024-08-19 10:51:49
 slug: teach-a-girl-to-code-html
 taxonomies:
   tags:
