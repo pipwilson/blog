@@ -38,6 +38,5 @@ I think some don't quite qualify - e.g. 13 going on 30, Edge of Tomorrow and Int
 
 Most of those are actually pretty good, but the one I have the fondest adult memories of (rather than ones I watched as a kid and have automatic rose-coloured filters applied) is Palm Springs. It's [free to stream on Amazon Prime in the UK right now](https://www.justwatch.com/uk/movie/palm-springs).
 
-## and ones I haven't seen but want to (yet - or have I?)
-
+# And ones I haven't seen yet (or have I?) but want to (yet - or have I?)
 Are there any? Maybe [Frequency](https://en.m.wikipedia.org/wiki/Frequency_(2000_film)) and [The Girl Who Leapt Through Time](https://en.m.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film))?
