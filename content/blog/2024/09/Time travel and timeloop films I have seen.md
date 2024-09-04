@@ -8,7 +8,7 @@ taxonomies:
     - timetravel
 ---
 
-In merely the order I remembered them: 
+In merely the order I remembered them:
 
 - [Back to the Future series](https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise))
 - [Avengers: Endgame](https://en.wikipedia.org/wiki/Avengers:_Endgame)
@@ -38,5 +38,6 @@ I think some don't quite qualify - e.g. 13 going on 30, Edge of Tomorrow and Int
 
 Most of those are actually pretty good, but the one I have the fondest adult memories of (rather than ones I watched as a kid and have automatic rose-coloured filters applied) is Palm Springs. It's [free to stream on Amazon Prime in the UK right now](https://www.justwatch.com/uk/movie/palm-springs).
 
-# And ones I haven't seen yet (or have I?) but want to (yet - or have I?)
-Are there any? Maybe [Frequency](https://en.m.wikipedia.org/wiki/Frequency_(2000_film)) and [The Girl Who Leapt Through Time](https://en.m.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film))?
+# And ones I haven't seen yet (or have I?) but want to
+
+Are there any? Maybe [Frequency](https://en.m.wikipedia.org/wiki/Frequency_(2000_film)) and [The Girl Who Leapt Through Time](https://en.m.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film))? Otherwise it's looking like I've mined this particular sci-fi seam about as far as it's worth doing!
