@@ -19,7 +19,7 @@
 
   <section id="activities">
     <h3>Distance travelled per month</h2>
-    <p>I have recorded {{ total_distance | round }}km of activity on Strava this year</p>
+    <p>I have recorded {{ total_distance | round }}km of activity on Strava this year so far</p>
     <table id="stats">
     {% for activity in activities %}
     {% set percentage = (activity.distanceInKm / max_distance_in_a_month)*100 %}
