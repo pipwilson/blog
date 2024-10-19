@@ -20,11 +20,11 @@
     {% endif %}
 {% endfor %}
 
-<table id="blogstats">
+<table id="stats">
 {% for yearname, posts in section.pages | group_by(attribute="year") %}
     {% set postcount = posts | length %}
     {% set percentage = (postcount / max_posts_in_a_year)*100 %}
-    <tr><td class="year"><a href="/blog/{{ yearname }}">{{ yearname }}</a></td><td class="postcount"><span style="width: {{ percentage }}%">{{ posts | length }}</span></td></tr>
+    <tr><td class="when"><a href="/blog/{{ yearname }}">{{ yearname }}</a></td><td class="data"><span class="blogstats" style="width: {{ percentage }}%">{{ posts | length }}</span></td></tr>
 {% endfor %}
 </table>
 

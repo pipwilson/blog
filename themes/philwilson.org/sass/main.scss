@@ -152,17 +152,25 @@ article+article {
   color: grey;
 }
 
-table#blogstats {
+table#stats {
   width: 100%;
 
-  .year {
+  .when {
     width: 3em;
   }
 
-  .postcount>span {
+  .data>span {
     display: inline-block;
     padding-left: 0.5em;
-    background-color: lightblue;
+
+    &.blogstats {
+      background-color: lightblue;
+    }
+
+    &.strava {
+      color: white;
+      background-color: #FC4C02;
+    }
   }
 }
 

@@ -1,0 +1,36 @@
+{% extends "base.html" -%}
+{% import "post-macros.html" as post_macros -%}
+
+{% block content %}
+
+<!-- https://www.getzola.org/documentation/templates/overview/#load-data -->
+
+{% set activities = load_data(path='strava/monthly_distances.json') %}
+{% if activities %}
+  {% set max_distance_in_a_month = 0 %}
+  {% set total_distance = 0 %}
+
+  {% for activity in activities %}
+      {% if activity.distanceInKm > max_distance_in_a_month %}
+          {% set_global max_distance_in_a_month = activity.distanceInKm %}
+      {% endif %}
+      {% set_global total_distance = total_distance + activity.distanceInKm %}
+  {% endfor %}
+
+  <section id="activities">
+    <h3>Distance travelled per month</h2>
+    <p>I have recorded {{ total_distance | round }}km of activity on Strava this year</p>
+    <table id="stats">
+    {% for activity in activities %}
+    {% set percentage = (activity.distanceInKm / max_distance_in_a_month)*100 %}
+      <tr>
+        {% set month = activity.when | split(pat="-") %}
+        <td class="when">{{ post_macros::month_number_to_name(month_number=month[1]) }}</td>
+        <td class="data"><span class="strava" style="width: {{ percentage }}%">{{ activity.distanceInKm | round }}</span></td>
+      </tr>
+    {% endfor %}
+  </table>
+  </section>
+{% endif %}
+
+{% endblock content %}
