@@ -37,16 +37,18 @@ body {
     padding: 1rem;
     max-width: 100%;
   }
-}
 
-code {
-  background: hsla(0, 0%, 0%, 0.04);
-  padding: 0.2em 0;
+  code {
+    background: hsla(0, 0%, 0%, 0.04);
+    padding: 0.2em 0;
 
-  pre > & {
-    background: none;
+    pre > & {
+      background: none;
+    }
   }
 }
+
+
 
 a,
 a:visited {
@@ -104,18 +106,25 @@ header {
   margin: auto;
   display: flex;
   flex-direction: row;
-}
+  flex-wrap: wrap;
 
-nav {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  margin-left: auto;
+  h1 {
+    justify-content: flex-start;
+    flex-grow: 1;
+  }
 
-  > a:not(:last-child) {
-    margin-right: 1.2rem;
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+
+    > a:not(:last-child) {
+      margin-right: 1.2rem;
+    }
   }
 }
+
 
 hr {
   border: solid 1px rgba(0, 0, 0, 0.1);

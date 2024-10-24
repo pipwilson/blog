@@ -1,0 +1,24 @@
+{% extends "base.html" -%}
+
+{% block head %}
+<link rel="stylesheet" href="{{ get_url(path="books.css") | safe }}">
+{% endblock head %}
+
+{% block content %}
+
+<!-- https://www.getzola.org/documentation/templates/overview/#load-data -->
+
+{% set books = load_data(path='books/books.json') %}
+{% if books %}
+<ul class="books">
+  {% for book in books %}
+  <li>
+    <img src="https://images-eu.bookshop.org/images/{{book.isbn13}}.jpg" loading="lazy" width="170px" height="255px">
+    <span class="book-title">{{ book.title }}</span>
+    <span class=""book-author>{{ book.author }}</span>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% endblock content %}
