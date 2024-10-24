@@ -10,8 +10,6 @@ taxonomies:
     - blogging
 ---
 
-{{ book(title="Rights of Man", author="Thomas Paine", when="2024-08", isbn="9781804183946") }}
-
 I have a new page on my website to show me [how much distance I've tracked with Strava this year](https://philwilson.org/strava/).
 
 It's powered by [this JSON file](https://philwilson.org/strava/monthly_distances.json) and [this Zola template](https://github.com/pipwilson/blog/blob/production/themes/philwilson.org/templates/strava.html), which renders the data out as a static webpage like the rest of the site.
