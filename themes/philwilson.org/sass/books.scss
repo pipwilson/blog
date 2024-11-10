@@ -5,16 +5,20 @@ ul.books {
 
     li {
         list-style-type: none;
+        margin-top: 1em;
 
         img {
             display: block;
-            object-fit: contain;
             margin: 0;
             border: 0;
         }
 
         .book-title, .book-author {
             display: block;
+        }
+
+        .book-author {
+            font-size: 95%;
         }
     }
 }
