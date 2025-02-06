@@ -13,7 +13,7 @@ taxonomies:
 
 **Endpoint**: I now have a household music streaming server with [native apps on android and iphone](https://substreamerapp.com/), a web client and [desktop client](https://github.com/dweymouth/supersonic). I could put it on the internet to use when I'm out and about if I wanted to. Very cool! In my browser it looks like this:
 
-![](navidrome-screenshot.png)
+![](../navidrome-screenshot.png)
 
 **Longer:** I've been interested in setting my own streaming servers up for years. I've given Plex a go as a video server but its creeping commercialism kept me from going all-in so [Jellyfin](https://jellyfin.org/) has been tempting me but I don't have a PC that could do the necessary video transcoding lying around that I yet want to leave turned on 24/7.
 
