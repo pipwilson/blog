@@ -11,7 +11,9 @@
         {% if page.date %}<a href="/blog/{{ page.date | date(format="%Y")}}/{{ page.date | date(format="%m")}}" title="See all posts in {{ page.date | date(format="%B %Y") }}">{{ page.date | date(format="%d %B, %Y") }}</a>{% endif %}
       </span>
     </div>
-    {{ page.content | safe }}
+    <div class="e-content">
+      {{ page.content | safe }}
+    </div>
   </article>
 
   {% if page.taxonomies.tags %}
