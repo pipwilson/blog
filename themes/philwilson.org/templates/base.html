@@ -71,9 +71,8 @@
     </main>
     <footer class="footer-about">
       {% block footer %}{% endblock footer %}
-      {% if config.extra.footer_page %}
-        {{ config.extra.footer_page | markdown | safe }}
-      {% endif %}
+      <p><a href="{{ get_url(path="blog/feed/", trailing_slash=false) }}">RSS</a>
+      <p>a geek commodity</p>
     </footer>
   </body>
 </html>
