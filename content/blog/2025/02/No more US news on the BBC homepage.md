@@ -42,4 +42,4 @@ I haven't packaged it up yet so [get the code](https://github.com/pipwilson/bbc-
 8. Select the folder you downloaded the code to
 9. Done (but you will have to redo these steps each time you restart Firefox [because of Reasons](https://www.urbandictionary.com/define.php?term=because%20of%20reasons)).
 
-Also, yes, [a greasemonkey/tampermonkey script](https://greasyfork.org/en) could do the same thing, but I've been burned by posting my code there before. Feel free to grab the code from [https://github.com/pipwilson/bbc-no-us-news/blob/main/src/content.js] and import it.
+Also, yes, [a greasemonkey/tampermonkey script](https://greasyfork.org/en) could do the same thing, but I've been burned by posting my code there before. Feel free to grab the code from <https://github.com/pipwilson/bbc-no-us-news/blob/main/src/content.js> and import it.
