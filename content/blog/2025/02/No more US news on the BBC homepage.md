@@ -17,7 +17,9 @@ I use the BBC News website when I'm trying to find out what's going on, but I'd 
 
 I used Copilot to help me bash together an extension for both Chrome and Firefox which simply removes US-based news from the BBC News homepage.
 
-It doesn't do any fancy news item replacement, or insertion of [Place Cats](https://placecats.com/). Just takes away the madness that you in the UK don't need to be dealing with.
+<del>It doesn't do any fancy news item replacement, or insertion of [Place Cats](https://placecats.com/). Just takes away the madness that you in the UK don't need to be dealing with.</del>
+
+<ins>OK I got image replacement working, but [you get dogs instead of cats](https://philwilson.org/blog/2025/02/good-doggo-bad-news/).</ins>
 
 Is this really necessary, you ask? Sometimes, yes:
 
