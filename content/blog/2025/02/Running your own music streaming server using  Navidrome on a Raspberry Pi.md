@@ -63,6 +63,7 @@ services:
 `docker-compose up -d`
 
 To check its status: `docker ps`
+
 To check the logs: `docker logs <container id>`
 
 ## Use Navidrome!
@@ -72,6 +73,7 @@ To check the logs: `docker logs <container id>`
 6. Play music!
 
 If that is all working then:
+
 7. Create a second non-admin user
 8. Install substreamer: https://substreamerapp.com/
 9. Log in and stream your music on your phone!
