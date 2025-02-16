@@ -24,8 +24,8 @@ jobs:
             protocol: ftps
             username: ${{ secrets.SFTP_USERNAME }}
             password: ${{ secrets.SFTP_PASSWORD }}
-            local-dir: ./static/services
-            server-dir: /public_html/www.philwilson.org/services
+            local-dir: ./static/services/
+            server-dir: /public_html/www.philwilson.org/services/
 
       - name: Build website
         run: make production
