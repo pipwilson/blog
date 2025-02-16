@@ -12,7 +12,7 @@ build_local:
 	@echo "Deleting config.toml"
 	rm -f config.toml
 	@echo "Creating config.toml"
-	cat config_local.toml config_common.toml > config.toml
+	cat config_local.toml config_common.toml config_local_extra.toml > config.toml
 	@echo "Running local dev server"
 	zola serve
 
@@ -20,7 +20,7 @@ build_local_books:
 	@echo "Deleting config.toml"
 	rm -f config.toml
 	@echo "Creating config.toml"
-	cat config_local_books.toml config_common.toml > config.toml
+	cat config_local_books.toml config_common.toml  config_local_extra.toml > config.toml
 	@echo "Running local dev server"
 	zola build
 
@@ -28,6 +28,6 @@ build_production:
 	@echo "Deleting config.toml"
 	rm -f config.toml
 	@echo "Creating config.toml"
-	cat config_production.toml config_common.toml > config.toml
+	cat config_production.toml config_common.toml  config_production_extra.toml > config.toml
 	@echo "Building website for production"
 	zola build
