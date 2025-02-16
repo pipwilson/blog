@@ -5,7 +5,7 @@ on:
     branches: [ "production" ]
 
 jobs:
-  build_job:
+build_job:
     name: build
     runs-on: ubuntu-latest
     steps:
@@ -16,6 +16,16 @@ jobs:
 
       - name: Get latest code
         uses: actions/checkout@v2
+
+      - name: Upload services files to server
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+            server: ${{ secrets.SFTP_SERVER }}
+            protocol: ftps
+            username: ${{ secrets.SFTP_USERNAME }}
+            password: ${{ secrets.SFTP_PASSWORD }}
+            local-dir: ./static/services
+            server-dir: /public_html/www.philwilson.org/services
 
       - name: Build website
         run: make production
