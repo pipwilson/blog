@@ -5,7 +5,7 @@ on:
     branches: [ "production" ]
 
 jobs:
-build_job:
+  build_job:
     name: build
     runs-on: ubuntu-latest
     steps:
