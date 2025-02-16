@@ -25,7 +25,7 @@ jobs:
             username: ${{ secrets.SFTP_USERNAME }}
             password: ${{ secrets.SFTP_PASSWORD }}
             local-dir: ./static/services/
-            server-dir: /public_html/www.philwilson.org/services/
+            server-dir: services/
 
       - name: Build website
         run: make production
