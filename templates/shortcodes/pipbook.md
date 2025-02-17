@@ -6,5 +6,4 @@
     body='{"text":"'~body~'"}')
 %}
 
-<pre>{{ pipbook }}</pre>
 {{ body }}
