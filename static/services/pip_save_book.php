@@ -39,7 +39,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         save_url_if_not_exists($url);
     }
 } else {
-    echo('POST request not received');
+    echo('POST request not received: ' . $_SERVER['REQUEST_METHOD']);
     exit;
 }
 
