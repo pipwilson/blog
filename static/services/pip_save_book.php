@@ -22,19 +22,27 @@ function save_url_if_not_exists($url) {
 
 // Check if the request method is POST
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    echo('POST request received');
     $markdown = file_get_contents('php://input') ?? null;
+
+    echo('Received markdown: ' . $markdown);
 
     if ($markdown !== null) {
         $url = extract_url_from_markdown($markdown);
         if ($url === null) {
+            echo('didn\'t find a URL in the markdown');
             exit;
         }
 
         // Save the URL if it does not already exist in either file
+        echo('Extracted URL: ' . $url);
         save_url_if_not_exists($url);
     }
+} else {
+    echo('POST request not received');
+    exit;
 }
 
-echo('I did a thing!');
+echo('shortcode finished');
 exit;
 ?>
