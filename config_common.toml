@@ -5,7 +5,7 @@ compile_sass = true
 
 # whether to generate rss/atom
 generate_feeds = true
-feed_filename = "atom.xml"
+feed_filenames = ["atom.xml"]
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
