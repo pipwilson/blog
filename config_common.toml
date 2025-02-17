@@ -4,7 +4,7 @@ author = "Phil Wilson"
 compile_sass = true
 
 # whether to generate rss/atom
-generate_feed = true
+generate_feeds = true
 feed_filename = "atom.xml"
 
 # Whether to build a search index to be used later on by a JavaScript library
