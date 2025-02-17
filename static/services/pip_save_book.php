@@ -21,8 +21,8 @@ function save_url_if_not_exists($url) {
 }
 
 // Check if the request method is POST
-if ($_SERVER['REQUEST_METHOD'] === 'GET') {
-    echo('GET request received');
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    echo('POST request received');
     $markdown = file_get_contents('php://input') ?? null;
 
     echo('Received markdown: ' . $markdown);
@@ -39,7 +39,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET') {
         save_url_if_not_exists($url);
     }
 } else {
-    echo('GET request not received: ' . $_SERVER['REQUEST_METHOD']);
+    echo('POST request not received: ' . $_SERVER['REQUEST_METHOD']);
     exit;
 }
 
