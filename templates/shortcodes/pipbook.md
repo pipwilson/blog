@@ -3,7 +3,7 @@
     format="plain",
     content_type="text/plain",
     method="POST",
-    body='{"text":"'~body~'"}')
+    body=body)
 %}
 
 {{ body }}
