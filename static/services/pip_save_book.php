@@ -33,7 +33,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         // Save the URL if it does not already exist in either file
         save_url_if_not_exists($url);
     }
-    echo 'I did a thing';
 }
 
+echo('I did a thing!');
+exit;
 ?>
