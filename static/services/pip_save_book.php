@@ -1,11 +1,8 @@
 <?php
 
-function extract_url_from_markdown($markdown) {
-    preg_match('/\((https:\/\/uk\.bookshop\.org\/p\/books\/[^\)]+)\)/', $markdown, $matches);
-    if (empty($matches[1])) {
-        return null;
-    }
-    return $matches[1];
+function extract_urls_from_markdown($markdown) {
+    preg_match_all('/\((https:\/\/uk\.bookshop\.org\/p\/books\/[^\)]+)\)/', $markdown, $matches);
+    return $matches[1] ?? [];
 }
 
 function save_url_if_not_exists($url) {
@@ -22,21 +19,19 @@ function save_url_if_not_exists($url) {
 
 // Check if the request method is POST
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    echo('POST request received');
     $markdown = file_get_contents('php://input') ?? null;
 
-    echo('Received markdown: ' . $markdown);
-
     if ($markdown !== null) {
-        $url = extract_url_from_markdown($markdown);
-        if ($url === null) {
-            echo('didn\'t find a URL in the markdown');
+        $urls = extract_urls_from_markdown($markdown);
+        if (empty($urls)) {
+            echo('No URLs found in the markdown');
             exit;
         }
 
-        // Save the URL if it does not already exist in either file
-        echo('Extracted URL: ' . $url);
-        save_url_if_not_exists($url);
+        // Save each URL if it does not already exist in either file
+        foreach ($urls as $url) {
+            save_url_if_not_exists($url);
+        }
     }
 } else {
     echo('POST request not received: ' . $_SERVER['REQUEST_METHOD']);
