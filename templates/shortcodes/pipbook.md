@@ -6,4 +6,5 @@
     body=body)
 %}
 
+<pre>{{ pipbook }}</pre>
 {{ body }}
