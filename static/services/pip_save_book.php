@@ -1,8 +1,8 @@
 <?php
 
-function extract_urls_from_markdown($markdown) {
-    preg_match_all('/\((https:\/\/uk\.bookshop\.org\/p\/books\/[^\)]+)\)/', $markdown, $matches);
-    return $matches[1] ?? [];
+function extract_urls_from_html($html) {
+    preg_match_all('/https:\/\/uk\.bookshop\.org\/p\/books\/[^\s"]+/', $html, $matches);
+    return $matches[0] ?? [];
 }
 
 function save_url_if_not_exists($url) {
@@ -12,6 +12,8 @@ function save_url_if_not_exists($url) {
     $unprocessed_urls = file_exists($unprocessed_file_path) ? file($unprocessed_file_path, FILE_IGNORE_NEW_LINES) : [];
     $processed_urls = file_exists($processed_file_path) ? file($processed_file_path, FILE_IGNORE_NEW_LINES) : [];
 
+    // only save the URL if we haven't seen it before
+    // in the future I might want a way of recording the same book twice but NOT TODAY.
     if (!in_array($url, $unprocessed_urls) && !in_array($url, $processed_urls)) {
         file_put_contents($unprocessed_file_path, $url . PHP_EOL, FILE_APPEND);
     }
@@ -19,25 +21,33 @@ function save_url_if_not_exists($url) {
 
 // Check if the request method is POST
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    $markdown = file_get_contents('php://input') ?? null;
+    $input = file_get_contents('php://input') ?? null;
 
-    if ($markdown !== null) {
-        $urls = extract_urls_from_markdown($markdown);
-        if (empty($urls)) {
-            echo('No URLs found in the markdown');
+    if ($input !== null) {
+
+        $data = json_decode($input, true, 2, JSON_INVALID_UTF8_IGNORE);
+        if (json_last_error() !== JSON_ERROR_NONE) {
             exit;
         }
 
-        // Save each URL if it does not already exist in either file
-        foreach ($urls as $url) {
-            save_url_if_not_exists($url);
+        $pageUrl = $data['pageUrl'] ?? null;
+        $html = urldecode($data['text']) ?? null;
+
+        if ($html !== null) {
+            $urls = extract_urls_from_html($html);
+            if (empty($urls)) {
+                exit;
+            }
+
+            // Save each URL if it does not already exist in either file
+            foreach ($urls as $url) {
+                save_url_if_not_exists($url);
+            }
         }
     }
 } else {
-    echo('POST request not received: ' . $_SERVER['REQUEST_METHOD']);
     exit;
 }
 
-echo('shortcode finished');
 exit;
 ?>

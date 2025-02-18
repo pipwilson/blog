@@ -12,6 +12,17 @@
       </span>
     </div>
     <div class="e-content">
+      {% if page.content is matching("bookshop.org/p/books/") %}
+        {% set encodedContent = page.content | urlencode %}
+        {% set pipbook = load_data(
+          url=config.extra.base_services_url~"pip_save_book.php",
+          format="plain",
+          content_type="text/plain",
+          method="POST",
+          body='{ "pageUrl": "'~page.permalink~'", "text": "'~encodedContent~'" }')
+        %}
+        {{ pipbook}}
+      {% endif %}
       {{ page.content | safe }}
     </div>
   </article>
