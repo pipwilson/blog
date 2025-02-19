@@ -26,6 +26,20 @@ function save_book_details($book_details) {
     file_put_contents("$books_dir/$filename", $json_data);
 }
 
+function process_url($url) {
+    $unprocessed_file_path = 'unprocessed_urls.txt';
+    $processed_file_path = 'processed_urls.txt';
+
+    $unprocessed_urls = file_exists($unprocessed_file_path) ? file($unprocessed_file_path, FILE_IGNORE_NEW_LINES) : [];
+
+    // Remove the URL from unprocessed URLs and add it to processed URLs
+    if (($key = array_search($url, $unprocessed_urls)) !== false) {
+        unset($unprocessed_urls[$key]);
+        file_put_contents($unprocessed_file_path, implode(PHP_EOL, $unprocessed_urls) . PHP_EOL);
+        file_put_contents($processed_file_path, $url . PHP_EOL, FILE_APPEND);
+    }
+}
+
 // Check if the request method is POST
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $json_input = file_get_contents('php://input');
@@ -43,6 +57,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         ];
 
         save_book_details($book_details);
+
+        // Process the URL
+        $url = $data['properties']['offers'][0]['properties']['url'][0] ?? '';
+        if ($url) {
+            process_url($url);
+        }
     } else {
         echo('Invalid JSON input');
         exit;
