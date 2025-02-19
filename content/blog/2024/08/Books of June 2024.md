@@ -7,9 +7,9 @@ taxonomies:
     - books
 ---
 
-A quiet month for reading, mostly of the first two books in [The New York Trilogy by Paul Auster](https://www.hive.co.uk/Product/Paul-Auster/The-New-York-Trilogy--Faber-Modern-Classics/17128408), who [died recently](https://www.nytimes.com/2024/04/30/books/paul-auster-dead.html).
+A quiet month for reading, mostly of the first two books in [The New York Trilogy by Paul Auster](https://uk.bookshop.org/p/books/the-new-york-trilogy-faber-modern-classics-paul-auster/1292764?ean=9780571322800), who [died recently](https://www.nytimes.com/2024/04/30/books/paul-auster-dead.html).
 
-These are post-modern detective stories and really quite curious beasts, although well-written. 
+These are post-modern detective stories and really quite curious beasts, although well-written.
 
 Both are about the concept of identity and individuality and regardless of the problems set before the detective the investigations are into his perception of reality, time and meaning.
 
