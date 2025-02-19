@@ -16,17 +16,36 @@ function save_url_if_not_exists($url) {
     // in the future I might want a way of recording the same book twice but NOT TODAY.
     if (!in_array($url, $unprocessed_urls) && !in_array($url, $processed_urls)) {
         file_put_contents($unprocessed_file_path, $url . PHP_EOL, FILE_APPEND);
+        log_message("URL saved: $url");
+    } else {
+        log_message("URL already exists: $url");
     }
+}
+
+function log_message($message) {
+    $date = date('d-m-Y');
+    $log_dir = "logs";
+    $log_file_path = "$log_dir/log_$date.txt";
+
+    // Create the logs directory if it doesn't exist
+    if (!is_dir($log_dir)) {
+        mkdir($log_dir, 0777, true);
+    }
+
+    file_put_contents($log_file_path, $message . PHP_EOL, FILE_APPEND);
 }
 
 // Check if the request method is POST
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    log_message("Request method is POST");
     $input = file_get_contents('php://input') ?? null;
 
     if ($input !== null) {
+        log_message("Input received: $input");
 
         $data = json_decode($input, true, 2, JSON_INVALID_UTF8_IGNORE);
         if (json_last_error() !== JSON_ERROR_NONE) {
+            log_message("JSON decode error: " . json_last_error_msg());
             exit;
         }
 
@@ -34,8 +53,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $html = urldecode($data['text']) ?? null;
 
         if ($html !== null) {
+            log_message("HTML content received");
+
             $urls = extract_urls_from_html($html);
             if (empty($urls)) {
+                log_message("No URLs found in HTML");
                 exit;
             }
 
@@ -43,9 +65,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             foreach ($urls as $url) {
                 save_url_if_not_exists($url);
             }
+        } else {
+            log_message("HTML content is null");
         }
+    } else {
+        log_message("No input received");
     }
 } else {
+    log_message("Request method is not POST");
     exit;
 }
 
