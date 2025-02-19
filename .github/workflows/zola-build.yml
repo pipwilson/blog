@@ -23,7 +23,7 @@ jobs:
             server-dir: ${{ secrets.REMOTE_PATH }}services/
 
   build_job:
-    name: build
+    name: build zola site
     runs-on: ubuntu-latest
     needs: copy_services
     steps:
@@ -35,15 +35,21 @@ jobs:
       - name: Get latest code
         uses: actions/checkout@v2
 
-      - name: Debug request method
-        run: |
-          curl -X POST -d '{"text":"https://uk.bookshop.org/p/books/the-centre-ayesha-manazir-siddiqi/7354151?ean=9781529097849"}' https://philwilson.org/services/pip_save_book.php
-
       - name: Build website
         run: make production
 
+      - name: Upload files to server
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+            server: ${{ secrets.SFTP_SERVER }}
+            protocol: ftps
+            username: ${{ secrets.SFTP_USERNAME }}
+            password: ${{ secrets.SFTP_PASSWORD }}
+            local-dir: ./public/
+            server-dir: ${{ secrets.REMOTE_PATH }}
+
   run_python_script:
-    name: Run Python Script
+    name: Extract and send book microdata
     runs-on: ubuntu-latest
     needs: build_job
     steps:
@@ -57,28 +63,10 @@ jobs:
       - name: Run save_microdata_from_urls.py
         run: python3 ./static/services/save_microdata_from_urls.py
 
-  upload_files:
-    name: Upload files to server
-    runs-on: ubuntu-latest
-    needs: run_python_script
-    steps:
-      - name: Get latest code
-        uses: actions/checkout@v2
-
-      - name: Upload files to server
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-            server: ${{ secrets.SFTP_SERVER }}
-            protocol: ftps
-            username: ${{ secrets.SFTP_USERNAME }}
-            password: ${{ secrets.SFTP_PASSWORD }}
-            local-dir: ./public/
-            server-dir: ${{ secrets.REMOTE_PATH }}
-
   send_webmentions:
     name: send webmentions
     runs-on: ubuntu-latest
-    needs: upload_files
+    needs: build_job
     steps:
       - name: Install webmention.app
         run: npm install @remy/webmention
