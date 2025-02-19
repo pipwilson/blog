@@ -23,7 +23,7 @@ function save_url_if_not_exists($url) {
 }
 
 function log_message($message) {
-    $date = date('d-m-Y');
+    $date = date('Y-m-d');
     $log_dir = "logs";
     $log_file_path = "$log_dir/log_$date.txt";
 
