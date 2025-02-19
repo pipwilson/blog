@@ -4,7 +4,7 @@ import hashlib
 import cloudscraper
 
 def get_unprocessed_urls():
-    url = 'http://localhost/get_unprocessed_urls.php'  # Update with the correct URL
+    url = 'https://philwilson.org/services/get_unprocessed_urls.php'  # Update with the correct URL
     response = requests.get(url)
 
     if response.status_code == 200:
