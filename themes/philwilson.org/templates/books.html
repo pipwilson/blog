@@ -8,32 +8,31 @@
 
 <!-- https://www.getzola.org/documentation/templates/overview/#load-data -->
 
-<!-- TODO move to data/books.json -->
-{% set books = load_data(path='/data/books-static.json',
+{% set books = load_data(url=config.extra.base_services_url~'/books.json',
                         format="json",) %}
 
 {% if books | length > 0 %}
-<h1>{{ books | length }} books</h1>
-<ul class="books">
-    {% for book in books %}
-  <li>
-    {% if book.isbn13 and book.isbn13 | length > 0 %}
-      {% set coverUrl ="https://images-us.bookshop.org/ingram/"~book.isbn13~".jpg" %}
-      {# {% set coverUrl ="https://images.isbndb.com/covers/65/21/"~book.isbn13~".jpg" %} #}
-      {% set cover = load_data(url=coverUrl, required = false) %}
-      {% if cover %}<img src="https://images-us.bookshop.org/ingram/{{ book.isbn13 }}.jpg" loading="lazy" width="170px" height="255px">
-      {% else %}<img src="https://tourntables.com/wp-content/uploads/2015/03/image-book-not-found.png" loading="lazy" width="170px" height="255px">
+  <h1>{{ books | length }} books</h1>
+  <ul class="books">
+      {% for book in books %}
+    <li>
+      {% if book.isbn | length > 0 %}
+        {# {% set coverUrl ="https://images-us.bookshop.org/ingram/"~book.isbn~".jpg" %} #}
+        {# {% set coverUrl ="https://images.isbndb.com/covers/65/21/"~book.isbn~".jpg" %} #}
+        {# {% set cover = load_data(url=coverUrl, required = false) %} #}
+        {% if book.image | length > 0 and book.image[0] | length > 0 %}<img src="{{ book.image[0] }}" loading="lazy" width="170px" height="255px">
+        {% else %}<img src="https://tourntables.com/wp-content/uploads/2015/03/image-book-not-found.png" loading="lazy" width="170px" height="255px">
+        {% endif %}
       {% endif %}
-    {% endif %}
-    <span class="book-title">
-      {% if book.url %}<a href="{{ book.url }}">{{ book.title }}</a>
-      {% else %}{{ book.title }}
-      {% endif %}
-    </span>
-    <span class="book-author">{{ book.author }}</span>
-  </li>
-  {% endfor %}
-</ul>
+      <span class="book-title">
+        {% if book.url %}<a href="{{ book.url }}">{{ book.name[0] }}</a>
+        {% else %}{{ book.name }}
+        {% endif %}
+      </span>
+      <span class="book-author">{{ book.author | join(sep=', ') }}</span>
+    </li>
+    {% endfor %}
+  </ul>
 {% endif %}
 
 {% endblock content %}
