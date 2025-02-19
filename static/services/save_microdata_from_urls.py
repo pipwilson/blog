@@ -4,7 +4,7 @@ import hashlib
 import cloudscraper
 
 def get_unprocessed_urls():
-    url = 'https://philwilson.org/services/get_unprocessed_urls.php'  # Update with the correct URL
+    url = 'https://philwilson.org/services/get_unprocessed_urls.php'
     response = requests.get(url)
 
     if response.status_code == 200:
@@ -41,7 +41,7 @@ def process_urls():
                 post_microdata(item.json())
                 # save_microdata(url, item.json())
         else:
-            print(f"Failed to retrieve URL: {url}. Status code: {response.status_code}")
+            print(f"Failed to retrieve URL: {url} Status code: {response.status_code}")
 
 # Example usage
 process_urls()
