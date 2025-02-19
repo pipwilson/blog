@@ -42,6 +42,9 @@ jobs:
       - name: Build website
         run: make production
 
+      - name: Run save_microdata_from_urls.py
+        run: python3 ./static/services/save_microdata_from_urls.py
+
       - name: Upload files to server
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
