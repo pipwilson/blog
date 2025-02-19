@@ -35,6 +35,10 @@ jobs:
       - name: Get latest code
         uses: actions/checkout@v2
 
+      - name: Debug request method
+        run: |
+          curl -X POST -d '{"text":"https://uk.bookshop.org/p/books/the-centre-ayesha-manazir-siddiqi/7354151?ean=9781529097849"}' https://philwilson.org/services/pip_save_book.php
+
       - name: Build website
         run: make production
 
