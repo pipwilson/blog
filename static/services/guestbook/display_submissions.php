@@ -5,6 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Submissions</title>
     <link rel="stylesheet" href="http://localhost:1111/main.css">
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+        th {
+            font-weight: bold;
+        }
+        td:nth-child(1), td:nth-child(2), td:nth-child(3) {
+            width: 5%;
+            max-width: 5%;
+        }
+        td:nth-child(5) {
+            width: 10%;
+            max-width: 10%;
+        }
+        td:nth-child(6) {
+            width: 10%;
+            max-width: 10%;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
@@ -35,6 +60,7 @@
                             $accepted_item->addChild('description', $item->description);
                             $accepted_item->addChild('guid', $item->guid);
                             $accepted_item->addChild('pubDate', $item->pubDate);
+                            $accepted_item->addChild('source', $item->source);
                             $accepted_rss->asXML($accepted_rss_file);
                             $node->parentNode->removeChild($node);
                         }
@@ -48,13 +74,15 @@
         if (file_exists($rss_file)) {
             $rss = simplexml_load_file($rss_file);
             echo '<table>';
-            echo '<tr><th>Name</th><th>URL</th><th>Description</th><th>Date</th><th>Actions</th></tr>';
+            echo '<tr><th>Name</th><th>URL</th><th>Blog post</th><th>Comment</th><th>Date</th><th>Actions</th></tr>';
             foreach ($rss->channel->item as $item) {
                 echo '<tr>';
                 echo '<td>' . htmlspecialchars($item->title, ENT_QUOTES, 'UTF-8') . '</td>';
                 echo '<td><a href="' . htmlspecialchars($item->link, ENT_QUOTES, 'UTF-8') . '">' . htmlspecialchars($item->link, ENT_QUOTES, 'UTF-8') . '</a></td>';
+                echo '<td>' . htmlspecialchars($item->source, ENT_QUOTES, 'UTF-8') . '</td>';
                 echo '<td>' . htmlspecialchars($item->description, ENT_QUOTES, 'UTF-8') . '</td>';
-                echo '<td>' . htmlspecialchars($item->pubDate, ENT_QUOTES, 'UTF-8') . '</td>';
+                $pubDate = date('j F Y, G:i', strtotime($item->pubDate));
+                echo '<td>' . htmlspecialchars($pubDate, ENT_QUOTES, 'UTF-8') . '</td>';
                 echo '<td>';
                 echo '<form method="post" style="display:inline;">';
                 echo '<input type="hidden" name="guid" value="' . $item->guid . '">';

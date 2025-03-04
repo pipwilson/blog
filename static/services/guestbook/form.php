@@ -16,10 +16,11 @@
             $url = htmlspecialchars($_POST['url']);
             $text = htmlspecialchars($_POST['text']);
             $humanity = htmlspecialchars($_POST['humanity']);
-            $expected_humanity = "Submit Your Information";
+            $expected_humanity = htmlspecialchars($_POST['title']);
+            $source = htmlspecialchars($_POST['source']);
             $date = date('Y-m-d H:i:s');
 
-            if ($humanity === $expected_humanity) {
+            if ($humanity === $expected_humanity && !empty($source) && !empty($name) && !empty($text)) {
                 $rss_file = 'submissions.xml';
 
                 if (file_exists($rss_file)) {
@@ -34,6 +35,7 @@
                 $item->addChild('description', $text);
                 $item->addChild('guid', uniqid('item-', true));
                 $item->addChild('pubDate', $date);
+                $item->addChild('source', $source);
 
                 $rss->asXML($rss_file);
 

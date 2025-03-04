@@ -27,14 +27,6 @@
       <title>{{ title }}</title>
     {% endblock title -%}
 
-    <style>
-      :root {
-        --accent-color: {{ config.extra.accent }};
-        --accent-color-light: {{ config.extra.accent_light }};
-      }
-    </style>
-
-    <meta name="theme-color" content="{{ config.extra.accent }}">
     <meta property="og:type" content="website">
     {% if section or page %}
     <meta property="og:url" content="{{current_url | safe}}">

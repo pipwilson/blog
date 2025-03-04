@@ -1,4 +1,9 @@
-@import "./normalize.scss", "./text.scss";
+@import "./normalize.scss", "./text.scss", "./forms.scss";
+
+:root {
+  --accent-color: #05a081;
+  --accent-color-light: #82d0c0;
+}
 
 body {
   background-color: #fff;
@@ -116,7 +121,6 @@ img {
 
 section#tags p {
   font-size: 75%;
-  background-color: #f6f6e4;
   padding: 1em;
   margin-bottom: 0;
 }
