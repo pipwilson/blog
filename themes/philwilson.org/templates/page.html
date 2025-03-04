@@ -44,6 +44,33 @@
     </section>
   {% endif %}
 
+  {% if page.extra.allow_commenting and page.extra.allow_commenting == true %}
+  <section id="comment-form">
+    <form action="{{ config.extra.base_services_url }}guestbook/form.php" method="post">
+      <input type="hidden" name="title" value="{{ page.title }}">
+      <input type="hidden" name="source" value="{{ page.permalink }}">
+      <div class="form-group">
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" required>
+      </div>
+      <div class="form-group">
+          <label for="url">URL:</label>
+          <input type="url" id="url" name="url">
+      </div>
+      <div class="form-group">
+          <label for="text">Text:</label>
+          <textarea id="text" name="text" rows="4" required></textarea>
+      </div>
+      <div class="form-group">
+          <label for="humanity">Humanity:</label>
+          <input type="text" id="humanity" name="humanity" placeholder="Copy and paste the title of the blog post here" required>
+      </div>
+      <button type="submit">Add comment</button>
+      <p>All comments are manually moderated.</p>
+  </form>
+  </section>
+  {% endif %}
+
   {% if page.extra.show_comments and page.extra.comments_file and page.extra.show_comments == "true" %}
     {% set comments = load_data(path=page.extra.comments_file) %}
     {% if comments %}
