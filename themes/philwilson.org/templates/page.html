@@ -15,7 +15,7 @@
       {% if page.content is matching("bookshop.org/p/books/") %}
         {% set encodedContent = page.content | urlencode %}
         {% set pipbook = load_data(
-          url="https://philwilson.org/services/pip_save_book.php",
+          url="https://philwilson.org/services/books/pip_save_book.php",
           format="plain",
           content_type="text/plain",
           method="POST",

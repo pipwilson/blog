@@ -8,7 +8,7 @@
 
 <!-- https://www.getzola.org/documentation/templates/overview/#load-data -->
 
-{% set books = load_data(url=config.extra.base_services_url~'/books.json',
+{% set books = load_data(url=config.extra.base_services_url~'/books/books.json',
                         format="json",) %}
 
 {% if books | length > 0 %}
