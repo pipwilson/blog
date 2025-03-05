@@ -11,7 +11,7 @@ comments_file = "/content/blog/2021/09/2021-09-04-unpause-and-record-comments.cs
 
 After finishing a year-long stint working for the Government Digital Service to [deliver support to people during the worst of the pandemic](https://gds.blog.gov.uk/2021/02/24/podcast-the-clinically-extremely-vulnerable-people-service/), I took a month off.
 
-[![A GDS Mission Patch of my very own](https://philwilson.org/blog/wp-content/uploads/2021/09/svps-768x768.jpg "A GDS Mission Patch of my very own")](http://philwilson.org/blog/wp-content/uploads/2021/09/svps.jpg)
+[![A GDS Mission Patch of my very own](https://philwilson.org/images/2021/09/svps-768x768.jpg "A GDS Mission Patch of my very own")](http://philwilson.org/images/2021/09/svps.jpg)
 
 This meant that I didn’t turn on a computer for most of that time, and certainly didn’t feel inclined to blog. A month ago I started working at [Kaluza](https://www.kaluza.com/) (lured in by [Ovo’s Plan Zero](https://ovo.com/planzero/about-our-plan/) approach to the climate crisis), and having just about got my head around what I need to do there, I have brain space to write words again.
 

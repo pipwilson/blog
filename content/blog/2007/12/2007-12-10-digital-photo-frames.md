@@ -13,14 +13,14 @@ I am very much looking forward to the coming increase in quality and drop in pri
 
 We currently have five photo frames in our living room (three are curved, four are glass-edged). I wouldn’t mind swapping them out for digital frames provided there were a few criteria:
 
-• they have to be no thicker than our existing frames  
-• they can’t be plugged into the mains  
-• the power supply, whatever it is, must last at least two months without intervention  
+• they have to be no thicker than our existing frames
+• they can’t be plugged into the mains
+• the power supply, whatever it is, must last at least two months without intervention
 • the photos can rotate on a custom timed interval
 
 wifi would be a plus, as would a remote control and avi/mp4/ogm support but these aren’t necessary.
 
-[![a picture of a digital photo frame](http://philwilson.org/blog/wp-content/uploads/2007/12/digitalphotoframe.jpg)](http://www.flickr.com/photos/mathowie/65762991/ "Digital photo frame")  
+[![a picture of a digital photo frame](http://philwilson.org/images/2007/12/digitalphotoframe.jpg)](http://www.flickr.com/photos/mathowie/65762991/ "Digital photo frame")
 [Testing the Philips Digital Photo frame](http://www.flickr.com/photos/mathowie/65762991/) © [mathowie](http://www.flickr.com/people/mathowie/) / [CC](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.en_GB "Used under the Attribution-Non-Commercial-Share Alike 2.0 Creative Commons license")
 
 I have over 4,000 photos on Flickr and a huge stack of analog photos which get put into a box never to be seen again because I’m too lazy to put them into albums. Most are terrible, but there are a lot of friends, family and various events which I’d love to be able to see from time to time without sitting in front of a PC for an hour ploughing through

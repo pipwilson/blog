@@ -9,7 +9,7 @@ show_comments = "true"
 comments_file = "/content/blog/2008/06/2008-06-26-all-bbc-programmes-have-a-qr-code-comments.csv"
 +++
 
-Want an easy way to pass around [a long and hard-to-remember URL](http://www.bbc.co.uk/blogs/radiolabs/2008/06/the_simple_joys_of_webscale_id.shtml) for a BBC programme?[![bbc-qrcode](http://philwilson.org/blog/wp-content/uploads/2008/06/bbc-qrcode-thumb.jpg)](http://philwilson.org/blog/wp-content/uploads/2008/06/bbc-qrcode.jpg)
+Want an easy way to pass around [a long and hard-to-remember URL](http://www.bbc.co.uk/blogs/radiolabs/2008/06/the_simple_joys_of_webscale_id.shtml) for a BBC programme?[![bbc-qrcode](http://philwilson.org/images/2008/06/bbc-qrcode-thumb.jpg)](http://philwilson.org/images/2008/06/bbc-qrcode.jpg)
 
 As of six months ago, and apparently unadvertised, the BBC started providing [QR codes](http://en.wikipedia.org/wiki/QR_codes) for every page in [their /programmes section](http://bbc.co.uk/programmes) – just add /qrcode to any existing /programmes link.
 

@@ -15,11 +15,11 @@ At work we use [Trac](http://trac.edgewall.org/). Trac is a locally-installed bu
 
 With that in mind, [here is a greasemonkey script that makes Trac look like Lighthouse](http://userscripts.org/scripts/show/37887). It turns this:
 
-[![trac](http://philwilson.org/blog/wp-content/uploads/2008/12/trac-thumb.png)](http://philwilson.org/blog/wp-content/uploads/2008/12/trac.png)
+[![trac](http://philwilson.org/images/2008/12/trac-thumb.png)](http://philwilson.org/images/2008/12/trac.png)
 
 into this:
 
-[![lighthouse](http://philwilson.org/blog/wp-content/uploads/2008/12/lighthouse-thumb.png)](http://philwilson.org/blog/wp-content/uploads/2008/12/lighthouse.png)
+[![lighthouse](http://philwilson.org/images/2008/12/lighthouse-thumb.png)](http://philwilson.org/images/2008/12/lighthouse.png)
 
 (ticket titles hidden to protect the innocent!)
 

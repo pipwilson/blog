@@ -23,7 +23,7 @@ comments_file = "/content/blog/2009/12/2009-12-03-importing-nokia-podcast-subscr
 
 #### Import the list of podcasts
 
-![The Google Reader Import/Export page](http://philwilson.org/blog/wp-content/uploads/2009/12/googlereader-importexport.png "The Google Reader Import/Export page")
+![The Google Reader Import/Export page](http://philwilson.org/images/2009/12/googlereader-importexport.png "The Google Reader Import/Export page")
 
 1. load Google Reader
 2. Click “Settings” in the top right
@@ -34,6 +34,6 @@ You should now find that you have a new folder called “podcasts” in your goo
 
 Even nicer – if you make the folder public (Settings -&gt; Folders and Tags) you can import the OPML from Google Reader directly into other applications by giving the URL `http://www.google.com/reader/public/subscriptions/user/USERID/label/podcasts` where USERID is the long number in the URL of the “view public page” link next to your public podcasts folder in Settings -&gt; Folders and Tags.
 
-![Google Reader view public page section](http://philwilson.org/blog/wp-content/uploads/2009/12/googlereader-viewpublicpage.png "Google Reader view public page section")
+![Google Reader view public page section](http://philwilson.org/images/2009/12/googlereader-viewpublicpage.png "Google Reader view public page section")
 
 </body>

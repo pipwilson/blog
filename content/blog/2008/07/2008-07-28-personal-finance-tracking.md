@@ -11,7 +11,7 @@ comments_file = "/content/blog/2008/07/2008-07-28-personal-finance-tracking-comm
 
 How much money do you have and how do you find out what you’re spending it on?
 
-![account-summary-mesabe_1217278643948.png](http://philwilson.org/blog/wp-content/uploads/2008/07/account-summary-mesabe_1217278643948.png)
+![account-summary-mesabe_1217278643948.png](http://philwilson.org/images/2008/07/account-summary-mesabe_1217278643948.png)
 
 This is the question that irks me. The financial free software world is centred around [GnuCash](http://www.gnucash.org/) which is all about detailed tracking of your finances – well, as far as I’m concerned my bank already does this for me so all I need is the visualisation from that data.
 

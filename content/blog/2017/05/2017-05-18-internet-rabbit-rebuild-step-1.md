@@ -11,7 +11,7 @@ comments_file = "/content/blog/2017/05/2017-05-18-internet-rabbit-rebuild-step-1
 
 Back in Christmas 2006, I was lucky enough to get everything I asked for, and one of those things was one of the first commercially available Internet of Things devices – a [Nabaztag](https://en.wikipedia.org/wiki/Nabaztag).
 
-![A picture of my Nabaztag with other Christmas presents](http://philwilson.org/blog/wp-content/uploads/2017/05/christmas-rabbit.jpg)
+![A picture of my Nabaztag with other Christmas presents](http://philwilson.org/images/2017/05/christmas-rabbit.jpg)
 
 This was a beautifully moudled piece of plastic designed to look like a rabbit. It connected to your wifi and triggers could control its LEDs, its individually rotating ears or play sound through the speaker. I had [great fun with it](http://philwilson.org/blog/2007/01/nabaztag/) but, in what would be a salutary lesson, the fact that it was proprietary hardware, talking over a proprietary protocol to a proprietary server was soon a problem when not only was my model made obsolete by newer models but then the company going bust. Suddenly, I had a great-looking paperweight.
 

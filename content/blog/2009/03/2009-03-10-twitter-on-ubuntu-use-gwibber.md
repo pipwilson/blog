@@ -9,7 +9,7 @@ show_comments = "false"
 comments_file = "/content/blog/2009/03/2009-03-10-twitter-on-ubuntu-use-gwibber-comments.csv"
 +++
 
-[![Screenshot of Gwibber](http://philwilson.org/blog/wp-content/uploads/2009/03/screenshot-gwibber-166x300.png "Screenshot of Gwibber")](http://philwilson.org/blog/wp-content/uploads/2009/03/screenshot-gwibber.png)
+[![Screenshot of Gwibber](http://philwilson.org/images/2009/03/screenshot-gwibber-166x300.png "Screenshot of Gwibber")](http://philwilson.org/images/2009/03/screenshot-gwibber.png)
 
 [Gwibber](https://launchpad.net/gwibber) is a native desktop Twitter client for Ubuntu. It will post updates to and receive updates from Twitter as well as a host of other services like [Flickr](http://flickr.com/), [Facebook](http://www.facebook.com), [Digg](http://www.digg.com), can update your [Pidgin](http://pidgin.im/) status and pull in any other RSS or Atom feed you like.
 

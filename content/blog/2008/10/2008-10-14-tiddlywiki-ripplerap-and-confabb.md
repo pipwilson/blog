@@ -9,7 +9,7 @@ show_comments = "false"
 comments_file = "/content/blog/2008/10/2008-10-14-tiddlywiki-ripplerap-and-confabb-comments.csv"
 +++
 
-[![Screenshot of ripplerap in action](http://philwilson.org/blog/wp-content/uploads/2008/10/ripplerap.png "ripplerap")](http://philwilson.org/blog/wp-content/uploads/2008/10/ripplerap.png)
+[![Screenshot of ripplerap in action](http://philwilson.org/images/2008/10/ripplerap.png "ripplerap")](http://philwilson.org/images/2008/10/ripplerap.png)
 
 I use a different note-taking tool for almost every conference I attend. I try and use ones which have both off- and on-line components for allowing me to write if there’s no connectivity but allowing me to publish easily if there is.
 

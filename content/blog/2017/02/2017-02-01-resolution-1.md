@@ -13,7 +13,7 @@ Weigh myself every day. Nothing about losing weight, just about recording it.
 
 That was one of my New Year’s resolutions. Let’s see how it’s going:
 
-![A chart of my weight on each of the days in January 2017](http://philwilson.org/blog/wp-content/uploads/2017/02/weight-january-2017.png)
+![A chart of my weight on each of the days in January 2017](http://philwilson.org/images/2017/02/weight-january-2017.png)
 
 I missed four days out of a possible 31, which means I had an 87% success rate, which I think is pretty good going for a New Year’s resolution 🙂
 
