@@ -6,3 +6,6 @@ RewriteRule ^blog/feed(/?)$ /atom.xml [P,L]
 RewriteRule ^blog/feed/atom(/?)$ /atom.xml [P,L]
 RewriteRule ^rssify.php$ /atom.xml [P,L]
 RewriteRule ^blog/tags/(.*)$ /tags/$1/ [P,L]
+
+# Redirect .html URLs to their corresponding directory URLs
+RewriteRule ^blog/([0-9]{4})/([0-9]{2})/(.*)\.html$ /blog/$1/$2/$3/ [R=301,L]
