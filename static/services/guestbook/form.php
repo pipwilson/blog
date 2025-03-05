@@ -33,5 +33,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // echo "<p>Invalid humanity check.</p>";
         header('Location: ' . $source);
     }
+} else {
+    echo "<p>Fly, you fools.</p>";
 }
 ?>
