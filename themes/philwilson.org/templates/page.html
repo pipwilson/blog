@@ -79,7 +79,11 @@
         <h3>Comments</h2>
           {% for comment in comments['records'] %}
             <article>
-              <div class="comment-author">{{ comment[2] | safe }}</div>
+              {% set add_comment_url = false %}
+              {% if comment[4] and comment[4] | length > 0 and comment[4] is containing("philwilson.org/blog") %}
+                 {% set add_comment_url = true %}
+              {% endif %}
+              <div class="comment-author">{%- if add_comment_url -%}<a href="{{ comment[4] }}">{%- endif -%}{{ comment[2] | safe }}{%- if add_comment_url -%}</a>{%- endif -%}</div>
               <div class="comment-date">{{ comment[1] | date(format="%d %B, %Y at %H:%M") }}</div>
               {{ comment[7] | markdown | safe }}
             </article>
