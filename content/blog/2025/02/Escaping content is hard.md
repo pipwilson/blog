@@ -9,6 +9,8 @@ taxonomies:
     - rss
     - yarr
     - content-escaping-is-hard
+extra:
+  allow_commenting: true
 ---
 
 This is from the web-based RSS reader I use, which apparently does not always escape content _quite_ right.

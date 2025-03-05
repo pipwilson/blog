@@ -46,6 +46,7 @@
 
   {% if page.extra.allow_commenting and page.extra.allow_commenting == true %}
   <section id="comment-form">
+    <h2>Leave a comment</h2>
     <form action="{{ config.extra.base_services_url }}guestbook/form.php" method="post">
       <input type="hidden" name="title" value="{{ page.title }}">
       <input type="hidden" name="source" value="{{ page.permalink }}">
