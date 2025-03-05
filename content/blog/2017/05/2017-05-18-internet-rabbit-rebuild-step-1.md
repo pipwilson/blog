@@ -21,8 +21,8 @@ All this means that mine has been in the loft for the best part of a decade, but
 
 Step 1 was to take it apart. There are some triangular screws on the bottom which came out pretty easily using one end of some needle-nosed pliers and then the rest is standards phillips-head. It’s impressive to see how far electronics manufactoring has come in the last decade – the wireless in the original rabbit was provided by a full-sized PCMCIA card!
 
-[![A picture of the front of the Nabaztag's main PCB](http://philwilson.org/blog/wp-content/uploads/2017/05/naked-rabbit.jpg)](http://philwilson.org/blog/wp-content/uploads/2017/05/naked-rabbit.jpg)
+[![A picture of the front of the Nabaztag's main PCB](http://philwilson.org/images/2017/05/naked-rabbit.jpg)](http://philwilson.org/images/2017/05/naked-rabbit.jpg)
 
-[![](http://philwilson.org/blog/wp-content/uploads/2017/05/pcmcia.jpg)](http://philwilson.org/blog/wp-content/uploads/2017/05/pcmcia.jpg)
+[![](http://philwilson.org/images/2017/05/pcmcia.jpg)](http://philwilson.org/images/2017/05/pcmcia.jpg)
 
 Once the case was off, I removed the electronics and motors from a central plastic frame, and my next step is going to be to prototype replacing them using [a Raspberry Pi Zero W](https://www.raspberrypi.org/products/pi-zero-w/) with [a Blinkt attachment](https://shop.pimoroni.com/products/blinkt).
