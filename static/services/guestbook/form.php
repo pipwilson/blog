@@ -38,9 +38,11 @@
 
                 $rss->asXML($rss_file);
 
-                echo "<p>Submission saved successfully.</p>";
+                // redirect back to source page
+                header('Location: ' . $source);
             } else {
-                echo "<p>Invalid humanity check.</p>";
+                // echo "<p>Invalid humanity check.</p>";
+                header('Location: ' . $source);
             }
         }
         ?>
