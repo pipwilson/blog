@@ -3,7 +3,7 @@ title = "The Sunday Post"
 date = "2004-04-04 18:47:00"
 slug = "the-sunday-post"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/04/2004-04-04-the-sunday-post-comments.csv"

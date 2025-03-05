@@ -3,7 +3,7 @@ title = "Time to meet the (foaf:)maker"
 date = "2004-04-05 13:14:00"
 slug = "time-to-meet-the-foafmaker"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/04/2004-04-05-time-to-meet-the-foafmaker-comments.csv"

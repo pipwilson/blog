@@ -3,7 +3,7 @@ title = "Twittering"
 date = "2006-11-21 14:02:00"
 slug = "twittering"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2006/11/2006-11-21-twittering-comments.csv"

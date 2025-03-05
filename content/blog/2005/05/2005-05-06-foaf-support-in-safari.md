@@ -3,7 +3,7 @@ title = "FOAF support in Safari"
 date = "2005-05-06 09:32:00"
 slug = "foaf-support-in-safari"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/05/2005-05-06-foaf-support-in-safari-comments.csv"

@@ -3,7 +3,7 @@ title = "Don't use Neutrino, use FOAF"
 date = "2005-05-18 16:53:00"
 slug = "dont-use-neutrino-use-foaf"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/05/2005-05-18-dont-use-neutrino-use-foaf-comments.csv"

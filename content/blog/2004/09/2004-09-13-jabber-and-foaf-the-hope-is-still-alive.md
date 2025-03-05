@@ -3,7 +3,7 @@ title = "Jabber and FOAF - the hope is still alive"
 date = "2004-09-13 07:44:00"
 slug = "jabber-and-foaf-the-hope-is-still-alive"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/09/2004-09-13-jabber-and-foaf-the-hope-is-still-alive-comments.csv"

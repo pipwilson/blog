@@ -3,7 +3,7 @@ title = "FOAF and social networking"
 date = "2004-12-26 04:28:00"
 slug = "foaf-and-social-networking"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/12/2004-12-26-foaf-and-social-networking-comments.csv"

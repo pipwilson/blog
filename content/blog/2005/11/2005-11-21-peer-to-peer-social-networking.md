@@ -3,7 +3,7 @@ title = "Peer-to-peer social networking"
 date = "2005-11-21 13:16:00"
 slug = "peer-to-peer-social-networking"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/11/2005-11-21-peer-to-peer-social-networking-comments.csv"

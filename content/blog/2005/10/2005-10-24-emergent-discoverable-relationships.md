@@ -3,7 +3,7 @@ title = "Emergent, discoverable relationships"
 date = "2005-10-24 13:44:00"
 slug = "emergent-discoverable-relationships"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/10/2005-10-24-emergent-discoverable-relationships-comments.csv"

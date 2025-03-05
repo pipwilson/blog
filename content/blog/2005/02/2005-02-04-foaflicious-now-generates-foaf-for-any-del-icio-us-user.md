@@ -3,7 +3,7 @@ title = "FOAFlicious now generates FOAF for any del.icio.us user"
 date = "2005-02-04 22:55:00"
 slug = "foaflicious-now-generates-foaf-for-any-delicious-user"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/02/2005-02-04-foaflicious-now-generates-foaf-for-any-del-icio-us-user-comments.csv"

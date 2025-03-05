@@ -3,7 +3,7 @@ title = "FoaFSpace"
 date = "2004-09-15 11:40:00"
 slug = "foafspace"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/09/2004-09-15-foafspace-comments.csv"

@@ -3,7 +3,7 @@ title = "Identity Burro"
 date = "2005-09-10 20:31:00"
 slug = "identity-burro"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/09/2005-09-10-identity-burro-comments.csv"

@@ -3,7 +3,7 @@ title = "I'm trying to subscribe to your brain"
 date = "2005-06-16 20:54:00"
 slug = "im-trying-to-subscribe-to-your-brain"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/06/2005-06-16-im-trying-to-subscribe-to-your-brain-comments.csv"

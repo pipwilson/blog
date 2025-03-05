@@ -3,7 +3,7 @@ title = "Gosh, Gravatars are useful after all"
 date = "2005-02-04 00:57:00"
 slug = "gosh-gravatars-are-useful-after-all"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/02/2005-02-04-gosh-gravatars-are-useful-after-all-comments.csv"

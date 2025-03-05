@@ -3,7 +3,7 @@ title = "Is there a dearth of FOAF apps?"
 date = "2005-04-10 22:54:00"
 slug = "is-there-a-dearth-of-foaf-apps"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/04/2005-04-10-is-there-a-dearth-of-foaf-apps-comments.csv"

@@ -3,7 +3,7 @@ title = "Back burner projects"
 date = "2005-12-13 00:05:00"
 slug = "back-burner-projects"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/12/2005-12-13-back-burner-projects-comments.csv"

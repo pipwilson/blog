@@ -3,7 +3,7 @@ title = "Atom extensions and FOAF"
 date = "2006-03-03 14:01:00"
 slug = "atom-extensions-and-foaf"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2006/03/2006-03-03-atom-extensions-and-foaf-comments.csv"

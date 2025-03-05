@@ -3,7 +3,7 @@ title = "Calendaring and information gathering"
 date = "2005-02-16 12:57:00"
 slug = "calendaring-and-information-gathering"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/02/2005-02-16-calendaring-and-information-gathering-comments.csv"
@@ -21,7 +21,7 @@ I’m not really sure why a mail server needs a mail client in it really. Surely
 
 The calendar stuff is interesting. I have my own half-solution based on a hacked version of my [Tellybot](http://philwilson.org/blog/2004/08/joggle-tellybot.html), but it’s not really terribly good (I have a Python script which outputs my Outlook calendar [courtesy of Aaron Johnson](http://cephas.net/blog/2004/09/17/sending_your_outlook_calendar_using_python.html) but it’s not hooked up to anything) – it sends me reminders, but that’s about it. I’m thinking about having it output .ics files and letting PHPiCalendar pick those up and display them as well as emitting RSS files. [RSSCalendar.com](http://www.rsscalendar.com) is another possibility, but doesn’t have an API, so as much as I like it (in stark contrast to my intial hating of it), I wouldn’t use it for my own stuff (I would however recommend it if my family wanted to do stuff, and then pull down the .ics files myself and put them into my own calendaring stuff).
 
-Along with all this groupware-style stuff I clump in tools like [Dashboard](http://www.nat.org/dashboard/) so that in some interface I can type in someone’s name and have all sorts of info about them returned to me, like in this screenshot (click for bigger):  
+Along with all this groupware-style stuff I clump in tools like [Dashboard](http://www.nat.org/dashboard/) so that in some interface I can type in someone’s name and have all sorts of info about them returned to me, like in this screenshot (click for bigger):
 [![](http://photos4.flickr.com/4896542_abba6c9cec_m.jpg)](http://photos4.flickr.com/4896542_abba6c9cec_o.png) which I should also point out is a copy of [this image](http://www.nat.org/dashboard/mail.png) from the Dashbaord website, reproduced without permission).
 
 At the moment I’m doing some preliminary work on a sort of personal portal like [the kind mentioned by barb dwybad](http://www.geeked.org/archives/thoughts-on-the-digital-lifestyle-aggregator/) that includes my flickr photos, my books, my del.icio.us bookmarks, my music and my IM history (parsed from the Psi and MS Messenger history files), which is just a PHP page using Magpie (because all those things are available in RSS format) but I can’t see a reason why this could be extended to work for anyone who had those details (i.e. those URLs) specified in a FOAF file. Well, actually I can, and that’s that I can’t think of a way for machines to recognise that a URL is a link to an RSS feed of bookmarks rather than anything else, other than by detecting the “del.icio.us” in the URL, which is incredibly lame since I thought RDF was supposed to free us from that kind of thing.

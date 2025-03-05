@@ -3,7 +3,7 @@ title = "Understanding reviews in FOAF"
 date = "2005-08-25 11:35:00"
 slug = "understanding-reviews-in-foaf"
 [taxonomies]
-tags = ['general']
+tags = ['general', 'foaf']
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/08/2005-08-25-understanding-reviews-in-foaf-comments.csv"
