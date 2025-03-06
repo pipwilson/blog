@@ -1,5 +1,5 @@
 +++
-title = "Cynicism overloard"
+title = "Cynicism overload"
 date = "2005-09-13 09:35:00"
 slug = "cynicism-overloard"
 [taxonomies]
