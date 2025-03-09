@@ -9,7 +9,7 @@ show_comments = "true"
 comments_file = "/content/blog/2004/11/2004-11-29-enhancing-firefox-gui-usability-comments.csv"
 +++
 
-<ins datetime="2005-06-15T21:41:30Z">You no longer have to go through the hassle of editing your CSS, [I’ve turned this into an extension](https://philwilson.org/blog/2005/04/bigger-back-button-extension-for-firefox/)</ins>
+<del datetime="2025-03-09T11:34:11Z"><ins datetime="2005-06-15T21:41:30Z">You no longer have to go through the hassle of editing your CSS, [I’ve turned this into an extension](https://philwilson.org/blog/2005/04/bigger-back-button-extension-for-firefox/)</ins></del>
 
 Benjamin Roe recently wrote an article titled [Usable GUI Design: A Quick FAQ](http://benroe.com/files/gui.html) in which he talks about Fitt’s Law.
 

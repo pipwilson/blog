@@ -19,6 +19,7 @@ h6 {
 }
 
 body {
+
   b,
   strong {
     font-weight: 500;
@@ -42,9 +43,17 @@ body {
     background: hsla(0, 0%, 0%, 0.04);
     padding: 0.2em 0;
 
-    pre > & {
+    pre>& {
       background: none;
     }
+  }
+
+  ins::before {
+    content: "Updated on " attr(datetime) ": ";
+  }
+
+  ins {
+    text-decoration-style: wavy;
   }
 }
 
@@ -75,12 +84,12 @@ $footnote-space: 2rem;
     padding-top: $footnote-space;
     border-top: 2px solid rgba(0, 0, 0, 0.1);
 
-    & > sup {
+    &>sup {
       top: $footnote-space;
     }
   }
 
-  & > sup {
+  &>sup {
     position: absolute;
     top: 0;
     right: calc(100% - 35px);
@@ -94,7 +103,7 @@ $footnote-space: 2rem;
     }
   }
 
-  & > p {
+  &>p {
     display: inline-block;
     margin: 0;
   }
@@ -119,7 +128,7 @@ header {
     justify-content: flex-end;
 
 
-    > a:not(:last-child) {
+    >a:not(:last-child) {
       margin-right: 1.2rem;
     }
   }
