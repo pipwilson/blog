@@ -8,9 +8,11 @@
   <h1 class="taxonomy-name">{{ taxonomy.name }}</h1>
   <div class="taxonomy-container">
     {% for term in terms %}
-      <div class="term">
-       <a href="{{ term.permalink }}">{{ term.name }} ({{ term.pages | length }})</a>
-      </div>
+      {% if term.pages | length > 1 %}
+        <div class="term">
+        <a href="{{ term.permalink }}">{{ term.name }} ({{ term.pages | length }})</a>
+        </div>
+      {% endif %}
     {% endfor %}
   </div>
 {% endblock content %}
