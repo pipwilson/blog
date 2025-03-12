@@ -3,7 +3,7 @@ title = "Internet rabbit rebuild - step 1"
 date = "2017-05-18 22:12:08"
 slug = "internet-rabbit-rebuild-step-1"
 [taxonomies]
-tags = ['general']
+tags = ['iot', 'raspberrypi', 'nabaztag', 'DIY']
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2017/05/2017-05-18-internet-rabbit-rebuild-step-1-comments.csv"
