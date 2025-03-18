@@ -2,11 +2,14 @@
 title = "Just hanging out"
 date = "2014-10-10 22:44:17"
 slug = "just-hanging-out"
+
 [taxonomies]
-tags = ['general']
+tags = [ "remote-work", "video-conferencing", "productivity",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2014/10/2014-10-10-just-hanging-out-comments.csv"
+
 +++
 
 I have started working from home one day a week to help make up the hours I lose by taking my son to school in the mornings.

@@ -2,11 +2,14 @@
 title = "Textile your textareas with Greasemonkey"
 date = "2005-03-11 13:18:00"
 slug = "textile-your-textareas-with-greasemonkey"
+
 [taxonomies]
-tags = ['general']
+tags = [ "textile", "javascript", "greasemonkey",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/03/2005-03-11-textile-your-textareas-with-greasemonkey-comments.csv"
+
 +++
 
 First of all, the link to the script: [Textile your textareas with pure JavaScript](http://philwilson.org/code/greasemonkey/textile.user.js).

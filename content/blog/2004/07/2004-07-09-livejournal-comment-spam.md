@@ -2,11 +2,14 @@
 title = "Livejournal comment spam"
 date = "2004-07-09 14:26:00"
 slug = "livejournal-comment-spam"
+
 [taxonomies]
-tags = ['general']
+tags = [ "livejournal", "spam-prevention", "trust-network",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/07/2004-07-09-livejournal-comment-spam-comments.csv"
+
 +++
 
 I woke up this morning thinking about [Livejournal ](http://www.livejournal.com/)comment spam. I mean, do they get any? How do they prevent it? Do thet use an [mt-blacklist](http://www.jayallen.org/projects/mt-blacklist/) equivalent? Of course a lot of the problem is mitigated by the fact that lj is effectively one big trust network and you can disable people who aren’t already on your list of friends from leaving coments. But this isn’t the default behaviour. By default anonymous comments can be left, so, what do they do to prevent abuse?

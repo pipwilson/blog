@@ -1,10 +1,13 @@
 ---
-title: Books of September
 date: 2024-11-11 20:01:18
 slug: books-of-september
 taxonomies:
   tags:
-    - books
+  - books
+  - murderbot-diaries
+  - science-fiction
+  - reading
+title: Books of September
 ---
 
 I was tired in September, so I read the 7 books of [the Murderbot Diaries](https://en.wikipedia.org/wiki/The_Murderbot_Diaries). Again. There's something about a these which are absolute comfort reading for me.

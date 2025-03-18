@@ -2,11 +2,14 @@
 title = "This platform happens to be my soapbox"
 date = "2004-04-07 21:57:00"
 slug = "this-platform-happens-to-be-my-soapbox"
+
 [taxonomies]
-tags = ['general']
+tags = [ "outlook", "mozilla", "platforms",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/04/2004-04-07-this-platform-happens-to-be-my-soapbox-comments.csv"
+
 +++
 
 I think [Anil Dash is missing a trick](http://www.dashes.com/anil/2004/03/19/outlook_as_a_pl).

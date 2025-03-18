@@ -2,11 +2,14 @@
 title = "Project management and time tracking"
 date = "2006-04-26 22:38:00"
 slug = "project-management-and-time-tracking"
+
 [taxonomies]
-tags = ['general']
+tags = [ "trac", "project-management", "time-management",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/04/2006-04-26-project-management-and-time-tracking-comments.csv"
+
 +++
 
 How much time is it sensible to track? Who needs this information?

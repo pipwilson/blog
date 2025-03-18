@@ -1,13 +1,13 @@
 ---
-title: Displaying Strava data on my website with Zola
 date: 2024-10-19 20:47:21
 slug: displaying-strava-data-on-my-website-with-zola
 taxonomies:
   tags:
-    - strava
-    - zola
-    - python
-    - blogging
+  - strava
+  - zola
+  - python
+  - blogging
+title: Displaying Strava data on my website with Zola
 ---
 
 I have a new page on my website to show me [how much distance I've tracked with Strava this year](https://philwilson.org/strava/).

@@ -2,11 +2,14 @@
 title = "Bigger back button extension for Firefox"
 date = "2005-04-08 15:30:00"
 slug = "bigger-back-button-extension-for-firefox"
+
 [taxonomies]
-tags = ['general']
+tags = [ "css", "fitts-law", "firefox",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/04/2005-04-08-bigger-back-button-extension-for-firefox-comments.csv"
+
 +++
 
 <ins datetime="2025-03-09T11:34:11Z">This isn't available any more, sorry!</ins>

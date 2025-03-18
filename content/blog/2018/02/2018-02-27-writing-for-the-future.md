@@ -2,11 +2,14 @@
 title = "Writing for the future"
 date = "2018-02-27 23:13:36"
 slug = "writing-for-the-future"
+
 [taxonomies]
-tags = ['books','diary','general','writing']
+tags = [ "books", "diary", "writing",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2018/02/2018-02-27-writing-for-the-future-comments.csv"
+
 +++
 
 About a year after my son was born, when my memory started working again, I started writing a blog about the things he was getting up to.

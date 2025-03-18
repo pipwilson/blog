@@ -2,11 +2,14 @@
 title = "Shared vocabularies on the web"
 date = "2006-04-20 11:20:00"
 slug = "shared-vocabularies-on-the-web"
+
 [taxonomies]
-tags = ['general']
+tags = [ "html", "xml", "microformats",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/04/2006-04-20-shared-vocabularies-on-the-web-comments.csv"
+
 +++
 
 [Ryan King says:](http://theryanking.com/blog/archives/2006/03/22/richard-macmanus-gets-microformats-wrong/#comment-2586)

@@ -2,11 +2,14 @@
 title = "Finally, a new feature from Blogger"
 date = "2005-10-15 13:45:00"
 slug = "finally-a-new-feature-from-blogger"
+
 [taxonomies]
-tags = ['general']
+tags = [ "backlinks", "blogging", "blogger",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/10/2005-10-15-finally-a-new-feature-from-blogger-comments.csv"
+
 +++
 
 ![Blogger Backlinks](http://kbimages.blogspot.com/backlinks1.jpg "Blogger Backlinks")

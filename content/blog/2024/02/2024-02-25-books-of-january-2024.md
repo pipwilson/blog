@@ -2,11 +2,14 @@
 title = "Books of January 2024"
 date = "2024-02-25 11:20:19"
 slug = "books-of-january-2024"
+
 [taxonomies]
-tags = ['books','general']
+tags = [ "books", "novellas", "ghosts", "multiverse",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2024/02/2024-02-25-books-of-january-2024-comments.csv"
+
 +++
 
 First in what is likely to be a short-lived series.

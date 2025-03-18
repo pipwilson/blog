@@ -2,11 +2,14 @@
 title = "Tag intersection in Flickr"
 date = "2005-02-04 01:02:00"
 slug = "tag-intersection-in-flickr"
+
 [taxonomies]
-tags = ['general']
+tags = [ "flickr", "searches", "tags",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/02/2005-02-04-tag-intersection-in-flickr-comments.csv"
+
 +++
 
 I can never bloody remember how to perform searches on multiple tags in Flickr: things like “photos tagged with Sheffield AND UK”. This is mainly due to the completely arcane syntax.

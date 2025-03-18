@@ -2,11 +2,14 @@
 title = "The Tapestry Framework"
 date = "2004-05-30 18:27:00"
 slug = "the-tapestry-framework"
+
 [taxonomies]
-tags = ['general']
+tags = [ "tapestry", "java", "frameworks",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/05/2004-05-30-the-tapestry-framework-comments.csv"
+
 +++
 
 > Bottom line is I don’t normally like frameworks. But I like Tapestry.

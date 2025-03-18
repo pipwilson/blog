@@ -2,11 +2,14 @@
 title = "Use accesskeys for navigating Google search results pages with Greasemonkey"
 date = "2005-03-17 16:01:00"
 slug = "use-accesskeys-for-navigating-google-search-results-pages-with-greasemonkey"
+
 [taxonomies]
-tags = ['general']
+tags = [ "greasemonkey", "accesskeys", "navigation",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/03/2005-03-17-use-accesskeys-for-navigating-google-search-results-pages-with-greasemonkey-comments.csv"
+
 +++
 
 The Greasemonkey script: [Enables navigation through Google search results pages using <kbd>ALT+,</kbd> and <kbd>ALT+.</kbd>](http://philwilson.org/code/greasemonkey/google-accesskeys.user.js).

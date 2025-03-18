@@ -2,11 +2,14 @@
 title = "Joel is old"
 date = "2008-01-29 22:25:03"
 slug = "joel-is-old"
+
 [taxonomies]
-tags = ['general','mobile']
+tags = [ "mobile", "qr-codes", "technology", "innovation",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/01/2008-01-29-joel-is-old-comments.csv"
+
 +++
 
 I almost feel bad about this, but it seems like this sacred cow is more like [Shambo](http://news.bbc.co.uk/1/hi/wales/south_west/6643729.stm).

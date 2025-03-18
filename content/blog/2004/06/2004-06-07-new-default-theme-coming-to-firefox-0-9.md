@@ -2,11 +2,14 @@
 title = "New Default Theme Coming to Firefox 0.9"
 date = "2004-06-07 09:47:00"
 slug = "new-default-theme-coming-to-firefox-09"
+
 [taxonomies]
-tags = ['general']
+tags = [ "firefox", "qute", "winstripe",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/06/2004-06-07-new-default-theme-coming-to-firefox-0-9-comments.csv"
+
 +++
 
 [New Default Theme Coming to Firefox 0.9 (Acts of Volition)](http://www.actsofvolition.com/archives/2004/june/newdefaulttheme).

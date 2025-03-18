@@ -2,11 +2,14 @@
 title = "Nokia N95 assessment"
 date = "2007-11-27 00:31:02"
 slug = "nokia-n95-assessment"
+
 [taxonomies]
-tags = ['general','mobile','n95','nokia','real']
+tags = [ "mobile", "n95", "nokia", "real",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2007/11/2007-11-27-nokia-n95-assessment-comments.csv"
+
 +++
 
 [](http://www.flickr.com/photos/pip/1486185092/)

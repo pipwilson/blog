@@ -2,11 +2,14 @@
 title = "Music is good"
 date = "2007-06-03 21:59:00"
 slug = "music-is-good"
+
 [taxonomies]
-tags = ['general','music','summer burn']
+tags = [ "music", "summer burn", "festival", "photography", "creativecommons",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2007/06/2007-06-03-music-is-good-comments.csv"
+
 +++
 
 ![Summer Burn 2007](http://philwilson.org/blog/2007/06/summerburn.jpg)  

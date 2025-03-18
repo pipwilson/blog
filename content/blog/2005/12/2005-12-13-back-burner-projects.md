@@ -2,11 +2,14 @@
 title = "Back burner projects"
 date = "2005-12-13 00:05:00"
 slug = "back-burner-projects"
+
 [taxonomies]
-tags = ['general', 'foaf']
+tags = [ "foaf", "blogging", "greasemonkey", "rss",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/12/2005-12-13-back-burner-projects-comments.csv"
+
 +++
 
 In the hope that writing them down might goad me into doing some of them, here’s a list of things which keep running through my head but which I’ve done little or nothing about:

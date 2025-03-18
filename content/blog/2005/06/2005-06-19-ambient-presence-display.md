@@ -2,11 +2,14 @@
 title = "Ambient presence display"
 date = "2005-06-19 19:28:00"
 slug = "ambient-presence-display"
+
 [taxonomies]
-tags = ['general']
+tags = [ "presence", "automation", "led",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/06/2005-06-19-ambient-presence-display-comments.csv"
+
 +++
 
 I want to be able to have something either on my desk, or stuck to my monitor which indicates what my current presence level is (e.g. available, do not disturb, working but please interrupt me, etc.), fed by my Instant Messenger presence.

@@ -2,11 +2,14 @@
 title = "I couldn't care less about Yahoo"
 date = "2005-09-13 14:27:00"
 slug = "i-couldnt-care-less-about-yahoo"
+
 [taxonomies]
-tags = ['general']
+tags = [ "yahoo", "signup", "navigation",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/09/2005-09-13-i-couldnt-care-less-about-yahoo-comments.csv"
+
 +++
 
 From the comment by [Jake Tracey](http://jaketracey.com/) on [Flickr signup: From human to droid in a Yahoo moment?](http://37signals.com/svn/archives2/flickr_signup_from_human_to_droid_in_a_yahoo_moment.php).

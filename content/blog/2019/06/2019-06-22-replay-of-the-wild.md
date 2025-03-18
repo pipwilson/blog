@@ -2,11 +2,14 @@
 title = "Replay of the Wild"
 date = "2019-06-22 08:30:47"
 slug = "replay-of-the-wild"
+
 [taxonomies]
-tags = ['general','nintendo','the legend of zelda']
+tags = [ "nintendo", "the legend of zelda", "gaming", "exploration", "awards",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2019/06/2019-06-22-replay-of-the-wild-comments.csv"
+
 +++
 
 It’s not often I want to replay a computer game, but Breath of the Wild is one of those games. I completed it in 2017 after around 160 hours of playtime on the Wii U, and was so exhausted with it I remember clearly thinking that this was a game that had been a wonderful experience but couldn’t be replayed.

@@ -2,11 +2,14 @@
 title = "Running a CMS on Atom"
 date = "2006-01-31 17:13:00"
 slug = "running-a-cms-on-atom"
+
 [taxonomies]
-tags = ['general']
+tags = [ "cms", "tinymce", "xoxo",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/01/2006-01-31-running-a-cms-on-atom-comments.csv"
+
 +++
 
 At work I have the need to very quickly design and roll out an insanely basic CMS for a website.

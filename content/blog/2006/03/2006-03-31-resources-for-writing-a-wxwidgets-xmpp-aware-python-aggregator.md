@@ -2,11 +2,14 @@
 title = "Resources for writing a WxWidgets, XMPP-aware Python aggregator"
 date = "2006-03-31 10:16:00"
 slug = "resources-for-writing-a-wxwidgets-xmpp-aware-python-aggregator"
+
 [taxonomies]
-tags = ['general']
+tags = [ "python", "wxwidgets", "feedparser",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2006/03/2006-03-31-resources-for-writing-a-wxwidgets-xmpp-aware-python-aggregator-comments.csv"
+
 +++
 
 From scratch:

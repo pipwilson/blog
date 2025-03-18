@@ -2,11 +2,14 @@
 title = "Holidays are relaxing, dangerous"
 date = "2007-07-01 22:42:00"
 slug = "holidays-are-relaxing-dangerous"
+
 [taxonomies]
-tags = ['coincidence','general','holiday']
+tags = [ "coincidence", "holiday", "terrorism", "safety", "travel",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2007/07/2007-07-01-holidays-are-relaxing-dangerous-comments.csv"
+
 +++
 
 Going on holiday is a bad idea. A recent rundown:

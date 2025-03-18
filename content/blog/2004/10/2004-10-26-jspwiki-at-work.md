@@ -2,11 +2,14 @@
 title = "JSPWiki at work"
 date = "2004-10-26 13:08:00"
 slug = "jspwiki-at-work"
+
 [taxonomies]
-tags = ['general']
+tags = [ "jspwiki", "lucene", "plugins",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/10/2004-10-26-jspwiki-at-work-comments.csv"
+
 +++
 
 Back in April [Russell Beattie rolled out JSPWiki at his workplace](http://www.russellbeattie.com/notebook/1007584.html), which kind of inspired me and in June we rolled out a [JSPWiki](http://jspwiki.org/) of our own to a set of trial users who all loved it. Soon after we rolled it out to some of the other departments and whilst there was some resistance, in the main its gone quite well.

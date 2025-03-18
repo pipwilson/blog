@@ -2,11 +2,14 @@
 title = "Florence is baffling, beautiful"
 date = "2007-04-25 20:50:00"
 slug = "florence-is-baffling-beautiful"
+
 [taxonomies]
-tags = ['florence','general','holiday','italy']
+tags = [ "florence", "holiday", "italy",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2007/04/2007-04-25-florence-is-baffling-beautiful-comments.csv"
+
 +++
 
 [![David](http://farm1.static.flickr.com/202/465328750_5de5e89c07_m.jpg)](http://www.flickr.com/photos/pip/465328750/ "Michelangelo's David")

@@ -2,11 +2,14 @@
 title = "Two new web things"
 date = "2005-10-04 13:26:00"
 slug = "two-new-web-things"
+
 [taxonomies]
-tags = ['general']
+tags = [ "forms", "social", "usability",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/10/2005-10-04-two-new-web-things-comments.csv"
+
 +++
 
 Jakob Nielson’s “[Top Web Mistakes of 2005](http://www.useit.com/alertbox/designmistakes.html)” is now out, and at number seven is:

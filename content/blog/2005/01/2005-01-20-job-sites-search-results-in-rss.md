@@ -2,11 +2,14 @@
 title = "Job site's search results in RSS"
 date = "2005-01-20 20:24:00"
 slug = "job-sites-search-results-in-rss"
+
 [taxonomies]
-tags = ['general']
+tags = [ "rss", "jobs", "technology",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/01/2005-01-20-job-sites-search-results-in-rss-comments.csv"
+
 +++
 
 [CWjobs.co.uk](http://www.cwjobs.co.uk/) is the first website I’ve seen, outside of specialist services like Feedster, which [provides the results of searches in RSS feeds](http://www.cwjobs.co.uk/rss_help.asp).

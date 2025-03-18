@@ -2,11 +2,14 @@
 title = "Resolutions "
 date = "2011-01-04 08:39:44"
 slug = "resolutions"
+
 [taxonomies]
-tags = ['general']
+tags = [ "productivity", "wellbeing", "creativity",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2011/01/2011-01-04-resolutions-comments.csv"
+
 +++
 
 - get out of the office for lunch

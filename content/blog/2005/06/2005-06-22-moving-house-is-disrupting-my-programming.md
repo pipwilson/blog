@@ -2,11 +2,14 @@
 title = "Moving house is disrupting my programming"
 date = "2005-06-22 09:14:00"
 slug = "moving-house-is-disrupting-my-programming"
+
 [taxonomies]
-tags = ['general']
+tags = [ "projects", "moving", "work",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/06/2005-06-22-moving-house-is-disrupting-my-programming-comments.csv"
+
 +++
 
 And very annoying it is too 🙂

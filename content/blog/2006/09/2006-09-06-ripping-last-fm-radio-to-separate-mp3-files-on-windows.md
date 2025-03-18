@@ -2,11 +2,14 @@
 title = "Ripping last.fm radio to separate mp3 files on Windows"
 date = "2006-09-06 22:20:00"
 slug = "ripping-lastfm-radio-to-separate-mp3-files-on-windows"
+
 [taxonomies]
-tags = ['general']
+tags = [ "last.fm", "streamripper", "python",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/09/2006-09-06-ripping-last-fm-radio-to-separate-mp3-files-on-windows-comments.csv"
+
 +++
 
 (And if that’s not a title to reel them in from Google, I don’t know what is.)

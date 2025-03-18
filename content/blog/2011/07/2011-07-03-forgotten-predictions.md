@@ -2,11 +2,14 @@
 title = "Forgotten predictions"
 date = "2011-07-03 07:15:48"
 slug = "forgotten-predictions"
+
 [taxonomies]
-tags = ['chrome','general','google','linux']
+tags = [ "chrome", "google", "linux",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2011/07/2011-07-03-forgotten-predictions-comments.csv"
+
 +++
 
 September 2008:

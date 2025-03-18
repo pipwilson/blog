@@ -2,11 +2,14 @@
 title = "How to push to two servers at once with git"
 date = "2010-07-05 22:41:57"
 slug = "how-to-push-to-two-servers-at-once-with-git"
+
 [taxonomies]
-tags = ['bzr','general','git','github']
+tags = [ "bzr", "git", "github",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2010/07/2010-07-05-how-to-push-to-two-servers-at-once-with-git-comments.csv"
+
 +++
 
 [As I said this time last year](http://philwilson.org/blog/2009/07/github-worries-me), I dislike the idea of people using a decentralised version control system to centralise their code.

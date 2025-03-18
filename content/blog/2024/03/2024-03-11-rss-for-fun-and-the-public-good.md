@@ -2,11 +2,14 @@
 title = "RSS for fun and the public good"
 date = "2024-03-11 21:16:46"
 slug = "rss-for-fun-and-the-public-good"
+
 [taxonomies]
-tags = ['atom','general','rss']
+tags = [ "atom", "rss", "blogging", "python", "jinja",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2024/03/2024-03-11-rss-for-fun-and-the-public-good-comments.csv"
+
 +++
 
 I follow [Steve Messer](https://visitmy.website/)’s blog – he’s a product manager in the UK Civil Service, making land and housing data easier to find, use and trust. And [he writes weeknotes](https://visitmy.website/tag/weeknotes/) which I enjoy reading.

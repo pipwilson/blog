@@ -2,11 +2,14 @@
 title = "Having to recode for syndication?"
 date = "2005-02-04 23:02:00"
 slug = "having-to-recode-for-syndication"
+
 [taxonomies]
-tags = ['general']
+tags = [ "blockquote", "cite", "aggregators",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/02/2005-02-04-having-to-recode-for-syndication-comments.csv"
+
 +++
 
 I’ve just realised a flaw in my feeds.

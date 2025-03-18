@@ -2,11 +2,14 @@
 title = "Downloading a Udemy course"
 date = "2018-05-27 21:26:42"
 slug = "downloading-a-udemy-course"
+
 [taxonomies]
-tags = ['general','go','udemy']
+tags = [ "go", "udemy", "development", "course", "downloading",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2018/05/2018-05-27-downloading-a-udemy-course-comments.csv"
+
 +++
 
 I have bought [Go: The Complete Developer’s Guide on Udemy](https://www.udemy.com/go-the-complete-developers-guide/). It’s been a good intro so far, but there are more than 90 videos, and I’d quite like to do some each day at work, where streaming video isn’t always allowed.

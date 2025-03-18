@@ -2,11 +2,14 @@
 title = "Words I've heard at work"
 date = "2005-08-01 14:24:00"
 slug = "words-ive-heard-at-work"
+
 [taxonomies]
-tags = ['general']
+tags = [ "web-standards", "folksonomies", "podcasting",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/08/2005-08-01-words-ive-heard-at-work-comments.csv"
+
 +++
 
 I’m now a couple of weeks into my job. Herewith some of the words I’ve heard people use in work-related conversation:

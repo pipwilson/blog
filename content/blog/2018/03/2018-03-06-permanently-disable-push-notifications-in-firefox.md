@@ -2,11 +2,14 @@
 title = "Permanently disable push notifications in Firefox"
 date = "2018-03-06 21:48:17"
 slug = "permanently-disable-push-notifications-in-firefox"
+
 [taxonomies]
-tags = ['firefox','general']
+tags = [ "firefox", "webnotifications", "disable", "push_notifications",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2018/03/2018-03-06-permanently-disable-push-notifications-in-firefox-comments.csv"
+
 +++
 
 > Go to about:config  

@@ -2,11 +2,14 @@
 title = "Storing feedparser objects in couchdb"
 date = "2009-03-31 22:14:02"
 slug = "storing-feedparser-objects-in-couchdb"
+
 [taxonomies]
-tags = ['couchdb','general','python','syndication']
+tags = [ "couchdb", "python", "syndication",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2009/03/2009-03-31-storing-feedparser-objects-in-couchdb-comments.csv"
+
 +++
 
 <kbd>sudo apt-get install python-feedparser  

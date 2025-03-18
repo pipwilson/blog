@@ -2,11 +2,14 @@
 title = "Things I learned on holiday"
 date = "2022-08-08 21:14:17"
 slug = "things-i-learned-on-holiday"
+
 [taxonomies]
-tags = ['general']
+tags = [ "film", "chromebook", "gaming",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2022/08/2022-08-08-things-i-learned-on-holiday-comments.csv"
+
 +++
 
 1. My DVD rip of [The Devil Wears Prada](https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_(film)) includes the closed-caption audio and not the regular audio

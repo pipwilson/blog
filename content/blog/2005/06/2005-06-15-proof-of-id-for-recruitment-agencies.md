@@ -2,11 +2,14 @@
 title = "Proof of ID for recruitment agencies"
 date = "2005-06-15 14:07:00"
 slug = "proof-of-id-for-recruitment-agencies"
+
 [taxonomies]
-tags = ['general']
+tags = [ "identity-verification", "scam-awareness", "recruitment-agency",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/06/2005-06-15-proof-of-id-for-recruitment-agencies-comments.csv"
+
 +++
 
 <ins datetimte="2005-09-01T13:18:52Z"></ins>

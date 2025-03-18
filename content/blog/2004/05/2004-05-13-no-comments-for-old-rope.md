@@ -2,11 +2,14 @@
 title = "No comments for old rope"
 date = "2004-05-13 15:27:00"
 slug = "no-comments-for-old-rope"
+
 [taxonomies]
-tags = ['general']
+tags = [ "blogging", "comments", "validation",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/05/2004-05-13-no-comments-for-old-rope-comments.csv"
+
 +++
 
 Given:

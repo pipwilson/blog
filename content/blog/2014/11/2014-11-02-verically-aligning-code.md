@@ -2,11 +2,14 @@
 title = "Verically aligning code"
 date = "2014-11-02 20:42:44"
 slug = "verically-aligning-code"
+
 [taxonomies]
-tags = ['general']
+tags = [ "coding", "readability", "alignment",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2014/11/2014-11-02-verically-aligning-code-comments.csv"
+
 +++
 
 I remember being a new developer and thinking that [vertical alignment of code](https://shkspr.mobi/blog/2014/11/why-i-vertically-align-my-code-and-you-should-too/), whilst having some minor upsides, was just too damn ugly to do.

@@ -2,11 +2,14 @@
 title = "Conference wifi"
 date = "2007-02-20 13:08:00"
 slug = "conference-wifi"
+
 [taxonomies]
-tags = ['fowalondon07','general','wifi']
+tags = [ "fowalondon07", "wifi", "web-apps", "conference", "internet",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2007/02/2007-02-20-conference-wifi-comments.csv"
+
 +++
 
 Two of my workmates are currently at the [Future of Web Apps](http://www.futureofwebapps.com/) conference in London.

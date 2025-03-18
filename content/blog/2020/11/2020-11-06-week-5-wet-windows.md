@@ -2,11 +2,14 @@
 title = "Week 5: wet windows"
 date = "2020-11-06 20:21:46"
 slug = "week-5-wet-windows"
+
 [taxonomies]
-tags = ['general','weeknotes']
+tags = [ "weeknotes", "gaming", "astronomy", "baking",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2020/11/2020-11-06-week-5-wet-windows-comments.csv"
+
 +++
 
 - I hate condensation. Everything gets wet. You can’t see out of windows. It’s rubbish.

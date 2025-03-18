@@ -2,11 +2,14 @@
 title = "On eating good food"
 date = "2008-07-06 21:50:20"
 slug = "on-eating-good-food"
+
 [taxonomies]
-tags = ['food','general']
+tags = [ "food", "nutrition", "health", "cooking",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/07/2008-07-06-on-eating-good-food-comments.csv"
+
 +++
 
 Not that I don’t think that just about every TED talk is great, but this one entitled “[What’s wrong with what we eat](http://www.ted.com/index.php/talks/mark_bittman_on_what_s_wrong_with_what_we_eat.html)” by Mark Bittman resonates with how I think about what my wife and I eat.

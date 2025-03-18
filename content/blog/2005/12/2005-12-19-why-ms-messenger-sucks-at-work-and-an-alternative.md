@@ -2,11 +2,14 @@
 title = "Why MS Messenger sucks at work (and an alternative)"
 date = "2005-12-19 15:07:00"
 slug = "why-ms-messenger-sucks-at-work-and-an-alternative"
+
 [taxonomies]
-tags = ['general']
+tags = [ "messaging", "security", "compliance",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/12/2005-12-19-why-ms-messenger-sucks-at-work-and-an-alternative-comments.csv"
+
 +++
 
 Or at least, it sucks at work for most purposes.

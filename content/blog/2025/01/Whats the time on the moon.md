@@ -1,12 +1,12 @@
 ---
-title: What's the time on the moon?
 date: 2025-01-15 16:26:49
 slug: whats-the-time-on-the-moon
 taxonomies:
   tags:
-    - space
-    - moon
-    - time
+  - space
+  - moon
+  - time
+title: What's the time on the moon?
 ---
 
 [From "Timekeeping on the Moon on Wikipedia](https://en.m.wikipedia.org/wiki/Timekeeping_on_the_Moon#Coordinated_Lunar_Time):

@@ -1,15 +1,14 @@
 ---
-title: Yaffle - a toy RSS reader for Yarr
 date: 2024-06-07 14:41:22
 slug: yaffle-a-toy-rss-reader-for-yarr
 taxonomies:
   tags:
-    - general
-    - rss
-    - rss-reader
-    - yarr
-    - wxwidgets
-    - wxvenus
+  - rss
+  - rss-reader
+  - yarr
+  - wxwidgets
+  - wxvenus
+title: Yaffle - a toy RSS reader for Yarr
 ---
 
 I spent some time in April and May making a toy cross-platform desktop RSS reader which uses [Yarr](https://github.com/nkanaev/yarr) as its backend. [It's called Yaffle](https://github.com/pipwilson/yaffle-rss-reader). It looks like this on Windows:

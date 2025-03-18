@@ -2,11 +2,14 @@
 title = "Personal Arduino failure"
 date = "2008-05-02 20:11:51"
 slug = "personal-arduino-failure"
+
 [taxonomies]
-tags = ['arduino','general']
+tags = [ "arduino", "xtech", "hacker", "electronics",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/05/2008-05-02-personal-arduino-failure-comments.csv"
+
 +++
 
 So next week is [XTech 2008](http://2008.xtech.org/) and I’m not going.

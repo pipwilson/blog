@@ -2,11 +2,14 @@
 title = "Apple's photocasting arse"
 date = "2006-01-18 19:52:00"
 slug = "apples-photocasting-arse"
+
 [taxonomies]
-tags = ['general']
+tags = [ "iphoto", "documentation", "rss",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/01/2006-01-18-apples-photocasting-arse-comments.csv"
+
 +++
 
 Thanks to Mark Pilgrim for yet again daring to step where mortals fear to tread: [Unofficial documentation of iPhoto 6.0 photocasting feeds](http://lists.apple.com/archives/syndication-dev/2006/Jan/msg00020.html)

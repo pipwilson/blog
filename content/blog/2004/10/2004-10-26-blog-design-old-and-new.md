@@ -2,11 +2,14 @@
 title = "Blog design old and new"
 date = "2004-10-26 16:03:00"
 slug = "blog-design-old-and-new"
+
 [taxonomies]
-tags = ['general']
+tags = [ "design", "blogging", "redesign",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/10/2004-10-26-blog-design-old-and-new-comments.csv"
+
 +++
 
 The current ‘design’ is actually just a sample layout I was putting together a year and a half ago and decided to test on my blog. And, as it turned out, that’s the way its stayed. Certainly not the intention!

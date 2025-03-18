@@ -1,11 +1,14 @@
 ---
-title: Teach a girl to code HTML
 date: 2024-08-19 10:51:49
 slug: teach-a-girl-to-code-html
 taxonomies:
   tags:
-    - kids
-    - html
+  - kids
+  - html
+  - web-publishing
+  - neko-atsume
+  - customisation
+title: Teach a girl to code HTML
 ---
 
 After playing with [some web publishing tools in March](https://philwilson.org/blog/2024/03/web-publishing-for-yourself/), I spent a few hours in April teaching my 11-year-old daughter some HTML.

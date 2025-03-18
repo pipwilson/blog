@@ -2,11 +2,14 @@
 title = "How to export Firefox's history to a text file"
 date = "2005-01-04 23:25:00"
 slug = "how-to-export-firefoxs-history-to-a-text-file"
+
 [taxonomies]
-tags = ['general']
+tags = [ "firefox", "mork", "rdf",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/01/2005-01-04-how-to-export-firefoxs-history-to-a-text-file-comments.csv"
+
 +++
 
 <ins datetime="2006-01-07T18:52:06Z"></ins>

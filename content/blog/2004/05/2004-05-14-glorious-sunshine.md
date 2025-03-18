@@ -2,11 +2,14 @@
 title = "Glorious sunshine"
 date = "2004-05-14 13:54:00"
 slug = "glorious-sunshine"
+
 [taxonomies]
-tags = ['general']
+tags = [ "sheffield", "winter-gardens", "photography",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/05/2004-05-14-glorious-sunshine-comments.csv"
+
 +++
 
 [![](http://www.flickr.com/photos/33649_m.jpg)](http://www.flickr.com/photo.gne?id=33649)

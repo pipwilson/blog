@@ -2,11 +2,14 @@
 title = "Bloglines Web Services"
 date = "2004-09-28 15:23:00"
 slug = "bloglines-web-services"
+
 [taxonomies]
-tags = ['general']
+tags = [ "web-services", "aggregators", "synchronisation",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/09/2004-09-28-bloglines-web-services-comments.csv"
+
 +++
 
 Bloglines just announced their new [web services](http://www.bloglines.com/services/ "Bloglines Web Services") Including [feed synchronisation](http://www.bloglines.com/services/api/sync), and enabled in several aggregators including [FeedDemon](http://www.feeddemon.com/), [NetNewsWire](http://ranchero.com/netnewswire) and [BlogBot](http://www.blogbot.com/).

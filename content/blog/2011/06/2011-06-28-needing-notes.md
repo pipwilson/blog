@@ -2,11 +2,14 @@
 title = "Needing notes"
 date = "2011-06-28 21:52:17"
 slug = "needing-notes"
+
 [taxonomies]
-tags = ['general','notes','wiki']
+tags = [ "notes", "wiki", "productivity", "software", "tools",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2011/06/2011-06-28-needing-notes-comments.csv"
+
 +++
 
 Whilst I’m thinking about all these [different topics that I’m interested in](http://philwilson.org/blog/2011/06/keep-posting), can anyone help? I’m in the market for a new desktop note-taking tool. It must start up in &lt;3 seconds and save each note as a standalone text file, using some form of text-based notation (like wiki, textile or markdown).

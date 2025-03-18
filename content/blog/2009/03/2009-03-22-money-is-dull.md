@@ -2,11 +2,14 @@
 title = "Money is dull"
 date = "2009-03-22 23:41:42"
 slug = "money-is-dull"
+
 [taxonomies]
-tags = ['general','houses','money','moving']
+tags = [ "houses", "money", "moving",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2009/03/2009-03-22-money-is-dull-comments.csv"
+
 +++
 
 I am in the process of buying my first house.

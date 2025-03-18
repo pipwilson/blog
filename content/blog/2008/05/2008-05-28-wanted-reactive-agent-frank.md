@@ -2,11 +2,14 @@
 title = "Wanted: Reactive Agent Frank"
 date = "2008-05-28 09:56:47"
 slug = "wanted-reactive-agent-frank"
+
 [taxonomies]
-tags = ['general','xul']
+tags = [ "xul", "firefox", "sqlite", "proxy",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/05/2008-05-28-wanted-reactive-agent-frank-comments.csv"
+
 +++
 
 [Agent Frank](http://www.decafbad.com/twiki/bin/view/Main/AgentFrank) was super-useful as a personal proxy back in the day, but in the end it introduced too much of a delay into my daily browsing and I turned it off.

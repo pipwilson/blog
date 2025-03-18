@@ -2,11 +2,14 @@
 title = "Firefox location bar doesn't work under Ubuntu"
 date = "2007-05-06 14:51:00"
 slug = "firefox-location-bar-doesnt-work-under-ubuntu"
+
 [taxonomies]
-tags = ['firefox','general','usamajility']
+tags = [ "firefox", "usamajility", "ubuntu", "keyboard-shortcuts", "bugzilla",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2007/05/2007-05-06-firefox-location-bar-doesnt-work-under-ubuntu-comments.csv"
+
 +++
 
 Some of the shortcut keys for Firefox on Ubuntu are different to those on Windows. The most pertinent one for me is that the &lt;backspace&gt; key as a shortcut for clicking the “Back” button has been disabled. This is easily fixed in about:config by changing the value of `browser.backspace_action` to 0.

@@ -2,11 +2,14 @@
 title = "XTech 2007, some highlighted notes"
 date = "2007-05-18 23:02:00"
 slug = "xtech-2007-some-highlighted-notes"
+
 [taxonomies]
-tags = ['general','xtech','xtech2007']
+tags = [ "xtech", "xtech2007", "html5", "arduino", "w3c",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2007/05/2007-05-18-xtech-2007-some-highlighted-notes-comments.csv"
+
 +++
 
 - [Joost](http://www.joost.com/) is based on standards all the way and the application forms a single DOM

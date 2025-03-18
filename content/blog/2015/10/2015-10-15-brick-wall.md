@@ -2,11 +2,14 @@
 title = "Brick wall"
 date = "2015-10-15 20:45:21"
 slug = "brick-wall"
+
 [taxonomies]
-tags = ['coding','dotnet','general']
+tags = [ "coding", "dotnet", "nuget", "visualstudio", "xml",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2015/10/2015-10-15-brick-wall-comments.csv"
+
 +++
 
 So I wanted to parse the feed I retrieved yesterday, and now I know a bit more about how the package system works, I just search NuGet and found [SimpleFeedReader](https://github.com/RobThree/SimpleFeedReader)

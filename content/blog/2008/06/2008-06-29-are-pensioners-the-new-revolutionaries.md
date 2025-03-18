@@ -2,11 +2,14 @@
 title = "Are pensioners the new revolutionaries?"
 date = "2008-06-29 23:13:11"
 slug = "are-pensioners-the-new-revolutionaries"
+
 [taxonomies]
-tags = ['general','gov']
+tags = [ "gov", "seniors", "politics", "revolution",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/06/2008-06-29-are-pensioners-the-new-revolutionaries-comments.csv"
+
 +++
 
 I realise I’ve probably come to this a little late, but after reading [the story of the chap in Bristol who chained himself to a lamppost in order to stop the council from taking it away](http://news.bbc.co.uk/1/hi/magazine/7476990.stm) who said “Retired people like me are going to lead the revolution”, it now seems obvious that this really is going to be the case in the future.

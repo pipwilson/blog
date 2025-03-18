@@ -2,11 +2,14 @@
 title = "My life as a teenage goth"
 date = "2004-11-21 15:42:00"
 slug = "my-life-as-a-teenage-goth"
+
 [taxonomies]
-tags = ['general']
+tags = [ "goth", "humor", "comments",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/11/2004-11-21-my-life-as-a-teenage-goth-comments.csv"
+
 +++
 
 This is just great.

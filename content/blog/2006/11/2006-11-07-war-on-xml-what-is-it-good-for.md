@@ -2,11 +2,14 @@
 title = "War (on XML), what is it good for?"
 date = "2006-11-07 10:13:00"
 slug = "war-on-xml-what-is-it-good-for"
+
 [taxonomies]
-tags = ['general']
+tags = [ "xml", "xhtml", "whatwg",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/11/2006-11-07-war-on-xml-what-is-it-good-for-comments.csv"
+
 +++
 
 > Were switching to XML a requirement for reaping compelling benefits, the public would indubitably have moved. So would the majority browser engine.

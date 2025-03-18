@@ -2,11 +2,14 @@
 title = "Lighthouse theme for Trac"
 date = "2008-12-22 01:45:50"
 slug = "lighthouse-theme-for-trac"
+
 [taxonomies]
-tags = ['bugtracker','general','greasemonkey','lighthouse','trac','wiki']
+tags = [ "bugtracker", "greasemonkey", "lighthouse", "trac", "wiki",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/12/2008-12-22-lighthouse-theme-for-trac-comments.csv"
+
 +++
 
 [Lighthouse](http://www.lighthouseapp.com/) is “beautifully simple issue tracking” (a hosted bugtracker to you and me). It looks great and is pretty much a joy to use.

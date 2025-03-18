@@ -2,11 +2,14 @@
 title = "Charges, charges everywhere"
 date = "2005-06-10 21:51:00"
 slug = "charges-charges-everywhere"
+
 [taxonomies]
-tags = ['general']
+tags = [ "billing", "broadband", "contracts",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/06/2005-06-10-charges-charges-everywhere-comments.csv"
+
 +++
 
 [Orange](http://www.orange.co.uk) charge for copies of bills older than three months.

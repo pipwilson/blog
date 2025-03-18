@@ -2,11 +2,14 @@
 title = "Microsoft's collaboration tools are terrible"
 date = "2023-01-22 10:00:00"
 slug = "microsofts-collaboration-tools-are-terrible"
+
 [taxonomies]
-tags = ['azure devops','general','hot garbage','microsoft']
+tags = [ "azure devops", "hot garbage", "microsoft",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2023/01/2023-01-22-microsofts-collaboration-tools-are-terrible-comments.csv"
+
 +++
 
 Not only are their tools terrible, but everyone involved in their creation should feel bad.

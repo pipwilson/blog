@@ -2,11 +2,14 @@
 title = "Week 7: Christmas lists"
 date = "2020-11-22 22:46:06"
 slug = "week-7-christmas-lists"
+
 [taxonomies]
-tags = ['general','weeknotes']
+tags = [ "weeknotes", "christmas", "gifts", "telescope",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2020/11/2020-11-22-week-7-christmas-lists-comments.csv"
+
 +++
 
 - It’s that time of year! My daughter has actually hounded us for a copy of the Argos catalogue to look through, but pending the arrival of the [Book of Dreams](http://argosbookofdreams.co.uk) she’s had to make do with the Argos and Smyths websites and seems to be setting her ambitions pretty high. I’ve heard her muttering about “a 26 inch narwhal” in alarming tones.

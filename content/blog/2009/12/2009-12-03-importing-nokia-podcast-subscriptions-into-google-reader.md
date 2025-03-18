@@ -2,11 +2,14 @@
 title = "Importing Nokia podcast subscriptions into Google Reader"
 date = "2009-12-03 23:37:05"
 slug = "importing-nokia-podcast-subscriptions-into-google-reader"
+
 [taxonomies]
-tags = ['general','google reader','n95','nokia','opml','syndication']
+tags = [ "google reader", "n95", "nokia", "opml", "syndication",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2009/12/2009-12-03-importing-nokia-podcast-subscriptions-into-google-reader-comments.csv"
+
 +++
 
 #### Exporting the list of podcasts

@@ -2,11 +2,14 @@
 title = "More on Jabber non-adoption"
 date = "2005-03-13 23:24:00"
 slug = "more-on-jabber-non-adoption"
+
 [taxonomies]
-tags = ['general']
+tags = [ "jabber", "decentralization", "development",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/03/2005-03-13-more-on-jabber-non-adoption-comments.csv"
+
 +++
 
 Jabber frustrates me a great deal, mainly because I think it should be doing a lot better and acting more coherently than it currently does. The decentralised nature of the system itself seems to have persisted into development efforts (i.e. there are [eight different open-source Jabber server implementations, and another six commercial implementations](http://www.jabber.org/software/servers.shtml); that’s fourteen different server implementations. You can tell it’s too many because in the “Feature Score” column on that list, not one of them scores 100% and the highest score for an open source server is 79%).

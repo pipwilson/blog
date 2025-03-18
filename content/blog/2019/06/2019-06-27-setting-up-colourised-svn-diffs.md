@@ -2,11 +2,14 @@
 title = "Setting up colourised svn diffs"
 date = "2019-06-27 08:30:38"
 slug = "setting-up-colourised-svn-diffs"
+
 [taxonomies]
-tags = ['general','linux']
+tags = [ "linux", "subversion", "colordiff", "configuration",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2019/06/2019-06-27-setting-up-colourised-svn-diffs-comments.csv"
+
 +++
 
 This is mundane, but something I will no doubt forget, and so for my own posterity:

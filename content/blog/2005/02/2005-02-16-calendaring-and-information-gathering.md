@@ -2,11 +2,14 @@
 title = "Calendaring and information gathering"
 date = "2005-02-16 12:57:00"
 slug = "calendaring-and-information-gathering"
+
 [taxonomies]
-tags = ['general', 'foaf']
+tags = [ "foaf", "hula", "caldav", "dashboard",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/02/2005-02-16-calendaring-and-information-gathering-comments.csv"
+
 +++
 
 Just some stream of consciousness:

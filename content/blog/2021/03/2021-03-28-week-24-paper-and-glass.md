@@ -2,11 +2,14 @@
 title = "Week 24: Paper and glass"
 date = "2021-03-28 23:56:19"
 slug = "week-24-paper-and-glass"
+
 [taxonomies]
-tags = ['general','weeknotes']
+tags = [ "weeknotes", "pandemics", "reading", "rss",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2021/03/2021-03-28-week-24-paper-and-glass-comments.csv"
+
 +++
 
 - We are at 12 months since the first Coronavirus Lockdown in the UK. What an absolute joy.

@@ -2,11 +2,14 @@
 title = "Identity 2.0 presentation"
 date = "2005-09-29 15:37:00"
 slug = "identity-20-presentation"
+
 [taxonomies]
-tags = ['general']
+tags = [ "identity2.0", "oscon", "trust",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/09/2005-09-29-identity-2-0-presentation-comments.csv"
+
 +++
 
 Do you know Dick about Identity 2.0?

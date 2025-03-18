@@ -2,11 +2,14 @@
 title = "Week 10: tractors"
 date = "2020-12-15 23:22:53"
 slug = "week-10-tractors"
+
 [taxonomies]
-tags = ['general','weeknotes']
+tags = [ "weeknotes", "christmas", "reading", "gaming",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2020/12/2020-12-15-week-10-tractors-comments.csv"
+
 +++
 
 - We are nearly at the Christmas holidays! Come on people, you can make it!

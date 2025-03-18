@@ -2,11 +2,14 @@
 title = "Safeguarding our data"
 date = "2008-01-20 22:50:33"
 slug = "safeguarding-our-data"
+
 [taxonomies]
-tags = ['general','gov','identity']
+tags = [ "gov", "identity", "data-security", "encryption", "database",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/01/2008-01-20-safeguarding-our-data-comments.csv"
+
 +++
 
 Danger! Mental dumping ground ahead!

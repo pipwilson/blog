@@ -2,11 +2,14 @@
 title = "Cross-platform browser launcher for Ruby?"
 date = "2008-09-24 21:28:19"
 slug = "cross-platform-browser-launcher-for-ruby"
+
 [taxonomies]
-tags = ['general','ruby python']
+tags = [ "ruby python", "webbrowser", "shoes", "browser",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/09/2008-09-24-cross-platform-browser-launcher-for-ruby-comments.csv"
+
 +++
 
 In Python, you can do this:

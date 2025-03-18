@@ -2,11 +2,14 @@
 title = "Live textile comment previews"
 date = "2004-05-18 16:24:00"
 slug = "live-textile-comment-previews"
+
 [taxonomies]
-tags = ['general']
+tags = [ "textile", "javascript", "html",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/05/2004-05-18-live-textile-comment-previews-comments.csv"
+
 +++
 
 [Live textile comment previews](http://www.magpiebrain.com/archives/2004/05/18/preview).

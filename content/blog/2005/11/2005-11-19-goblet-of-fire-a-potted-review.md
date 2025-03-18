@@ -2,11 +2,14 @@
 title = "Goblet of fire: A potted review"
 date = "2005-11-19 23:56:00"
 slug = "goblet-of-fire-a-potted-review"
+
 [taxonomies]
-tags = ['general']
+tags = [ "quidditch", "dragons", "voldemort",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/11/2005-11-19-goblet-of-fire-a-potted-review-comments.csv"
+
 +++
 
 Or, if you like, a Potter review.

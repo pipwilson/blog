@@ -2,11 +2,14 @@
 title = "EA in \"publishing good game\" shocker!"
 date = "2005-08-12 11:13:00"
 slug = "ea-in-publishing-good-game-shocker"
+
 [taxonomies]
-tags = ['general']
+tags = [ "katamari", "sequel", "minigames",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/08/2005-08-12-ea-in-publishing-good-game-shocker-comments.csv"
+
 +++
 
 We Love Katamari is the sequel to Katamari Damacy, and looks like being every bit as good as the original but with a two-player mode and better minigames.

@@ -2,11 +2,14 @@
 title = "RSS Reading Habits and Aggregator Design"
 date = "2004-10-28 13:23:00"
 slug = "rss-reading-habits-and-aggregator-design"
+
 [taxonomies]
-tags = ['general']
+tags = [ "rss", "aggregators", "jabrss",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/10/2004-10-28-rss-reading-habits-and-aggregator-design-comments.csv"
+
 +++
 
 I’ve noticed that my RSS reading habits are markedly different to those of the other people I know who also use aggregators. Using either desktop aggregators like [FeedThing](http://feedthing.sourceforge.net/) or [SharpReader](http://www.sharpreader.net/) or a web-based aggregator like [Bloglines](http://www.bloglines.com/) they all read feeds in the same way:

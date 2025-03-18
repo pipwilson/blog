@@ -2,11 +2,14 @@
 title = "Prefer planned rework to big bang delivery"
 date = "2023-06-08 23:14:26"
 slug = "prefer-planned-rework-to-big-bang-delivery"
+
 [taxonomies]
-tags = ['general']
+tags = [ "incremental", "legacy", "projects",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2023/06/2023-06-08-prefer-planned-rework-to-big-bang-delivery-comments.csv"
+
 +++
 
 We have a few large projects on at work to replace key legacy systems and are discussing how to do that.

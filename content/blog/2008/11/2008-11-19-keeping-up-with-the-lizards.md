@@ -2,11 +2,14 @@
 title = "Keeping up with the lizards"
 date = "2008-11-19 11:24:46"
 slug = "keeping-up-with-the-lizards"
+
 [taxonomies]
-tags = ['css','firefox','general','javascript','mozilla','xul']
+tags = [ "css", "firefox", "javascript", "mozilla", "xul",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/11/2008-11-19-keeping-up-with-the-lizards-comments.csv"
+
 +++
 
 It used to be the case that I pored over Mozilla (and later Firefox) release notes. But I stopped sometime in 2004, around the point when I accepted that XUL development was too hard to be doing in my spare time and yes, Firefox was clearly better than IE at just about everything.

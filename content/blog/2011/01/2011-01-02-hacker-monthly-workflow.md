@@ -2,11 +2,14 @@
 title = "Hacker Monthly workflow"
 date = "2011-01-02 01:11:06"
 slug = "hacker-monthly-workflow"
+
 [taxonomies]
-tags = ['general','hacker monthly','hacker news','kindle']
+tags = [ "hacker monthly", "hacker news", "kindle",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2011/01/2011-01-02-hacker-monthly-workflow-comments.csv"
+
 +++
 
 I got a Kindle for Christmas, and I subscribe to [Hacker Monthly](http://hackermonthly.com/). HM is provided in PDF, epub and .mobi – the Kindle can read .mobi file natively, so when the latest HM arrived today I was keen to try it out.

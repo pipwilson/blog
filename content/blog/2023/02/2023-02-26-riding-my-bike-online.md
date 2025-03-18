@@ -2,11 +2,14 @@
 title = "Riding my bike online"
 date = "2023-02-26 10:12:00"
 slug = "riding-my-bike-online"
+
 [taxonomies]
-tags = ['bike','general']
+tags = [ "bike", "cycling", "exercise", "zwift",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2023/02/2023-02-26-riding-my-bike-online-comments.csv"
+
 +++
 
 I like riding my bicycle. I like being outside; I like getting exercise; I like that I can do it solo and leave all my daily concerns at home as I cycle on a dedicated paved path which winds its way between crop fields and over bridges.

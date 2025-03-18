@@ -2,11 +2,14 @@
 title = "Nintendo DS strikes right note for teaching"
 date = "2007-10-24 18:30:00"
 slug = "nintendo-ds-strikes-right-note-for-teaching"
+
 [taxonomies]
-tags = ['games','games','maths','nintendo','teaching']
+tags = [ "games", "games", "maths", "nintendo", "teaching",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2007/10/2007-10-24-nintendo-ds-strikes-right-note-for-teaching-comments.csv"
+
 +++
 
 [![My shiny new DS lite](http://farm2.static.flickr.com/1050/839345365_231ddf1242.jpg)](http://flickr.com/photos/pip/839345365/)

@@ -2,11 +2,14 @@
 title = "Flickr-tastic"
 date = "2004-12-18 15:10:00"
 slug = "flickr-tastic"
+
 [taxonomies]
-tags = ['general']
+tags = [ "photography", "flickr", "social",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/12/2004-12-18-flickr-tastic-comments.csv"
+
 +++
 
 If you’ve not used [Flickr](http://www.flickr.com) yet, do. [It’s brilliant](http://flickrsucks.com/).

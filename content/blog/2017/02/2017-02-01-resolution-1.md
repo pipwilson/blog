@@ -2,11 +2,14 @@
 title = "Resolution #1"
 date = "2017-02-01 22:12:46"
 slug = "resolution-1"
+
 [taxonomies]
-tags = ['general']
+tags = [ "weight-tracking", "resolutions", "withings",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2017/02/2017-02-01-resolution-1-comments.csv"
+
 +++
 
 Weigh myself every day. Nothing about losing weight, just about recording it.

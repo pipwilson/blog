@@ -2,11 +2,14 @@
 title = "Google Chrome"
 date = "2008-09-03 22:19:48"
 slug = "google-chrome"
+
 [taxonomies]
-tags = ['chrome','eeeeevil','general','google']
+tags = [ "chrome", "eeeeevil", "google",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/09/2008-09-03-google-chrome-comments.csv"
+
 +++
 
 (because one more whiny blogger’s opinion can’t hurt)

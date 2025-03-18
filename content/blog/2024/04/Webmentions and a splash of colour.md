@@ -1,11 +1,13 @@
 ---
-title: Webmentions and a splash of colour
 date: 2024-04-26 10:29:42
 slug: webmentions-and-a-splash-of-colour
 taxonomies:
   tags:
-    - general
-    - sass
+  - sass
+  - webmentions
+  - clip-path
+  - contrast
+title: Webmentions and a splash of colour
 ---
 
 What did I get done this week? What am I doing next week? Is there anything where I'd like some support to help me move forward?

@@ -1,11 +1,14 @@
 ---
-title: Making a bigger back button in Firefox
 date: 2025-03-09 10:56:30
 slug: making-a-bigger-back-button-in-firefox
 taxonomies:
   tags:
-    - firefox
-    - css
+  - firefox
+  - css
+  - usability
+  - customization
+  - gui
+title: Making a bigger back button in Firefox
 ---
 
 I've been [hacking Firefox CSS to make the "Back" button bigger since 2004](https://www.philwilson.org/blog/2004/11/enhancing-firefox-gui-usability/).

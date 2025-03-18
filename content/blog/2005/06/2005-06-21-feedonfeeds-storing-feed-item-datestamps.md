@@ -2,11 +2,14 @@
 title = "FeedOnFeeds storing feed item datestamps"
 date = "2005-06-21 09:55:00"
 slug = "feedonfeeds-storing-feed-item-datestamps"
+
 [taxonomies]
-tags = ['general']
+tags = [ "feedonfeeds", "magpierss", "timestamp",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/06/2005-06-21-feedonfeeds-storing-feed-item-datestamps-comments.csv"
+
 +++
 
 By default, when FeedOnFeeds polls a feed and stores new items, it will probably get the timestamp wrong – most likely in fact, it won’t get any timestamp at all. This is because FeedOnFeeds specifically looks for a `dc:date` element in each item. If it doesn’t find one, it doesn’t store a time or date for the item.

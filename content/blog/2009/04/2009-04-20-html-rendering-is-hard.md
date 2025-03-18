@@ -2,11 +2,14 @@
 title = "HTML rendering is hard"
 date = "2009-04-20 19:19:56"
 slug = "html-rendering-is-hard"
+
 [taxonomies]
-tags = ['general','wxvenus','wxwidgets']
+tags = [ "wxvenus", "wxwidgets", "cross-platform", "toolkit", "desktop-applications",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2009/04/2009-04-20-html-rendering-is-hard-comments.csv"
+
 +++
 
 [wxWidgets](http://www.wxwidgets.org/) is a nice, easy-to-use cross platform toolkit for writing desktop applications. It exists for many different languages including [Ruby](http://wxruby.rubyforge.org/) and [Python](http://www.wxpython.org/).

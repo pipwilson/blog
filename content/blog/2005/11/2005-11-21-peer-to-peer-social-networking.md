@@ -2,11 +2,14 @@
 title = "Peer-to-peer social networking"
 date = "2005-11-21 13:16:00"
 slug = "peer-to-peer-social-networking"
+
 [taxonomies]
-tags = ['general', 'foaf']
+tags = [ "foaf", "social-networking", "xmpp", "rdf",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/11/2005-11-21-peer-to-peer-social-networking-comments.csv"
+
 +++
 
 Social networking sites and functionalities are a means to an end. Personally, I want to use a social network to describe, filter and prioritise information in an aggregator (or, if you like, a “Digital Lifestyle Aggregator”).

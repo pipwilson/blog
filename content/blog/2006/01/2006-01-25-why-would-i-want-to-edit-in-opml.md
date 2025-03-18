@@ -2,11 +2,14 @@
 title = "Why would I want to edit in OPML?"
 date = "2006-01-25 12:22:00"
 slug = "why-would-i-want-to-edit-in-opml"
+
 [taxonomies]
-tags = ['general']
+tags = [ "opml", "wordpress", "usability",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2006/01/2006-01-25-why-would-i-want-to-edit-in-opml-comments.csv"
+
 +++
 
 I don’t get all Dave Winer’s fuss about OPML.

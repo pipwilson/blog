@@ -2,11 +2,14 @@
 title = "More than del.icio.us - Item 3"
 date = "2005-10-28 19:31:00"
 slug = "more-than-delicious-item-3"
+
 [taxonomies]
-tags = ['general']
+tags = [ "mod_rewrite", "validation", "blogging",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/10/2005-10-28-more-than-del-icio-us-item-3-comments.csv"
+
 +++
 
 Mark Nottingham does a lot of good work.

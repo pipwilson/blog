@@ -2,11 +2,14 @@
 title = "The Guardian's Christmas Gift Guide - on the web, not of the web"
 date = "2016-12-01 22:19:34"
 slug = "the-guardians-christmas-gift-guide-on-the-web-not-of-the-web"
+
 [taxonomies]
-tags = ['general','theguardian']
+tags = [ "theguardian", "christmas", "web-development", "user-experience",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2016/12/2016-12-01-the-guardians-christmas-gift-guide-on-the-web-not-of-the-web-comments.csv"
+
 +++
 
 Congratulations to The Guardian for making me write a blog post.

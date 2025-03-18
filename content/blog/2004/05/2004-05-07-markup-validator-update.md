@@ -2,11 +2,14 @@
 title = "Markup Validator update"
 date = "2004-05-07 10:28:00"
 slug = "markup-validator-update"
+
 [taxonomies]
-tags = ['general']
+tags = [ "validator", "accessibility", "usability",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/05/2004-05-07-markup-validator-update-comments.csv"
+
 +++
 
 > After five consecutive beta test periods, a new version  

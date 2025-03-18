@@ -2,11 +2,14 @@
 title = "Windows messenger contact list to FOAF"
 date = "2004-07-03 16:29:00"
 slug = "windows-messenger-contact-list-to-foaf"
+
 [taxonomies]
-tags = ['general', 'foaf']
+tags = [ "foaf", "messenger", "xml", "python",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/07/2004-07-03-windows-messenger-contact-list-to-foaf-comments.csv"
+
 +++
 
 There’s now more than one way to convert your MSN Messenger contact list into FOAF.

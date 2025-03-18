@@ -2,11 +2,14 @@
 title = "Weekend Reading"
 date = "2004-05-02 18:14:00"
 slug = "weekend-reading"
+
 [taxonomies]
-tags = ['general']
+tags = [ "bookmarks", "blogging", "technology",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/05/2004-05-02-weekend-reading-comments.csv"
+
 +++
 
 Since I started using del.icio.us in a semi-serious way I realised that it’s most useful to me as a place to store links that I could a) potentially blog about or b) might need when I’m on a different machine.

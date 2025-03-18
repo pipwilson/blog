@@ -2,11 +2,14 @@
 title = "Life-changing"
 date = "2009-11-08 21:18:01"
 slug = "life-changing"
+
 [taxonomies]
-tags = ['baby','daniel','general']
+tags = [ "baby", "daniel", "parenting", "blogging", "coding",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2009/11/2009-11-08-life-changing-comments.csv"
+
 +++
 
 Three months ago my first son, Daniel was born.

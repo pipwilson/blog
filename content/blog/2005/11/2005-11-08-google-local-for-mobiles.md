@@ -2,11 +2,14 @@
 title = "Google Local for mobiles"
 date = "2005-11-08 10:38:00"
 slug = "google-local-for-mobiles"
+
 [taxonomies]
-tags = ['general']
+tags = [ "blogger", "google-local", "3g",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/11/2005-11-08-google-local-for-mobiles-comments.csv"
+
 +++
 
 So, posting to Blogger from Firefox on Kubuntu doesn’t work and leaves me with a title and erases my post content. Lesson learned.

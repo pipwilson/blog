@@ -2,11 +2,14 @@
 title = "University of Bath hCalendar usage"
 date = "2006-05-03 18:22:00"
 slug = "university-of-bath-hcalendar-usage"
+
 [taxonomies]
-tags = ['general']
+tags = [ "hcalendar", "greasemonkey", "t'ai-chi",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/05/2006-05-03-university-of-bath-hcalendar-usage-comments.csv"
+
 +++
 
 After a bit of discussion with a chap at work, individual items featured at the [University of Bath’s What’s On](http://www.bath.ac.uk/whats-on/ "What's on") now sport [hCalendar](http://microformats.org/wiki/hcalendar) in their markup.

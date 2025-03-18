@@ -2,11 +2,14 @@
 title = "Digital photo frames"
 date = "2007-12-10 22:55:28"
 slug = "digital-photo-frames"
+
 [taxonomies]
-tags = ['general','junk','real']
+tags = [ "junk", "real", "digital-frames", "photography", "technology",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2007/12/2007-12-10-digital-photo-frames-comments.csv"
+
 +++
 
 I am very much looking forward to the coming increase in quality and drop in price of digital photo frames.

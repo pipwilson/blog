@@ -2,11 +2,14 @@
 title = "In case of theft"
 date = "2010-09-21 21:15:28"
 slug = "in-case-of-theft"
+
 [taxonomies]
-tags = ['general','mobile','privacy','security']
+tags = [ "mobile", "privacy", "security",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2010/09/2010-09-21-in-case-of-theft-comments.csv"
+
 +++
 
 In the last few months, several of my friends have had either their laptops or phones stolen.

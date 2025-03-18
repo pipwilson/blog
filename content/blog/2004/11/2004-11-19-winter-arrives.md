@@ -2,11 +2,14 @@
 title = "Winter arrives"
 date = "2004-11-19 10:20:00"
 slug = "winter-arrives"
+
 [taxonomies]
-tags = ['general']
+tags = [ "sheffield", "snow", "winter",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/11/2004-11-19-winter-arrives-comments.csv"
+
 +++
 
 Winter finally arrived in Sheffield at about 5pm last night when it started to snow.

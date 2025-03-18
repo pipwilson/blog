@@ -2,11 +2,14 @@
 title = "XBox 360 advertising splurge"
 date = "2006-11-17 23:21:00"
 slug = "xbox-360-advertising-splurge"
+
 [taxonomies]
-tags = ['general']
+tags = [ "advertising", "xbox", "marketing",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/11/2006-11-17-xbox-360-advertising-splurge-comments.csv"
+
 +++
 
 I thought I was going mad this morning as I was reading the [metro](http://www.metro.co.uk/) (a free daily newspaper in the UK) – there seemed to be ads for games \*everywhere\*. I realised a few pages in that they were all for the Xbox 360.

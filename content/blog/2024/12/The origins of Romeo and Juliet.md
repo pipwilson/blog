@@ -1,11 +1,14 @@
 ---
-title: The origins of Romeo and Juliet
 date: 2024-12-22 19:32:05
 slug: the-origins-of-romeo-and-juliet
 taxonomies:
   tags:
-    - shakespeare
-    - chaucer
+  - shakespeare
+  - chaucer
+  - drama
+  - literature
+  - novella
+title: The origins of Romeo and Juliet
 ---
 
 Romeo and Juliet is one of Shakespeare's most well known plays.

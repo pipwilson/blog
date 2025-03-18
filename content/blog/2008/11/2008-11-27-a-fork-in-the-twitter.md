@@ -2,11 +2,14 @@
 title = "A fork in the twitter?"
 date = "2008-11-27 10:57:30"
 slug = "a-fork-in-the-twitter"
+
 [taxonomies]
-tags = ['general','twitter']
+tags = [ "twitter", "productivity", "hiring", "opensource",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2008/11/2008-11-27-a-fork-in-the-twitter-comments.csv"
+
 +++
 
 There is some current hullabaloo over [twitter’s most recent hires](http://www.valuesofn.com/blog/2008/11/fork-in-road.html).

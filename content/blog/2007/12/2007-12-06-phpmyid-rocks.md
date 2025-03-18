@@ -2,11 +2,14 @@
 title = "PHPMyID rocks"
 date = "2007-12-06 19:34:52"
 slug = "phpmyid-rocks"
+
 [taxonomies]
-tags = ['general','openid','real']
+tags = [ "openid", "real", "phpmyid", "server",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2007/12/2007-12-06-phpmyid-rocks-comments.csv"
+
 +++
 
 30 minutes from ssh-ing into my server to having [my own (decrufted) OpenID](http://philwilson.org/id/).

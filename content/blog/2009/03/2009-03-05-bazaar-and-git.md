@@ -2,11 +2,14 @@
 title = "Bazaar and Git"
 date = "2009-03-05 13:19:00"
 slug = "bazaar-and-git"
+
 [taxonomies]
-tags = ['bazaar','bzr','general','git']
+tags = [ "bazaar", "bzr", "git",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2009/03/2009-03-05-bazaar-and-git-comments.csv"
+
 +++
 
 I’ve had cause to use both [Bazaar](http://bazaar-vcs.org/) and [Git](http://git-scm.com/) recently, which are very similar to one another and both of which I quite like.

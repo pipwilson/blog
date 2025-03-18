@@ -2,11 +2,14 @@
 title = "IWMW 2008: sack your web services team now"
 date = "2008-07-20 19:33:23"
 slug = "iwmw-2008-sack-your-web-services-team-now"
+
 [taxonomies]
-tags = ['general','iwmw iwmw2008']
+tags = [ "iwmw iwmw2008", "web-development", "web2.0", "aberdeen",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/07/2008-07-20-iwmw-2008-sack-your-web-services-team-now-comments.csv"
+
 +++
 
 Actually, please don’t do that, I’ll have to get off my bum and look for another job.

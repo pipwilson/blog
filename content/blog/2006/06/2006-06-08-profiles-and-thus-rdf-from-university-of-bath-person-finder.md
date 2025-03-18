@@ -2,11 +2,14 @@
 title = "Profiles (and thus RDF) from University of Bath Person Finder"
 date = "2006-06-08 16:37:00"
 slug = "profiles-and-thus-rdf-from-university-of-bath-person-finder"
+
 [taxonomies]
-tags = ['general']
+tags = [ "hcard", "microformats", "rdf",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2006/06/2006-06-08-profiles-and-thus-rdf-from-university-of-bath-person-finder-comments.csv"
+
 +++
 
 Work’s staff and student directory has just had an overhaul, and I finally got the change in to add the [hCard profile](http://www.w3.org/2006/03/hcard) to the &lt;head&gt; of the page.

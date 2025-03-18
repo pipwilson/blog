@@ -1,11 +1,15 @@
 ---
-title: Books of April 2024
 date: 2024-05-13 08:42:08
 slug: books-of-April-2024
 taxonomies:
   tags:
-    - books
+  - books
+  - cyberpunk
+  - magical-realism
+  - time-travel
+title: Books of April 2024
 ---
+
 It's springtime! What was I reading?
 
 [Hardwired](https://en.m.wikipedia.org/wiki/Hardwired_(novel)) by Walter Jon Williams - “the acknowledged inspiration for the games Cyberpunk Red and Cyberpunk 2077” follows a smuggler who connects his brain directly to his vehicle when running across borders and a street mercenary who took the wrong job. Can they face off against the rulers of the earth, up in their geostationary orbits? Well, it wouldn't be a book if they couldn't. I couldn’t get this from library, bookshop.org or hive so ended up giving [Amazon £3.48 for the ebook version](https://www.amazon.co.uk/Hardwired-Complete-Novel-Walter-Williams-ebook/dp/B005O5VR3U). Good, violent, augmented reality and augmented human cyberpunk fun.

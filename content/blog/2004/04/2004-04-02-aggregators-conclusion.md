@@ -2,11 +2,14 @@
 title = "Aggregators: Conclusion"
 date = "2004-04-02 09:54:00"
 slug = "aggregators-conclusion"
+
 [taxonomies]
-tags = ['general']
+tags = [ "aggregators", "rss", "syndirella",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/04/2004-04-02-aggregators-conclusion-comments.csv"
+
 +++
 
 In between looking at Sauce Reader, Sharpreader and Syndirella, I looked at pretty much all the other desktop aggregators in the [weblog compendium](http://www.lights.com/weblogs/rss.html) and none of them were as good as these, by a large margin.

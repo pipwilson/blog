@@ -1,12 +1,12 @@
 ---
-title: Habit forming is still hard
 date: 2025-01-16 10:10:19
 slug: habit-forming-is-still-hard
 taxonomies:
   tags:
-    - habits
-    - cycling
-    - bike
+  - habits
+  - cycling
+  - bike
+title: Habit forming is still hard
 ---
 
 Last year I wrote about [habit forming](https://philwilson.org/blog/2024/01/habit-forming/) and the fact that I was going to use a physical device that used noticeable colour indicators (paper and felt tips) to keep track of one single habit - cycling every day - with the hope that making the habit tracking more obvious would help it stick.

@@ -2,11 +2,14 @@
 title = "Pimoroni Flotilla"
 date = "2016-01-31 21:24:33"
 slug = "pimoroni-flotilla"
+
 [taxonomies]
-tags = ['electronics','flotilla','general','pimoroni','robot']
+tags = [ "electronics", "flotilla", "pimoroni", "robot",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2016/01/2016-01-31-pimoroni-flotilla-comments.csv"
+
 +++
 
 “[Flotilla – Friendly Electronics for All](https://www.kickstarter.com/projects/pimoroni/flotilla-for-raspberry-pi-making-for-everyone)” is the headline, which sounds pretty damn good to me, someone who is permanently afraid of blowing his Arduino and other kit by connecting something the wrong way around.

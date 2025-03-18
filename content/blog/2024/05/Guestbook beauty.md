@@ -1,14 +1,13 @@
 ---
-title: Guestbook beauty
 date: 2024-05-24 20:58:40
 slug: guestbook-beauty
 taxonomies:
   tags:
-    - general
-    - guestbook
-    - design
-    - ui
-    - ux
+  - guestbook
+  - design
+  - ui
+  - ux
+title: Guestbook beauty
 ---
 
 Eva Decker has [an incredible guestbook](https://eva.town/guestbook).

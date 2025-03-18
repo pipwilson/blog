@@ -2,11 +2,14 @@
 title = "code.flickr.com, Flickr Uploadr 3.0 and XUL"
 date = "2008-04-16 23:34:06"
 slug = "codeflickrcom-flickr-uploadr-30-and-xul"
+
 [taxonomies]
-tags = ['flickr','general','xul']
+tags = [ "flickr", "xul", "developer", "uploadr", "cross-platform",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/04/2008-04-16-code-flickr-com-flickr-uploadr-3-0-and-xul-comments.csv"
+
 +++
 
 Flickr have just launched [code.flickr](http://code.flickr.com), <q>Your one-stop shop for information, gossip and discussion with the Flickr developer community</q> which I imagine they want to use to draw together the disparate developer resources from the groups, forums, mailing list and more.

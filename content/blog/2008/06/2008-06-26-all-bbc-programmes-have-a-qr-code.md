@@ -2,11 +2,14 @@
 title = "All BBC programmes have a QR code"
 date = "2008-06-26 21:32:31"
 slug = "all-bbc-programmes-have-a-qr-code"
+
 [taxonomies]
-tags = ['bbc','general','qrcodes']
+tags = [ "bbc", "qrcodes", "urls", "programmes", "technology",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/06/2008-06-26-all-bbc-programmes-have-a-qr-code-comments.csv"
+
 +++
 
 Want an easy way to pass around [a long and hard-to-remember URL](http://www.bbc.co.uk/blogs/radiolabs/2008/06/the_simple_joys_of_webscale_id.shtml) for a BBC programme?[![bbc-qrcode](http://philwilson.org/images/2008/06/bbc-qrcode-thumb.jpg)](http://philwilson.org/images/2008/06/bbc-qrcode.jpg)

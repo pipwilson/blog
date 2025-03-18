@@ -1,10 +1,13 @@
 ---
-title: Books of June 2024
 date: 2024-08-04 08:59:15
 slug: books-of-june-2024
 taxonomies:
   tags:
-    - books
+  - books
+  - literature
+  - detective
+  - post-modern
+title: Books of June 2024
 ---
 
 A quiet month for reading, mostly of the first two books in [The New York Trilogy by Paul Auster](https://uk.bookshop.org/p/books/the-new-york-trilogy-faber-modern-classics-paul-auster/1292764?ean=9780571322800), who [died recently](https://www.nytimes.com/2024/04/30/books/paul-auster-dead.html).

@@ -1,14 +1,14 @@
 ---
-title: Extracting and examining the LibrariesWest android app
 date: 2024-07-27 20:14:39
 slug: extracting-and-examining-the-librarieswest-android-app
 taxonomies:
   tags:
-    - android
-    - libraries
-    - cordova
-    - javascript
-    - disappointment
+  - android
+  - libraries
+  - cordova
+  - javascript
+  - disappointment
+title: Extracting and examining the LibrariesWest android app
 ---
 
 I use my local library a lot, and use the [LibrariesWest app](https://play.google.com/store/apps/details?id=uk.co.solus.librarieswest) and [website](https://www.librarieswest.org.uk/) to do my browsing and make reservations. While website is "ok", the app is a travesty, and has been for years (my app review in 2016 started with "Works, after a fashion, but incredibly slow and unintuitive."). <!--more-->Both are provided by [Solus UK](https://wp.sol.us/).

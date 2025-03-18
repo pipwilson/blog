@@ -2,11 +2,14 @@
 title = "Tiddlywiki, RippleRap and Confabb"
 date = "2008-10-14 11:30:51"
 slug = "tiddlywiki-ripplerap-and-confabb"
+
 [taxonomies]
-tags = ['fowa','general','tiddlywiki','wiki']
+tags = [ "fowa", "tiddlywiki", "wiki",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2008/10/2008-10-14-tiddlywiki-ripplerap-and-confabb-comments.csv"
+
 +++
 
 [![Screenshot of ripplerap in action](http://philwilson.org/images/2008/10/ripplerap.png "ripplerap")](http://philwilson.org/images/2008/10/ripplerap.png)

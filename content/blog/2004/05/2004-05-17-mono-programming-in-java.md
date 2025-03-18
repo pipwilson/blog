@@ -2,11 +2,14 @@
 title = "Mono programming in Java"
 date = "2004-05-17 14:27:00"
 slug = "mono-programming-in-java"
+
 [taxonomies]
-tags = ['general']
+tags = [ "mono", "java", "interop",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/05/2004-05-17-mono-programming-in-java-comments.csv"
+
 +++
 
 Ed Dumbill’s [Small slices of Mono wonder](http://usefulinc.com/edd/blog/2004/5/15#20:42) post mentions IKVM:

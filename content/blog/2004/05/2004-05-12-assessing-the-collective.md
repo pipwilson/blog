@@ -2,11 +2,14 @@
 title = "assessing the collective"
 date = "2004-05-12 17:02:00"
 slug = "assessing-the-collective"
+
 [taxonomies]
-tags = ['general']
+tags = [ "redesign", "navigation", "icons",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/05/2004-05-12-assessing-the-collective-comments.csv"
+
 +++
 
 I’ve been meaning to finish this post for about a week and a half now, but time constraints mean that I’ve not been able to do so. Nevertheless, for your perusal, a non-insightful look into a BBC redesign…

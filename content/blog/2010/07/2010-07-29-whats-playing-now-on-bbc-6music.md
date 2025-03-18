@@ -2,11 +2,14 @@
 title = "What’s playing now on BBC 6music?"
 date = "2010-07-29 19:24:55"
 slug = "whats-playing-now-on-bbc-6music"
+
 [taxonomies]
-tags = ['6music','amazon','bbc','general','mp3']
+tags = [ "6music", "amazon", "bbc", "mp3",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2010/07/2010-07-29-whats-playing-now-on-bbc-6music-comments.csv"
+
 +++
 
 I don’t know how to add a link to the [Amazon MP3](http://www.amazon.co.uk/MP3-Music-Download/b?ie=UTF8&node=77197031) store for a given song. If I did then I would add that to <http://philwilson.org/6music/> and its purpose of letting me easily find out what song is currently playing and then buying it, would be complete.

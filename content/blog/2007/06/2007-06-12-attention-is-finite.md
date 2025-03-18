@@ -2,11 +2,14 @@
 title = "Attention is finite"
 date = "2007-06-12 15:15:00"
 slug = "attention-is-finite"
+
 [taxonomies]
-tags = ['attention','general']
+tags = [ "attention", "inputs", "management", "comment",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2007/06/2007-06-12-attention-is-finite-comments.csv"
+
 +++
 
 > We are reaching a point where the number of inputs we have as individuals is beginning to exceed what we are capable as humans of managing.

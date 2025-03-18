@@ -2,11 +2,14 @@
 title = "CSS3 Selectors"
 date = "2004-05-17 10:46:00"
 slug = "css3-selectors"
+
 [taxonomies]
-tags = ['general']
+tags = [ "css3", "selectors", "xml",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/05/2004-05-17-css3-selectors-comments.csv"
+
 +++
 
 There’s [a nice little introduction to CSS3 selectors on XML.com](http://www.xml.com/pub/a/2003/06/18/css3-selectors.html) which contains this little comment:

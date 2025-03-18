@@ -2,11 +2,14 @@
 title = "Allconsuming.net was cracked"
 date = "2005-04-05 14:12:00"
 slug = "allconsumingnet-was-cracked"
+
 [taxonomies]
-tags = ['general']
+tags = [ "web-development", "ruby-on-rails", "server-security",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/04/2005-04-05-allconsuming-net-was-cracked-comments.csv"
+
 +++
 
 Although I’d stopped using it in the main part, I noticed the other day that [allconsuming.net](http://allconsuming.net/) was down. As [Erik Benson explains](http://erikbenson.typepad.com/mu/2005/04/my_server_has_b.html), his server was broken into and he was locked out.

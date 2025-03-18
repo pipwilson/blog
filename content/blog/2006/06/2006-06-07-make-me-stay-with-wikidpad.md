@@ -2,11 +2,14 @@
 title = "Make me stay with WikidPad"
 date = "2006-06-07 15:52:00"
 slug = "make-me-stay-with-wikidpad"
+
 [taxonomies]
-tags = ['general']
+tags = [ "wikidpad", "rss", "atom",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2006/06/2006-06-07-make-me-stay-with-wikidpad-comments.csv"
+
 +++
 
 I drop in and out of using WikidPad. I’ve just picked it up again after a lengthy absence.

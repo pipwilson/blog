@@ -2,11 +2,14 @@
 title = "Scrum in web teams – an apology"
 date = "2010-09-21 21:42:22"
 slug = "scrum-in-web-teams-an-apology"
+
 [taxonomies]
-tags = ['agile','general','iwmw2010','scrum']
+tags = [ "agile", "iwmw2010", "scrum",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2010/09/2010-09-21-scrum-in-web-teams-an-apology-comments.csv"
+
 +++
 
 A few months ago at the [Institutional Web Manager’s Workshop](http://iwmw.ukoln.ac.uk/iwmw2010/) I helped run [a session on PRINCE2 and Scrum](http://iwmw.ukoln.ac.uk/iwmw2010/sessions/barnes/) with Peter Barnes from the University of Reading.

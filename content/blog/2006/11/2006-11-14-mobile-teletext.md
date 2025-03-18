@@ -2,11 +2,14 @@
 title = "Mobile Teletext"
 date = "2006-11-14 19:14:00"
 slug = "mobile-teletext"
+
 [taxonomies]
-tags = ['general']
+tags = [ "teletext", "mobile", "wget",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/11/2006-11-14-mobile-teletext-comments.csv"
+
 +++
 
 [![Barbie Horse Adventures sucks](http://static.flickr.com/6/10930895_2e7b21b8bf_m.jpg)](http://www.flickr.com/photos/pip/10930895/ "Teletext on Flickr")

@@ -2,11 +2,14 @@
 title = "Joggle Tellybot"
 date = "2004-08-04 16:04:00"
 slug = "joggle-tellybot"
+
 [taxonomies]
-tags = ['general']
+tags = [ "joggle-tellybot", "television", "jabber",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/08/2004-08-04-joggle-tellybot-comments.csv"
+
 +++
 
 I keep putting off writing about it, but here’s a spare five minutes I prepared earlier.

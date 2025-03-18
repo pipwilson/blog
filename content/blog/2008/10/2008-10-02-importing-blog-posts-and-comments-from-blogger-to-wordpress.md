@@ -2,11 +2,14 @@
 title = "Importing blog posts and comments from Blogger to Wordpress"
 date = "2008-10-02 19:57:15"
 slug = "importing-blog-posts-and-comments-from-blogger-to-wordpress"
+
 [taxonomies]
-tags = ['atom','blogger','general','google','oauth','wordpress']
+tags = [ "atom", "blogger", "google", "oauth", "wordpress",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/10/2008-10-02-importing-blog-posts-and-comments-from-blogger-to-wordpress-comments.csv"
+
 +++
 
 [![bloggerpress](http://philwilson.org/images/2008/10/bloggerpress-thumb.png)](http://philwilson.org/images/2008/10/bloggerpress.png)I tried this a year ago only to experience epic fail.

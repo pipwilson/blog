@@ -1,11 +1,14 @@
 ---
-title: Time travel and timeloop films I have seen
 date: 2024-09-04 20:24:59
 slug: time-travel-films
 taxonomies:
   tags:
-    - films
-    - timetravel
+  - films
+  - timetravel
+  - movies
+  - sciencefiction
+  - entertainment
+title: Time travel and timeloop films I have seen
 ---
 
 In merely the order I remembered them:

@@ -2,11 +2,14 @@
 title = "Week 6: addiction"
 date = "2020-11-15 23:44:55"
 slug = "week-6-addiction"
+
 [taxonomies]
-tags = ['general','weeknotes']
+tags = [ "weeknotes", "diy", "gaming", "autumn",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2020/11/2020-11-15-week-6-addiction-comments.csv"
+
 +++
 
 - Dear neighbours: starting your DIY on our shared bedroom wall at 8am on Sunday morning is Just Not Right.

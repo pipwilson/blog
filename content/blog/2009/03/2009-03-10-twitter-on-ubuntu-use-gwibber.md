@@ -2,11 +2,14 @@
 title = "Twitter on Ubuntu - use Gwibber"
 date = "2009-03-10 23:57:41"
 slug = "twitter-on-ubuntu-use-gwibber"
+
 [taxonomies]
-tags = ['general','linux','tools','twitter','ubuntu']
+tags = [ "linux", "tools", "twitter", "ubuntu",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2009/03/2009-03-10-twitter-on-ubuntu-use-gwibber-comments.csv"
+
 +++
 
 [![Screenshot of Gwibber](http://philwilson.org/images/2009/03/screenshot-gwibber-166x300.png "Screenshot of Gwibber")](http://philwilson.org/images/2009/03/screenshot-gwibber.png)

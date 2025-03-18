@@ -2,11 +2,14 @@
 title = "Teaching website shambles"
 date = "2006-11-16 00:09:00"
 slug = "teaching-website-shambles"
+
 [taxonomies]
-tags = ['general']
+tags = [ "education", "redesign", "usability",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/11/2006-11-16-teaching-website-shambles-comments.csv"
+
 +++
 
 [![](http://philwilson.org/images/tes-outofmemory-thumb.png "TES throwing an Out Of Memory Exception")](http://philwilson.org/images/tes-outofmemory.png)

@@ -2,11 +2,14 @@
 title = "How to mark items as read in an Atom entry?"
 date = "2005-04-26 15:27:00"
 slug = "how-to-mark-items-as-read-in-an-atom-entry"
+
 [taxonomies]
-tags = ['general']
+tags = [ "atom", "xml", "syndication",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/04/2005-04-26-how-to-mark-items-as-read-in-an-atom-entry-comments.csv"
+
 +++
 
 Does anyone out there know if there’s a standard way of denoting that an Atom entry has already been read? Maybe something like:

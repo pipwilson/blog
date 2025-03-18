@@ -2,11 +2,14 @@
 title = "My next phone"
 date = "2010-08-01 11:11:44"
 slug = "my-next-phone"
+
 [taxonomies]
-tags = ['android','general','usb']
+tags = [ "android", "usb", "motorola", "milestone", "host-mode",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2010/08/2010-08-01-my-next-phone-comments.csv"
+
 +++
 
 [![android-usb](/images/2010/08/androidusb.jpg "android-usb")](http://www.google-store.com/product_info.php?products_id=1090) I have a Motorola Milestone and on the whole I’ve been happy with it. There have been a few issues which affect me (all introduced by Motorola themselves) but hopefully these will get resolved with [the next software update](http://www.facebook.com/topic.php?uid=121867580498&topic=16890), and of course I’m very much hoping that Froyo hits my device.

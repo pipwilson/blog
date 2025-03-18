@@ -2,11 +2,14 @@
 title = "BarcampBristol 12-13th October"
 date = "2007-09-29 16:28:00"
 slug = "barcampbristol-12-13th-october"
+
 [taxonomies]
-tags = ['barcamp','bristol','bristol']
+tags = [ "barcamp", "bristol", "bristol",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2007/09/2007-09-29-barcampbristol-12-13th-october-comments.csv"
+
 +++
 
 ![BarCamp Bristol logo](http://philwilson.org/blog/uploaded_images/barcamp-737451.gif)

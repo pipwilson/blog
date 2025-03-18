@@ -2,11 +2,14 @@
 title = "Being unfit"
 date = "2005-07-09 16:51:00"
 slug = "being-unfit"
+
 [taxonomies]
-tags = ['general']
+tags = [ "fitness", "running", "health",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/07/2005-07-09-being-unfit-comments.csv"
+
 +++
 
 Well, despite having gone to the gym on a <strike>regular</strike> <strike>frequent</strike> occassional basis in the past year or so, I’m still quite unfit.

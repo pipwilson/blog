@@ -2,11 +2,14 @@
 title = "A Python rant"
 date = "2006-08-22 17:18:00"
 slug = "a-python-rant"
+
 [taxonomies]
-tags = ['general']
+tags = [ "python", "twisted", "installation",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/08/2006-08-22-a-python-rant-comments.csv"
+
 +++
 
 Whilst wedding and Norway posts are forthcoming, a small rant about installing extra libraries into [Python](http://www.python.org) on Windows.

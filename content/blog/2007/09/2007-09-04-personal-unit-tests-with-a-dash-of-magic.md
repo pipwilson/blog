@@ -2,11 +2,14 @@
 title = "Personal Unit Tests with a dash of magic"
 date = "2007-09-04 22:24:00"
 slug = "personal-unit-tests-with-a-dash-of-magic"
+
 [taxonomies]
-tags = ['testing','xmpp','xmpp']
+tags = [ "testing", "xmpp", "xmpp",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2007/09/2007-09-04-personal-unit-tests-with-a-dash-of-magic-comments.csv"
+
 +++
 
 I love this idea of [Personal Unit Tests](http://withoutane.com/rants/2007/08/personal-unit-tests).

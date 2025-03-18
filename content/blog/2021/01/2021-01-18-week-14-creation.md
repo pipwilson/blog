@@ -2,11 +2,14 @@
 title = "Week 14: creation"
 date = "2021-01-18 11:09:20"
 slug = "week-14-creation"
+
 [taxonomies]
-tags = ['general','weeknotes']
+tags = [ "weeknotes", "lego", "starwars", "journaling",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2021/01/2021-01-18-week-14-creation-comments.csv"
+
 +++
 
 - I turned 41. This is the test subject number assigned to Tetsuo in [Akira](https://en.wikipedia.org/wiki/Akira_(1988_film)).

@@ -2,11 +2,14 @@
 title = "Art detail"
 date = "2019-06-13 08:30:49"
 slug = "art-detail"
+
 [taxonomies]
-tags = ['art','films','general','spiderman']
+tags = [ "art", "films", "spiderman",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2019/06/2019-06-13-art-detail-comments.csv"
+
 +++
 
 [Spider-Man: Into the Spider-Verse](https://en.wikipedia.org/wiki/Spider-Man:_Into_the_Spider-Verse) is the best film I’ve seen in the last six months. It’s imaginative, exciting, funny and constantly visually inventive.

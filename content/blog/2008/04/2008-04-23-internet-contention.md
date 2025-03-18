@@ -2,11 +2,14 @@
 title = "Internet contention"
 date = "2008-04-23 19:02:42"
 slug = "internet-contention"
+
 [taxonomies]
-tags = ['broadband','general','home']
+tags = [ "broadband", "home", "internet-speed", "adsl", "plusnet",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/04/2008-04-23-internet-contention-comments.csv"
+
 +++
 
 My internet usage should not be constrained by other people.

@@ -2,11 +2,14 @@
 title = "Dear Magpie: Don't unescape my content, thanks"
 date = "2005-08-14 01:52:00"
 slug = "dear-magpie-dont-unescape-my-content-thanks"
+
 [taxonomies]
-tags = ['general']
+tags = [ "magpierss", "html", "php",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/08/2005-08-14-dear-magpie-dont-unescape-my-content-thanks-comments.csv"
+
 +++
 
 [Bug 1212662: Don’t unescape html entities in ‘description’ or ‘content’](http://sourceforge.net/tracker/index.php?func=detail&aid=1212662&group_id=55691&atid=477913)

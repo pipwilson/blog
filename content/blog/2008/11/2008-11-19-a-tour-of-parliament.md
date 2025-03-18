@@ -2,11 +2,14 @@
 title = "A tour of Parliament"
 date = "2008-11-19 22:43:47"
 slug = "a-tour-of-parliament"
+
 [taxonomies]
-tags = ['general','uk']
+tags = [ "uk", "parliament", "westminster", "tour",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/11/2008-11-19-a-tour-of-parliament-comments.csv"
+
 +++
 
 A few weeks ago I went on a tour of [Parliament](http://en.wikipedia.org/wiki/Houses_of_parliament) (which lest you should think it boring, is also the Palace of Westminster!). In order to do so you [need to contact your MP](http://www.parliament.uk/about/visiting/tour.cfm).

@@ -2,11 +2,14 @@
 title = "A Ruby interface to the GatherContent API"
 date = "2013-04-03 22:53:08"
 slug = "a-ruby-interface-to-the-gathercontent-api"
+
 [taxonomies]
-tags = ['api','gathercontent','general','ruby']
+tags = [ "api", "gathercontent", "ruby",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2013/04/2013-04-03-a-ruby-interface-to-the-gathercontent-api-comments.csv"
+
 +++
 
 [GatherContent](https://gathercontent.com/) is an awesome tool for planning, structuring and collaborating on web content (they have a [short video demo](https://gathercontent.com/how-it-works)).

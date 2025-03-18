@@ -2,11 +2,14 @@
 title = "Reanimating a Little Printer project"
 date = "2024-03-09 10:00:00"
 slug = "reanimating-a-little-printer-project"
+
 [taxonomies]
-tags = ['berg','general','printer','ruby','space']
+tags = [ "berg", "printer", "ruby", "space",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2024/03/2024-03-09-reanimating-a-little-printer-project-comments.csv"
+
 +++
 
 I’ve made a little app which generates an image for you to display or print how many people there are in space right now. [The code is here](https://github.com/pipwilson/how-many-people-in-space).

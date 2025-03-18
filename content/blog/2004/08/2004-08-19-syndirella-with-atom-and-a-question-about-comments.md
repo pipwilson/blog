@@ -2,11 +2,14 @@
 title = "Syndirella with Atom and a question about comments"
 date = "2004-08-19 10:17:00"
 slug = "syndirella-with-atom-and-a-question-about-comments"
+
 [taxonomies]
-tags = ['general']
+tags = [ "atom", "rss", "syndirella",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/08/2004-08-19-syndirella-with-atom-and-a-question-about-comments-comments.csv"
+
 +++
 
 For a bit of fun the other day I sat down and added [Atom](http://atomenabled.org/) support to Syndirella using [the Atom.NET library](http://atomnet.sourceforge.net/). This was just as much a learning experience for me, since I’ve never used C# before, nor got into the nitty-gritty of writing applications for Atom, despite following all the conversations around it.

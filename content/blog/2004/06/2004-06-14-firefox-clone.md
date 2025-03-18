@@ -2,11 +2,14 @@
 title = "Firefox clone"
 date = "2004-06-14 15:32:00"
 slug = "firefox-clone"
+
 [taxonomies]
-tags = ['general']
+tags = [ "firefox", "navigateur", "innovation",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/06/2004-06-14-firefox-clone-comments.csv"
+
 +++
 
 > Un clone de Firefox vient d’apparaître, il s’agit de [smartfox](http://www.smartfox.org/). Aucune différence avec Firefox 0.8 à part le changement de nom et un njouveau logo, mais c’est le premier navigateur dérivé de Firefox, l’initiative est intéressante

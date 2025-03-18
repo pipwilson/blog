@@ -2,11 +2,14 @@
 title = "Wiki Comparison Matrix"
 date = "2006-10-13 11:20:00"
 slug = "wiki-comparison-matrix"
+
 [taxonomies]
-tags = ['general']
+tags = [ "wikis", "comparison", "features",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/10/2006-10-13-wiki-comparison-matrix-comments.csv"
+
 +++
 
 Initial wiki comparison table.

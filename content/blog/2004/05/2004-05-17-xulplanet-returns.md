@@ -2,11 +2,14 @@
 title = "XULPlanet returns!"
 date = "2004-05-17 13:02:00"
 slug = "xulplanet-returns"
+
 [taxonomies]
-tags = ['general']
+tags = [ "xulplanet", "firefox", "extensions",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/05/2004-05-17-xulplanet-returns-comments.csv"
+
 +++
 
 [XULPlanet has returned!](http://www.xulplanet.com/ndeakin/article/257) and thank god for that, really.

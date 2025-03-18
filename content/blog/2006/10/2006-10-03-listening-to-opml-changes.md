@@ -2,11 +2,14 @@
 title = "Listening to OPML changes"
 date = "2006-10-03 13:29:00"
 slug = "listening-to-opml-changes"
+
 [taxonomies]
-tags = ['general']
+tags = [ "rss", "opml", "aggregator",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/10/2006-10-03-listening-to-opml-changes-comments.csv"
+
 +++
 
 ![](http://philwilson.org/images/opml-icon-64x64.png)

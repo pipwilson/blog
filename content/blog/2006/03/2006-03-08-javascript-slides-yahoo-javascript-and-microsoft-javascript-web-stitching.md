@@ -2,11 +2,14 @@
 title = "JavaScript slides, Yahoo! JavaScript and Microsoft JavaScript web stitching"
 date = "2006-03-08 12:49:00"
 slug = "javascript-slides-yahoo-javascript-and-microsoft-javascript-web-stitching"
+
 [taxonomies]
-tags = ['general']
+tags = [ "javascript", "liveclipboard", "yahoo",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2006/03/2006-03-08-javascript-slides-yahoo-javascript-and-microsoft-javascript-web-stitching-comments.csv"
+
 +++
 
 ETech 2006 has kicked off and of the presentations I’ve looked at so far today, two have stood out in particular:

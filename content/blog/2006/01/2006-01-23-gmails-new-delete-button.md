@@ -2,11 +2,14 @@
 title = "Gmail's new delete button"
 date = "2006-01-23 08:53:00"
 slug = "gmails-new-delete-button"
+
 [taxonomies]
-tags = ['general']
+tags = [ "gmail", "delete", "archive",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/01/2006-01-23-gmails-new-delete-button-comments.csv"
+
 +++
 
 Gmail has rolled out [a delete button](http://mail.google.com/support/bin/answer.py?answer=32608&hl=en), so that users can now easily delete their mail instead of just archiving it (because despite what some people think, you *could* actually delete your mail before via the drop-down box of actions).

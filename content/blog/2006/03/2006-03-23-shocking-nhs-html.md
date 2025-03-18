@@ -2,11 +2,14 @@
 title = "Shocking NHS HTML"
 date = "2006-03-23 22:41:00"
 slug = "shocking-nhs-html"
+
 [taxonomies]
-tags = ['general']
+tags = [ "css", "html", "markup",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/03/2006-03-23-shocking-nhs-html-comments.csv"
+
 +++
 
 I’ve just applied for my European Health Insurance Card (no more E-111s!), and thought “gosh, isn’t this font small? and isn’t the menu highlight poorly written? that’s some bad CSS there I reckon – let’s take a look at the source”.

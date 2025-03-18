@@ -2,11 +2,14 @@
 title = "OpenID usability"
 date = "2008-10-05 20:51:21"
 slug = "openid-usability"
+
 [taxonomies]
-tags = ['general','openid','ui']
+tags = [ "openid", "ui", "authentication", "usability",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/10/2008-10-05-openid-usability-comments.csv"
+
 +++
 
 People complain a lot that users don’t understand about OpenID logins booting them to another website to authenticate.

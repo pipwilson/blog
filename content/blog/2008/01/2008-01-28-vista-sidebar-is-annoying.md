@@ -2,11 +2,14 @@
 title = "Vista sidebar is annoying"
 date = "2008-01-28 23:56:37"
 slug = "vista-sidebar-is-annoying"
+
 [taxonomies]
-tags = ['general','ui','vista']
+tags = [ "ui", "vista", "windows", "sidebar", "gadgets",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/01/2008-01-28-vista-sidebar-is-annoying-comments.csv"
+
 +++
 
 The Windows Vista sidebar has two display methods:

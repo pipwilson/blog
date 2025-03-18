@@ -2,11 +2,14 @@
 title = "Week 11: Christmas"
 date = "2020-12-31 12:13:26"
 slug = "week-11-christmas"
+
 [taxonomies]
-tags = ['general','weeknotes']
+tags = [ "weeknotes", "isolation", "minecraft", "connectivity",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2020/12/2020-12-31-week-11-christmas-comments.csv"
+
 +++
 
 A bit late this one, because I was too busy eating chocolate, but the 18th-24th December was a lot like this:

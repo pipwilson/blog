@@ -2,11 +2,14 @@
 title = "Atom slugs"
 date = "2006-10-25 11:44:00"
 slug = "atom-slugs"
+
 [taxonomies]
-tags = ['general']
+tags = [ "http", "slug", "uri",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2006/10/2006-10-25-atom-slugs-comments.csv"
+
 +++
 
 > 9.6 The Slug: Header
