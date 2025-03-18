@@ -15,7 +15,7 @@ Yikes it's March and I'm only posting January's books now! Gotta go fast!
 
 It jointly won the Hugo award in 1993 with [Doomsday Book](https://uk.bookshop.org/p/books/doomsday-book-a-time-travel-novel-that-will-stay-with-you-long-after-you-finish-reading-connie-willis/142123?ean=9780575131095) by Connie Willis, which I read a few years ago and was excellent - even now I still think about it occasionally. It's a sci-fi story set during the Black Death in England. I don't think A Fire... is *quite* as good, but they are both well worth your time.
 
-[I Who Have Never Known Men](https://uk.bookshop.org/p/books/i-who-have-never-known-men-jacqueline-harpman/1339967?ean=9781784879037) is quite a different prospect. A "heartbreaking post-apocalyptic tale of female friendship and intimacy set in a deserted world" indeed. 
+[I Who Have Never Known Men](https://uk.bookshop.org/p/books/i-who-have-never-known-men-jacqueline-harpman/1339967?ean=9781784879037) is quite a different prospect. A "heartbreaking post-apocalyptic tale of female friendship and intimacy set in a deserted world" indeed. I really loved this.
 
 [Shards of Earth](https://uk.bookshop.org/p/books/shards-of-earth-first-in-an-extraordinary-new-trilogy-from-the-winner-of-the-arthur-c-clarke-award-adrian-tchaikovsky/4974330?ean=9781529051902) by Adrian Tchaikovsky is the first book I've read by him which is boring, and I've read about a dozen of his books.
 
