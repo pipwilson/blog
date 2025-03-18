@@ -4,7 +4,7 @@ date = "2011-05-27 18:55:05"
 slug = "change-the-world"
 
 [taxonomies]
-tags = [ "work", "higher-education", "enterprise", "monopoly",]
+tags = [ "work", "higher education", "enterprise", "monopoly",]
 
 [extra]
 show_comments = "true"

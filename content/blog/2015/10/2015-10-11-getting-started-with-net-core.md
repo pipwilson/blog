@@ -4,7 +4,7 @@ date = "2015-10-11 22:29:05"
 slug = "getting-started-with-net-core"
 
 [taxonomies]
-tags = [ ".net", "coding", "visual-studio", "powershell", "javascript",]
+tags = [ ".net", "coding", "visual studio", "powershell", "javascript",]
 
 [extra]
 show_comments = "true"

@@ -4,7 +4,7 @@ date = "2004-11-22 21:45:00"
 slug = "choosing-microsoft"
 
 [taxonomies]
-tags = [ "integration", "microsoft", "open-source",]
+tags = [ "integration", "microsoft", "open source",]
 
 [extra]
 show_comments = "true"

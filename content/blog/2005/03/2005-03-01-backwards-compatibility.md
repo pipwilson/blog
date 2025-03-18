@@ -4,7 +4,7 @@ date = "2005-03-01 10:46:00"
 slug = "backwards-compatibility"
 
 [taxonomies]
-tags = [ "jesus", "people", "web-developers",]
+tags = [ "jesus", "people", "web developers",]
 
 [extra]
 show_comments = "false"

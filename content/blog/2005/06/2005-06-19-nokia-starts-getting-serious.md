@@ -4,7 +4,7 @@ date = "2005-06-19 00:35:00"
 slug = "nokia-starts-getting-serious"
 
 [taxonomies]
-tags = [ "nokia", "mobile-devices", "wifi",]
+tags = [ "nokia", "mobile devices", "wifi",]
 
 [extra]
 show_comments = "true"

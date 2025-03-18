@@ -4,7 +4,7 @@ date = "2006-11-23 23:07:00"
 slug = "google-books-inaccessibility"
 
 [taxonomies]
-tags = [ "accessibility", "google-books", "design",]
+tags = [ "accessibility", "google books", "design",]
 
 [extra]
 show_comments = "false"

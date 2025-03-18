@@ -5,7 +5,6 @@ taxonomies:
   tags:
   - sass
   - webmentions
-  - clip-path
   - contrast
 title: Webmentions and a splash of colour
 ---

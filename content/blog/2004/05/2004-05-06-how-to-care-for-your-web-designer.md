@@ -4,7 +4,7 @@ date = "2004-05-06 09:27:00"
 slug = "how-to-care-for-your-web-designer"
 
 [taxonomies]
-tags = [ "web-designer", "care", "ownership",]
+tags = [ "web designer", "care", "ownership",]
 
 [extra]
 show_comments = "false"

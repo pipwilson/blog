@@ -4,7 +4,7 @@ date = "2005-03-08 17:42:00"
 slug = "finding-related-items-in-your-rss-datastore"
 
 [taxonomies]
-tags = [ "blogosphere", "aggregator", "semantic-web",]
+tags = [ "blogosphere", "aggregator", "semantic web",]
 
 [extra]
 show_comments = "true"

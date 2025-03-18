@@ -4,7 +4,7 @@ date = "2005-11-08 10:38:00"
 slug = "google-local-for-mobiles"
 
 [taxonomies]
-tags = [ "blogger", "google-local", "3g",]
+tags = [ "blogger", "google local", "3g",]
 
 [extra]
 show_comments = "true"

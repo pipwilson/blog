@@ -4,7 +4,7 @@ date = "2007-08-18 23:21:00"
 slug = "future-wii-games-free-on-linux-and-windows-today"
 
 [taxonomies]
-tags = [ "wii", "shooters", "tumiki-fighters",]
+tags = [ "wii", "shooters", "tumiki fighters",]
 
 [extra]
 show_comments = "true"

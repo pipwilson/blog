@@ -4,7 +4,7 @@ date = "2007-05-22 15:17:00"
 slug = "second-life-is-bobbins"
 
 [taxonomies]
-tags = [ "secondlife", "xtech", "virtual-worlds", "education", "3d-objects",]
+tags = [ "secondlife", "xtech", "virtual worlds", "education", "3d objects",]
 
 [extra]
 show_comments = "true"

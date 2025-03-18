@@ -4,7 +4,7 @@ date = "2007-03-11 23:41:00"
 slug = "ie7-an-impartial-review"
 
 [taxonomies]
-tags = [ "ie7", "usamajility", "internet-explorer", "tech-frustration", "user-experience",]
+tags = [ "ie7", "usamajility", "internet explorer", "tech frustration", "user experience",]
 
 [extra]
 show_comments = "true"

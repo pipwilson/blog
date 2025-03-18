@@ -4,7 +4,7 @@ date = "2004-08-26 21:43:00"
 slug = "sites-that-should-die"
 
 [taxonomies]
-tags = [ "web-design", "user-experience", "html",]
+tags = [ "web design", "user experience", "html",]
 
 [extra]
 show_comments = "true"

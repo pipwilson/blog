@@ -9,7 +9,7 @@ taxonomies:
   - blogging
   - rss
   - yarr
-  - content-escaping-is-hard
+  - content escaping is hard
 title: Escaping content is hard, let's go scrolling!
 ---
 

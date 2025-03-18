@@ -4,7 +4,7 @@ date = "2008-01-20 22:50:33"
 slug = "safeguarding-our-data"
 
 [taxonomies]
-tags = [ "gov", "identity", "data-security", "encryption", "database",]
+tags = [ "gov", "identity", "data security", "encryption", "database",]
 
 [extra]
 show_comments = "true"

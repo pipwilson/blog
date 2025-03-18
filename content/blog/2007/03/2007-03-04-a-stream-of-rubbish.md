@@ -4,7 +4,7 @@ date = "2007-03-04 23:14:00"
 slug = "a-stream-of-rubbish"
 
 [taxonomies]
-tags = [ "openid", "openid", "syndication", "syndication", "tedious re-iteration",]
+tags = [ "openid", "openid", "syndication", "syndication", "tedious re iteration",]
 
 [extra]
 show_comments = "true"

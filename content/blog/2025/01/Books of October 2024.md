@@ -4,7 +4,7 @@ slug: books-of-october-2024
 taxonomies:
   tags:
   - books
-  - ghost-stories
+  - ghost stories
   - gothic
   - mystery
 title: Books of October 2024

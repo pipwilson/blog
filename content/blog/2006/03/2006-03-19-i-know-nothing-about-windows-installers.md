@@ -4,7 +4,7 @@ date = "2006-03-19 21:38:00"
 slug = "i-know-nothing-about-windows-installers"
 
 [taxonomies]
-tags = [ "windows", "installers", "contact-form",]
+tags = [ "windows", "installers", "contact form",]
 
 [extra]
 show_comments = "true"

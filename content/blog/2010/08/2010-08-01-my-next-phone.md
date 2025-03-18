@@ -4,7 +4,7 @@ date = "2010-08-01 11:11:44"
 slug = "my-next-phone"
 
 [taxonomies]
-tags = [ "android", "usb", "motorola", "milestone", "host-mode",]
+tags = [ "android", "usb", "motorola", "milestone", "host mode",]
 
 [extra]
 show_comments = "true"

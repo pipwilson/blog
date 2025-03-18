@@ -4,7 +4,7 @@ date = "2005-06-26 23:40:00"
 slug = "countdown-complete"
 
 [taxonomies]
-tags = [ "obituary", "richard-whiteley", "entertainment",]
+tags = [ "obituary", "richard whiteley", "entertainment",]
 
 [extra]
 show_comments = "true"

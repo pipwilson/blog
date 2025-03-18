@@ -4,7 +4,7 @@ date = "2006-12-02 20:50:00"
 slug = "soap-security"
 
 [taxonomies]
-tags = [ "soap", "web-services", "security",]
+tags = [ "soap", "web services", "security",]
 
 [extra]
 show_comments = "false"

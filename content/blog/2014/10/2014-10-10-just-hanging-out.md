@@ -4,7 +4,7 @@ date = "2014-10-10 22:44:17"
 slug = "just-hanging-out"
 
 [taxonomies]
-tags = [ "remote-work", "video-conferencing", "productivity",]
+tags = [ "remote work", "video conferencing", "productivity",]
 
 [extra]
 show_comments = "false"

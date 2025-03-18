@@ -4,7 +4,7 @@ date = "2005-06-15 14:07:00"
 slug = "proof-of-id-for-recruitment-agencies"
 
 [taxonomies]
-tags = [ "identity-verification", "scam-awareness", "recruitment-agency",]
+tags = [ "identity verification", "scam awareness", "recruitment agency",]
 
 [extra]
 show_comments = "true"

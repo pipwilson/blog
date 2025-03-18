@@ -4,7 +4,7 @@ date = "2004-07-09 14:26:00"
 slug = "livejournal-comment-spam"
 
 [taxonomies]
-tags = [ "livejournal", "spam-prevention", "trust-network",]
+tags = [ "livejournal", "spam prevention", "trust network",]
 
 [extra]
 show_comments = "true"

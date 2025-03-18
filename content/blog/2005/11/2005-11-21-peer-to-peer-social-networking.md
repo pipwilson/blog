@@ -4,7 +4,7 @@ date = "2005-11-21 13:16:00"
 slug = "peer-to-peer-social-networking"
 
 [taxonomies]
-tags = [ "foaf", "social-networking", "xmpp", "rdf",]
+tags = [ "foaf", "social networking", "xmpp", "rdf",]
 
 [extra]
 show_comments = "true"

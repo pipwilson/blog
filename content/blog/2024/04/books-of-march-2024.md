@@ -4,8 +4,8 @@ slug: books-of-march-2024
 taxonomies:
   tags:
   - books
-  - science-fiction
-  - time-travel
+  - science fiction
+  - time travel
   - inklings
 title: Books of March 2024
 ---

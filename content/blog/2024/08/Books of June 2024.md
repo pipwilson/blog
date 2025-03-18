@@ -6,7 +6,7 @@ taxonomies:
   - books
   - literature
   - detective
-  - post-modern
+  - post modern
 title: Books of June 2024
 ---
 

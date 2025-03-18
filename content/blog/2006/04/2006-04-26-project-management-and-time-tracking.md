@@ -4,7 +4,7 @@ date = "2006-04-26 22:38:00"
 slug = "project-management-and-time-tracking"
 
 [taxonomies]
-tags = [ "trac", "project-management", "time-management",]
+tags = [ "trac", "project management", "time management",]
 
 [extra]
 show_comments = "true"

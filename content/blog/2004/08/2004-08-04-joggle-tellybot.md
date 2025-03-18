@@ -4,7 +4,7 @@ date = "2004-08-04 16:04:00"
 slug = "joggle-tellybot"
 
 [taxonomies]
-tags = [ "joggle-tellybot", "television", "jabber",]
+tags = [ "joggle tellybot", "television", "jabber",]
 
 [extra]
 show_comments = "false"

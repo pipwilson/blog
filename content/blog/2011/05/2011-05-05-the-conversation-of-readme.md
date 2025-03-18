@@ -4,7 +4,7 @@ date = "2011-05-05 22:33:06"
 slug = "the-conversation-of-readme"
 
 [taxonomies]
-tags = [ "del.icio.us", "kindle", "bookmarklet", "reading", "social-obligation",]
+tags = [ "del.icio.us", "kindle", "bookmarklet", "reading", "social obligation",]
 
 [extra]
 show_comments = "true"

@@ -4,7 +4,7 @@ date = "2010-03-21 21:05:11"
 slug = "house-do-as-i-command"
 
 [taxonomies]
-tags = [ "android", "voice-control", "speakers", "microphones",]
+tags = [ "android", "voice control", "speakers", "microphones",]
 
 [extra]
 show_comments = "true"

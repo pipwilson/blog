@@ -4,7 +4,7 @@ date = "2002-05-17 18:25:00"
 slug = "webmention-sender"
 
 [taxonomies]
-tags = [ "webmentions", "habit-forming", "link", "webpage",]
+tags = [ "webmentions", "habit forming", "link", "webpage",]
 
 +++
 

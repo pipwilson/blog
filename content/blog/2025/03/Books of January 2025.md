@@ -1,12 +1,12 @@
 ---
-title: Books of January 2025
 date: 2025-03-18 21:45:42
 slug: books-of-january-2025
 taxonomies:
   tags:
-    - books
-    - scifi
-    - space opera
+  - books
+  - sci-fi
+  - space opera
+title: Books of January 2025
 ---
 
 Yikes it's March and I'm only posting January's books now! Gotta go fast!
@@ -24,4 +24,3 @@ It's a space opera about giant moon-sized aliens eliminating planets by peeling 
 My copy of this book also had several typos. I came in with quite high expectations so overall this was very disappointing.
 
 Slow Time Between the Stars by John Scalzi (this book doesn't seem to have an ISBN so I can't link to it on anywhere but amazon!). This is part of [Amazon's The Far Reaches collection](https://www.amazon.com/dp/B0C4TJRRRV?binding=kindle_edition&ref=dbs_dp_sirpi) of short stories by famous authors. The blurb says "An artificial intelligence on a star-spanning mission explores the farthest horizons of human potential—and its own purpose—in a mind-bending short story" and it was exactly what it says on the tin, pretty predictable from the first page but nicely written and took about half an hour to read. It was more interesting to read about [why he bought a church](https://whatever.scalzi.com/2025/03/13/the-church-faq/).
-

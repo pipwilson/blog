@@ -4,7 +4,7 @@ date = "2007-05-05 21:43:00"
 slug = "working-processes"
 
 [taxonomies]
-tags = [ "agile", "work", "software-development", "continuous-integration", "test-driven-development",]
+tags = [ "agile", "work", "software development", "continuous integration", "test driven development",]
 
 [extra]
 show_comments = "false"

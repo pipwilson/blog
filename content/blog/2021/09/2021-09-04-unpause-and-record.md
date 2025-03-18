@@ -4,7 +4,7 @@ date = "2021-09-04 19:29:08"
 slug = "unpause-and-record"
 
 [taxonomies]
-tags = [ "weeknotes", "work", "government-digital-service", "pandemic-support", "personal-development",]
+tags = [ "weeknotes", "work", "government digital service", "pandemic support", "personal development",]
 
 [extra]
 show_comments = "false"

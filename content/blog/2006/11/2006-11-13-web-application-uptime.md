@@ -4,7 +4,7 @@ date = "2006-11-13 23:36:00"
 slug = "web-application-uptime"
 
 [taxonomies]
-tags = [ "web-app", "troubleshooting", "firewall",]
+tags = [ "web app", "troubleshooting", "firewall",]
 
 [extra]
 show_comments = "false"

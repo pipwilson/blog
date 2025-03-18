@@ -4,7 +4,7 @@ date = "2004-05-12 13:00:00"
 slug = "women-in-blogging"
 
 [taxonomies]
-tags = [ "blogging", "web-design", "female-bloggers",]
+tags = [ "blogging", "web design", "female bloggers",]
 
 [extra]
 show_comments = "true"

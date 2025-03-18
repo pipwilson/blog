@@ -5,8 +5,8 @@ taxonomies:
   tags:
   - kids
   - html
-  - web-publishing
-  - neko-atsume
+  - web publishing
+  - neko atsume
   - customisation
 title: Teach a girl to code HTML
 ---

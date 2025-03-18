@@ -4,7 +4,7 @@ slug: yaffle-a-toy-rss-reader-for-yarr
 taxonomies:
   tags:
   - rss
-  - rss-reader
+  - rss reader
   - yarr
   - wxwidgets
   - wxvenus

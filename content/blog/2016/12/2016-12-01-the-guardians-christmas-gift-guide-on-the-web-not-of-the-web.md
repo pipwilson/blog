@@ -4,7 +4,7 @@ date = "2016-12-01 22:19:34"
 slug = "the-guardians-christmas-gift-guide-on-the-web-not-of-the-web"
 
 [taxonomies]
-tags = [ "theguardian", "christmas", "web-development", "user-experience",]
+tags = [ "theguardian", "christmas", "web development", "user experience",]
 
 [extra]
 show_comments = "false"

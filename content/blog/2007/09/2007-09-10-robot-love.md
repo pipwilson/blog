@@ -4,7 +4,7 @@ date = "2007-09-10 18:09:00"
 slug = "robot-love"
 
 [taxonomies]
-tags = [ "robots", "roomba", "automation", "home-security",]
+tags = [ "robots", "roomba", "automation", "home security",]
 
 [extra]
 show_comments = "true"

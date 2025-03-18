@@ -4,7 +4,7 @@ date = "2006-10-03 13:42:00"
 slug = "encouraging-wiki-usage-in-your-team"
 
 [taxonomies]
-tags = [ "wikis", "collaboration", "content-management",]
+tags = [ "wikis", "collaboration", "content management",]
 
 [extra]
 show_comments = "true"

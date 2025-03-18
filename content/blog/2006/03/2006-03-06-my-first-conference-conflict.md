@@ -4,7 +4,7 @@ date = "2006-03-06 22:44:00"
 slug = "my-first-conference-conflict"
 
 [taxonomies]
-tags = [ "web-conferences", "microformats", "wikis",]
+tags = [ "web conferences", "microformats", "wikis",]
 
 [extra]
 show_comments = "false"

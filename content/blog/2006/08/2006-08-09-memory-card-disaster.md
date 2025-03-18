@@ -4,7 +4,7 @@ date = "2006-08-09 11:25:00"
 slug = "memory-card-disaster"
 
 [taxonomies]
-tags = [ "norway", "photography", "data-recovery",]
+tags = [ "norway", "photography", "data recovery",]
 
 [extra]
 show_comments = "true"

@@ -4,7 +4,7 @@ date = "2005-04-08 15:30:00"
 slug = "bigger-back-button-extension-for-firefox"
 
 [taxonomies]
-tags = [ "css", "fitts-law", "firefox",]
+tags = [ "css", "fitts law", "firefox",]
 
 [extra]
 show_comments = "true"

@@ -4,7 +4,7 @@ date = "2006-08-24 11:30:00"
 slug = "firefox-and-thunderbird-ui"
 
 [taxonomies]
-tags = [ "firefox", "thunderbird", "ui-design",]
+tags = [ "firefox", "thunderbird", "ui design",]
 
 [extra]
 show_comments = "true"

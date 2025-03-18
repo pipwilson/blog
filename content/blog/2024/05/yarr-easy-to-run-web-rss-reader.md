@@ -7,7 +7,7 @@ taxonomies:
   - atom
   - go
   - yarr
-  - rss-reader
+  - rss reader
 title: Yarr is an easy-to-run web-based RSS reader
 ---
 

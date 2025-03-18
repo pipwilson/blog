@@ -4,7 +4,7 @@ date = "2004-03-17 09:39:00"
 slug = "question-answerer-extraordinaire"
 
 [taxonomies]
-tags = [ "question-answering", "favorite", "site",]
+tags = [ "question answering", "favorite", "site",]
 
 [extra]
 show_comments = "true"

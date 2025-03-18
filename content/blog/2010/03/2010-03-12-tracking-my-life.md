@@ -4,7 +4,7 @@ date = "2010-03-12 19:29:05"
 slug = "tracking-my-life"
 
 [taxonomies]
-tags = [ "twitter", "blogging", "flickr", "social-media",]
+tags = [ "twitter", "blogging", "flickr", "social media",]
 
 [extra]
 show_comments = "true"

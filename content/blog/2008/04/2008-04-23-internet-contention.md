@@ -4,7 +4,7 @@ date = "2008-04-23 19:02:42"
 slug = "internet-contention"
 
 [taxonomies]
-tags = [ "broadband", "home", "internet-speed", "adsl", "plusnet",]
+tags = [ "broadband", "home", "internet speed", "adsl", "plusnet",]
 
 [extra]
 show_comments = "true"

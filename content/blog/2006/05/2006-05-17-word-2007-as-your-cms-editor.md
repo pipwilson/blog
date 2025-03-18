@@ -4,7 +4,7 @@ date = "2006-05-17 18:54:00"
 slug = "word-2007-as-your-cms-editor"
 
 [taxonomies]
-tags = [ "blogging", "xhtml", "atom-api",]
+tags = [ "blogging", "xhtml", "atom api",]
 
 [extra]
 show_comments = "false"

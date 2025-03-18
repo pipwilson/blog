@@ -4,7 +4,7 @@ date = "2004-11-23 23:23:00"
 slug = "no-software-patents"
 
 [taxonomies]
-tags = [ "software-patents", "blogging", "failure",]
+tags = [ "software patents", "blogging", "failure",]
 
 [extra]
 show_comments = "false"

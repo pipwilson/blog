@@ -4,7 +4,7 @@ date = "2008-02-24 20:30:58"
 slug = "things-i-want-to-do-in-2008"
 
 [taxonomies]
-tags = [ "todo", "open-source", "privacy", "activism",]
+tags = [ "todo", "open source", "privacy", "activism",]
 
 [extra]
 show_comments = "true"

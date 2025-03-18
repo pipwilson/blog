@@ -4,7 +4,7 @@ date = "2019-07-19 09:55:19"
 slug = "take-note-of-inkdrop"
 
 [taxonomies]
-tags = [ "markdown", "notes", "note-taking", "cloud-sync", "mobile-editing",]
+tags = [ "markdown", "notes", "note taking", "cloud sync", "mobile editing",]
 
 [extra]
 show_comments = "false"

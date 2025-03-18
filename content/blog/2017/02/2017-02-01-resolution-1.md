@@ -4,7 +4,7 @@ date = "2017-02-01 22:12:46"
 slug = "resolution-1"
 
 [taxonomies]
-tags = [ "weight-tracking", "resolutions", "withings",]
+tags = [ "weight tracking", "resolutions", "withings",]
 
 [extra]
 show_comments = "false"

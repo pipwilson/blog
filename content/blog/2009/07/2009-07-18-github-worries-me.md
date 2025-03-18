@@ -4,7 +4,7 @@ date = "2009-07-18 23:43:40"
 slug = "github-worries-me"
 
 [taxonomies]
-tags = [ "git", "svn", "version-control", "github", "social-networking",]
+tags = [ "git", "svn", "version control", "github", "social networking",]
 
 [extra]
 show_comments = "true"

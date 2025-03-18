@@ -4,7 +4,7 @@ date = "2005-07-03 11:14:00"
 slug = "slashdot-and-groklaw-taken-to-court"
 
 [taxonomies]
-tags = [ "oss", "linux", "technology-theft",]
+tags = [ "oss", "linux", "technology theft",]
 
 [extra]
 show_comments = "false"

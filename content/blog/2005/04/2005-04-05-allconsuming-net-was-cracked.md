@@ -4,7 +4,7 @@ date = "2005-04-05 14:12:00"
 slug = "allconsumingnet-was-cracked"
 
 [taxonomies]
-tags = [ "web-development", "ruby-on-rails", "server-security",]
+tags = [ "web development", "ruby on rails", "server security",]
 
 [extra]
 show_comments = "false"

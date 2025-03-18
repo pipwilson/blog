@@ -4,7 +4,7 @@ date = "2005-05-24 14:44:00"
 slug = "request-for-id-scam"
 
 [taxonomies]
-tags = [ "recruitment", "regulations", "identity-fraud",]
+tags = [ "recruitment", "regulations", "identity fraud",]
 
 [extra]
 show_comments = "true"

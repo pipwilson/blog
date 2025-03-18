@@ -4,7 +4,7 @@ date = "2004-07-25 16:42:00"
 slug = "wow-thanks-hotmail"
 
 [taxonomies]
-tags = [ "email", "junk-mail", "settings",]
+tags = [ "email", "junk mail", "settings",]
 
 [extra]
 show_comments = "false"

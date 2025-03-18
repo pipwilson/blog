@@ -5,8 +5,8 @@ taxonomies:
   tags:
   - books
   - scythe
-  - young-adult
-  - time-travel
+  - young adult
+  - time travel
 title: Books of May 2024
 ---
 

@@ -4,7 +4,7 @@ date = "2006-10-10 12:33:00"
 slug = "dreamhost-as-a-backup-provider"
 
 [taxonomies]
-tags = [ "web-hosting", "rsync", "backup",]
+tags = [ "web hosting", "rsync", "backup",]
 
 [extra]
 show_comments = "true"

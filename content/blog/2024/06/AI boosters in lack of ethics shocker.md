@@ -7,7 +7,7 @@ taxonomies:
   - ethics
   - user-agent
   - misleading
-  - legal-action
+  - legal action
 title: AI boosters in lack of ethics shocker
 ---
 

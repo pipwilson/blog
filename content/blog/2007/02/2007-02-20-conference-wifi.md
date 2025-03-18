@@ -4,7 +4,7 @@ date = "2007-02-20 13:08:00"
 slug = "conference-wifi"
 
 [taxonomies]
-tags = [ "fowalondon07", "wifi", "web-apps", "conference", "internet",]
+tags = [ "fowalondon07", "wifi", "web apps", "conference", "internet",]
 
 [extra]
 show_comments = "true"

@@ -4,7 +4,7 @@ date = "2004-05-14 13:54:00"
 slug = "glorious-sunshine"
 
 [taxonomies]
-tags = [ "sheffield", "winter-gardens", "photography",]
+tags = [ "sheffield", "winter gardens", "photography",]
 
 [extra]
 show_comments = "false"

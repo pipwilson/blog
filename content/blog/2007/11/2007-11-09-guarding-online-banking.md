@@ -4,7 +4,7 @@ date = "2007-11-09 00:17:00"
 slug = "guarding-online-banking"
 
 [taxonomies]
-tags = [ "bank", "security", "pinsentry", "online-banking", "faqs",]
+tags = [ "bank", "security", "pinsentry", "online banking", "faqs",]
 
 [extra]
 show_comments = "true"

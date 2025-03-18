@@ -4,7 +4,7 @@ date = "2006-02-13 02:23:00"
 slug = "use-an-elastic-layout-on-your-weblog-web-professionals"
 
 [taxonomies]
-tags = [ "web-design", "accessibility", "usability",]
+tags = [ "web design", "accessibility", "usability",]
 
 [extra]
 show_comments = "true"

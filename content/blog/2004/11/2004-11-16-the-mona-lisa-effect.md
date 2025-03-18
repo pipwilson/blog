@@ -4,7 +4,7 @@ date = "2004-11-16 14:58:00"
 slug = "the-mona-lisa-effect"
 
 [taxonomies]
-tags = [ "mona-lisa", "louvre", "art-appreciation",]
+tags = [ "mona lisa", "louvre", "art appreciation",]
 
 [extra]
 show_comments = "false"

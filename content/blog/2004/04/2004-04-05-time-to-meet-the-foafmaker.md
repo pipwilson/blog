@@ -4,7 +4,7 @@ date = "2004-04-05 13:14:00"
 slug = "time-to-meet-the-foafmaker"
 
 [taxonomies]
-tags = [ "foaf", "meta-tags", "livejournal", "validation",]
+tags = [ "foaf", "meta tags", "livejournal", "validation",]
 
 [extra]
 show_comments = "false"

@@ -4,7 +4,7 @@ date = "2004-05-10 08:34:00"
 slug = "blogger-relaunch-commentary"
 
 [taxonomies]
-tags = [ "blogging", "phil-ringnalda", "web",]
+tags = [ "blogging", "phil ringnalda", "web",]
 
 [extra]
 show_comments = "true"

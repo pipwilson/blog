@@ -4,7 +4,7 @@ date = "2006-12-18 12:01:00"
 slug = "huge-tech-t-shirts-suck"
 
 [taxonomies]
-tags = [ "user-experience", "apachecon", "tech-tshirts",]
+tags = [ "user experience", "apachecon", "tech tshirts",]
 
 [extra]
 show_comments = "true"

@@ -4,7 +4,7 @@ date = "2006-04-25 10:06:00"
 slug = "dive-into-legibility"
 
 [taxonomies]
-tags = [ "css", "stylish", "full-width",]
+tags = [ "css", "stylish", "full width",]
 
 [extra]
 show_comments = "true"

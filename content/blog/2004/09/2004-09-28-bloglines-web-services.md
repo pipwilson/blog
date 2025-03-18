@@ -4,7 +4,7 @@ date = "2004-09-28 15:23:00"
 slug = "bloglines-web-services"
 
 [taxonomies]
-tags = [ "web-services", "aggregators", "synchronisation",]
+tags = [ "web services", "aggregators", "synchronisation",]
 
 [extra]
 show_comments = "true"

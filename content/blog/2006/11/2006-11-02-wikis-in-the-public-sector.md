@@ -4,7 +4,7 @@ date = "2006-11-02 15:59:00"
 slug = "wikis-in-the-public-sector"
 
 [taxonomies]
-tags = [ "wikis", "public-sector", "universities",]
+tags = [ "wikis", "public sector", "universities",]
 
 [extra]
 show_comments = "false"

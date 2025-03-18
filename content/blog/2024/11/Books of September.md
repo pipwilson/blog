@@ -4,8 +4,8 @@ slug: books-of-september
 taxonomies:
   tags:
   - books
-  - murderbot-diaries
-  - science-fiction
+  - murderbot diaries
+  - science fiction
   - reading
 title: Books of September
 ---

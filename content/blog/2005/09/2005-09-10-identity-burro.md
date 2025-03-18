@@ -4,7 +4,7 @@ date = "2005-09-10 20:31:00"
 slug = "identity-burro"
 
 [taxonomies]
-tags = [ "foaf", "greasemonkey", "firefox", "social-media",]
+tags = [ "foaf", "greasemonkey", "firefox", "social media",]
 
 [extra]
 show_comments = "true"

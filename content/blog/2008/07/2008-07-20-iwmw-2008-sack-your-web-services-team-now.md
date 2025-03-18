@@ -4,7 +4,7 @@ date = "2008-07-20 19:33:23"
 slug = "iwmw-2008-sack-your-web-services-team-now"
 
 [taxonomies]
-tags = [ "iwmw iwmw2008", "web-development", "web2.0", "aberdeen",]
+tags = [ "iwmw iwmw2008", "web development", "web2.0", "aberdeen",]
 
 [extra]
 show_comments = "true"

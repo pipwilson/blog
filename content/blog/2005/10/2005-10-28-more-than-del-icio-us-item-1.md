@@ -4,7 +4,7 @@ date = "2005-10-28 18:46:00"
 slug = "more-than-delicious-item-1"
 
 [taxonomies]
-tags = [ "foaf", "social-media", "aggregation", "identity",]
+tags = [ "foaf", "social media", "aggregation", "identity",]
 
 [extra]
 show_comments = "false"

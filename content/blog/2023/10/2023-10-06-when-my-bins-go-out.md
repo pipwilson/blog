@@ -4,7 +4,7 @@ date = "2023-10-06 18:39:58"
 slug = "when-my-bins-go-out"
 
 [taxonomies]
-tags = [ "php", "waste-management", "json",]
+tags = [ "php", "waste management", "json",]
 
 [extra]
 show_comments = "false"

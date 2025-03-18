@@ -5,7 +5,7 @@ taxonomies:
   tags:
   - books
   - literature
-  - character-development
+  - character development
   - editing
 title: Books of December 2024
 ---

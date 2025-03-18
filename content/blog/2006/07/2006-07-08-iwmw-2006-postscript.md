@@ -4,7 +4,7 @@ date = "2006-07-08 23:41:00"
 slug = "iwmw-2006-postscript"
 
 [taxonomies]
-tags = [ "wikis", "microformats", "public-speaking",]
+tags = [ "wikis", "microformats", "public speaking",]
 
 [extra]
 show_comments = "false"

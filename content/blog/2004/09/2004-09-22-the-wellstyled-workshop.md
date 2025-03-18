@@ -4,7 +4,7 @@ date = "2004-09-22 16:04:00"
 slug = "the-wellstyled-workshop"
 
 [taxonomies]
-tags = [ "css", "bilingual", "web-design",]
+tags = [ "css", "bilingual", "web design",]
 
 [extra]
 show_comments = "false"

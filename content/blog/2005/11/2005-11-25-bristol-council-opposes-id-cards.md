@@ -4,7 +4,7 @@ date = "2005-11-25 11:54:00"
 slug = "bristol-council-opposes-id-cards"
 
 [taxonomies]
-tags = [ "bristol", "liberal-democrats", "id-cards",]
+tags = [ "bristol", "liberal democrats", "id cards",]
 
 [extra]
 show_comments = "false"

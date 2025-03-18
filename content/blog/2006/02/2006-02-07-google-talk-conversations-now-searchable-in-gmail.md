@@ -4,7 +4,7 @@ date = "2006-02-07 12:31:00"
 slug = "google-talk-conversations-now-searchable-in-gmail"
 
 [taxonomies]
-tags = [ "gmail", "google-talk", "privacy",]
+tags = [ "gmail", "google talk", "privacy",]
 
 [extra]
 show_comments = "false"

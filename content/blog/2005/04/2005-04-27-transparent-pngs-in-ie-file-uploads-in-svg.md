@@ -4,7 +4,7 @@ date = "2005-04-27 09:48:00"
 slug = "transparent-pngs-in-ie-file-uploads-in-svg"
 
 [taxonomies]
-tags = [ "png", "internet-explorer", "svg",]
+tags = [ "png", "internet explorer", "svg",]
 
 [extra]
 show_comments = "true"

@@ -4,7 +4,7 @@ date = "2021-07-07 14:35:32"
 slug = "how-to-restore-a-deleted-twitter-video-using-your-firefox-cache"
 
 [taxonomies]
-tags = [ "firefox", "twitter", "video-recovery", "cache-management", "browser-tools",]
+tags = [ "firefox", "twitter", "video recovery", "cache management", "browser tools",]
 
 [extra]
 show_comments = "false"

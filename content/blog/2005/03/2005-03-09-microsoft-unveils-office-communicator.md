@@ -4,7 +4,7 @@ date = "2005-03-09 11:20:00"
 slug = "microsoft-unveils-office-communicator"
 
 [taxonomies]
-tags = [ "microsoft", "office", "im-client",]
+tags = [ "microsoft", "office", "im client",]
 
 [extra]
 show_comments = "false"

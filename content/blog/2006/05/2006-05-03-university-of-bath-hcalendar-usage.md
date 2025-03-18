@@ -4,7 +4,7 @@ date = "2006-05-03 18:22:00"
 slug = "university-of-bath-hcalendar-usage"
 
 [taxonomies]
-tags = [ "hcalendar", "greasemonkey", "t'ai-chi",]
+tags = [ "hcalendar", "greasemonkey", "t'ai chi",]
 
 [extra]
 show_comments = "true"

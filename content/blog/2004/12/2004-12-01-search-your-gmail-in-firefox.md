@@ -4,7 +4,7 @@ date = "2004-12-01 21:19:00"
 slug = "search-your-gmail-in-firefox"
 
 [taxonomies]
-tags = [ "javascript", "firefox", "search-toolbar",]
+tags = [ "javascript", "firefox", "search toolbar",]
 
 [extra]
 show_comments = "true"

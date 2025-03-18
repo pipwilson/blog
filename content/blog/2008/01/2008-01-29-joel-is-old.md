@@ -4,7 +4,7 @@ date = "2008-01-29 22:25:03"
 slug = "joel-is-old"
 
 [taxonomies]
-tags = [ "mobile", "qr-codes", "technology", "innovation",]
+tags = [ "mobile", "qr codes", "technology", "innovation",]
 
 [extra]
 show_comments = "true"

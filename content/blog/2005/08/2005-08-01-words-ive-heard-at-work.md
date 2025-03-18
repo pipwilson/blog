@@ -4,7 +4,7 @@ date = "2005-08-01 14:24:00"
 slug = "words-ive-heard-at-work"
 
 [taxonomies]
-tags = [ "web-standards", "folksonomies", "podcasting",]
+tags = [ "web standards", "folksonomies", "podcasting",]
 
 [extra]
 show_comments = "true"

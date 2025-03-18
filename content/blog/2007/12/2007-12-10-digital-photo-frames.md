@@ -4,7 +4,7 @@ date = "2007-12-10 22:55:28"
 slug = "digital-photo-frames"
 
 [taxonomies]
-tags = [ "junk", "real", "digital-frames", "photography", "technology",]
+tags = [ "junk", "real", "digital frames", "photography", "technology",]
 
 [extra]
 show_comments = "true"

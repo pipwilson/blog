@@ -4,7 +4,7 @@ date = "2005-09-19 11:19:00"
 slug = "hdtv-digitaltv-etc"
 
 [taxonomies]
-tags = [ "tv-over-internet", "hover-shoes", "digital-switchover",]
+tags = [ "tv over internet", "hover shoes", "digital switchover",]
 
 [extra]
 show_comments = "false"

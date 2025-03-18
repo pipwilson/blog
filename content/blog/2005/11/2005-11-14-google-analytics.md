@@ -4,7 +4,7 @@ date = "2005-11-14 13:46:00"
 slug = "google-analytics"
 
 [taxonomies]
-tags = [ "google-analytics", "cookies", "javascript",]
+tags = [ "google analytics", "cookies", "javascript",]
 
 [extra]
 show_comments = "false"

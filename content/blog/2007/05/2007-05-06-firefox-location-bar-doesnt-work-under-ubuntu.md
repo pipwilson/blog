@@ -4,7 +4,7 @@ date = "2007-05-06 14:51:00"
 slug = "firefox-location-bar-doesnt-work-under-ubuntu"
 
 [taxonomies]
-tags = [ "firefox", "usamajility", "ubuntu", "keyboard-shortcuts", "bugzilla",]
+tags = [ "firefox", "usamajility", "ubuntu", "keyboard shortcuts", "bugzilla",]
 
 [extra]
 show_comments = "true"

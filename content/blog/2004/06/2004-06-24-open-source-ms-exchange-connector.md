@@ -4,7 +4,7 @@ date = "2004-06-24 09:59:00"
 slug = "open-source-ms-exchange-connector"
 
 [taxonomies]
-tags = [ "linux", "open-source", "groupware",]
+tags = [ "linux", "open source", "groupware",]
 
 [extra]
 show_comments = "false"

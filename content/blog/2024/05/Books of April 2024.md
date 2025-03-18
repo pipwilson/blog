@@ -5,8 +5,8 @@ taxonomies:
   tags:
   - books
   - cyberpunk
-  - magical-realism
-  - time-travel
+  - magical realism
+  - time travel
 title: Books of April 2024
 ---
 

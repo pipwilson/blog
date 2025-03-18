@@ -4,7 +4,7 @@ date = "2023-01-29 08:00:09"
 slug = "time-management-resolution"
 
 [taxonomies]
-tags = [ "management", "meetings", "productivity", "time-management", "burnout",]
+tags = [ "management", "meetings", "productivity", "time management", "burnout",]
 
 [extra]
 show_comments = "false"

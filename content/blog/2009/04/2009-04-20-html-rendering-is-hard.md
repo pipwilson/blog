@@ -4,7 +4,7 @@ date = "2009-04-20 19:19:56"
 slug = "html-rendering-is-hard"
 
 [taxonomies]
-tags = [ "wxvenus", "wxwidgets", "cross-platform", "toolkit", "desktop-applications",]
+tags = [ "wxvenus", "wxwidgets", "cross-platform", "toolkit", "desktop applications",]
 
 [extra]
 show_comments = "true"

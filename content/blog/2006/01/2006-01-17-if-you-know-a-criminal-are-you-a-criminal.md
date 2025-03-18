@@ -4,7 +4,7 @@ date = "2006-01-17 19:45:00"
 slug = "if-you-know-a-criminal-are-you-a-criminal"
 
 [taxonomies]
-tags = [ "privacy", "data-retention", "social-networks"]
+tags = [ "privacy", "data retention", "social networks",]
 
 [extra]
 show_comments = "true"

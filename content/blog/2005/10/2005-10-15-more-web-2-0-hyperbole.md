@@ -4,7 +4,7 @@ date = "2005-10-15 23:38:00"
 slug = "more-web-20-hyperbole"
 
 [taxonomies]
-tags = [ "blog-search", "web2.0", "vapourware",]
+tags = [ "blog search", "web2.0", "vapourware",]
 
 [extra]
 show_comments = "false"

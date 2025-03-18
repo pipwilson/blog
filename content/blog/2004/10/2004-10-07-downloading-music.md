@@ -4,7 +4,7 @@ date = "2004-10-07 10:56:00"
 slug = "downloading-music"
 
 [taxonomies]
-tags = [ "music-downloading", "online-music", "consumer-rights",]
+tags = [ "music downloading", "online music", "consumer rights",]
 
 [extra]
 show_comments = "false"

@@ -4,7 +4,7 @@ date = "2011-07-03 07:57:00"
 slug = "plus-worries"
 
 [taxonomies]
-tags = [ "google-chrome", "google-plus", "identity", "social-networks",]
+tags = [ "google chrome", "google plus", "identity", "social networks",]
 
 [extra]
 show_comments = "true"

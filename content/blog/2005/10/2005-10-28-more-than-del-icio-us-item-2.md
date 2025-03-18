@@ -4,7 +4,7 @@ date = "2005-10-28 19:24:00"
 slug = "more-than-delicious-item-2"
 
 [taxonomies]
-tags = [ "openness", "data-access", "innovation",]
+tags = [ "openness", "data access", "innovation",]
 
 [extra]
 show_comments = "false"

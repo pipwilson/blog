@@ -4,7 +4,7 @@ date = "2005-04-08 09:25:00"
 slug = "all-consuming-on-rails"
 
 [taxonomies]
-tags = [ "ruby-on-rails", "development", "technology",]
+tags = [ "ruby on rails", "development", "technology",]
 
 [extra]
 show_comments = "false"

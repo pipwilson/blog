@@ -4,7 +4,7 @@ date = "2005-11-28 12:50:00"
 slug = "microformats-understood"
 
 [taxonomies]
-tags = [ "microformats", "mailing-list", "ocean",]
+tags = [ "microformats", "mailing list", "ocean",]
 
 [extra]
 show_comments = "true"

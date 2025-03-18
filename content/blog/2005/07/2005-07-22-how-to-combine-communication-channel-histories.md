@@ -4,7 +4,7 @@ date = "2005-07-22 10:21:00"
 slug = "how-to-combine-communication-channel-histories"
 
 [taxonomies]
-tags = [ "communication", "synchronization", "search-tools",]
+tags = [ "communication", "synchronization", "search tools",]
 
 [extra]
 show_comments = "true"

@@ -4,7 +4,7 @@ date = "2006-11-16 17:16:00"
 slug = "sony-ericsson-w950i-better-than-the-nokia-n91"
 
 [taxonomies]
-tags = [ "symbian", "nokia", "sony-ericsson",]
+tags = [ "symbian", "nokia", "sony ericsson",]
 
 [extra]
 show_comments = "true"

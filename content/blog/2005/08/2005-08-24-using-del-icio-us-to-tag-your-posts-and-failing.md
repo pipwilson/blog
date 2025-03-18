@@ -4,7 +4,7 @@ date = "2005-08-24 12:29:00"
 slug = "using-delicious-to-tag-your-posts-and-failing"
 
 [taxonomies]
-tags = [ "blogging", "social-media", "irony",]
+tags = [ "blogging", "social media", "irony",]
 
 [extra]
 show_comments = "false"

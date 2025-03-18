@@ -4,7 +4,7 @@ date = "2018-06-07 13:49:39"
 slug = "pentaho-problems"
 
 [taxonomies]
-tags = [ "usamajility", "whining", "pentaho", "data-integration", "annoyances",]
+tags = [ "usamajility", "whining", "pentaho", "data integration", "annoyances",]
 
 [extra]
 show_comments = "false"

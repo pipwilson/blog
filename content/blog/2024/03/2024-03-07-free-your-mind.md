@@ -4,7 +4,7 @@ date = "2024-03-07 21:13:50"
 slug = "free-your-mind"
 
 [taxonomies]
-tags = [ "software-engineering", "problem-solving", "reading",]
+tags = [ "software engineering", "problem solving", "reading",]
 
 [extra]
 show_comments = "false"

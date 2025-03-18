@@ -4,7 +4,7 @@ date = "2008-06-25 19:48:53"
 slug = "mashed08-review-attempt-1"
 
 [taxonomies]
-tags = [ "bbc", "mashed08", "sylvester-mccoy", "doctor-who", "television",]
+tags = [ "bbc", "mashed08", "sylvester mccoy", "doctor who", "television",]
 
 [extra]
 show_comments = "false"

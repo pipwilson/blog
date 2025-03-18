@@ -4,7 +4,7 @@ date = "2006-09-28 10:03:00"
 slug = "feedreader-bug"
 
 [taxonomies]
-tags = [ "blogging", "photography", "web-development",]
+tags = [ "blogging", "photography", "web development",]
 
 [extra]
 show_comments = "false"

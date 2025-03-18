@@ -4,7 +4,7 @@ date = "2005-03-15 13:08:00"
 slug = "fact-for-the-day-updating-fields-in-sql-server-2000"
 
 [taxonomies]
-tags = [ "sql", "enterprise-manager", "data-risk",]
+tags = [ "sql", "enterprise manager", "data risk",]
 
 [extra]
 show_comments = "false"

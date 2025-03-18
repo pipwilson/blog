@@ -4,7 +4,7 @@ date = "2011-03-16 22:31:18"
 slug = "what-is-scrum"
 
 [taxonomies]
-tags = [ "agile", "scrum", "methodology", "project-management", "processes",]
+tags = [ "agile", "scrum", "methodology", "project management", "processes",]
 
 [extra]
 show_comments = "true"

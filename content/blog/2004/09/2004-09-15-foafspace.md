@@ -4,7 +4,7 @@ date = "2004-09-15 11:40:00"
 slug = "foafspace"
 
 [taxonomies]
-tags = [ "foaf", "search-engine", "scutter", "triples",]
+tags = [ "foaf", "search engine", "scutter", "triples",]
 
 [extra]
 show_comments = "true"

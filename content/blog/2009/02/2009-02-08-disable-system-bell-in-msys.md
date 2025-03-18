@@ -4,7 +4,7 @@ date = "2009-02-08 01:20:15"
 slug = "disable-system-bell-in-msys"
 
 [taxonomies]
-tags = [ "git", "msys", "windows", "command-line", "configuration",]
+tags = [ "git", "msys", "windows", "command line", "configuration",]
 
 [extra]
 show_comments = "true"

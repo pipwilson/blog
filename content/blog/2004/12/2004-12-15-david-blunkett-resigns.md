@@ -4,7 +4,7 @@ date = "2004-12-15 18:15:00"
 slug = "david-blunkett-resigns"
 
 [taxonomies]
-tags = [ "blunkett", "id-cards", "resignation",]
+tags = [ "blunkett", "id cards", "resignation",]
 
 [extra]
 show_comments = "false"

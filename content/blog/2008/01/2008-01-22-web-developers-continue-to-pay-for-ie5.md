@@ -4,7 +4,7 @@ date = "2008-01-22 17:03:26"
 slug = "web-developers-continue-to-pay-for-ie5"
 
 [taxonomies]
-tags = [ "web", "internet-explorer", "lock-in", "annevankesteren",]
+tags = [ "web", "internet explorer", "lock in", "annevankesteren",]
 
 [extra]
 show_comments = "false"

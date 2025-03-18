@@ -4,7 +4,7 @@ date = "2005-05-22 18:41:00"
 slug = "oxford-is-not-in-the-south-west"
 
 [taxonomies]
-tags = [ "job-search", "bristol", "bath",]
+tags = [ "job search", "bristol", "bath",]
 
 [extra]
 show_comments = "true"

@@ -4,7 +4,7 @@ date = "2005-12-16 12:42:00"
 slug = "make-your-links-visible-and-obvious"
 
 [taxonomies]
-tags = [ "web-design", "usability", "links",]
+tags = [ "web design", "usability", "links",]
 
 [extra]
 show_comments = "false"

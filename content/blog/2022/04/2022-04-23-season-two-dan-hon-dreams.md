@@ -4,7 +4,7 @@ date = "2022-04-23 10:04:21"
 slug = "season-two-dan-hon-dreams"
 
 [taxonomies]
-tags = [ "energy-sustainability", "digital-transformation", "artificial-intelligence",]
+tags = [ "energy sustainability", "digital transformation", "artificial intelligence",]
 
 [extra]
 show_comments = "false"

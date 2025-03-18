@@ -4,7 +4,7 @@ date = "2006-02-19 23:53:00"
 slug = "internet-fridges"
 
 [taxonomies]
-tags = [ "technology", "smart-home", "automation",]
+tags = [ "technology", "smart home", "automation",]
 
 [extra]
 show_comments = "true"

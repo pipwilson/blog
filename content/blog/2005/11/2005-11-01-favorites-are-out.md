@@ -4,7 +4,7 @@ date = "2005-11-01 22:46:00"
 slug = "favorites-are-out"
 
 [taxonomies]
-tags = [ "greasemonkey", "script", "british-english",]
+tags = [ "greasemonkey", "script", "british english",]
 
 [extra]
 show_comments = "true"
