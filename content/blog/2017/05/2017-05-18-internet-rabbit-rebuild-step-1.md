@@ -2,11 +2,14 @@
 title = "Internet rabbit rebuild - step 1"
 date = "2017-05-18 22:12:08"
 slug = "internet-rabbit-rebuild-step-1"
+
 [taxonomies]
-tags = ['general']
+tags = [ "iot", "raspberrypi", "nabaztag", "diy",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2017/05/2017-05-18-internet-rabbit-rebuild-step-1-comments.csv"
+
 +++
 
 Back in Christmas 2006, I was lucky enough to get everything I asked for, and one of those things was one of the first commercially available Internet of Things devices – a [Nabaztag](https://en.wikipedia.org/wiki/Nabaztag).

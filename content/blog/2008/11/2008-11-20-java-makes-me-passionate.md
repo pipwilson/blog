@@ -2,11 +2,14 @@
 title = "Java makes me passionate"
 date = "2008-11-20 17:31:15"
 slug = "java-makes-me-passionate"
+
 [taxonomies]
-tags = ['apache','general','grails','java','play','ruby','struts2']
+tags = [ "apache", "grails", "java", "play", "ruby", "struts2",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/11/2008-11-20-java-makes-me-passionate-comments.csv"
+
 +++
 
 Seriously.

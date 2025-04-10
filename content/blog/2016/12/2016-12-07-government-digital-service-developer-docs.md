@@ -2,11 +2,14 @@
 title = "Government Digital Service developer docs"
 date = "2016-12-07 13:36:37"
 slug = "government-digital-service-developer-docs"
+
 [taxonomies]
-tags = ['general']
+tags = [ "github", "heroku", "gds",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2016/12/2016-12-07-government-digital-service-developer-docs-comments.csv"
+
 +++
 
 GDS has an absolute boat-load of [repositories on GitHub](https://github.com/alphagov), and no clear way to access or browse them.

@@ -2,11 +2,14 @@
 title = "Personal finance tracking"
 date = "2008-07-28 22:59:10"
 slug = "personal-finance-tracking"
+
 [taxonomies]
-tags = ['banks','general','money','wesabe']
+tags = [ "banks", "money", "wesabe",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/07/2008-07-28-personal-finance-tracking-comments.csv"
+
 +++
 
 How much money do you have and how do you find out what you’re spending it on?

@@ -2,11 +2,14 @@
 title = "Time management resolution"
 date = "2023-01-29 08:00:09"
 slug = "time-management-resolution"
+
 [taxonomies]
-tags = ['general','management','meetings']
+tags = [ "management", "meetings", "productivity", "time management", "burnout",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2023/01/2023-01-29-time-management-resolution-comments.csv"
+
 +++
 
 I don’t do resolutions, but I have changed how I approach something at work for this year, and so I guess that counts, right?  

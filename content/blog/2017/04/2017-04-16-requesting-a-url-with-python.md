@@ -2,11 +2,14 @@
 title = "Requesting a URL with Python"
 date = "2017-04-16 12:17:09"
 slug = "requesting-a-url-with-python"
+
 [taxonomies]
-tags = ['general','http','python']
+tags = [ "http", "python", "flotilla", "led", "space",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2017/04/2017-04-16-requesting-a-url-with-python-comments.csv"
+
 +++
 
 After a year at the bottom of my drawer, I have busted out my [Pimoroni Flotilla](https://shop.pimoroni.com/collections/flotilla/products/flotilla-mega-treasure-chest). It has [a Python API](https://github.com/pimoroni/flotilla-python) and so I figured this was as good a time as any to use Python3 for the first time in many years.

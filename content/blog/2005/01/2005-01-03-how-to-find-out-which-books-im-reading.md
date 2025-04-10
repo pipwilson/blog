@@ -2,11 +2,14 @@
 title = "How to find out which books I'm reading"
 date = "2005-01-03 21:11:00"
 slug = "how-to-find-out-which-books-im-reading"
+
 [taxonomies]
-tags = ['general']
+tags = [ "reading", "bookmarklet", "rss",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/01/2005-01-03-how-to-find-out-which-books-im-reading-comments.csv"
+
 +++
 
 [Andrea wants to be able to stalk my reading list](http://philwilson.org/blog/2004/12/tracking-comments.html#110415097301576089).

@@ -2,11 +2,14 @@
 title = "Getting going with Gemini"
 date = "2023-10-19 21:08:29"
 slug = "getting-going-with-gemini"
+
 [taxonomies]
-tags = ['general']
+tags = [ "gemini", "lagrange", "titan",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2023/10/2023-10-19-getting-going-with-gemini-comments.csv"
+
 +++
 
 I’ve been really interested in [Gemini](https://communitywiki.org/wiki/Gemini) space for about a year now, having read the protocol and used a few [web proxies to explore Gemini space](https://portal.mozz.us/gemini/geminiprotocol.net/).

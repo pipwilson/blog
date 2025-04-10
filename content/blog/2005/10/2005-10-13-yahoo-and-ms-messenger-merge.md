@@ -2,11 +2,14 @@
 title = "Yahoo and MS Messenger merge"
 date = "2005-10-13 12:54:00"
 slug = "yahoo-and-ms-messenger-merge"
+
 [taxonomies]
-tags = ['general']
+tags = [ "im", "collaboration", "networks",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/10/2005-10-13-yahoo-and-ms-messenger-merge-comments.csv"
+
 +++
 
 A few weeks ago I read this article: [IM War](http://www.drunkenblog.com/drunkenblog-archives/000637.html) and I’ve been meaning to blog about it ever since.

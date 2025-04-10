@@ -2,11 +2,14 @@
 title = "Microformat authoring complexity and validation"
 date = "2006-04-20 11:55:00"
 slug = "microformat-authoring-complexity-and-validation"
+
 [taxonomies]
-tags = ['general']
+tags = [ "microformats", "validation", "hcard",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2006/04/2006-04-20-microformat-authoring-complexity-and-validation-comments.csv"
+
 +++
 
 There’s a little bit going around at the moment about microformat validation; for example Norm Walsh on [Validating microformats](http://norman.walsh.name/2006/04/13/validatingMicroformats), Bill de hÓra thinks it matters [Not a whit](http://www.dehora.net/journal/2006/04/not_a_whit.html) and the mailing list is going apeshit.

@@ -2,11 +2,14 @@
 title = "Browser and Aggregator Usage Statistics"
 date = "2004-12-15 19:32:00"
 slug = "browser-and-aggregator-usage-statistics"
+
 [taxonomies]
-tags = ['general']
+tags = [ "browsers", "aggregators", "syndication",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/12/2004-12-15-browser-and-aggregator-usage-statistics-comments.csv"
+
 +++
 
 So, a quick twelve-monthly roundup for usage of [philwilson.org](http://philwilson.org/blog/) is in order I think.

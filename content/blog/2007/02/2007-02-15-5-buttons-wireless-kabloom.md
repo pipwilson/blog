@@ -2,11 +2,14 @@
 title = "5 buttons? Wireless? *kabloom*"
 date = "2007-02-15 12:27:00"
 slug = "5-buttons-wireless-kabloom"
+
 [taxonomies]
-tags = ['general','hci','rant']
+tags = [ "hci", "rant", "ergonomics", "usability", "technology",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2007/02/2007-02-15-5-buttons-wireless-kabloom-comments.csv"
+
 +++
 
 The computer mouse is one of the worst human-computer interaction devices ever invented and I hope it dies a rapid death.

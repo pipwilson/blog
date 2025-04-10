@@ -2,11 +2,14 @@
 title = "Won't anyone think of the children?"
 date = "2004-04-08 09:33:00"
 slug = "wont-anyone-think-of-the-children"
+
 [taxonomies]
-tags = ['general']
+tags = [ "rss", "atom", "php",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/04/2004-04-08-wont-anyone-think-of-the-children-comments.csv"
+
 +++
 
 If you‘re subscribed to [my RSS feed](http://philwilson.org/rssify.php) then STOP! Move to [my Atom feed](http://pipthepixie.tripod.com/atom.xml).

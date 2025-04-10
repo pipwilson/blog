@@ -2,11 +2,14 @@
 title = "Downloading via SSL in IE"
 date = "2005-03-01 11:12:00"
 slug = "downloading-via-ssl-in-ie"
+
 [taxonomies]
-tags = ['general']
+tags = [ "ie", "caching", "ssl",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/03/2005-03-01-downloading-via-ssl-in-ie-comments.csv"
+
 +++
 
 Edd Dumbill’s been having problems [getting IE to download dynamically generated files](http://usefulinc.com/edd/blog/contents/2005/02/26-ie-breaks-my-head/read) and today posted [the solution he discovered](http://usefulinc.com/edd/blog/contents/2005/02/28-ie-solution/read):

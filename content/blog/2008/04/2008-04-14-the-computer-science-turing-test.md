@@ -2,11 +2,14 @@
 title = "The computer science turing test"
 date = "2008-04-14 17:27:03"
 slug = "the-computer-science-turing-test"
+
 [taxonomies]
-tags = ['general','sql']
+tags = [ "sql", "database", "programming", "joins",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/04/2008-04-14-the-computer-science-turing-test-comments.csv"
+
 +++
 
 I fundamentally don’t understand [SQL JOIN clauses](http://en.wikipedia.org/wiki/Join_(SQL)).

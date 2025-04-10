@@ -2,11 +2,14 @@
 title = "Consuming OpenID"
 date = "2007-02-28 14:31:00"
 slug = "consuming-openid"
+
 [taxonomies]
-tags = ['openid','openid']
+tags = [ "openid", "openid", "authentication", "university", "technology",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2007/02/2007-02-28-consuming-openid-comments.csv"
+
 +++
 
 After a few more moments of thought following [my last post](http://philwilson.org/blog/2007/02/openid-at-university.html) I imagine what we could do is implement OpenID consumption so that rather than forcing people to be pre-approved before they get a light-weight account they can be post-approved.

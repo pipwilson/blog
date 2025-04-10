@@ -2,11 +2,14 @@
 title = "TV on the web"
 date = "2005-11-01 11:05:00"
 slug = "tv-on-the-web"
+
 [taxonomies]
-tags = ['general']
+tags = [ "bbc", "nbc", "broadcasting",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/11/2005-11-01-tv-on-the-web-comments.csv"
+
 +++
 
 After [posting about the BBC putting up a show for download](http://philwilson.org/blog/2005/10/bbc-to-show-tv-series-online.html) (and remembering, of course, their [ongoing iMP trials](http://www.bbc.co.uk/imp/)), [NBC will be putting up its NBC Nightly News for broadcast on the Internet](http://www.personaltechpipeline.com/news/172901997) starting on November the seventh.

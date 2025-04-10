@@ -2,11 +2,14 @@
 title = "Habit forming"
 date = "2024-01-09 18:22:00"
 slug = "habit-forming"
+
 [taxonomies]
-tags = ['bike','general','habits']
+tags = [ "bike", "habits", "youtube", "motivation", "streaks",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2024/01/2024-01-09-habit-forming-comments.csv"
+
 +++
 
 [Tom Scott has just finished ten years of](https://www.theguardian.com/technology/2024/jan/05/youtuber-tom-scott-ends-things-you-might-not-know-series) his weekly [Things You Might Not Know](https://youtube.com/playlist?list=PL96C35uN7xGI9HGKHsArwxiOejecVyNem) series on YouTube.

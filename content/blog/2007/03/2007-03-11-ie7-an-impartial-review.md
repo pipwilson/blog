@@ -2,11 +2,14 @@
 title = "IE7, an impartial review"
 date = "2007-03-11 23:41:00"
 slug = "ie7-an-impartial-review"
+
 [taxonomies]
-tags = ['general','ie7','usamajility']
+tags = [ "ie7", "usamajility", "internet explorer", "tech frustration", "user experience",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2007/03/2007-03-11-ie7-an-impartial-review-comments.csv"
+
 +++
 
 My wife is a computer pragmatist. She’s tech-literate, and thinks [that Linux and Firefox can fuck off](http://philwilson.org/blog/2004/07/mozilla-can-fuck-off.html) because they’ll stop her from using the applications and websites she wants to.

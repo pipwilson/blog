@@ -2,11 +2,14 @@
 title = "From the UK, Amazon Unbox is shiny, exciting and cheap"
 date = "2006-09-11 12:30:00"
 slug = "from-the-uk-amazon-unbox-is-shiny-exciting-and-cheap"
+
 [taxonomies]
-tags = ['general']
+tags = [ "drm", "netflix", "bbc",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2006/09/2006-09-11-from-the-uk-amazon-unbox-is-shiny-exciting-and-cheap-comments.csv"
+
 +++
 
 ![A DVD](http://philwilson.org/images/cd.jpg)

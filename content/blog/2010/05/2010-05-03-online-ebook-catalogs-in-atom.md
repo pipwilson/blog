@@ -2,11 +2,14 @@
 title = "Online ebook catalogs in Atom"
 date = "2010-05-03 23:10:24"
 slug = "online-ebook-catalogs-in-atom"
+
 [taxonomies]
-tags = ['android','atom','epub','general','stanza','syndication']
+tags = [ "android", "atom", "epub", "stanza", "syndication",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2010/05/2010-05-03-online-ebook-catalogs-in-atom-comments.csv"
+
 +++
 
 As I recently wrote, I have [a new-found interest in ebooks](http://philwilson.org/blog/2010/03/reading-ebooks) (I also bought four new textbooks [from O’Reilly](http://oreilly.com/ebooks/) using a BOGOF offer to pick up 97 Things Every Programmer Should Know, 97 Things Every Project Manager Should Know, Beautiful Code and The Art of Agile Development).

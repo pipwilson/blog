@@ -2,11 +2,14 @@
 title = "Why contracting developers are a giant pain in the ass"
 date = "2015-09-04 12:15:26"
 slug = "why-contracting-developers-are-a-giant-pain-in-the-ass"
+
 [taxonomies]
-tags = ['general']
+tags = [ "legacy", "developers", "technology",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2015/09/2015-09-04-why-contracting-developers-are-a-giant-pain-in-the-ass-comments.csv"
+
 +++
 
 I have just read [Why contracting developers refuse to go permanent](http://methodsdigital.co.uk/why-contracting-developers-refuse-to-go-permanent/). It says:

@@ -2,11 +2,14 @@
 title = "Week 23: Audiobooks and talkative ham"
 date = "2021-03-24 10:31:53"
 slug = "week-23-audiobooks-and-talkative-ham"
+
 [taxonomies]
-tags = ['general','weeknotes']
+tags = [ "weeknotes", "marvel", "audiobooks", "cycling",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2021/03/2021-03-24-week-23-audiobooks-and-talkative-ham-comments.csv"
+
 +++
 
 - I am still playing Lego Super Marvel Heroes 2. I’d like to save all the incarnations of Stan Lee and unlock all the characters. Since I bought the DLC Season Pass this means that there are 279 of the buggers to get, and loads of them are incredibly minor characters in the Marvel Universe, but also included are Blade and Spider-Ham. Both are a welcome break from the normal Iron-Man and Thor entries.

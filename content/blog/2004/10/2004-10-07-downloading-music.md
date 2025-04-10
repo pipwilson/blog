@@ -2,11 +2,14 @@
 title = "Downloading music"
 date = "2004-10-07 10:56:00"
 slug = "downloading-music"
+
 [taxonomies]
-tags = ['general']
+tags = [ "music downloading", "online music", "consumer rights",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/10/2004-10-07-downloading-music-comments.csv"
+
 +++
 
 So a representative of the [BPI](http://www.bpi.co.uk/ "British Phonographic Industry") on [BBC Breakfast](http://news.bbc.co.uk/1/programmes/breakfast/default.stm "with the lovely Natasha Kaplinsky ;)") this morning summed up his argument for suing people who download music with <q>\[there are so many legal online alternatives that\] there’s no excuse for downloading anymore</q>.

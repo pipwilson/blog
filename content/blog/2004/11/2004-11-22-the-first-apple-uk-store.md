@@ -2,11 +2,14 @@
 title = "The First Apple UK Store"
 date = "2004-11-22 17:05:00"
 slug = "the-first-apple-uk-store"
+
 [taxonomies]
-tags = ['general']
+tags = [ "apple", "retail", "technology",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/11/2004-11-22-the-first-apple-uk-store-comments.csv"
+
 +++
 
 Apple opened their first shop in the UK [on Regent Street](http://www.apple.com/uk/retail/regentstreet/) at the weekend, and unbeknownst to me, my little brother was there.

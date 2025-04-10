@@ -2,11 +2,14 @@
 title = "Gmail Searching"
 date = "2004-11-25 17:41:00"
 slug = "gmail-searching"
+
 [taxonomies]
-tags = ['general']
+tags = [ "gmail", "lookout", "search",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/11/2004-11-25-gmail-searching-comments.csv"
+
 +++
 
 I hadn’t realised until just this minute that Gmail allows a query syntax similar to that of [Lookout](http://www.lookoutsoft.com/Lookout/ "The best plugin for Outloook...ever!"). Lookout’s search query syntax is so intuitive that I typed it into my Gmail search box without even realising, but when it returned the mails I actually wanted I was amazed! It’s all probably in the documentation somewhere, but I really hadn’t noticed.

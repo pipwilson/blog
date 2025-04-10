@@ -2,11 +2,14 @@
 title = "Android apps I have paid for"
 date = "2010-07-03 21:43:13"
 slug = "android-apps-i-have-paid-for"
+
 [taxonomies]
-tags = ['android','general','mobile']
+tags = [ "android", "mobile", "dropbox", "podcatcher", "apps",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2010/07/2010-07-03-android-apps-i-have-paid-for-comments.csv"
+
 +++
 
 Droidbox pro (a [dropbox](https://www.dropbox.com/home) client that came out months before the official one, and still seems better)

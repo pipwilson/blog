@@ -1,14 +1,14 @@
 +++
-title = 'Finding out how to write'
-slug = 'finding-out-how-to-write'
-date = '2024-04-16 22:00:00'
+title = "Finding out how to write"
+slug = "finding-out-how-to-write"
+date = "2024-04-16 22:00:00"
 draft = false
-taxonomies.tags = [
-	'blogging',
-	'cms',
-	'zola',
-]
+
+[taxonomies]
+tags = [ "blogging", "cms", "zola",]
+
 +++
+
 Posting to a statically-generated site is theoretically easy - it's just a file on your desktop after all.
 
 ![](/images/2024/04/pens.jpg)

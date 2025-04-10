@@ -1,10 +1,13 @@
 ---
-title: Books of December 2024
 date: 2025-01-08 15:29:42
 slug: books-of-december-2024
 taxonomies:
   tags:
-    - books
+  - books
+  - literature
+  - character development
+  - editing
+title: Books of December 2024
 ---
 
 Two recommendations from people at work this month!

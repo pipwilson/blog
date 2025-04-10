@@ -2,11 +2,14 @@
 title = "LiveJournal Jabber support"
 date = "2006-07-12 11:54:00"
 slug = "livejournal-jabber-support"
+
 [taxonomies]
-tags = ['general']
+tags = [ "xmpp", "jabber", "livejournal",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/07/2006-07-12-livejournal-jabber-support-comments.csv"
+
 +++
 
 [LiveJournal have announced that they are now running an XMPP server, with users’ rosters auto-populated with their LJ friends.](http://community.livejournal.com/lj_dev/716451.html)

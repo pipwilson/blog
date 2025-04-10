@@ -1,12 +1,12 @@
 ---
-title: small fun things
 date: 2024-11-09 16:07:48
 slug: small-fun-things
 taxonomies:
   tags:
-    - games
-    - toys
-    - 404
+  - games
+  - toys
+  - 404
+title: small fun things
 ---
 
 I liked these, you might too:

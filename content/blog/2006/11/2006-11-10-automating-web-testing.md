@@ -2,11 +2,14 @@
 title = "Automating web testing"
 date = "2006-11-10 15:36:00"
 slug = "automating-web-testing"
+
 [taxonomies]
-tags = ['general']
+tags = [ "testing", "selenium", "automation",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/11/2006-11-10-automating-web-testing-comments.csv"
+
 +++
 
 We’re just starting to ramp up the amount of testing we do on our web apps at work, mostly via the use of [JUnit](http://junit.org/) and some [code coverage tools](http://cobertura.sourceforge.net/) which are automated via [CruiseControl](http://cruisecontrol.sourceforge.net/).

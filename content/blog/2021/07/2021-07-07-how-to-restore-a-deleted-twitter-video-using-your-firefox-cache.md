@@ -2,11 +2,14 @@
 title = "How to restore a deleted Twitter video using your Firefox cache"
 date = "2021-07-07 14:35:32"
 slug = "how-to-restore-a-deleted-twitter-video-using-your-firefox-cache"
+
 [taxonomies]
-tags = ['firefox','general','twitter']
+tags = [ "firefox", "twitter", "video recovery", "cache management", "browser tools",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2021/07/2021-07-07-how-to-restore-a-deleted-twitter-video-using-your-firefox-cache-comments.csv"
+
 +++
 
 Caveats: You must have used your computer to view the Twitter video, not a phone or tablet! I used the process below on Windows, but similar approaches will apply on Mac and Linux and to Google Chrome.

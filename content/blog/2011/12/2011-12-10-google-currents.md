@@ -2,11 +2,14 @@
 title = "Google Currents"
 date = "2011-12-10 16:37:09"
 slug = "google-currents"
+
 [taxonomies]
-tags = ['android','general','google','mobile']
+tags = [ "android", "google", "mobile",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2011/12/2011-12-10-google-currents-comments.csv"
+
 +++
 
 At first blush I didn’t know what to make of [Google’s new iOS and Android app, Currents](http://www.google.com/producer/currents), other than it is an almost infinitely better way to consume The Guardian than their own Android app.

@@ -2,11 +2,14 @@
 title = "Microformats in practice"
 date = "2005-10-28 19:38:00"
 slug = "microformats-in-practice"
+
 [taxonomies]
-tags = ['general']
+tags = [ "microformats", "theory", "practice",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/10/2005-10-28-microformats-in-practice-comments.csv"
+
 +++
 
 In [Re: Educating Others](http://microformats.org/discuss/mail/microformats-discuss/2005-October/001171.html), [Ryan King](http://theryanking.com/blog/) says:

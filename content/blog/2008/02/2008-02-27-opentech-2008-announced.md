@@ -2,11 +2,14 @@
 title = "OpenTech 2008 announced"
 date = "2008-02-27 11:14:40"
 slug = "opentech-2008-announced"
+
 [taxonomies]
-tags = ['general','opentech']
+tags = [ "opentech", "technology", "conference", "london",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/02/2008-02-27-opentech-2008-announced-comments.csv"
+
 +++
 
 [OpenTech 2008 has been announced!](http://www.ukuug.org/events/opentech2008/)

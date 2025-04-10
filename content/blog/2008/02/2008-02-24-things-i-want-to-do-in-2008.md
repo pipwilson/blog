@@ -2,11 +2,14 @@
 title = "Things I want to do in 2008"
 date = "2008-02-24 20:30:58"
 slug = "things-i-want-to-do-in-2008"
+
 [taxonomies]
-tags = ['general','todo']
+tags = [ "todo", "open source", "privacy", "activism",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/02/2008-02-24-things-i-want-to-do-in-2008-comments.csv"
+
 +++
 
 - write a new open source application, however small

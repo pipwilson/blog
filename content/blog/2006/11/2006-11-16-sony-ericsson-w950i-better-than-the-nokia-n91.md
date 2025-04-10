@@ -2,11 +2,14 @@
 title = "Sony Ericsson W950i - better than the Nokia N91?"
 date = "2006-11-16 17:16:00"
 slug = "sony-ericsson-w950i-better-than-the-nokia-n91"
+
 [taxonomies]
-tags = ['general']
+tags = [ "symbian", "nokia", "sony ericsson",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/11/2006-11-16-sony-ericsson-w950i-better-than-the-nokia-n91-comments.csv"
+
 +++
 
 I like Symbian, and I can write code for it. This has mostly limited me to the Nokia brand of phones so far.

@@ -2,11 +2,14 @@
 title = "The youth of today"
 date = "2010-09-15 22:18:18"
 slug = "the-youth-of-today"
+
 [taxonomies]
-tags = ['general']
+tags = [ "technology", "youth", "innovation",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2010/09/2010-09-15-the-youth-of-today-comments.csv"
+
 +++
 
 .. are really impressive.

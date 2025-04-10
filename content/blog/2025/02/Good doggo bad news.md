@@ -1,14 +1,14 @@
 ---
-title: Good doggo > bad news
 date: 2025-02-09 20:13:17
 slug: good-doggo-bad-news
 taxonomies:
   tags:
-    - bbc
-    - chrome
-    - firefox
-    - extensions
-    - dogs
+  - bbc
+  - chrome
+  - firefox
+  - extensions
+  - dogs
+title: Good doggo > bad news
 ---
 
 OK fine, I cracked.

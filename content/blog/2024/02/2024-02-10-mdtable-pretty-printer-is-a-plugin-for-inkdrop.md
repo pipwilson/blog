@@ -2,11 +2,14 @@
 title = "mdtable-pretty-printer is a plugin for Inkdrop"
 date = "2024-02-10 19:22:51"
 slug = "mdtable-pretty-printer-is-a-plugin-for-inkdrop"
+
 [taxonomies]
-tags = ['general','inkdrop','javascript']
+tags = [ "inkdrop", "javascript", "markdown", "plugins", "tables",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2024/02/2024-02-10-mdtable-pretty-printer-is-a-plugin-for-inkdrop-comments.csv"
+
 +++
 
 [mdtable-pretty-printer](https://my.inkdrop.app/plugins/mdtable-pretty-printer) is a plugin for [Inkdrop](https://www.inkdrop.app/) which tidies markdown tables in your notes.

@@ -2,11 +2,14 @@
 title = "Borland stops its IDE business"
 date = "2006-02-11 22:25:00"
 slug = "borland-stops-its-ide-business"
+
 [taxonomies]
-tags = ['general']
+tags = [ "delphi", "ide", "borland",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/02/2006-02-11-borland-stops-its-ide-business-comments.csv"
+
 +++
 
 [Borland plans separate company for Delphi, JBuilder, C++Builder, InterBase, JDataStore and other developer products…](http://blogs.borland.com/davidi/archive/2006/02/08/23013.aspx)

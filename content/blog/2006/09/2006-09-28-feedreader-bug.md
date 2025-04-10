@@ -2,11 +2,14 @@
 title = "Feedreader bug"
 date = "2006-09-28 10:03:00"
 slug = "feedreader-bug"
+
 [taxonomies]
-tags = ['general']
+tags = [ "blogging", "photography", "web development",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2006/09/2006-09-28-feedreader-bug-comments.csv"
+
 +++
 
 [![Feedreader bug](http://static.flickr.com/88/254761071_25c8b87c2a_m.jpg)](http://www.flickr.com/photos/pip/254761071/)

@@ -2,11 +2,14 @@
 title = "Logging database content changes in a Play Framework app"
 date = "2012-06-20 22:40:48"
 slug = "logging-database-content-changes-in-a-play-framework-app"
+
 [taxonomies]
-tags = ['database','general','hibernate','java','play']
+tags = [ "database", "hibernate", "java", "play",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2012/06/2012-06-20-logging-database-content-changes-in-a-play-framework-app-comments.csv"
+
 +++
 
 To do this we use [Hibernate Envers](http://docs.jboss.org/envers/docs/index.html).

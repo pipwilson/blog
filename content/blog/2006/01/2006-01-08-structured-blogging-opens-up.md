@@ -2,11 +2,14 @@
 title = "Structured Blogging opens up"
 date = "2006-01-08 21:18:00"
 slug = "structured-blogging-opens-up"
+
 [taxonomies]
-tags = ['general']
+tags = [ "microformats", "blogging", "plugins",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/01/2006-01-08-structured-blogging-opens-up-comments.csv"
+
 +++
 
 OK so this is old news because I’ve not been the blogging mood, but I think it’s important enough to cover anyway.

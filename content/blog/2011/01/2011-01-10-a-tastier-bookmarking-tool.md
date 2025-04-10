@@ -2,11 +2,14 @@
 title = "A tastier bookmarking tool"
 date = "2011-01-10 00:29:52"
 slug = "a-tastier-bookmarking-tool"
+
 [taxonomies]
-tags = ['bookmarking','del.icio.us','general','php','raster','scuttle']
+tags = [ "bookmarking", "del.icio.us", "php", "raster", "scuttle",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2011/01/2011-01-10-a-tastier-bookmarking-tool-comments.csv"
+
 +++
 
 The practical stuff first.

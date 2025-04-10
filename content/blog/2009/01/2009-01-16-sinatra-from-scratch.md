@@ -2,11 +2,14 @@
 title = "Sinatra from scratch"
 date = "2009-01-16 23:00:19"
 slug = "sinatra-from-scratch"
+
 [taxonomies]
-tags = ['mongrel','rack','ruby','ruby','sinatra']
+tags = [ "mongrel", "rack", "ruby", "ruby", "sinatra",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2009/01/2009-01-16-sinatra-from-scratch-comments.csv"
+
 +++
 
 I wrote a small Ruby app the other day which was chucking out JSON which was being parsed by some PHP.

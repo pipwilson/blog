@@ -2,11 +2,14 @@
 title = "Game Completeness (or not)"
 date = "2005-04-25 18:48:00"
 slug = "game-completeness-or-not"
+
 [taxonomies]
-tags = ['general']
+tags = [ "gaming", "zelda", "gamecube",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/04/2005-04-25-game-completeness-or-not-comments.csv"
+
 +++
 
 I’ve been slacking quite heavily on my computer games this past few weeks (read: year) which has left me with a load of games which I would have liked to complete, but haven’t:

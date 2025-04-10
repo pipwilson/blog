@@ -2,11 +2,14 @@
 title = "More microformats - show me the mon^H^H^H real-world usage!"
 date = "2005-10-29 12:56:00"
 slug = "more-microformats-show-me-the-monhhh-real-world-usage"
+
 [taxonomies]
-tags = ['general']
+tags = [ "microformats", "hcalendar", "hreview",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/10/2005-10-29-more-microformats-show-me-the-monhhh-real-world-usage-comments.csv"
+
 +++
 
 This was just going to be a comment replying to [Ryan King’s comment](http://philwilson.org/blog/2005/10/microformats-in-practice.html#113057325433946245) on my blog, but it got a bit long, so here it is as a full post:

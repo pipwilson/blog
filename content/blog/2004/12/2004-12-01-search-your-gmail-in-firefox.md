@@ -2,11 +2,14 @@
 title = "Search your gmail in Firefox"
 date = "2004-12-01 21:19:00"
 slug = "search-your-gmail-in-firefox"
+
 [taxonomies]
-tags = ['general']
+tags = [ "javascript", "firefox", "search toolbar",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/12/2004-12-01-search-your-gmail-in-firefox-comments.csv"
+
 +++
 
 <script type="text/javascript">

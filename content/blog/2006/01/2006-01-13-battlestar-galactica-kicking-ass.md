@@ -2,11 +2,14 @@
 title = "Battlestar Galactica kicking ass"
 date = "2006-01-13 01:06:00"
 slug = "battlestar-galactica-kicking-ass"
+
 [taxonomies]
-tags = ['general']
+tags = [ "television", "sci-fi", "podcast",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/01/2006-01-13-battlestar-galactica-kicking-ass-comments.csv"
+
 +++
 
 The new television series of [Battlestar Galatica](http://www.scifi.com/battlestar/) has started; or rather, the concluding episode of the last series has been aired, and the new series is about to start. If you haven’t been watching it, and you like sci-fi, then shame on you, because it’s brilliant.

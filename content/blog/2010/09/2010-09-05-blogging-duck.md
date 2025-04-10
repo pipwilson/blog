@@ -2,11 +2,14 @@
 title = "Blogging duck"
 date = "2010-09-05 15:00:37"
 slug = "blogging-duck"
+
 [taxonomies]
-tags = ['general']
+tags = [ "photography", "technology", "reading",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2010/09/2010-09-05-blogging-duck-comments.csv"
+
 +++
 
 Any writing is better than no writing, so here are some things I’ve been thinking about and doing lately:

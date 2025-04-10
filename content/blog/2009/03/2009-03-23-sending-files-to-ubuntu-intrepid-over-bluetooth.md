@@ -2,11 +2,14 @@
 title = "Sending files to Ubuntu Intrepid over bluetooth"
 date = "2009-03-23 22:54:40"
 slug = "sending-files-to-ubuntu-intrepid-over-bluetooth"
+
 [taxonomies]
-tags = ['bluetooth','general','linux','mobile']
+tags = [ "bluetooth", "linux", "mobile",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2009/03/2009-03-23-sending-files-to-ubuntu-intrepid-over-bluetooth-comments.csv"
+
 +++
 
 Out of the box you cannot send files over bluetooth to a computer running the latest stable version of [Ubuntu](http://www.ubuntu.com/), Intrepid Ibex, 8.10.

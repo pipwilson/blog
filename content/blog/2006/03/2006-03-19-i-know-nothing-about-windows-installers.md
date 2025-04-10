@@ -2,11 +2,14 @@
 title = "I know nothing about Windows installers"
 date = "2006-03-19 21:38:00"
 slug = "i-know-nothing-about-windows-installers"
+
 [taxonomies]
-tags = ['general']
+tags = [ "windows", "installers", "contact form",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/03/2006-03-19-i-know-nothing-about-windows-installers-comments.csv"
+
 +++
 
 I don’t know anything about configuring or using Windows installers. Seriously.

@@ -2,11 +2,14 @@
 title = "Pentaho problems"
 date = "2018-06-07 13:49:39"
 slug = "pentaho-problems"
+
 [taxonomies]
-tags = ['general','usamajility','whining']
+tags = [ "usamajility", "whining", "pentaho", "data integration", "annoyances",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2018/06/2018-06-07-pentaho-problems-comments.csv"
+
 +++
 
 I am finding myself using a lot of [Pentaho Data Integration](https://help.pentaho.com/Documentation/8.0/Products/Data_Integration/Data_Integration_Perspective/010) at the moment.

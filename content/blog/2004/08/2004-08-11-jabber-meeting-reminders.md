@@ -2,11 +2,14 @@
 title = "Jabber meeting reminders"
 date = "2004-08-11 11:44:00"
 slug = "jabber-meeting-reminders"
+
 [taxonomies]
-tags = ['general']
+tags = [ "outlook", "jabber", "reminders",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/08/2004-08-11-jabber-meeting-reminders-comments.csv"
+
 +++
 
 I need a bot, transport whatever, which can query either my exchange server or my running copy of Outlook (via a small desktop app) and then send my meeting notifications via Jabber.

@@ -2,11 +2,14 @@
 title = "Kinja gets it right"
 date = "2004-12-26 04:10:00"
 slug = "kinja-gets-it-right"
+
 [taxonomies]
-tags = ['general']
+tags = [ "kinja", "aggregator", "rss",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/12/2004-12-26-kinja-gets-it-right-comments.csv"
+
 +++
 
 [Kinja](http://www.kinja.com) is the web aggregator everyone forgot.

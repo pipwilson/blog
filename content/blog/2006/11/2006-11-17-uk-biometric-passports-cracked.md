@@ -2,11 +2,14 @@
 title = "UK Biometric Passports cracked"
 date = "2006-11-17 00:48:00"
 slug = "uk-biometric-passports-cracked"
+
 [taxonomies]
-tags = ['general']
+tags = [ "biometric", "rfid", "security",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/11/2006-11-17-uk-biometric-passports-cracked-comments.csv"
+
 +++
 
 I hope that you’re not putting a lot of faith in the new biometric passports (my wife just got one) because a[ny half-capable programmer with an RFID reader can obtain the details stored in them](http://www.guardian.co.uk/idcards/story/0,,1950226,00.html).

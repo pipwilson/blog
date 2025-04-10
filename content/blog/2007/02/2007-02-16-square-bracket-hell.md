@@ -2,11 +2,14 @@
 title = "Square-bracket hell"
 date = "2007-02-16 13:52:00"
 slug = "square-bracket-hell"
+
 [taxonomies]
-tags = ['usability','wiki','wiki']
+tags = [ "usability", "wiki", "wiki",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2007/02/2007-02-16-square-bracket-hell-comments.csv"
+
 +++
 
 There is little wiki syntax interoperability. In fact, it’s [so bad](http://www.google.co.uk/search?q=wiki%20conversion) that there are [dedicated](http://confluence.atlassian.com/display/CONFEXT/Universal+Wiki+Converter) [libraries](http://moinmoin.wikiwikiweb.de/JspWikiConverter) for converting between almost every wiki system, the best probably being a Perl library called [HTML::WikiConverter](http://search.cpan.org/~diberri/HTML-WikiConverter-0.61/lib/HTML/WikiConverter.pm) which also has [an online demo](http://diberri.dyndns.org/wikipedia/html2wiki/) and can covert HTML to sixteen different syntaxes. Sixteen!

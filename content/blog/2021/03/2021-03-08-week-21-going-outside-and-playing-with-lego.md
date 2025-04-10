@@ -2,11 +2,14 @@
 title = "Week 21: Going outside (and playing with Lego)"
 date = "2021-03-08 20:35:00"
 slug = "week-21-going-outside-and-playing-with-lego"
+
 [taxonomies]
-tags = ['general','weeknotes']
+tags = [ "weeknotes", "cycling", "gaming", "schooling",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2021/03/2021-03-08-week-21-going-outside-and-playing-with-lego-comments.csv"
+
 +++
 
 - Because it’s so much warmer, and the evenings are so much longer, I managed to get out of the house more than once during the week instead of just walking between a single-digit number of rooms. Novel! I even got out on my bike, which was a massive relief – more of this to come I hope.

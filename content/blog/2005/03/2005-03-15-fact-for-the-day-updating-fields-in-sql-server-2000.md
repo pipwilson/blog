@@ -2,11 +2,14 @@
 title = "Fact for the day: Updating fields in SQL Server 2000"
 date = "2005-03-15 13:08:00"
 slug = "fact-for-the-day-updating-fields-in-sql-server-2000"
+
 [taxonomies]
-tags = ['general']
+tags = [ "sql", "enterprise manager", "data risk",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/03/2005-03-15-fact-for-the-day-updating-fields-in-sql-server-2000-comments.csv"
+
 +++
 
 You can’t use an `ALTER` statement in SQL Server 2000 to convert a `text` field to a `ntext` field, but you *can* use Enterprise Manager to do the same thing.

@@ -2,11 +2,14 @@
 title = "Private feeds"
 date = "2005-08-10 19:17:00"
 slug = "private-feeds"
+
 [taxonomies]
-tags = ['general']
+tags = [ "rss", "privacy", "authentication",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/08/2005-08-10-private-feeds-comments.csv"
+
 +++
 
 Twelve months ago, [Stewart Butterfield](http://www.sylloge.com/) posted in the Flickr forums saying:

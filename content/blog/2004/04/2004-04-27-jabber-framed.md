@@ -2,11 +2,14 @@
 title = "Jabber: framed"
 date = "2004-04-27 16:59:00"
 slug = "jabber-framed"
+
 [taxonomies]
-tags = ['general']
+tags = [ "jabber", "java", "gateway",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/04/2004-04-27-jabber-framed-comments.csv"
+
 +++
 
 From the Jabber Development mailing list comes news of [a new Java-based gateway framework](http://jabbergw.sourceforge.net/)

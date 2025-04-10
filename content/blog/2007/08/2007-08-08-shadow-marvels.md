@@ -2,11 +2,14 @@
 title = "Shadow marvels"
 date = "2007-08-08 22:38:00"
 slug = "shadow-marvels"
+
 [taxonomies]
-tags = ['general','presence']
+tags = [ "presence", "jabber", "edinburgh", "wikis",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2007/08/2007-08-08-shadow-marvels-comments.csv"
+
 +++
 
 I have a number of blog posts I want to make. About Jabber, about Edinburgh, about wikis, about [Venus](http://www.intertwingly.net/code/venus/).

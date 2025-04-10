@@ -2,11 +2,14 @@
 title = "Word 2007 as your CMS editor"
 date = "2006-05-17 18:54:00"
 slug = "word-2007-as-your-cms-editor"
+
 [taxonomies]
-tags = ['general']
+tags = [ "blogging", "xhtml", "atom api",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2006/05/2006-05-17-word-2007-as-your-cms-editor-comments.csv"
+
 +++
 
 [Word 2007 will support ‘blogging’.](http://blogs.msdn.com/joe_friend/archive/2006/05/12/595963.aspx)

@@ -2,11 +2,14 @@
 title = "Punished for being a good boy"
 date = "2012-02-22 00:13:00"
 slug = "punished-for-being-a-good-boy"
+
 [taxonomies]
-tags = ['drm','dvd','general','theboy']
+tags = [ "drm", "dvd", "theboy",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2012/02/2012-02-22-punished-for-being-a-good-boy-comments.csv"
+
 +++
 
 My son is 2.5 years old. Two of his favourite TV programmes are [Timmy Time](http://en.wikipedia.org/wiki/Timmy_Time) and [Octonauts](http://en.wikipedia.org/wiki/The_Octonauts) . There are 78 episodes of Timmy Time and 52 episodes of Octonauts.

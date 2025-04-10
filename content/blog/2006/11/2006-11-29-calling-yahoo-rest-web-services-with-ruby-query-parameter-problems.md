@@ -2,11 +2,14 @@
 title = "Calling Yahoo REST web services with Ruby query parameter problems"
 date = "2006-11-29 14:07:00"
 slug = "calling-yahoo-rest-web-services-with-ruby-query-parameter-problems"
+
 [taxonomies]
-tags = ['general']
+tags = [ "ruby", "http", "proxy",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2006/11/2006-11-29-calling-yahoo-rest-web-services-with-ruby-query-parameter-problems-comments.csv"
+
 +++
 
 <ins datetime="2006-11-29T15:21:21Z"></ins>

@@ -2,11 +2,14 @@
 title = "Photo-frame dashbaord"
 date = "2009-08-07 11:23:21"
 slug = "photo-frame-dashbaord"
+
 [taxonomies]
-tags = ['general']
+tags = [ "technology", "automation", "productivity",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2009/08/2009-08-07-photo-frame-dashbaord-comments.csv"
+
 +++
 
 In [a comment on peterme.com over a year ago](http://www.peterme.com/?p=678&cpage=1#comment-137749), I said

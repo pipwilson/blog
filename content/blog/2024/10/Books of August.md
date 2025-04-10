@@ -1,11 +1,13 @@
 ---
-title: Books of August
 date: 2024-10-13 13:23:23
 slug: books-of-august
 taxonomies:
   tags:
-    - general
-    - books
+  - books
+  - literature
+  - politics
+  - mystery
+title: Books of August
 ---
 
 I started but did not finish a friend's copy of Thomas Paine's [Rights of Man](https://uk.bookshop.org/p/books/rights-of-man-common-sense-and-other-political-writings-thomas-paine/4351991?ean=9780199538003) (1791) which frankly made me far too angry.

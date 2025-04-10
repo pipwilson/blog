@@ -2,11 +2,14 @@
 title = "bloggggggggeeeeeeeeeeerrrrrrrrrrrrrrrrrr!!!!!!!!!!!!!!!!!1111"
 date = "2004-05-10 07:56:00"
 slug = "bloggggggggeeeeeeeeeeerrrrrrrrrrrrrrrrrr1111"
+
 [taxonomies]
-tags = ['general']
+tags = [ "blogger", "templates", "profiles",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/05/2004-05-10-bloggggggggeeeeeeeeeeerrrrrrrrrrrrrrrrrr1111-comments.csv"
+
 +++
 
 [Blogger](http://www.blogger.com) has [a new look](http://www.blogger.com/knowledge/2004/05/great-blogger-relaunch.pyra "The Great Blogger Relaunch").

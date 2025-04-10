@@ -2,11 +2,14 @@
 title = "Don't use Neutrino, use FOAF"
 date = "2005-05-18 16:53:00"
 slug = "dont-use-neutrino-use-foaf"
+
 [taxonomies]
-tags = ['general', 'foaf']
+tags = [ "foaf", "xml", "opml", "syndication",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/05/2005-05-18-dont-use-neutrino-use-foaf-comments.csv"
+
 +++
 
 OK, so in [my last post](http://philwilson.org/blog/2005/05/argh-more-dumb-meta-proliferation.html) I rather eloquently described my distaste for [the neutrino.xml format](http://neutrinoxml.com/wiki/index.php?title=Main_Page).

@@ -2,11 +2,14 @@
 title = "Technorati's Attention.xml"
 date = "2004-12-26 01:11:00"
 slug = "technoratis-attentionxml"
+
 [taxonomies]
-tags = ['general']
+tags = [ "xml", "minimalist", "implementation",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/12/2004-12-26-technoratis-attention-xml-comments.csv"
+
 +++
 
 I’m sure they mean well. [But really.](http://developers.technorati.com/wiki/attentionxml)

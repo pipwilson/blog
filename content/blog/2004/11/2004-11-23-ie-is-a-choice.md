@@ -2,11 +2,14 @@
 title = "IE is a choice?"
 date = "2004-11-23 21:39:00"
 slug = "ie-is-a-choice"
+
 [taxonomies]
-tags = ['general']
+tags = [ "microsoft", "browsers", "choice",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/11/2004-11-23-ie-is-a-choice-comments.csv"
+
 +++
 
 Gary Schare, Microsoft’s director of product management for Windows says:

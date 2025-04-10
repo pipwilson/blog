@@ -2,11 +2,14 @@
 title = "Make your links visible and obvious"
 date = "2005-12-16 12:42:00"
 slug = "make-your-links-visible-and-obvious"
+
 [taxonomies]
-tags = ['general']
+tags = [ "web design", "usability", "links",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/12/2005-12-16-make-your-links-visible-and-obvious-comments.csv"
+
 +++
 
 [![](http://philwilson.org/images/xfn.png)](http://tantek.com/log/2005/12.html#d15t2245)  

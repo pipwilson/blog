@@ -2,11 +2,14 @@
 title = "New Mozilla RDF module owner"
 date = "2004-04-26 09:41:00"
 slug = "new-mozilla-rdf-module-owner"
+
 [taxonomies]
-tags = ['general']
+tags = [ "mozilla", "rdf", "scriptability",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/04/2004-04-26-new-mozilla-rdf-module-owner-comments.csv"
+
 +++
 
 Hot damn! Mozilla RDF has a new module owner who has this to say:

@@ -2,11 +2,14 @@
 title = "NewsGator + Venus?"
 date = "2009-03-09 00:50:02"
 slug = "newsgator-venus"
+
 [taxonomies]
-tags = ['feeddemon','general','newsgator','planet','python','syndication','ubuntu','wxvenus','wxwidgets']
+tags = [ "feeddemon", "newsgator", "planet", "python", "syndication", "ubuntu", "wxvenus", "wxwidgets",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2009/03/2009-03-09-newsgator-venus-comments.csv"
+
 +++
 
 I recently broke the graphics drivers on my Windows Vista installation, so re-partitioned and now run Ubuntu full-time at home.

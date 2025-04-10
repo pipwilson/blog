@@ -2,11 +2,14 @@
 title = "Dear Parliament, you will lose"
 date = "2008-06-01 23:49:31"
 slug = "dear-parliament-you-will-lose"
+
 [taxonomies]
-tags = ['general','gov']
+tags = [ "gov", "licensing", "parliament", "expenses",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/06/2008-06-01-dear-parliament-you-will-lose-comments.csv"
+
 +++
 
 > television proceedings and subsequent use on Members’ websites are undertaken subject to a licence issued by the Speaker. The licence stipulates that material must not be hosted on a searchable website and must not be downloadable. The reason for that is to ensure that it is not re-edited or reused inappropriately for campaigning or satirical purposes.

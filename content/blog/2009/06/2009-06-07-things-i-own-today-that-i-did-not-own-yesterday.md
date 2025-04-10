@@ -2,11 +2,14 @@
 title = "Things I own today that I did not own yesterday"
 date = "2009-06-07 19:17:04"
 slug = "things-i-own-today-that-i-did-not-own-yesterday"
+
 [taxonomies]
-tags = ['garden','general','house']
+tags = [ "garden", "house", "tools", "plants", "cooking",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2009/06/2009-06-07-things-i-own-today-that-i-did-not-own-yesterday-comments.csv"
+
 +++
 
 - 38cm Black and Decker rotary lawnmower

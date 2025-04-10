@@ -1,10 +1,13 @@
 ---
-title: Books of July 2024
 date: 2024-09-24 14:39:56
 slug: books-of-july-2024
 taxonomies:
   tags:
-    - books
+  - books
+  - literature
+  - essays
+  - children
+title: Books of July 2024
 ---
 
 The Locked Room, by Paul Auster is the final book in [The New York Trilogy](https://uk.bookshop.org/p/books/the-new-york-trilogy-paul-auster/2492454) and demonstrates that the trilogy really is a single book divided into three large sections. I thought this was substantially better than the other two, being able to build on the foundations they laid, and I had to take a two-week break from reading it thanks to the existential angst it was causing me, which was half the point of the novel, and so well done!

@@ -2,11 +2,14 @@
 title = "God of War Ragnarok is underwhelming"
 date = "2023-01-15 17:39:54"
 slug = "god-of-war-ragnarok-is-underwhelming"
+
 [taxonomies]
-tags = ['general']
+tags = [ "gaming", "sequels", "ragnarok",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2023/01/2023-01-15-god-of-war-ragnarok-is-underwhelming-comments.csv"
+
 +++
 
 God of War Ragnarok has been underwhelming so far

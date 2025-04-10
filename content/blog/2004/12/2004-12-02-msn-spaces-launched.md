@@ -2,11 +2,14 @@
 title = "MSN Spaces launched"
 date = "2004-12-02 16:33:00"
 slug = "msn-spaces-launched"
+
 [taxonomies]
-tags = ['general']
+tags = [ "microsoft", "spaces", "review",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/12/2004-12-02-msn-spaces-launched-comments.csv"
+
 +++
 
 Microsoft launched [Spaces](http://spaces.msn.com/) today.

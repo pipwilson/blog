@@ -1,11 +1,14 @@
 ---
-title: AI boosters in lack of ethics shocker
 date: 2024-06-15 19:06:10
 slug: ai-boosters-in-lack-of-ethics-shocker
 taxonomies:
   tags:
-    - ai
-    - ethics
+  - ai
+  - ethics
+  - user-agent
+  - misleading
+  - legal action
+title: AI boosters in lack of ethics shocker
 ---
 
 [Perplexity AI Is Lying about Their User Agent](https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/)

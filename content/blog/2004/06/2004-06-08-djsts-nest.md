@@ -2,11 +2,14 @@
 title = "djst's nest"
 date = "2004-06-08 10:56:00"
 slug = "djsts-nest"
+
 [taxonomies]
-tags = ['general']
+tags = [ "firefox", "themes", "winstripe",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/06/2004-06-08-djsts-nest-comments.csv"
+
 +++
 
 <q cite="http://weblogs.mozillazine.org/djst/archives/005650.html">[According to Stephen Horlander](http://forums.mozillazine.org/viewtopic.php?p=565298#565298), the new default theme for Firefox is ‘a 0.1 release at best’</q> (via [djst’s nest](http://weblogs.mozillazine.org/djst/archives/005650.html))

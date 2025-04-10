@@ -2,11 +2,14 @@
 title = "A visit to Linux"
 date = "2005-10-18 22:48:00"
 slug = "a-visit-to-linux"
+
 [taxonomies]
-tags = ['general']
+tags = [ "linux", "suse", "firefox",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/10/2005-10-18-a-visit-to-linux-comments.csv"
+
 +++
 
 ![Tux, the Linux penguin](http://philwilson.org/images/linux_penguin.jpg "Tux, the Linux penguin")

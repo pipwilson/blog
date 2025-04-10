@@ -2,11 +2,14 @@
 title = "Trains forever"
 date = "2006-11-13 23:47:00"
 slug = "trains-forever"
+
 [taxonomies]
-tags = ['general']
+tags = [ "trains", "platforms", "productivity",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/11/2006-11-13-trains-forever-comments.csv"
+
 +++
 
 I’m sure that if I added up all the time I spent waiting on train platforms, I’d have plenty of time to get all my work done. I know, that’s it! The reason my project is behind is because it’s the trains’ fault for being late. Honest!

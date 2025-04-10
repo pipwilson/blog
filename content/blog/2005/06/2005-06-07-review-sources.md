@@ -2,11 +2,14 @@
 title = "Review sources"
 date = "2005-06-07 12:41:00"
 slug = "review-sources"
+
 [taxonomies]
-tags = ['general']
+tags = [ "reviews", "arts", "artists",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/06/2005-06-07-review-sources-comments.csv"
+
 +++
 
 Sites where extracting review information and generating feeds would be easy:

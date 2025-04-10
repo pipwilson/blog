@@ -2,11 +2,14 @@
 title = "Mark me up, Scotty"
 date = "2004-04-13 09:49:00"
 slug = "mark-me-up-scotty"
+
 [taxonomies]
-tags = ['general']
+tags = [ "markup", "textile", "xhtml",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/04/2004-04-13-mark-me-up-scotty-comments.csv"
+
 +++
 
 [Simon writes about the legion of non-HTML text markup languages](http://simon.incutio.com/archive/2004/04/13/myriadOfMarkupSystems) and introduces his own (we have enough. please stop now. Maybe writing your own markup language is the new “writing your own wiki“, which was the new “writing your own aggregator” ?)

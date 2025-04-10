@@ -2,11 +2,14 @@
 title = "Week 22: Quiet, cookies and cleaning"
 date = "2021-03-14 21:25:37"
 slug = "week-22-quiet-cookies-and-cleaning"
+
 [taxonomies]
-tags = ['general','weeknotes']
+tags = [ "weeknotes", "education", "privacy", "streaming",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2021/03/2021-03-14-week-22-quiet-cookies-and-cleaning-comments.csv"
+
 +++
 
 - The family went back to school this week and so my working days were once again quiet, which is very nice (although it does also mean I’m going to have to start buying petrol for the car again, in order to do the school run, which I haven’t had to do for months on end)

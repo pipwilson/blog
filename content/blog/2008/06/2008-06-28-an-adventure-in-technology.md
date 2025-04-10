@@ -2,11 +2,14 @@
 title = "An Adventure in Technology"
 date = "2008-06-28 18:42:12"
 slug = "an-adventure-in-technology"
+
 [taxonomies]
-tags = ['bristol','geek','general','techadventure']
+tags = [ "bristol", "geek", "techadventure",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2008/06/2008-06-28-an-adventure-in-technology-comments.csv"
+
 +++
 
 Today saw (and in fact still sees, because I left early) [An Adventure in Technology](http://www.techadventure.org/) in central Bristol – an event for gathering interesting software, hardware and people together and sharing what they know.

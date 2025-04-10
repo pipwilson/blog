@@ -2,11 +2,14 @@
 title = "Bugzilla usability"
 date = "2004-05-24 12:26:00"
 slug = "bugzilla-usability"
+
 [taxonomies]
-tags = ['general']
+tags = [ "bugzilla", "redhat", "usability",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/05/2004-05-24-bugzilla-usability-comments.csv"
+
 +++
 
 > Is it just me, or does [RedHat’s Bugzilla Install](http://bugzilla.redhat.com/) put Mozilla’s to shame?

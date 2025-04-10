@@ -2,11 +2,14 @@
 title = "Keep Posting"
 date = "2011-06-27 22:05:19"
 slug = "keep-posting"
+
 [taxonomies]
-tags = ['3ds','add','agile','blogging','focus','games','general','kindle','nintendo']
+tags = [ "3ds", "add", "agile", "blogging", "focus", "games", "kindle", "nintendo",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2011/06/2011-06-27-keep-posting-comments.csv"
+
 +++
 
 Pete has some good advice for writing a blog that lasts: [Keep Posting](http://rasterweb.net/raster/2011/06/25/the-one-key/).

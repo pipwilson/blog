@@ -2,11 +2,14 @@
 title = "Aggregators: Part One"
 date = "2004-03-09 14:04:00"
 slug = "aggregators-part-one"
+
 [taxonomies]
-tags = ['general']
+tags = [ "aggregators", "opml", "atom",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/03/2004-03-09-aggregators-part-one-comments.csv"
+
 +++
 
 And now for something, err, completely normal for bloggers: talking about aggregators.

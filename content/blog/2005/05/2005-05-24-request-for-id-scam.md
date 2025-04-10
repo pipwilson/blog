@@ -2,11 +2,14 @@
 title = "\"Request for ID\" - scam?"
 date = "2005-05-24 14:44:00"
 slug = "request-for-id-scam"
+
 [taxonomies]
-tags = ['general']
+tags = [ "recruitment", "regulations", "identity fraud",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/05/2005-05-24-request-for-id-scam-comments.csv"
+
 +++
 
 <ins datetime="2005-09-01T13:14:34Z"></ins>

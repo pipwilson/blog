@@ -2,11 +2,14 @@
 title = "Feed on Feeds and dc:subject (again)"
 date = "2005-08-15 22:21:00"
 slug = "feed-on-feeds-and-dcsubject-again"
+
 [taxonomies]
-tags = ['general']
+tags = [ "feedonfeeds", "dc:subject", "programming",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/08/2005-08-15-feed-on-feeds-and-dcsubject-again-comments.csv"
+
 +++
 
 Well, after making my last brave post, I realised that FeedOnFeeds natively supports the dc:subject element and stores it in its database already. Hurray.

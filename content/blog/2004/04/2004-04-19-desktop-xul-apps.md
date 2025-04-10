@@ -2,11 +2,14 @@
 title = "Desktop XUL apps"
 date = "2004-04-19 13:14:00"
 slug = "desktop-xul-apps"
+
 [taxonomies]
-tags = ['general']
+tags = [ "xul", "aggregation", "interfaces",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/04/2004-04-19-desktop-xul-apps-comments.csv"
+
 +++
 
 I was all set to write a post about how we should be using centralised apps with XUL frontends for aggregation to provide native interfaces regardless of location but I find that [Manuzhai beat me to it](http://www.manuzhai.nl/weblog/comments/location-independent-services/)

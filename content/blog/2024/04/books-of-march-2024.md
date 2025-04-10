@@ -1,11 +1,15 @@
 ---
-title: Books of March 2024
 date: 2024-04-30 21:29:18
 slug: books-of-march-2024
 taxonomies:
   tags:
-    - books
+  - books
+  - science fiction
+  - time travel
+  - inklings
+title: Books of March 2024
 ---
+
 Gosh, April nearly slipped away without me noting what I read last month. Here we go:
 
 1. [Gateway by Frederik Pohl](https://uk.bookshop.org/p/books/gateway-the-best-of-the-sf-masterworks-frederik-pohl/581432?ean=9781399607803), one of the [S.F. Masterworks](https://uk.bookshop.org/search?keywords=s+f+masterworks) series and an odd book, more about a man’s visit to his (robot) psychiatrist than exploring the galaxy (and certainly not the space opera I was sold by the blurb on the back), but an interesting start to a series of books for sure.

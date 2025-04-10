@@ -2,11 +2,14 @@
 title = "Streaming feeds"
 date = "2005-09-14 12:35:00"
 slug = "streaming-feeds"
+
 [taxonomies]
-tags = ['general']
+tags = [ "blogging", "atomstream", "feeds",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/09/2005-09-14-streaming-feeds-comments.csv"
+
 +++
 
 As well as writing about the new [Google Blogsearch](http://blogsearch.google.com/), [Anil Dash writes about the SixApart AtomStream](http://www.sixapart.com/pronet/weblog/2005/09/google_launches.html)

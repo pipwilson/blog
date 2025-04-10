@@ -2,11 +2,14 @@
 title = "Bristol Ruby User Group"
 date = "2009-01-22 22:46:43"
 slug = "bristol-ruby-user-group"
+
 [taxonomies]
-tags = ['bristol','brug','general','ruby']
+tags = [ "bristol", "brug", "ruby",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2009/01/2009-01-22-bristol-ruby-user-group-comments.csv"
+
 +++
 
 Tonight was the third Bristol Ruby User Group meeting, but the first with room for laptops and a projector (thanks to [petef](http://petef.org/wp/) for organising and [The Watershed](http://watershed.co.uk/) for giving us somewhere to meet for free!).

@@ -2,11 +2,14 @@
 title = "Wiki or facebook? Decision decisions."
 date = "2007-08-27 16:54:00"
 slug = "wiki-or-facebook-decision-decisions"
+
 [taxonomies]
-tags = ['facebook','usamajility','wiki','wiki']
+tags = [ "facebook", "usamajility", "wiki", "wiki",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2007/08/2007-08-27-wiki-or-facebook-decision-decisions-comments.csv"
+
 +++
 
 Loads of people in my office have a Wii. Being British, this is [a terribly amusing state of affairs](http://en.wikipedia.org/wiki/Wee).

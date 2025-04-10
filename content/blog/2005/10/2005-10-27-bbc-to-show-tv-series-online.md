@@ -2,11 +2,14 @@
 title = "BBC to show TV series online"
 date = "2005-10-27 23:22:00"
 slug = "bbc-to-show-tv-series-online"
+
 [taxonomies]
-tags = ['general']
+tags = [ "comedy", "politics", "bureaucracy",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/10/2005-10-27-bbc-to-show-tv-series-online-comments.csv"
+
 +++
 
 > THE THICK OF IT  

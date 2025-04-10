@@ -1,13 +1,13 @@
 ---
-title: Two lost decades
 date: 2024-05-15 14:28:36
 slug: two-lost-decades
 taxonomies:
   tags:
-    - internet
-    - okdoomer
-    - enshittification
-    - hypercapitalism
+  - internet
+  - okdoomer
+  - enshittification
+  - hypercapitalism
+title: Two lost decades
 ---
 
 [Heat Death of the Internet](https://www.takahe.org.nz/heat-death-of-the-internet/) by Gregory Bennett stresses me out as I read it.

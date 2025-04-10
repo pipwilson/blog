@@ -2,11 +2,14 @@
 title = "women in blogging"
 date = "2004-05-12 13:00:00"
 slug = "women-in-blogging"
+
 [taxonomies]
-tags = ['general']
+tags = [ "blogging", "web design", "female bloggers",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/05/2004-05-12-women-in-blogging-comments.csv"
+
 +++
 
 I’ve just subscribed to <del>three</del><ins>two</ins> female bloggers which now takes my the total number of female blogger to whom I’m subscribed to, uh, <del>three</del><ins>two</ins>.

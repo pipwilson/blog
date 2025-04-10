@@ -2,11 +2,14 @@
 title = "Reviewing events"
 date = "2005-05-11 20:38:00"
 slug = "reviewing-events"
+
 [taxonomies]
-tags = ['general']
+tags = [ "microformats", "aggregation", "reviews",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/05/2005-05-11-reviewing-events-comments.csv"
+
 +++
 
 With all this talk of microformats, a thought just struck me – the biggest deal is being able to aggregate reviews of events. Gosh, wouldn’t that be something impressive for centralised services to be doing? Imagine being able to specify an event you attended in the past and have other people’s reviews of it come up. I’d be impressed (and I don’t mean that this data should be held in an event-specific service like upcoming.org – good as it is – but in people’s feeds and on their websites).

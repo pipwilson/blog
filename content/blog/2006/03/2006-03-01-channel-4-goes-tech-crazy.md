@@ -2,11 +2,14 @@
 title = "Channel 4 goes tech crazy"
 date = "2006-03-01 00:31:00"
 slug = "channel-4-goes-tech-crazy"
+
 [taxonomies]
-tags = ['general']
+tags = [ "iran", "journalism", "podcasts",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/03/2006-03-01-channel-4-goes-tech-crazy-comments.csv"
+
 +++
 
 All next week, [Jon Snow](http://en.wikipedia.org/wiki/Jon_Snow) will be reporting from Iran.

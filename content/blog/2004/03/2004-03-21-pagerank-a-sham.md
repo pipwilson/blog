@@ -2,11 +2,14 @@
 title = "Pagerank a sham"
 date = "2004-03-21 19:29:00"
 slug = "pagerank-a-sham"
+
 [taxonomies]
-tags = ['general']
+tags = [ "google", "pigeonrank", "searchqueries",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/03/2004-03-21-pagerank-a-sham-comments.csv"
+
 +++
 
 Finally! Google’s true technology exposed! [Pigeonrank](http://www.google.com/technology/pigeonrank.html)

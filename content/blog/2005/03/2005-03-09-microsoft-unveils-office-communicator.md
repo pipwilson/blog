@@ -2,11 +2,14 @@
 title = "\"Microsoft Unveils 'Office Communicator'\""
 date = "2005-03-09 11:20:00"
 slug = "microsoft-unveils-office-communicator"
+
 [taxonomies]
-tags = ['general']
+tags = [ "microsoft", "office", "im client",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/03/2005-03-09-microsoft-unveils-office-communicator-comments.csv"
+
 +++
 
 so says [BetaNews](http://www.betanews.com/article/Microsoft_Unveils_Office_Communicator/1110303540).

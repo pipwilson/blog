@@ -2,11 +2,14 @@
 title = "Using JSPWiki in the enterprise"
 date = "2006-01-10 00:20:00"
 slug = "using-jspwiki-in-the-enterprise"
+
 [taxonomies]
-tags = ['general']
+tags = [ "jspwiki", "plugins", "acls",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/01/2006-01-10-using-jspwiki-in-the-enterprise-comments.csv"
+
 +++
 
 I’m quite a fan of [JSPWiki](http://jspwiki.org/).

@@ -2,11 +2,14 @@
 title = "Next-gen IM"
 date = "2005-06-14 11:15:00"
 slug = "next-gen-im"
+
 [taxonomies]
-tags = ['general']
+tags = [ "bluetooth", "linux", "jabber",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/06/2005-06-14-next-gen-im-comments.csv"
+
 +++
 
 Instant messengers with bluetooth detection facilities. That’s where it’s at, man.

@@ -2,11 +2,14 @@
 title = "Sites that should die"
 date = "2004-08-26 21:43:00"
 slug = "sites-that-should-die"
+
 [taxonomies]
-tags = ['general']
+tags = [ "web design", "user experience", "html",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/08/2004-08-26-sites-that-should-die-comments.csv"
+
 +++
 
 I really thought [sites like this](http://www.devarticles.com) didn’t exist any more. Ads everywhere, animated gif ads at that, narrow content, tacky icons and a mid-sized content spread over 6 pages. Jesus. I clicked the “Print version” icon of an article hoping to be taken to a plain text version all on one page that might actually be useful to me.

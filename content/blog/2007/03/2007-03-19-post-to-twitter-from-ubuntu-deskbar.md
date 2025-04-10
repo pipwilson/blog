@@ -2,11 +2,14 @@
 title = "Post to Twitter from Ubuntu Deskbar"
 date = "2007-03-19 15:48:00"
 slug = "post-to-twitter-from-ubuntu-deskbar"
+
 [taxonomies]
-tags = ['deskbar','general','twitter','ubuntu']
+tags = [ "deskbar", "twitter", "ubuntu",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2007/03/2007-03-19-post-to-twitter-from-ubuntu-deskbar-comments.csv"
+
 +++
 
 Deskbar is a Gnome widget you can embed in a panel and can be used for opening applications, opening items from your browser history, doing web searches and all sorts. It’s not as good as [Quicksilver](http://docs.blacktree.com/quicksilver/what_is_quicksilver) but better than [Launchy](http://www.launchy.net/). It fires when you hit a key combo (mine is CTRL+SPACE) and looks a bit like this:

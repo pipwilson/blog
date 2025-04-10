@@ -2,11 +2,14 @@
 title = "I (heart) the RDFers"
 date = "2005-08-15 07:49:00"
 slug = "i-heart-the-rdfers"
+
 [taxonomies]
-tags = ['general']
+tags = [ "rdf", "community", "support",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/08/2005-08-15-i-heart-the-rdfers-comments.csv"
+
 +++
 
 > Every time anyone dares to question RDF the RDFites assume they don’t know how it works.

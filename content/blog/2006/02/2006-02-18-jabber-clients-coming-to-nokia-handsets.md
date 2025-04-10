@@ -2,11 +2,14 @@
 title = "Jabber clients coming to Nokia handsets"
 date = "2006-02-18 22:32:00"
 slug = "jabber-clients-coming-to-nokia-handsets"
+
 [taxonomies]
-tags = ['general']
+tags = [ "jabber", "xmpp", "messaging",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/02/2006-02-18-jabber-clients-coming-to-nokia-handsets-comments.csv"
+
 +++
 
 Well, not quite yet, but soon anyway.

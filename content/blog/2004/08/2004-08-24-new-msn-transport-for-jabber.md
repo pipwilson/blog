@@ -2,11 +2,14 @@
 title = "New MSN transport for Jabber"
 date = "2004-08-24 09:51:00"
 slug = "new-msn-transport-for-jabber"
+
 [taxonomies]
-tags = ['general']
+tags = [ "python", "twisted", "jabber",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/08/2004-08-24-new-msn-transport-for-jabber-comments.csv"
+
 +++
 
 James Bunton has completely rewritten [the MSN transport for Jabber](http://msn-transport.jabberstudio.org/) in [Python](http://python.org/) using the [Twisted](http://twistedmatrix.com/) framework which has built-in support for [Jabber](http://www.jabber.org).

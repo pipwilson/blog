@@ -2,11 +2,14 @@
 title = "What is Scrum?"
 date = "2011-03-16 22:31:18"
 slug = "what-is-scrum"
+
 [taxonomies]
-tags = ['agile','general','scrum']
+tags = [ "agile", "scrum", "methodology", "project management", "processes",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2011/03/2011-03-16-what-is-scrum-comments.csv"
+
 +++
 
 A first-pass set of definitions, in increasing order of cynicism:

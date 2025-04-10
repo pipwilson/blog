@@ -2,11 +2,14 @@
 title = "Grouping disparate feeds by a common author"
 date = "2008-05-11 22:54:28"
 slug = "grouping-disparate-feeds-by-a-common-author"
+
 [taxonomies]
-tags = ['general']
+tags = [ "feeds", "subscribing", "usernames",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/05/2008-05-11-grouping-disparate-feeds-by-a-common-author-comments.csv"
+
 +++
 
 I’ve been thinking about the user interaction of subscribing to feeds and how, and at which point, to identify that a particular feed belongs to a particular person when you already subscribe to another feed coming from that person (i.e. subscribing to their delicious feed when you’re already subscribed to their blog).

@@ -1,13 +1,14 @@
 ---
-title: Very weaknotes
 date: 2024-04-19 09:10:00
 slug: very-weaknotes
 taxonomies:
   tags:
-    - weeknotes
-    - zelda
-    - wildlife wrangling
+  - weeknotes
+  - zelda
+  - wildlife wrangling
+title: Very weaknotes
 ---
+
 This week I had to chase a badger out of the garden because it was trying to break into my food waste bin, and break up a fight between some robins and goldfinches.
 
 Spring on the edge of the city is literally wild.

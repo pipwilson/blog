@@ -2,11 +2,14 @@
 title = "Making a lifestream useful"
 date = "2007-05-19 15:44:00"
 slug = "making-a-lifestream-useful"
+
 [taxonomies]
-tags = ['attention','general','lifestream','lucene']
+tags = [ "attention", "lifestream", "lucene",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2007/05/2007-05-19-making-a-lifestream-useful-comments.csv"
+
 +++
 
 A few months ago [I slated Jeremy’s lifestream](http://philwilson.org/blog/2007/03/stream-of-rubbish.html), because it’s a single point-per-person summary of activity – and in particular my own activity which I already know all about.

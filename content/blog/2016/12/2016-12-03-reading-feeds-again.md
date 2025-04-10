@@ -2,11 +2,14 @@
 title = "Reading feeds again"
 date = "2016-12-03 21:25:57"
 slug = "reading-feeds-again"
+
 [taxonomies]
-tags = ['general']
+tags = [ "rss", "feedly", "newsfold",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2016/12/2016-12-03-reading-feeds-again-comments.csv"
+
 +++
 
 When [Google Reader went away](https://www.google.com/reader/about/) I raged and sulked and tried half a dozen services touted as replacements, but eventually I installed [FeedDemon](http://feeddemon.com/) on the computer I used the most often and read my feeds daily, there.

@@ -2,11 +2,14 @@
 title = "Leverage my attention predictably"
 date = "2006-03-27 16:15:00"
 slug = "leverage-my-attention-predictably"
+
 [taxonomies]
-tags = ['general']
+tags = [ "productivity", "attention", "interruptions",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2006/03/2006-03-27-leverage-my-attention-predictably-comments.csv"
+
 +++
 
 [Kathy Sierra is right](http://headrush.typepad.com/creating_passionate_users/2006/03/clicker_trained.html), our attention is badly used and unfocussed and it’s not just our own fault – your aggregator checks for updates every hour, but that’s probably from when it started, so at what time will it next notify you of new items? Your email scans every five minutes, so the likelihood is that you’re being constantly interrupted.

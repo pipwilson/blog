@@ -2,11 +2,14 @@
 title = "Art and science"
 date = "2024-03-15 10:00:00"
 slug = "art-and-science"
+
 [taxonomies]
-tags = ['agile','art','general','government','stonehenge']
+tags = [ "agile", "art", "government", "stonehenge",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2024/03/2024-03-15-art-and-science-comments.csv"
+
 +++
 
 I open a lot of tabs. A lot. Maybe as many as you.

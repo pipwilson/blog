@@ -2,11 +2,14 @@
 title = "Blog for cash at the Torygraph"
 date = "2006-02-07 23:43:00"
 slug = "blog-for-cash-at-the-torygraph"
+
 [taxonomies]
-tags = ['general']
+tags = [ "podcasting", "newspapers", "media",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2006/02/2006-02-07-blog-for-cash-at-the-torygraph-comments.csv"
+
 +++
 
 [![Telegraph gets into podcasting](http://static.flickr.com/33/96924837_f36c506020_m.jpg)](http://www.flickr.com/photos/pip/96924837/ "Podcasting at the Daily Telegraph")

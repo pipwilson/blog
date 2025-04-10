@@ -2,11 +2,14 @@
 title = "Jabber transport stability"
 date = "2005-04-09 01:12:00"
 slug = "jabber-transport-stability"
+
 [taxonomies]
-tags = ['general']
+tags = [ "jabber", "transports", "clients",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/04/2005-04-09-jabber-transport-stability-comments.csv"
+
 +++
 
 Peter Saint-Andre has published [issue #22 of the Jabber Journal](http://www.jabber.org/journal/2005-04-08.shtml) and lists what he thinks need to be priorities over the next 12 months.

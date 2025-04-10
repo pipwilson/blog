@@ -2,11 +2,14 @@
 title = "A rough transcript of Richard Clayton's BBC interview"
 date = "2008-01-19 01:07:29"
 slug = "a-rough-transcript-of-richard-claytons-bbc-interview"
+
 [taxonomies]
-tags = ['general','identity','real']
+tags = [ "identity", "real", "security", "data", "databases",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2008/01/2008-01-19-a-rough-transcript-of-richard-claytons-bbc-interview-comments.csv"
+
 +++
 
 [Dr. Richard Clayton from the University of Cambridge](http://www.cl.cam.ac.uk/~rnc1/) (who writes for the very good [Light Blue Touchpaper](http://www.lightbluetouchpaper.org/) site) was interviewed for the [Pods and Blogs podcast](http://www.bbc.co.uk/blogs/podsandblogs/2007/12/podcast_notes_data_security_jo.shtml) on the 18th December 2007 in the wake of the massive data loss at the end of last year. He had some harsh words to say (this is the same Dr. Richard Clayton who signed [a joint letter to Parliament’s Joint Committee on Human Rights](http://dooooooom.blogspot.com/2007/11/biometrics-are-not-panacea-for-data.html)).

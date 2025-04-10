@@ -2,11 +2,14 @@
 title = "Week 9: decorative"
 date = "2020-12-04 22:41:19"
 slug = "week-9-decorative"
+
 [taxonomies]
-tags = ['general','weeknotes']
+tags = [ "weeknotes", "christmas", "gaming", "facebook",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2020/12/2020-12-04-week-9-decorative-comments.csv"
+
 +++
 
 - Our Christmas tree is up! My daughter may actually explode with excitement before Christmas arrives but hopefully she’ll hold on for the next 4 weeks.

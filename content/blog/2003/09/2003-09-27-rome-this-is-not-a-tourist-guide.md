@@ -2,11 +2,14 @@
 title = "Rome - This is not a tourist guide"
 date = "2003-09-27 14:21:00"
 slug = "rome-this-is-not-a-tourist-guide"
+
 [taxonomies]
-tags = ['general']
+tags = [ "rome", "travel", "technology",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2003/09/2003-09-27-rome-this-is-not-a-tourist-guide-comments.csv"
+
 +++
 
 The adventure ends

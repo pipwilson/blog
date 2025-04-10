@@ -2,11 +2,14 @@
 title = "Week 20: Zoom Fatigue"
 date = "2021-03-07 22:51:49"
 slug = "week-20-zoom-fatigue"
+
 [taxonomies]
-tags = ['general','weeknotes']
+tags = [ "weeknotes", "productivity", "health", "collaboration",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2021/03/2021-03-07-week-20-zoom-fatigue-comments.csv"
+
 +++
 
 - This has felt like a long week.

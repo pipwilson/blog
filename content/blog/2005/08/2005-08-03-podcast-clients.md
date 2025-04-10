@@ -2,11 +2,14 @@
 title = "Podcast clients"
 date = "2005-08-03 09:24:00"
 slug = "podcast-clients"
+
 [taxonomies]
-tags = ['general']
+tags = [ "podcasts", "software", "rss",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/08/2005-08-03-podcast-clients-comments.csv"
+
 +++
 
 I don’t really listen to podcasts normally LUGRadio and sometimes IT Conversations, but that’s about it.

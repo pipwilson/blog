@@ -2,11 +2,14 @@
 title = "Spore and game graphics"
 date = "2005-05-20 10:54:00"
 slug = "spore-and-game-graphics"
+
 [taxonomies]
-tags = ['general']
+tags = [ "spore", "graphics", "games",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/05/2005-05-20-spore-and-game-graphics-comments.csv"
+
 +++
 
 I’m not very good at writing about this kind of thing, but here goes anyway…

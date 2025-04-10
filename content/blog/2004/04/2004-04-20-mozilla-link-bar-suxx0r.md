@@ -2,11 +2,14 @@
 title = "Mozilla link bar suXX0r!"
 date = "2004-04-20 16:59:00"
 slug = "mozilla-link-bar-suxx0r"
+
 [taxonomies]
-tags = ['general']
+tags = [ "firefox", "mozilla", "bookmarks",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/04/2004-04-20-mozilla-link-bar-suxx0r-comments.csv"
+
 +++
 
 The Mozilla link toolbar doesn’t work as well as [Firefox’s link toolbar extension](http://cdn.mozdev.org/linkToolbar/) does. For about a year now I’ve had `rel="bookmark"` on the permanent links to my posts, and these have quite merrily appeared in Firefox’s link toolbar, and I’ve just added `rel="section"` to links to my monthly archives, and these also appear nicely

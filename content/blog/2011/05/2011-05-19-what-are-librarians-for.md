@@ -2,11 +2,14 @@
 title = "What are librarians for?"
 date = "2011-05-19 22:08:29"
 slug = "what-are-librarians-for"
+
 [taxonomies]
-tags = ['books','general','library','sweeping generalisations']
+tags = [ "books", "library", "sweeping generalisations",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2011/05/2011-05-19-what-are-librarians-for-comments.csv"
+
 +++
 
 Seth Godin wrote [an interesting piece about libraries](http://sethgodin.typepad.com/seths_blog/2011/05/the-future-of-the-library.html) recently, and it rang true with me. I’m reading more than ever, but I wouldn’t even bother asking a librarian what I should read next.

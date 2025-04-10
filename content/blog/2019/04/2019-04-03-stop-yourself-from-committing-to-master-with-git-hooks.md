@@ -2,11 +2,14 @@
 title = "Stop yourself from committing to master with git hooks"
 date = "2019-04-03 09:14:00"
 slug = "stop-yourself-from-committing-to-master-with-git-hooks"
+
 [taxonomies]
-tags = ['general','git']
+tags = [ "git", "hooks", "repository", "configuration",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2019/04/2019-04-03-stop-yourself-from-committing-to-master-with-git-hooks-comments.csv"
+
 +++
 
 This is based on the excellent work of Aaron Hoffman which [he’s written up here](https://aaron-hoffman.blogspot.com/2017/04/git-protect-local-master-branch-commit-push.html).

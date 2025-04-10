@@ -1,10 +1,13 @@
 ---
-title: Books of May 2024
 date: 2024-07-06 16:55:54
 slug: books-of-may-2024
 taxonomies:
   tags:
-    - books
+  - books
+  - scythe
+  - young adult
+  - time travel
+title: Books of May 2024
 ---
 
 May saw books set in the future and the past. 

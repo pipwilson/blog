@@ -2,11 +2,14 @@
 title = "Weeks 31 and 32: boxes"
 date = "2021-05-27 15:13:58"
 slug = "weeks-31-and-32-boxes"
+
 [taxonomies]
-tags = ['general','weeknotes']
+tags = [ "weeknotes", "relocation", "internet", "streaming",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2021/05/2021-05-27-weeks-31-and-32-boxes-comments.csv"
+
 +++
 
 I moved house. That’s it, that’s the update.

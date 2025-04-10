@@ -2,11 +2,14 @@
 title = "Getting art from the National Gallery into Animal Crossing: New Horizons"
 date = "2020-04-26 21:50:04"
 slug = "getting-art-from-the-national-gallery-into-animal-crossing-new-horizons"
+
 [taxonomies]
-tags = ['animalcrossing','art','games','general']
+tags = [ "animalcrossing", "art", "games",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2020/04/2020-04-26-getting-art-from-the-national-gallery-into-animal-crossing-new-horizons-comments.csv"
+
 +++
 
 Animal Crossing: New Horizons is a good game to play during the Great Coronavirus Lockdown of 2020. Even without the bits where you get rewarded for Just Buying More Stuff, it’s a handy reminder whilst we’re not at work of the rewards that capitalism provides for exploiting nature.

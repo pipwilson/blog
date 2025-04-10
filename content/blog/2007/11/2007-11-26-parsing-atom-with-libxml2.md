@@ -2,11 +2,14 @@
 title = "Parsing Atom with libxml2"
 date = "2007-11-26 00:45:00"
 slug = "parsing-atom-with-libxml2"
+
 [taxonomies]
-tags = ['atom','blogger','general','libxml2','python','real']
+tags = [ "atom", "blogger", "libxml2", "python", "real",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2007/11/2007-11-26-parsing-atom-with-libxml2-comments.csv"
+
 +++
 
 Whilst trying to parse some Atom (my Blogger backup) with libxml2 I appear to have run into the same problem that Aristotle hit two years ago in [XPath vs the default namespace: easy things should be easy](http://plasmasturm.org/log/259/), to wit: <q cite="http://plasmasturm.org/log/259/">The story is that you can’t match on the default namespace in XPath.</q>

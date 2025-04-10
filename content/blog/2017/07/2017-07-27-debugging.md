@@ -2,11 +2,14 @@
 title = "Debugging"
 date = "2017-07-27 13:48:24"
 slug = "debugging"
+
 [taxonomies]
-tags = ['general']
+tags = [ "debugging", "logging", "programming",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2017/07/2017-07-27-debugging-comments.csv"
+
 +++
 
 I do not like debugging. I prefer good logging.

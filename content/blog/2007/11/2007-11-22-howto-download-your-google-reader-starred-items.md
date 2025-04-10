@@ -2,11 +2,14 @@
 title = "HOWTO download your Google Reader starred items"
 date = "2007-11-22 23:30:57"
 slug = "howto-download-your-google-reader-starred-items"
+
 [taxonomies]
-tags = ['atom','general','google','google reader','real']
+tags = [ "atom", "google", "google reader", "real",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2007/11/2007-11-22-howto-download-your-google-reader-starred-items-comments.csv"
+
 +++
 
 How to create a backup of your starred items in Google Reader, should the need ever arise:

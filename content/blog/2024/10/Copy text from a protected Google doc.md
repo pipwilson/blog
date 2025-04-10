@@ -1,11 +1,14 @@
 ---
-title: Copy text from a protected Google doc
 date: 2024-10-13 20:35:27
 slug: copy-text-from-a-protected-google-doc
 taxonomies:
   tags:
-    - google
-    - copyprotection
+  - google
+  - copyprotection
+  - docs
+  - chrome
+  - javascript
+title: Copy text from a protected Google doc
 ---
 
 In Google Docs you can "protect" a doc so that it can't be printed, shared or have text copied.

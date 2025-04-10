@@ -2,11 +2,14 @@
 title = "A day at the zoo"
 date = "2004-05-19 16:19:00"
 slug = "a-day-at-the-zoo"
+
 [taxonomies]
-tags = ['general']
+tags = [ "zoo", "animals", "photography",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/05/2004-05-19-a-day-at-the-zoo-comments.csv"
+
 +++
 
 My girlfriend and I went to [London Zoo](http://www.londonzoo.co.uk/) at the weekend. She with her nice (non-digital) camera, me with my Nokia 6600…so, until she gets her film developed, some quick snaps I took during the marvellously hot, gloriously sunny and all-in-all really nice day out.

@@ -2,11 +2,14 @@
 title = "KDE blog posting client needed"
 date = "2005-11-09 11:46:00"
 slug = "kde-blog-posting-client-needed"
+
 [taxonomies]
-tags = ['general']
+tags = [ "linux", "kubuntu", "flickr",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2005/11/2005-11-09-kde-blog-posting-client-needed-comments.csv"
+
 +++
 
 So at the weekend I installed what I hope will become my full-time OS, [Kubuntu](http://kubuntu.org/).

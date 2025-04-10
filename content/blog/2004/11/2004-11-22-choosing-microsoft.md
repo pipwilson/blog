@@ -2,11 +2,14 @@
 title = "Choosing Microsoft"
 date = "2004-11-22 21:45:00"
 slug = "choosing-microsoft"
+
 [taxonomies]
-tags = ['general']
+tags = [ "integration", "microsoft", "open source",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/11/2004-11-22-choosing-microsoft-comments.csv"
+
 +++
 
 In his most recent ‘ongoing’ post, Tim Bray writes:

@@ -2,11 +2,14 @@
 title = "FOAFlicious 0.1"
 date = "2005-01-07 14:46:00"
 slug = "foaflicious-01"
+
 [taxonomies]
-tags = ['general', 'foaf']
+tags = [ "foaf", "groovy", "delicious", "scraping",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/01/2005-01-07-foaflicious-0-1-comments.csv"
+
 +++
 
 FOAFlicious is an application for generating a [FOAF](http://www.foaf-project.org/) file from your [del.icio.us](http://del.icio.us/) inbox.

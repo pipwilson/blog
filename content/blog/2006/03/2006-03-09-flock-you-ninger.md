@@ -2,11 +2,14 @@
 title = "Flock you, Ninger!"
 date = "2006-03-09 22:42:00"
 slug = "flock-you-ninger"
+
 [taxonomies]
-tags = ['general']
+tags = [ "usability", "geeks", "market",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2006/03/2006-03-09-flock-you-ninger-comments.csv"
+
 +++
 
 > Lately, I’ve been saying [Ninged](http://www.ning.com) a lot.

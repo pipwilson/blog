@@ -2,11 +2,14 @@
 title = "FOAF support in Safari"
 date = "2005-05-06 09:32:00"
 slug = "foaf-support-in-safari"
+
 [taxonomies]
-tags = ['general', 'foaf']
+tags = [ "foaf", "blogging", "photography", "safari",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/05/2005-05-06-foaf-support-in-safari-comments.csv"
+
 +++
 
 Sometimes it’s just better to blog something then to spend time actually thinking about it.

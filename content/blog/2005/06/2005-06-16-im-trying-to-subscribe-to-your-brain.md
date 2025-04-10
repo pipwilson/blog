@@ -2,11 +2,14 @@
 title = "I'm trying to subscribe to your brain"
 date = "2005-06-16 20:54:00"
 slug = "im-trying-to-subscribe-to-your-brain"
+
 [taxonomies]
-tags = ['general', 'foaf']
+tags = [ "foaf", "rss", "aggregator",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/06/2005-06-16-im-trying-to-subscribe-to-your-brain-comments.csv"
+
 +++
 
 Leigh’s beaten me to it very slightly by making [this post which explains how he wants to subscribe to an entire person’s output, and how to convert seeAlso’s to an OPML file](http://www.ldodds.com/blog/archives/000217.html).

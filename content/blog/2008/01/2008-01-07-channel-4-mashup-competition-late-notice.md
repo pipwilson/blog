@@ -2,11 +2,14 @@
 title = "Channel 4 mashup competition (late notice)"
 date = "2008-01-07 23:06:15"
 slug = "channel-4-mashup-competition-late-notice"
+
 [taxonomies]
-tags = ['general']
+tags = [ "mashup", "competition", "film4",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2008/01/2008-01-07-channel-4-mashup-competition-late-notice-comments.csv"
+
 +++
 
 It turns out that [Channel4 are running a mashup competition](http://www.channel4.com/interact/platform4/contest.html). You have to use one of their Film4 feeds and mash it up with another source of content in some way.

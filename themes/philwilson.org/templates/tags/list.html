@@ -5,12 +5,24 @@
 {% endblock title %}
 
 {% block content %}
-  <h1 class="taxonomy-name">{{ taxonomy.name }}</h1>
+<h1 class="taxonomy-name">The things I write about the most</h1>
+<div class="taxonomy-container">
+  {% for term in terms | sort(attribute="pages") | reverse %}
+    {% if term.pages | length > 30 %}
+      <div class="term">
+      <a href="{{ term.permalink }}">{{ term.name }} ({{ term.pages | length }})</a>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+  <h1 class="taxonomy-name">All {{ terms | length }} {{ taxonomy.name }}</h1>
   <div class="taxonomy-container">
     {% for term in terms %}
-      <div class="term">
-       <a href="{{ term.permalink }}">{{ term.name }} ({{ term.pages | length }})</a>
-      </div>
+      {% if term.pages | length %}
+        <div class="term">
+        <a href="{{ term.permalink }}">{{ term.name }} ({{ term.pages | length }})</a>
+        </div>
+      {% endif %}
     {% endfor %}
   </div>
 {% endblock content %}

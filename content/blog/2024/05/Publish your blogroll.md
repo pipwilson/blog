@@ -1,11 +1,15 @@
 ---
-title: Publish your blogroll
 date: 2024-05-03 11:42:08
 slug: publish-your-blogroll
 taxonomies:
   tags:
-    - opml
+  - opml
+  - blogroll
+  - html
+  - zola
+title: Publish your blogroll
 ---
+
 You can view [an HTML version of my blogroll here](https://philwilson.org/blogroll/), and also download the OPML from that page. Some of the links are probably dead, but they don't show up in my feed reader so ¯\\\_(ツ)_/¯
 <!-- more -->
 
@@ -20,4 +24,3 @@ You can do the same thing in Hugo but with more complexity using [resources.GetR
 I've also added a new `<link>` element in my blog template to point to the OPML after [following the guidance on opml.org](https://opml.org/blogroll.opml).
 
 The rendering of both the blog name and the domain it's on was inspired by [how Eric Gregorich does his](https://ericgregorich.com/blogroll/)
-

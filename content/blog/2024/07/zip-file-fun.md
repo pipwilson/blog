@@ -1,11 +1,14 @@
 ---
-title: Zip file fun
 date: 2024-07-24 16:49:40
 slug: zip-file-fun
 taxonomies:
   tags:
-    - zip
-    - php
+  - zip
+  - php
+  - wordpress
+  - exporter
+  - compatibility
+title: Zip file fun
 ---
 
 Back in March when I was working on my Wordpress-to-Zola exporter I'd written some PHP to generate a .zip file with my markdown site in it, but there was a problem.

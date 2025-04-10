@@ -2,11 +2,14 @@
 title = "Google personalised search results"
 date = "2005-07-03 11:24:00"
 slug = "google-personalised-search-results"
+
 [taxonomies]
-tags = ['general']
+tags = [ "google", "search", "personalization",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/07/2005-07-03-google-personalised-search-results-comments.csv"
+
 +++
 
 [![Google personalised search results](http://photos18.flickr.com/23227290_e22157dc81_m.jpg)](http://www.flickr.com/photos/pip/23227290/)

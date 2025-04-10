@@ -2,11 +2,14 @@
 title = "Take note of Inkdrop"
 date = "2019-07-19 09:55:19"
 slug = "take-note-of-inkdrop"
+
 [taxonomies]
-tags = ['general','markdown','notes']
+tags = [ "markdown", "notes", "note taking", "cloud sync", "mobile editing",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2019/07/2019-07-19-take-note-of-inkdrop-comments.csv"
+
 +++
 
 Note-taking is a tricky business, especially if you want to be able to easily read and edit them on multiple devices. The things I want to be able to do sounds easy enough: simple Markdown editing, backed by Dropbox, with full-text search, on desktop and mobile. The desktop part of this is easy enough – hello [Notepad](https://en.wikipedia.org/wiki/Microsoft_Notepad)!

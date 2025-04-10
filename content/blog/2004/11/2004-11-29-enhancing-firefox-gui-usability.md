@@ -2,11 +2,14 @@
 title = "Enhancing Firefox GUI usability"
 date = "2004-11-29 17:42:00"
 slug = "enhancing-firefox-gui-usability"
+
 [taxonomies]
-tags = ['general']
+tags = [ "usability", "firefox", "customization",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2004/11/2004-11-29-enhancing-firefox-gui-usability-comments.csv"
+
 +++
 
 <del datetime="2025-03-09T11:34:11Z"><ins datetime="2005-06-15T21:41:30Z">You no longer have to go through the hassle of editing your CSS, [I’ve turned this into an extension](https://philwilson.org/blog/2005/04/bigger-back-button-extension-for-firefox/)</ins></del>

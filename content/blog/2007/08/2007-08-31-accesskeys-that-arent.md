@@ -2,11 +2,14 @@
 title = "Accesskeys that aren't"
 date = "2007-08-31 17:12:00"
 slug = "accesskeys-that-arent"
+
 [taxonomies]
-tags = ['accessibility','email','general','usamajility']
+tags = [ "accessibility", "email", "usamajility",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2007/08/2007-08-31-accesskeys-that-arent-comments.csv"
+
 +++
 
 My work webmail is provided by [IMP](http://www.horde.org/imp/).

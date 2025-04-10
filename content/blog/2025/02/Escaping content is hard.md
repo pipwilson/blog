@@ -1,16 +1,16 @@
 ---
-title: Escaping content is hard, let's go scrolling!
 date: 2025-02-28 15:47:57
+extra:
+  allow_commenting: true
 slug: escaping-content-is-hard
 taxonomies:
   tags:
-    - html
-    - blogging
-    - rss
-    - yarr
-    - content-escaping-is-hard
-extra:
-  allow_commenting: true
+  - html
+  - blogging
+  - rss
+  - yarr
+  - content escaping is hard
+title: Escaping content is hard, let's go scrolling!
 ---
 
 This is from the web-based RSS reader I use, which apparently does not always escape content _quite_ right.

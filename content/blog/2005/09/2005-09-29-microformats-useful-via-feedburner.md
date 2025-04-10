@@ -2,11 +2,14 @@
 title = "Microformats useful via FeedBurner?"
 date = "2005-09-29 16:01:00"
 slug = "microformats-useful-via-feedburner"
+
 [taxonomies]
-tags = ['general']
+tags = [ "feedburner", "rss", "microformats",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2005/09/2005-09-29-microformats-useful-via-feedburner-comments.csv"
+
 +++
 
 I route [my RSS feed](http://philwilson.org/rssify.php) through [FeedBurner](http://www.feedburner.com/). [My Atom feed](http://philwilson.org/blog/atom.xml) is created directly through Blogger and I don’t yet route that through FeedBurner.

@@ -2,11 +2,14 @@
 title = "Week 17: improvements"
 date = "2021-02-05 15:06:45"
 slug = "week-17-improvements"
+
 [taxonomies]
-tags = ['general','weeknotes']
+tags = [ "weeknotes", "blogging", "chromebook", "birdwatching",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2021/02/2021-02-05-week-17-improvements-comments.csv"
+
 +++
 
 - Once this post has been made, I will have posted 998 blog posts since 2002. That rounds to about 52 posts a year, which is extremely satisfying, even if some of those first posts are just meme reposts, or me talking directly to people I knew at the time (I don’t advise reading them). Many links are now broken, many images have disappeared along the way (most of the early ones were hotlinks), but here I still am, ruining your day 🙂

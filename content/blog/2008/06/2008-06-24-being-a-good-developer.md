@@ -2,11 +2,14 @@
 title = "Being a good developer"
 date = "2008-06-24 18:18:43"
 slug = "being-a-good-developer"
+
 [taxonomies]
-tags = ['coding','general','management']
+tags = [ "coding", "management", "development", "skills", "practice",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2008/06/2008-06-24-being-a-good-developer-comments.csv"
+
 +++
 
 In my last appraisal at work I got asked what I thought makes a good developer. I didn’t give a very good answer, mumbling something about keeping up with current developments, reading around the subject, always trying to improve themselves, comparing yourself to other people and so on.

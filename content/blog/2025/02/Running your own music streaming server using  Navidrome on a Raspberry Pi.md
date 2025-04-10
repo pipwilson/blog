@@ -1,14 +1,14 @@
 ---
-title: Running your own music streaming server using  Navidrome on a Raspberry Pi
 date: 2025-02-06 15:40:19
 slug: running-navidrome-on-raspberry-pi
 taxonomies:
   tags:
-    - raspberrypi
-    - navidrome
-    - music
-    - mp3
-    - docker
+  - raspberrypi
+  - navidrome
+  - music
+  - mp3
+  - docker
+title: Running your own music streaming server using  Navidrome on a Raspberry Pi
 ---
 
 **Endpoint**: I now have a household music streaming server with [native apps on android and iphone](https://substreamerapp.com/), a web client and [desktop client](https://github.com/dweymouth/supersonic). I could put it on the internet to use when I'm out and about if I wanted to. Very cool! In my browser it looks like this:

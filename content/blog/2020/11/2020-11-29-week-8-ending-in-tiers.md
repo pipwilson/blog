@@ -2,11 +2,14 @@
 title = "Week 8: Ending in tiers"
 date = "2020-11-29 23:39:24"
 slug = "week-8-ending-in-tiers"
+
 [taxonomies]
-tags = ['general','weeknotes']
+tags = [ "weeknotes", "quizzes", "podcasts", "poetry",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2020/11/2020-11-29-week-8-ending-in-tiers-comments.csv"
+
 +++
 
 - Through Lockdown I and Lockdown II (The Revenge), our family have been sitting down at dinner and doing a quiz posted on [Twitter by @forwardnotback](https://twitter.com/forwardnotback). Today’s highlight was being reminded of [the Mike Flowers Pops cover of Wonderwall](https://www.youtube.com/watch?v=NTfZshkNZRw&feature=youtu.be).

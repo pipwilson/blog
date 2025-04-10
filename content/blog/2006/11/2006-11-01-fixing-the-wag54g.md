@@ -2,11 +2,14 @@
 title = "Fixing the WAG54G"
 date = "2006-11-01 10:36:00"
 slug = "fixing-the-wag54g"
+
 [taxonomies]
-tags = ['general']
+tags = [ "router", "wifi", "networking",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/11/2006-11-01-fixing-the-wag54g-comments.csv"
+
 +++
 
 ![](http://philwilson.org/images/WAG54G.jpg "Linksys WAG54G router")

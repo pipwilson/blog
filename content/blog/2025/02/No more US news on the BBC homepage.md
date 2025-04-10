@@ -1,14 +1,14 @@
 ---
-title: No more US news on the BBC homepage
 date: 2025-02-09 15:41:31
 slug: no-more-us-news-on-the-bbc-homepage
 taxonomies:
   tags:
-    - bbc
-    - chrome
-    - firefox
-    - javascript
-    - greasemonkey
+  - bbc
+  - chrome
+  - firefox
+  - javascript
+  - greasemonkey
+title: No more US news on the BBC homepage
 ---
 
 I think that 24/7 news is a modern-day scourge, and one of its corollaries in the UK is the overdue prominence given to US news.

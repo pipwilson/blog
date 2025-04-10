@@ -2,11 +2,14 @@
 title = "I need a new aggregator"
 date = "2006-07-08 19:56:00"
 slug = "i-need-a-new-aggregator"
+
 [taxonomies]
-tags = ['general']
+tags = [ "aggregators", "webpages", "cross-platform",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2006/07/2006-07-08-i-need-a-new-aggregator-comments.csv"
+
 +++
 
 I’ve not used a desktop aggregator for close to a year now, getting my information instead from these strange and archaic *webpages*, some of which are mini-aggregators like [Digg](http://www.digg.com/) or [my del.icio.us network](http://del.icio.us/network/pip).

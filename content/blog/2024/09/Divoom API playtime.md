@@ -1,13 +1,14 @@
 ---
-title: Divoom API playtime
 date: 2024-09-11 20:41:35
 slug: divoom-api-playtime
 taxonomies:
   tags:
-    - divoom
-    - gadgets
-    - bluetooth
+  - divoom
+  - gadgets
+  - bluetooth
+title: Divoom API playtime
 ---
+
 I have a Divoom Timebox Evo - it is 16x16 (10cm x 10cm) LED display which also doubles as a portable bluetooth speaker. It's a lovely device with decent sound and bright LEDs. By default it will show you animations that people have posted online using the Divoom app, or you can draw your own, as well as displaying the weather, time and more.
 
 ![Divoom Timebox Evo animation from gadgetmatch.com](/blog/2024/09/divoom-animated.gif)

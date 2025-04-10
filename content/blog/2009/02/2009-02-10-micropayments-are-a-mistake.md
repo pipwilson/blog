@@ -2,11 +2,14 @@
 title = "Micropayments are a mistake"
 date = "2009-02-10 23:48:11"
 slug = "micropayments-are-a-mistake"
+
 [taxonomies]
-tags = ['bbc','general','micropayments','news']
+tags = [ "bbc", "micropayments", "news",]
+
 [extra]
 show_comments = "true"
 comments_file = "/content/blog/2009/02/2009-02-10-micropayments-are-a-mistake-comments.csv"
+
 +++
 
 The other day [some idiot suggested micropayments for online newspapers](http://www.time.com/time/business/article/0,8599,1877191-1,00.html) ([single page version here](http://www.time.com/time/printout/0,8816,1877191,00.html)).

@@ -2,11 +2,14 @@
 title = "Week 34: sunshine"
 date = "2021-06-24 23:09:00"
 slug = "week-34-sunshine"
+
 [taxonomies]
-tags = ['general','weeknotes']
+tags = [ "weeknotes", "sunshine", "scouting", "mattress",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2021/06/2021-06-24-week-34-sunshine-comments.csv"
+
 +++
 
 - It has been hot and sunny! Hurrah! At last a break from the rain and cold and a chance to get outside, take a deep breath and relax.

@@ -2,11 +2,14 @@
 title = "Aggregators: Part Two"
 date = "2004-04-02 09:54:00"
 slug = "aggregators-part-two"
+
 [taxonomies]
-tags = ['general']
+tags = [ "aggregators", "weblogging", "atom",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2004/04/2004-04-02-aggregators-part-two-comments.csv"
+
 +++
 
 #### Sauce Reader

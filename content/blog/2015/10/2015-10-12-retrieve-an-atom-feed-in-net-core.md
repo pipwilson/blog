@@ -2,11 +2,14 @@
 title = "Retrieve an Atom feed in .NET Core"
 date = "2015-10-12 21:11:13"
 slug = "retrieve-an-atom-feed-in-net-core"
+
 [taxonomies]
-tags = ['.net','atom','coding','general']
+tags = [ ".net", "atom", "coding",]
+
 [extra]
 show_comments = "false"
 comments_file = "/content/blog/2015/10/2015-10-12-retrieve-an-atom-feed-in-net-core-comments.csv"
+
 +++
 
 After [yesterday’s adventure](http://philwilson.org/blog/2015/10/getting-started-with-net-core/) and recent [forehead-smacking](http://philwilson.org/blog/2015/09/rfc-4287/), this seemed like an appropriate, and small, goal.

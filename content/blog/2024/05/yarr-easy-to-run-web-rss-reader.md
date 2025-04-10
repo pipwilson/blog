@@ -1,14 +1,14 @@
 ---
-title: Yarr is an easy-to-run web-based RSS reader
 date: 2024-05-01 19:53:24
 slug: yarr-easy-to-run-web-rss-reader
 taxonomies:
   tags:
-    - rss
-    - atom
-    - go
-    - yarr
-    - rss-reader
+  - rss
+  - atom
+  - go
+  - yarr
+  - rss reader
+title: Yarr is an easy-to-run web-based RSS reader
 ---
 
 You can go and [download Yarr](https://github.com/nkanaev/yarr/releases), unzip and it and (for the windows version) double-click the .exe. Straight away you will have a working web-based RSS reader.
