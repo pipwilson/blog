@@ -194,7 +194,6 @@
 
     <div class="card tools">
       <p class="label">Most common topic</p>
-      <h1>
         {# List the top 6 most commonly applied tags #}
         {% set tags = [] %}
         {% for page in section.pages %}
@@ -227,6 +226,7 @@
             {% set_global max_index = loop.index0 %}
           {% endif %}
         {% endfor %}
+      <h1>
         {{ unique_tags[max_index] }}.
       </h1>
       <p class="description">All topics are equal, but some are more equal than others.</p>
