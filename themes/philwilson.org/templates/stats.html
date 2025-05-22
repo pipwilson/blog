@@ -1,31 +1,236 @@
 {% extends "base.html" -%}
+
 {% import "stats-macros.html" as stats_macros -%}
+
+{% block posthead %}
+<link rel="stylesheet" href="{{ get_url(path="stats.css") | safe }}">
+{% endblock posthead %}
 
 {% block content %}
 
 {% set section = get_section(path="blog/_index.md") %}
-
+<h1>Blog statistics</h1>
+{#
 <p>I've written {{ section.pages | length }} blog posts, totalling {{ stats_macros::wordcount(pages=section.pages) }} words over about {{ stats_macros::years_of_blogging(pages=section.pages) }} years.</p>
-
-<p>My average blog post takes {{ stats_macros::average_time_to_read(pages=section.pages) }} minutes to read.</p>
 
 <h2>Number of posts published each year</h2>
 
-{% set posts_by_year = section.pages | group_by(attribute="year") %}
+{%- set posts_by_year = section.pages | group_by(attribute="year") %}
 
-{% set max_posts_in_a_year = 0 %}
-{% for year, posts in posts_by_year %}
-    {% if posts | length > max_posts_in_a_year %}
-        {% set_global max_posts_in_a_year = posts | length %}
-    {% endif %}
-{% endfor %}
+{%- set max_posts_in_a_year = 0 %}
+{%- for year, posts in posts_by_year %}
+    {%- if posts | length > max_posts_in_a_year %}
+        {%- set_global max_posts_in_a_year = posts | length %}
+    {%- endif %}
+{%- endfor %}
 
 <table id="stats">
-{% for yearname, posts in section.pages | group_by(attribute="year") %}
+{%- for yearname, posts in section.pages | group_by(attribute="year") %}
     {% set postcount = posts | length %}
     {% set percentage = (postcount / max_posts_in_a_year)*100 %}
     <tr><td class="when"><a href="/blog/{{ yearname }}">{{ yearname }}</a></td><td class="data"><span class="blogstats" style="width: {{ percentage }}%">{{ posts | length }}</span></td></tr>
-{% endfor %}
+{%- endfor %}
 </table>
+#}
+
+  <div class="dashboard">
+    <div class="card articles">
+      <p class="label">Words</p>
+      <h1>{{ stats_macros::wordcount(pages=section.pages) | trim | int | num_format }}</h1>
+      <!-- Line chart for words per month -->
+      <canvas id="wordsPerMonthChart" width="400" height="150"></canvas>
+      <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+      <script>
+        // Prepare data: aggregate words per month
+        {% set sorted_pages = section.pages | sort(attribute='date') %}
+        const posts = [
+          {%- for page in sorted_pages %}
+            {
+              date: "{{ page.date | date(format="%Y-%m") }}",
+              words: {{- stats_macros::wordcount(pages=[page]) }}
+            }{% if not loop.last %},{% endif %}
+          {%- endfor %}
+        ];
+
+        // todo change this to loop over every year and month between first and last post,
+        // building an array with either 0 or the # of words in the posts for that month
+        {% set first_post = sorted_pages | first %}
+        {% set last_post = sorted_pages | last %}
+        {% set first_date = first_post.date | date(format="%Y-%d") | trim %}
+        {% set last_date = last_post.date | date(format="%Y-%d") %}
+
+        // Aggregate words per month
+        const monthly = {};
+        posts.forEach(p => {
+          if (!monthly[p.date]) monthly[p.date] = 0;
+          monthly[p.date] += p.words;
+        });
+
+        const firstPostDate = "{{ first_date }}";
+        const lastPostDate = "{{ last_date }}";
+
+        // Build wordsPerMonth array for every month between firstPostDate and lastPostDate
+        function nextMonth(ym) {
+          let [y, m] = ym.split('-').map(Number);
+          m++;
+          if (m > 12) { y++; m = 1; }
+          return y + '-' + String(m).padStart(2, '0');
+        }
+
+        // Convert YYYY-MM to comparable number
+        function ymToNum(ym) {
+          let [y, m] = ym.split('-').map(Number);
+          return y * 12 + m;
+        }
+
+        let ym = firstPostDate;
+        const wordsPerMonth = [];
+        while (ymToNum(ym) <= ymToNum(lastPostDate)) {
+          wordsPerMonth.push({
+            date: ym,
+            words: monthly[ym] || 0
+          });
+          ym = nextMonth(ym);
+        }
+
+        // Now use wordsPerMonth for chart data
+        const labels = wordsPerMonth.map(item => item.date);
+        const data = wordsPerMonth.map(item => item.words);
+
+        // Calculate number of years covered by the chart
+        const years = {{ stats_macros::years_of_blogging(pages=section.pages) }};
+
+        // Draw chart
+        new Chart(document.getElementById('wordsPerMonthChart').getContext('2d'), {
+          type: 'line',
+          data: {
+            labels: labels,
+            datasets: [{
+              label: 'Words per Month',
+              data: data,
+              borderColor: '#000',
+              backgroundColor: 'rgb(0,0,0)',
+              fill: false,
+              borderWidth: 1,
+              tension: 0.2,
+              pointRadius: 0
+            }]
+          },
+          options: {
+            scales: {
+              x: {
+                grid: { display: false },
+                ticks: {
+                  autoSkip: true,
+                  maxTicksLimit: years,
+                  callback: function(value, index, ticks) {
+                    // just show the year
+                    const label = this.chart.data.labels[value];
+                    const [year, month] = label.split('-');
+                    return year;
+                  }
+                }
+              },
+              y: {
+                title: { display: true, text: 'Words (000s)' },
+                beginAtZero: true,
+                grid: { display: false },
+                ticks: {
+                  callback: function(value) {
+                    return value / 1000 + 'k';
+                  }
+                }
+              }
+            },
+            plugins: {
+              legend: { display: false }
+            }
+          }
+        });
+      </script>
+    </div>
+
+    <div class="card jobs">
+      <p class="label">Posts</p>
+      <h1>{{ section.pages | length }}</h1>
+      <p class="description">
+        My average blog post takes a mere {{ stats_macros::average_time_to_read(pages=section.pages) }} minutes to read.
+      </p>
+    </div>
+
+    <div class="card years">
+      <p class="label">Years</p>
+      <h1>{{ stats_macros::years_of_blogging(pages=section.pages) }}</h1>
+      <p class="description small">
+        {% for yearname, posts in section.pages | group_by(attribute="year") %}
+            <a href="/blog/{{ yearname }}">{{ yearname }}</a>{% if not loop.last %},{% endif %}
+        {% endfor %}
+      </p>
+    </div>
+
+    <div class="card members">
+      <p class="label">Tags</p>
+      <h1>
+        {# Count unique tags across all posts #}
+        {% set all_tags = [] %}
+        {% for page in section.pages %}
+          {% if page.taxonomies and page.taxonomies.tags %}
+            {% for tag in page.taxonomies.tags %}
+              {% set_global all_tags = all_tags | concat(with=[tag]) %}
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
+        {{ all_tags | unique | length }}
+      </h1>
+      <p class="description">That's a lot of different topics.</p>
+    </div>
+
+    <div class="card people">
+      <p class="label">Average words per post</p>
+      {% set average_words= stats_macros::wordcount(pages=section.pages) | int / section.pages | length  %}
+      <h1>{{ average_words | round }}</h1>
+      <p class="description">This is a very important number in historical terms. <a href="https://en.m.wikipedia.org/wiki/{{ average_words | round }}">Read more about it on Wikipedia</a>.</p>
+    </div>
+
+    <div class="card tools">
+      <p class="label">Most common topic</p>
+      <h1>
+        {# List the top 6 most commonly applied tags #}
+        {% set tags = [] %}
+        {% for page in section.pages %}
+          {% if page.taxonomies and page.taxonomies.tags %}
+            {% for tag in page.taxonomies.tags %}
+              {% set_global tags = tags | concat(with=[tag]) %}
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
+
+        {% set unique_tags = tags | unique %}
+
+        {% set tag_counts = [] %}
+        {% for tag in unique_tags %}
+          {% set_global count = 0 %}
+          {% for x in tags %}
+            {% if x == tag %}
+              {% set_global count = count + 1 %}
+            {% endif %}
+          {% endfor %}
+          {% set_global tag_counts = tag_counts | concat(with=count) %}
+        {% endfor %}
+
+        {# Find the index of the highest value in tag_counts #}
+        {% set max_count = 0 %}
+        {% set max_index = 0 %}
+        {% for value in tag_counts %}
+          {% if value > max_count %}
+            {% set_global max_count = value %}
+            {% set_global max_index = loop.index0 %}
+          {% endif %}
+        {% endfor %}
+        {{ unique_tags[max_index] }}.
+      </h1>
+      <p class="description">All topics are equal, but some are more equal than others.</p>
+    </div>
+  </div>
 
 {% endblock content %}

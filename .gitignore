@@ -12,3 +12,4 @@ public/
 /content/blog/2024/04/Teams is still terrible.md
 config.toml
 static/data/monthly_distances.json
+static/services/guestbook/guestbook_form.html
