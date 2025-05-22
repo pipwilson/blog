@@ -150,7 +150,7 @@
       </script>
     </div>
 
-    <div class="card jobs">
+    <div class="card">
       <p class="label">Posts</p>
       <h1>{{ section.pages | length }}</h1>
       <p class="description">
@@ -158,7 +158,7 @@
       </p>
     </div>
 
-    <div class="card years">
+    <div class="card">
       <p class="label">Years</p>
       <h1>{{ stats_macros::years_of_blogging(pages=section.pages) }}</h1>
       <p class="description small">
@@ -168,7 +168,7 @@
       </p>
     </div>
 
-    <div class="card members">
+    <div class="card">
       <p class="label">Tags</p>
       <h1>
         {# Count unique tags across all posts #}
@@ -182,17 +182,17 @@
         {% endfor %}
         {{ all_tags | unique | length }}
       </h1>
-      <p class="description">That's a lot of different topics.</p>
+      <p class="description">That's a lot of different topics. Feel free to <a href="/blog/tags">explore them</a>.</p>
     </div>
 
-    <div class="card people">
+    <div class="card">
       <p class="label">Average words per post</p>
       {% set average_words= stats_macros::wordcount(pages=section.pages) | int / section.pages | length  %}
       <h1>{{ average_words | round }}</h1>
       <p class="description">This is a very important number in historical terms. <a href="https://en.m.wikipedia.org/wiki/{{ average_words | round }}">Read more about it on Wikipedia</a>.</p>
     </div>
 
-    <div class="card tools">
+    <div class="card">
       <p class="label">Most common topic</p>
         {# List the top 6 most commonly applied tags #}
         {% set tags = [] %}
