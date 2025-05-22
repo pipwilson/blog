@@ -1,14 +1,14 @@
-{% extends "base.html" -%}
+{%- extends "base.html" -%}
 
-{% import "stats-macros.html" as stats_macros -%}
+{%- import "stats-macros.html" as stats_macros -%}
 
-{% block posthead %}
+{%- block posthead %}
 <link rel="stylesheet" href="{{ get_url(path="stats.css") | safe }}">
-{% endblock posthead %}
+{%- endblock posthead %}
 
-{% block content %}
+{%- block content %}
 
-{% set section = get_section(path="blog/_index.md") %}
+{%- set section = get_section(path="blog/_index.md") %}
 <h1>Blog statistics</h1>
 {#
 <p>I've written {{ section.pages | length }} blog posts, totalling {{ stats_macros::wordcount(pages=section.pages) }} words over about {{ stats_macros::years_of_blogging(pages=section.pages) }} years.</p>
@@ -26,8 +26,8 @@
 
 <table id="stats">
 {%- for yearname, posts in section.pages | group_by(attribute="year") %}
-    {% set postcount = posts | length %}
-    {% set percentage = (postcount / max_posts_in_a_year)*100 %}
+    {%- set postcount = posts | length %}
+    {%- set percentage = (postcount / max_posts_in_a_year)*100 %}
     <tr><td class="when"><a href="/blog/{{ yearname }}">{{ yearname }}</a></td><td class="data"><span class="blogstats" style="width: {{ percentage }}%">{{ posts | length }}</span></td></tr>
 {%- endfor %}
 </table>
@@ -42,22 +42,22 @@
       <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
       <script>
         // Prepare data: aggregate words per month
-        {% set sorted_pages = section.pages | sort(attribute='date') %}
+        {%- set sorted_pages = section.pages | sort(attribute='date') %}
         const posts = [
           {%- for page in sorted_pages %}
             {
               date: "{{ page.date | date(format="%Y-%m") }}",
               words: {{- stats_macros::wordcount(pages=[page]) }}
-            }{% if not loop.last %},{% endif %}
+            }{%- if not loop.last %},{%- endif %}
           {%- endfor %}
         ];
 
         // todo change this to loop over every year and month between first and last post,
         // building an array with either 0 or the # of words in the posts for that month
-        {% set first_post = sorted_pages | first %}
-        {% set last_post = sorted_pages | last %}
-        {% set first_date = first_post.date | date(format="%Y-%d") | trim %}
-        {% set last_date = last_post.date | date(format="%Y-%d") %}
+        {%- set first_post = sorted_pages | first %}
+        {%- set last_post = sorted_pages | last %}
+        {%- set first_date = first_post.date | date(format="%Y-%d") | trim %}
+        {%- set last_date = last_post.date | date(format="%Y-%d") %}
 
         // Aggregate words per month
         const monthly = {};
@@ -162,9 +162,9 @@
       <p class="label">Years</p>
       <h1>{{ stats_macros::years_of_blogging(pages=section.pages) }}</h1>
       <p class="description small">
-        {% for yearname, posts in section.pages | group_by(attribute="year") %}
-            <a href="/blog/{{ yearname }}">{{ yearname }}</a>{% if not loop.last %},{% endif %}
-        {% endfor %}
+        {%- for yearname, posts in section.pages | group_by(attribute="year") %}
+            <a href="/blog/{{ yearname }}">{{ yearname }}</a>{%- if not loop.last %},{%- endif %}
+        {%- endfor %}
       </p>
     </div>
 
@@ -172,14 +172,14 @@
       <p class="label">Tags</p>
       <h1>
         {# Count unique tags across all posts #}
-        {% set all_tags = [] %}
-        {% for page in section.pages %}
-          {% if page.taxonomies and page.taxonomies.tags %}
-            {% for tag in page.taxonomies.tags %}
-              {% set_global all_tags = all_tags | concat(with=[tag]) %}
-            {% endfor %}
-          {% endif %}
-        {% endfor %}
+        {%- set all_tags = [] %}
+        {%- for page in section.pages %}
+          {%- if page.taxonomies and page.taxonomies.tags %}
+            {%- for tag in page.taxonomies.tags %}
+              {%- set_global all_tags = all_tags | concat(with=[tag]) %}
+            {%- endfor %}
+          {%- endif %}
+        {%- endfor %}
         {{ all_tags | unique | length }}
       </h1>
       <p class="description">That's a lot of different topics. Feel free to <a href="/blog/tags">explore them</a>.</p>
@@ -187,7 +187,7 @@
 
     <div class="card">
       <p class="label">Average words per post</p>
-      {% set average_words= stats_macros::wordcount(pages=section.pages) | int / section.pages | length  %}
+      {%- set average_words= stats_macros::wordcount(pages=section.pages) | int / section.pages | length  %}
       <h1>{{ average_words | round }}</h1>
       <p class="description">This is a very important number in historical terms. <a href="https://en.m.wikipedia.org/wiki/{{ average_words | round }}">Read more about it on Wikipedia</a>.</p>
     </div>
@@ -195,37 +195,37 @@
     <div class="card">
       <p class="label">Most common topic</p>
         {# List the top 6 most commonly applied tags #}
-        {% set tags = [] %}
-        {% for page in section.pages %}
-          {% if page.taxonomies and page.taxonomies.tags %}
-            {% for tag in page.taxonomies.tags %}
-              {% set_global tags = tags | concat(with=[tag]) %}
-            {% endfor %}
-          {% endif %}
-        {% endfor %}
+        {%- set tags = [] %}
+        {%- for page in section.pages %}
+          {%- if page.taxonomies and page.taxonomies.tags %}
+            {%- for tag in page.taxonomies.tags %}
+              {%- set_global tags = tags | concat(with=[tag]) %}
+            {%- endfor %}
+          {%- endif %}
+        {%- endfor %}
 
-        {% set unique_tags = tags | unique %}
+        {%- set unique_tags = tags | unique %}
 
-        {% set tag_counts = [] %}
-        {% for tag in unique_tags %}
-          {% set_global count = 0 %}
-          {% for x in tags %}
-            {% if x == tag %}
-              {% set_global count = count + 1 %}
-            {% endif %}
-          {% endfor %}
-          {% set_global tag_counts = tag_counts | concat(with=count) %}
-        {% endfor %}
+        {%- set tag_counts = [] %}
+        {%- for tag in unique_tags %}
+          {%- set_global count = 0 %}
+          {%- for x in tags %}
+            {%- if x == tag %}
+              {%- set_global count = count + 1 %}
+            {%- endif %}
+          {%- endfor %}
+          {%- set_global tag_counts = tag_counts | concat(with=count) %}
+        {%- endfor %}
 
         {# Find the index of the highest value in tag_counts #}
-        {% set max_count = 0 %}
-        {% set max_index = 0 %}
-        {% for value in tag_counts %}
-          {% if value > max_count %}
-            {% set_global max_count = value %}
-            {% set_global max_index = loop.index0 %}
-          {% endif %}
-        {% endfor %}
+        {%- set max_count = 0 %}
+        {%- set max_index = 0 %}
+        {%- for value in tag_counts %}
+          {%- if value > max_count %}
+            {%- set_global max_count = value %}
+            {%- set_global max_index = loop.index0 %}
+          {%- endif %}
+        {%- endfor %}
       <h1>
         {{ unique_tags[max_index] }}.
       </h1>
@@ -233,4 +233,4 @@
     </div>
   </div>
 
-{% endblock content %}
+{%- endblock content %}
