@@ -126,6 +126,17 @@ p#original-publish-data {
   border-radius: 5px;
 }
 
+@media (prefers-color-scheme: dark) {
+  p#original-publish-data {
+    background-color: #708090;
+    color: #eee; // Complementary color to the dark background
+
+    & a {
+      color: #FFD700;
+    }
+  }
+}
+
 section#tags {
   background-color: lightsteelblue;
   border-radius: 9px;
