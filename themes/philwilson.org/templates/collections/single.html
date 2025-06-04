@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% import "post-macros.html" as post_macros %}
+
+{% block title %}
+<title>Collection: {{ term.name }} - {{config.title}}</title>
+{% endblock title %}
+
+{# This template is used to show which posts are associated with a particular taxonomy term #}
+
+{% block content %}
+  {% set num_posts = term.pages | length %}
+  <h1>{{ term.name | capitalize }}</h1>
+  <h2>There are {{ num_posts }} post{{ num_posts | pluralize }} in this collection</h1>
+  <div class="taxonomy-container">
+      {% for post in term.pages %}
+        {{ post_macros::post_preview(post=post) }}
+      {% endfor %}
+</div>
+{% endblock content %}

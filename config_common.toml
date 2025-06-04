@@ -14,7 +14,7 @@ theme = "philwilson.org"
 
 taxonomies = [
     { name = "tags", feed = false, paginate_by = 10 },
-    { name = "collections", feed = false, render = false }
+    { name = "collections", feed = false }
 ]
 
 [search]

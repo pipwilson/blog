@@ -57,7 +57,7 @@ body {
 
 // https://stackoverflow.com/a/59574579
 // https://jonnykates.medium.com/automating-colour-contrast-ratios-with-sass-e201f3b52797
-@for $i from 1 through 10 {
+@for $i from 1 through 100 {
   article:nth-child(#{$i}) h3.post-title {
     $h3-background-colour: rgb(random(255),random(255),random(255));
     background-color: $h3-background-colour;

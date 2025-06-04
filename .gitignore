@@ -1,3 +1,4 @@
+*.edtz
 public/
 .bruno/
 .vscode/spellright.dict
