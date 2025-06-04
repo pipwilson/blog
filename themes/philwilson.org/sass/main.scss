@@ -127,7 +127,7 @@ p#original-publish-data {
 }
 
 @media (prefers-color-scheme: dark) {
-  p#original-publish-data {
+  p#original-publish-data, section#tags {
     background-color: #708090;
     color: #eee; // Complementary color to the dark background
 
