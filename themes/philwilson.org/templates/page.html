@@ -8,8 +8,8 @@
   <div class="post-title">
     <h1 class="p-name">{{ page.title }}</h1>
     <span>
-      {% if page.date %}<a href="/blog/{{ page.date | date(format=" %Y")}}/{{ page.date | date(format="%m" )}}"
-        title="See all posts in {{ page.date | date(format=" %B %Y") }}">{{ page.date | date(format="%d %B, %Y")
+      {% if page.date %}<a href="/blog/{{ page.date | date(format=" %Y") | trim }}/{{ page.date | date(format="%m" ) | trim}}"
+        title="See all posts in {{ page.date | date(format=" %B %Y") | trim -}}">{{ page.date | date(format="%d %B, %Y") | trim
         }}</a>{% endif %}
     </span>
   </div>
@@ -25,12 +25,28 @@
     %}
     {{ pipbook}}
     {% endif %}
+    {%- if page.extra.originalUrl and page.extra.originalLocationName -%}
+    <p id="original-publish-data">
+      This post was originally published on
+      <a href="{{ page.extra.originalUrl }}">{{ page.extra.originalLocationName }}</a>.
+    </p>
+    {%- endif -%}
     {{ page.content | safe }}
   </div>
 </article>
 
 {% if page.taxonomies.tags %}
 <section id="tags">
+  {% if page.taxonomies.collections %}
+  <p>
+    This post is part of the
+    <span class="collections">
+      {% for collection in page.taxonomies.collections %}
+      {% set term = get_taxonomy_term(kind="collections", term=collection) %}
+      <a href="/blog/collections/{{ term.slug }}/">{{ collection }}</a>
+      {% endfor %}
+    </span> collection.
+  {% endif %}
   <p>
     See other posts tagged with
     <span class="tags">

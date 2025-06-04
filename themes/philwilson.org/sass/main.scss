@@ -119,6 +119,13 @@ img {
   }
 }
 
+p#original-publish-data {
+  font-size: 90%;
+  padding: 0.5em;
+  background-color: lightgoldenrodyellow;
+  border-radius: 5px;
+}
+
 section#tags {
   background-color: lightsteelblue;
   border-radius: 9px;
@@ -128,6 +135,11 @@ section#tags p {
   font-size: 75%;
   padding: 1em;
   margin-bottom: 0;
+
+  & + p {
+    padding-top: 0;
+    margin-top: 0;
+  }
 }
 
 section#comments {
