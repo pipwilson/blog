@@ -43,7 +43,7 @@
     <span class="collections">
       {% for collection in page.taxonomies.collections %}
       {% set term = get_taxonomy_term(kind="collections", term=collection) %}
-      <a href="/blog/collections/{{ term.slug }}/">{{ collection }}</a>
+      <a href="/collections/{{ term.slug }}/">{{ collection }}</a>
       {% endfor %}
     </span> collection.
   {% endif %}
