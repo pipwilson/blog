@@ -12,7 +12,9 @@ taxonomies:
     - vibecoding
 ---
 
-## What we're doing
+Summary: I extracted a load of old blog content from the feeds archived on the Wayback Machine and converted it into markdown files suitable for posting on my blog, and got AI to write all the code for me. The generated code [is all here in github](https://github.com/pipwilson/waybackmachine-to-markdown).
+
+## What I wanted to do
 
 Years ago I used to work for the University of Bath in the UK. We used to [blog in the open about the work we were doing](https://public.digital/pd-insights/blog/2022/01/what-does-working-in-the-open-mean) and contribute back to the rest of the UK's Higher Education sector's tech teams with lessons learned, practical tooling they could use, process improvements and so on. The team still there [continue to blog](https://blogs.bath.ac.uk/digital-content-and-development/), but with a slightly tighter focus.
 
