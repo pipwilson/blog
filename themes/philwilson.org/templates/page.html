@@ -15,77 +15,77 @@
   </div>
   <div class="e-content">
     {% if page.content is matching("bookshop.org/p/books/") %}
-    {% set encodedContent = page.content | urlencode %}
-    {% set pipbook = load_data(
-    url="https://philwilson.org/services/books/pip_save_book.php",
-    format="plain",
-    content_type="text/plain",
-    method="POST",
-    body='{ "pageUrl": "'~page.permalink~'", "text": "'~encodedContent~'" }')
-    %}
-    {{ pipbook}}
+      {% set encodedContent = page.content | urlencode %}
+      {% set pipbook = load_data(
+      url="https://philwilson.org/services/books/pip_save_book.php",
+      format="plain",
+      content_type="text/plain",
+      method="POST",
+      body='{ "pageUrl": "'~page.permalink~'", "text": "'~encodedContent~'" }')
+      %}
+      {{ pipbook}}
     {% endif %}
     {%- if page.extra.originalUrl and page.extra.originalLocationName -%}
-    <p id="original-publish-data">
-      This post was originally published on
-      <a href="{{ page.extra.originalUrl }}">{{ page.extra.originalLocationName }}</a>.
-    </p>
+      <p id="original-publish-data">
+        This post was originally published on
+        <a href="{{ page.extra.originalUrl }}">{{ page.extra.originalLocationName }}</a>.
+      </p>
     {%- endif -%}
     {{ page.content | safe }}
   </div>
 </article>
 
 {% if page.taxonomies.tags %}
-<section id="tags">
-  {% if page.taxonomies.collections %}
-  <p>
-    This post is part of the
-    <span class="collections">
-      {% for collection in page.taxonomies.collections %}
-      {% set term = get_taxonomy_term(kind="collections", term=collection) %}
-      <a href="/collections/{{ term.slug }}/">{{ collection }}</a>
-      {% endfor %}
-    </span> collection.
-  {% endif %}
-  <p>
-    See other posts tagged with
-    <span class="tags">
-      {% for tag in page.taxonomies.tags %}
-      {% set term = get_taxonomy_term(kind="tags", term=tag) %}
-      <a href="/blog/tags/{{ term.slug }}/">{{ tag }}</a>
-      {% endfor %}
-    </span>
-    {% if page.date %}
-    and all posts made in <a href="/blog/{{ page.date | date(format=" %Y") }}/{{ page.date | date(format="%m" ) }}">{{
-      page.date | date(format="%B %Y") }}</a>.
+  <section id="tags">
+    {% if page.taxonomies.collections %}
+    <p>
+      This post is part of the
+      <span class="collections">
+        {% for collection in page.taxonomies.collections %}
+        {% set term = get_taxonomy_term(kind="collections", term=collection) %}
+        <a href="/collections/{{ term.slug }}/">{{ collection }}</a>
+        {% endfor %}
+      </span> collection.
     {% endif %}
-  </p>
-</section>
+    <p>
+      See other posts tagged with
+      <span class="tags">
+        {% for tag in page.taxonomies.tags %}
+        {% set term = get_taxonomy_term(kind="tags", term=tag) %}
+        <a href="/blog/tags/{{ term.slug }}/">{{ tag }}</a>
+        {% endfor %}
+      </span>
+      {% if page.date %}
+      and all posts made in <a href="/blog/{{ page.date | date(format=" %Y") }}/{{ page.date | date(format="%m" ) }}">{{
+        page.date | date(format="%B %Y") }}</a>.
+      {% endif %}
+    </p>
+  </section>
 {% endif %}
 
 {% if page.extra.show_comments and page.extra.show_comments == true %}
-{% set filename = page.path | replace(from="/blog/", to="") | slugify %}
-{% set comment_feed = load_data(path="/services/guestbook/"~filename~"-accepted.xml", format="xml") %}
-{% if comment_feed and comment_feed.feed and comment_feed.feed.entry %}
-<section id="comments">
-  <h3>Comments</h2>
-    {% if comment_feed.feed.entry[1] %}
-    {% for entry in comment_feed.feed.entry %}
-    <article>
-      <div class="comment-author">{{ entry.author.name }}</div>
-      <div class="comment-date">{{ entry.updated | date(format="%d %B, %Y at %H:%M") }}</div>
-      {{ entry.content["#text"] }}
-    </article>
-    {% endfor %}
-    {% else %}
-    <article>
-      <div class="comment-author">{{ comment_feed.feed.entry.author.name }}</div>
-      <div class="comment-date">{{ comment_feed.feed.entry.updated | date(format="%d %B, %Y at %H:%M") }}</div>
-      {{ comment_feed.feed.entry.content["#text"] }}
-    </article>
-    {% endif %}
-</section>
-{% endif%}
+  {% set filename = page.path | replace(from="/blog/", to="") | slugify %}
+  {% set comment_feed = load_data(path="/services/guestbook/"~filename~"-accepted.xml", format="xml") %}
+  {% if comment_feed and comment_feed.feed and comment_feed.feed.entry %}
+    <section id="comments">
+      <h3>Comments</h2>
+        {% if comment_feed.feed.entry[1] %}
+          {% for entry in comment_feed.feed.entry %}
+            <article>
+              <div class="comment-author">{{ entry.author.name }}</div>
+              <div class="comment-date">{{ entry.updated | date(format="%d %B, %Y at %H:%M") }}</div>
+              {{ entry.content["#text"] }}
+            </article>
+          {% endfor %}
+        {% else %}
+          <article>
+            <div class="comment-author">{{ comment_feed.feed.entry.author.name }}</div>
+            <div class="comment-date">{{ comment_feed.feed.entry.updated | date(format="%d %B, %Y at %H:%M") }}</div>
+            {{ comment_feed.feed.entry.content["#text"] }}
+          </article>
+        {% endif %}
+    </section>
+  {% endif%}
 {% endif %}
 
 {% if page.extra.allow_commenting and page.extra.allow_commenting == true %}
