@@ -14,6 +14,8 @@ taxonomies:
 
 Summary: I extracted a load of old blog content from the feeds archived on the Wayback Machine and converted it into markdown files suitable for posting on my blog, and got AI to write all the code for me. The generated code [is all here in github](https://github.com/pipwilson/waybackmachine-to-markdown).
 
+<!-- more -->
+
 ## What I wanted to do
 
 Years ago I used to work for the University of Bath in the UK. We used to [blog in the open about the work we were doing](https://public.digital/pd-insights/blog/2022/01/what-does-working-in-the-open-mean) and contribute back to the rest of the UK's Higher Education sector's tech teams with lessons learned, practical tooling they could use, process improvements and so on. The team still there [continue to blog](https://blogs.bath.ac.uk/digital-content-and-development/), but with a slightly tighter focus.
@@ -49,15 +51,15 @@ awk '{print "https://web.archive.org/web/" $1 "/" $2}' urls_raw.txt > urls.txt
 
 Great! We now have a full list of working URLs that the Wayback Machine has of the site I'm interested in!
 
-I spent some time here getting ChatGPT to give me a script to de-duplicate the list to only have one record per-URL (only using the latest snapshotted version), and then trying to download and parse those files to extract only the content. But this was just too much work to do - the parsers couldn't always reliably extract the content of the page (using [readability](https://github.com/buriy/python-readability)), and the markdown wasn't always what I wanted (using [pandoc](https://pandoc.org/)). 
+I spent some time here getting ChatGPT to give me a script to de-duplicate the list to only have one record per-URL (only using the latest snapshotted version), and then trying to download and parse those files to extract only the content. But this was just too much work to do - the parsers couldn't always reliably extract the content of the page (using [readability](https://github.com/buriy/python-readability)), and the markdown wasn't always what I wanted (using [pandoc](https://pandoc.org/)).
 
-So I needed a new idea. 
+So I needed a new idea.
 
 Well, I love RSS, and this blog was WordPress, so it definitely had a feed, and I made sure at the time that we always published full-content in the feeds, so let's grab that!
 
 I manually selected all the URLs from the long list which listed the main feed for the blog and put them in their own file. [This gave me 33 lines](https://github.com/pipwilson/waybackmachine-to-markdown/blob/production/feed_urls.txt), and I knew there would be a ton of duplication of items between snapshots, so I couldn't just do a naive merge. At this point I moved to [VS Code using Agent mode](https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode).
 
-Very quickly it built me [a bash script to download the files and name them after their snapshot timestamp](https://github.com/pipwilson/waybackmachine-to-markdown/blob/production/download_feeds.sh), and [a Python script to loop over those locale files](https://github.com/pipwilson/waybackmachine-to-markdown/blob/production/merge_feeds.py), and each time it found a new GUID value, add the item to a new RSS file. Voila, I now have a local, [single RSS file containing all the content and metadata of the content posted to that blog](https://github.com/pipwilson/waybackmachine-to-markdown/blob/production/webservices.xml) that was deleted years ago! 
+Very quickly it built me [a bash script to download the files and name them after their snapshot timestamp](https://github.com/pipwilson/waybackmachine-to-markdown/blob/production/download_feeds.sh), and [a Python script to loop over those locale files](https://github.com/pipwilson/waybackmachine-to-markdown/blob/production/merge_feeds.py), and each time it found a new GUID value, add the item to a new RSS file. Voila, I now have a local, [single RSS file containing all the content and metadata of the content posted to that blog](https://github.com/pipwilson/waybackmachine-to-markdown/blob/production/webservices.xml) that was deleted years ago!
 
 I manage this blog [with Zola](https://philwilson.org/blog/tags/zola) so it was then an iterative job to get the agent to [write a script to loop over the RSS file and extract the items I'd written into a new markdown file in the directory I wanted, with the frontmatter I wanted](https://github.com/pipwilson/waybackmachine-to-markdown/blob/production/extract_phil_wilson_posts.py). I did some manual blog template work so that I could highlight that the each of those posts originated elsewhere, and add a new taxonomy so that I could also list them out separately and I was done!
 
