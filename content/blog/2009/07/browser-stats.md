@@ -13,7 +13,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2009/07/15/browser-stats/
 ---
 So, with the news that [YouTube Will Be Next To Kiss IE6 Support Goodbye](http://www.techcrunch.com/2009/07/14/youtube-will-be-next-to-kiss-ie6-support-goodbye/) and the recent release of [Firefox 3.5](http://www.mozilla-europe.org/en/firefox/) and [Internet Explorer 8](http://www.microsoft.com/windows/internet-explorer/default.aspx) I thought I'd take a moment to look at the browsers that visitors to the [University of Bath's website](http://www.bath.ac.uk) are using. We use [Google Analytics](http://www.google.com/analytics/) to track a significant portion of visits to pages on our site but with tens of thousands of pages and hundreds and hundreds of templates, we don't track everything*. I'm rather hopeful that the following figures, derived from site visits between the 1st and 30th of June, are representative nevertheless!

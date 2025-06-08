@@ -13,7 +13,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2008/08/21/web-services-talks/
 ---
 During lunch yesterday we made the rather rash decision that we should make a quick, unscripted, video exploring how Get Creative Week has been going. The hideous result is below.

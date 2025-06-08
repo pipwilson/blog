@@ -8,7 +8,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2012/08/23/front-end-developer-join-us/
 ---
 We're looking to hire an awesome new front-end developer. Hip to HTML5? Savvy with CSS? [Read more about the job!](http://www.bath.ac.uk/web/jobs)

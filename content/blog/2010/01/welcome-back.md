@@ -15,7 +15,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2010/01/21/welcome-back/
 ---
 So what an exciting first few weeks back we’ve had!

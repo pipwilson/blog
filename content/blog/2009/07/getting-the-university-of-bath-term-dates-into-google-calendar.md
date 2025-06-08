@@ -11,7 +11,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2009/07/22/getting-the-university-of-bath-term-dates-into-google-calendar/
 ---
 A couple of days ago I got asked on my personal blog if it was possible to get the Univeristy terms dates into Google Calendar. The answer is a wholehearted "yes!" and this is how:

@@ -13,7 +13,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2011/02/14/customer-satisfaction-and-happiness/
 ---
 So, everyone's favourite web company, [37signals](http://37signals.com/) , have started to publish their customer happiness rates at [smiley.37signals.com](http://smiley.37signals.com/). People can rate them as "great", "OK" or "not so good". At the time of writing, they have an 87% "great" rating, 5% "OK" and 8% "not so good".

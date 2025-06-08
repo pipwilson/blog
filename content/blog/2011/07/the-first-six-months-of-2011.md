@@ -8,7 +8,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2011/07/12/the-first-six-months-of-2011/
 ---
 As you can tell from the fact we're [hiring new people](http://blogs.bath.ac.uk/webservices/tag/hiring/) there are exciting times ahead for Web Services!

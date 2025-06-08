@@ -12,7 +12,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2011/11/13/our-mobile-open-day-page/
 ---
 For our September 2011 Open Day we put together [a single-page destination specifically for the event](http://m.bath.ac.uk/opendays/).

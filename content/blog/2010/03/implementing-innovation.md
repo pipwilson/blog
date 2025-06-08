@@ -13,7 +13,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2010/03/17/implementing-innovation/
 ---
 A few weeks ago I got the chance to be the first to make use of [our innovation time](http://blogs.bath.ac.uk/webservices/2010/02/04/space-to-innovate/).

@@ -13,7 +13,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2012/11/13/is-ie6-really-used-in-china/
 ---
 According to [Microsoft's own stats](http://www.ie6countdown.com/), Internet Explorer 6 still accounts for more than 20% of web browser usage within China.

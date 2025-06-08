@@ -8,7 +8,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2013/09/13/digital-team-week-notes-september-9t-13th-2013/
 ---
 With our new glorious leader sunning himself in Spain for a few days, I draw the winning lot to reflect on our output of the past week, it's been a really good one where progress has been made on a wide variety of products:

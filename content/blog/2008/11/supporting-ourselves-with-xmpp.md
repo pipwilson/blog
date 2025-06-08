@@ -13,7 +13,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2008/11/20/supporting-ourselves-with-xmpp/
 ---
 Our team is the first-line support for the University's web needs. This means we get a lot of diverse requests landing in our bug tracker, [RT](http://bestpractical.com/rt/), ever day. To help us share the load, we each deal with the support queue on rotating basis, [as you can see in our schedule](http://wiki.bath.ac.uk/display/bucswebdev/Support+schedule). We use the wiki rather than the University calendaring system just because it's quicker and easier to set up, enter events and edit them.

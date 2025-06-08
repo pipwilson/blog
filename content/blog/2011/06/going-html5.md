@@ -10,7 +10,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2011/06/30/going-html5/
 ---
 ![HTML5 logo](http://blogs.bath.ac.uk/webservices/files//www/vhosts/bathblogs/wp-content/blogs.dir/4/files/2011/06/HTML5_Logo_128.png)[Edge Hill University](http://www.edgehill.ac.uk) recently launched a new website. It's [HTML5](http://developers.whatwg.org/).

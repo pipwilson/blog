@@ -11,7 +11,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2012/07/13/responsive-websites-are-easy/
 ---
 There is [a list being kept of HE websites which are using responsive design techniques](http://weedygarden.net/highered-rwd-directory/) to change how their pages appear based on the size of the screen loading them.

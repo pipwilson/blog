@@ -8,7 +8,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2010/10/19/web-developer-wanted/
 ---
 You're a PHP or Java web developer looking for a challenge, a 6 month contract, and to earn up to 17,823 pounds. As it happens, we've got the perfect opening and you can [apply right now](http://go.bath.ac.uk/webjob)!

@@ -8,7 +8,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2013/11/22/digital-team-week-notes-nov-18th-nov-22nd-2013/
 ---
 Another exciting week in Digital Towers has flown by, but this one saw some good forward-looking work.

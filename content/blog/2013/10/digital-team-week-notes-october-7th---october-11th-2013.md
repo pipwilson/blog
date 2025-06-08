@@ -9,7 +9,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2013/10/11/weeknotes-oct7-oct11/
 ---
 This is our sixth weekly update. Six is the smallest positive integer which is neither a square number nor a prime number and on this occasion we have precisely six things we've been doing to tell you about:

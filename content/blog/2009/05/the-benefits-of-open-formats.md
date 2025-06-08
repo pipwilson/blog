@@ -12,7 +12,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2009/05/14/the-benefits-of-open-formats/
 ---
 As of this time last year, [the University Academic Year Charts](http://www.bath.ac.uk/catalogues/academic-year-charts/) have been generated in HTML, PDF and iCalendar formats from Excel spreadsheets. Previously there were only PDFs for download but we thought that providing versions to view live on the web and a version people could add to their own calendar software would be useful.

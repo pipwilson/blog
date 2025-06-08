@@ -8,7 +8,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2014/02/28/digital-team-week-notes-feb-24-feb-28-2014/
 ---
 Welcome to the end of February! It's been a short month but that doesn't mean there's been any lack of activity chez Digital.

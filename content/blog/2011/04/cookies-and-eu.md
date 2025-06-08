@@ -8,7 +8,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2011/04/08/cookies-and-eu/
 ---
 There is an EU law coming into force on 25 May about websites [needing to ask users before storing information in cookies](http://register.consilium.europa.eu/pdf/en/09/st03/st03674.en09.pdf) - the relevant bit about cookies is paragraph 66 (just search the doc for 'cookie' - it only appears once!).

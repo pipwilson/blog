@@ -11,7 +11,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2012/02/22/using-qr-codes-effectively/
 ---
 ![](http://www.bath.ac.uk/barcodes/qr_img.php?DATA=http://go.bath.ac.uk/pwx5)QR codes are increasingly in use around campus and, regardless of opinions of [whether they are actually useful or not](http://www.archrival.com/ideas/13/qr-codes-go-to-college), there are still some best practices to follow to get the best results:

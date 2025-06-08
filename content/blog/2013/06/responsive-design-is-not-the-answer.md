@@ -8,7 +8,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2013/06/28/responsive-design-is-not-the-answer/
 ---
 [Christopher Gutteridge (@cgutteridge) tweeted](https://twitter.com/cgutteridge/status/350176958946095104) at 10:01 AM on Thu, Jun 27, 2013:

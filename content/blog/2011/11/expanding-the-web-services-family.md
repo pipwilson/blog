@@ -9,7 +9,7 @@ taxonomies:
   collections:
     - university of bath
 extra:
-  originalLocationName: The University of Bath Web Services Blog
+  originalLocationName: The University of Bath's Web Services Blog
   originalUrl: http://blogs.bath.ac.uk/webservices/2011/11/09/expanding-the-web-services-family/
 ---
 It's been just over three months since our glorious leader, [Alison Kerwin](http://blogs.bath.ac.uk/webservices/author/aw323/), left on maternity leave - since then I'm delighted to be able to say that not only has she added two healthy bouncing babies to the fray but we've also had four new members of the team start!
