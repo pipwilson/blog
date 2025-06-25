@@ -14,7 +14,7 @@ The traditional Japanese Calendar has[ 72 seasons in a year, each made up of a h
 
 I have always found these to be a very calming way of reminding myself to look around and observe the changes in nature as the year progresses.
 
-I've written a plug-in for the TRMNL device that shows you which of these seasons it currently is. 
+I've written a plug-in for [the TRMNL device](https://usetrmnl.com) that shows you which of these seasons it currently is. 
 
 It looks like this: 
 
