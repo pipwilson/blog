@@ -27,3 +27,5 @@ You can [access the source code here](https://github.com/pipwilson/trmnl-72-seas
 I used the [sample stock ticker layout](https://help.usetrmnl.com/en/articles/10031211-stock-price) as the base for my template, which meant I then only needed to sort out my date comparison and the whole thing was done. 
 
 This was very easy to do and is both pleasing and relaxing when it cycles around on my TRMNL.
+
+<ins datetime="2025-07-08">Turns out [someone else had the same idea for their TRMNL](https://usetrmnl.com/recipes/18876):  - this is just one manifestation of their much larger effort at <https://smallseasons.guide/></ins>
