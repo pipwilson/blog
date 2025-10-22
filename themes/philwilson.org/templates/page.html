@@ -56,7 +56,7 @@
         {% endfor %}
       </span>
       {% if page.date %}
-      and all posts made in <a href="/blog/{{ page.date | date(format=" %Y") }}/{{ page.date | date(format="%m" ) }}">{{
+      and all posts made in <a href="/blog/{{ page.date | date(format="%Y") }}/{{ page.date | date(format="%m" ) }}">{{
         page.date | date(format="%B %Y") }}</a>.
       {% endif %}
     </p>
