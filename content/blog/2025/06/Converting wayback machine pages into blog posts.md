@@ -28,7 +28,7 @@ Having only used the Wayback Machine as a regular user I had no idea how to reac
 
 ## Trying and failing to use an existing tool
 
-Firstly I tried an off-the-shelf approach with https://github.com/StrawberryMaster/wayback-machine-downloader but couldn't get it working properly after 30 minutes, so abandoned it.
+Firstly I tried an off-the-shelf approach with <https://github.com/StrawberryMaster/wayback-machine-downloader> but couldn't get it working properly after 30 minutes, so abandoned it.
 
 ## Vibe-coding our way to the goal
 
@@ -38,12 +38,11 @@ Browsing the web UI you can see all the pages which the Wayback Machine holds ab
 
 ```bash
 curl "http://web.archive.org/cdx/search/cdx?url=blogs.bath.ac.uk/webservices/*&output=txt&fl=timestamp,original&collapse=digest" > urls_raw.txt
-
 ```
 
 The output [looks like this](https://github.com/pipwilson/waybackmachine-to-markdown/blob/production/urls_raw.txt).
 
-When I asked about how to get that list of URLs it unprompted also gave me this line to strip the timestamp of the snapshot from each line of the file:
+When I asked about how to get just the list of URLs it also gave me this line to strip the timestamp of the snapshot from each line of the file:
 
 ```bash
 awk '{print "https://web.archive.org/web/" $1 "/" $2}' urls_raw.txt > urls.txt
