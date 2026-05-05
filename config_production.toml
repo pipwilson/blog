@@ -3,5 +3,5 @@ base_url = "https://philwilson.org/"
 
 title = "philwilson.org"
 
-ignored_content = ["static/services/**", "**/strava"]
+ignored_content = ["static/services/**"]
 

@@ -3,4 +3,4 @@ base_url = "http://127.0.0.1:1111"
 
 title = "local site testing"
 
-ignored_content = ["**/200*", "**/201*", "**/books", "**/strava"]
+ignored_content = ["**/200*", "**/201*", "**/books"]
