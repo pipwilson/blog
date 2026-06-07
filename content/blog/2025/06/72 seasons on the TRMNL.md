@@ -1,12 +1,12 @@
 +++
 title = "72 seasons on the TRMNL"
-date = "2025-06-24"
+date = "2026-06-07"
 
 [taxonomies]
 tags = ["trmnl", "eink", "japan", "72seasons"]
 +++
 
-The traditional Japanese Calendar has[ 72 seasons in a year, each made up of a handful of days](https://www.kanpai-japan.com/travel-guide/koyomi-72-seasons). 
+The traditional Japanese Calendar has [72 seasons in a year, each made up of a handful of days](https://www.kanpai-japan.com/travel-guide/koyomi-72-seasons). 
 
 I have always found these to be a very calming way of reminding myself to look around and observe the changes in nature as the year progresses.
 
