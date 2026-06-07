@@ -1,18 +1,18 @@
 +++
 title = "72 seasons on the TRMNL"
-date = "2026-06-07"
+date = "2025-06-24"
 
 [taxonomies]
 tags = ["trmnl", "eink", "japan", "72seasons"]
 +++
 
-The traditional Japanese Calendar has [72 seasons in a year, each made up of a handful of days](https://www.kanpai-japan.com/travel-guide/koyomi-72-seasons). 
+The traditional Japanese Calendar has [72 seasons in a year, each made up of a handful of days](https://www.kanpai-japan.com/travel-guide/koyomi-72-seasons).
 
 I have always found these to be a very calming way of reminding myself to look around and observe the changes in nature as the year progresses.
 
-I've written a plug-in for [the TRMNL device](https://usetrmnl.com) that shows you which of these seasons it currently is. 
+I've written a plug-in for [the TRMNL device](https://usetrmnl.com) that shows you which of these seasons it currently is.
 
-It looks like this: 
+It looks like this:
 
 ![](/images/2025/06/trmnl-72-seasons.jpg)
 
@@ -20,7 +20,7 @@ TRMNL plugins can connect to a server to fetch data, but there's no server invol
 
 You can [access the source code here](https://github.com/pipwilson/trmnl-72-seasons), and if you have a TRMNL device you should soon be able to find it on [the list of Recipes on their website](https://usetrmnl.com/recipes).
 
-I used the [sample stock ticker layout](https://help.usetrmnl.com/en/articles/10031211-stock-price) as the base for my template, which meant I then only needed to sort out my date comparison and the whole thing was done. 
+I used the [sample stock ticker layout](https://help.usetrmnl.com/en/articles/10031211-stock-price) as the base for my template, which meant I then only needed to sort out my date comparison and the whole thing was done.
 
 This was very easy to do and is both pleasing and relaxing when it cycles around on my TRMNL.
 
