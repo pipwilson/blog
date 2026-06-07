@@ -1,14 +1,10 @@
----
-title: 72 seasons on the TRMNL
-date: 2025-06-24 17:58:58
-slug: 72-seasons-on-the-trmnl
-taxonomies:
-  tags:
-    - trmnl
-    - eink
-    - japan
-    - 72seasons
----
++++
+title = "72 seasons on the TRMNL"
+date = "2025-06-24"
+
+[taxonomies]
+tags = ["trmnl", "eink", "japan", "72seasons"]
++++
 
 The traditional Japanese Calendar has[ 72 seasons in a year, each made up of a handful of days](https://www.kanpai-japan.com/travel-guide/koyomi-72-seasons). 
 
@@ -18,7 +14,7 @@ I've written a plug-in for [the TRMNL device](https://usetrmnl.com) that shows y
 
 It looks like this: 
 
-![](../trmnl-72-seasons.jpg)
+![](/images/2025/06/trmnl-72-seasons.jpg)
 
 TRMNL plugins can connect to a server to fetch data, but there's no server involved here - this is just some static data and a rendering template. This was super easy to build, I did it in an hour or so after working out what the templating language allowed me to do. I converted [this existing web page which lists the 72 seasons](https://www.kanpai-japan.com/travel-guide/koyomi-72-seasons) into [this JSON file using ChatGPT](https://github.com/pipwilson/trmnl-72-seasons/blob/main/src/microseasons.json).
 

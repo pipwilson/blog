@@ -1,13 +1,10 @@
----
-title: Planning is a superpower
-date: 2025-10-22 20:15:34
-slug: planning-is-a-superpower
-taxonomies:
-  tags:
-    - management
-    - planning
-    - roadmaps
----
++++
+title = "Planning is a superpower"
+date = "2025-10-22"
+
+[taxonomies]
+tags = ["management", "planning", "roadmaps"]
++++
 
 It has taken me many years to recognise that one of the main differences between me and many others in the software development world, and part of what makes me good at software engineering management, is that I don't just look at the piece of work in front of me, but also the one behind that (and beyond that, too).
 
@@ -39,5 +36,3 @@ In many places I've worked the engineering leads have been quite happy for deliv
 It's only by being accountable and deeply involved in the roadmap that engineering leads get better at planning, improve their communication and management skills and are able to build up high levels of trust in the other management professions around them.
 
 The sooner managers treat planning with the same rigour they give to code and architecture, the stronger and more trusted their teams will become.
-
-Planning isn’t bureaucracy - it’s the engineering of time.
