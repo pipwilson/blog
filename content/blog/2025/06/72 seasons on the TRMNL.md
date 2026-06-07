@@ -14,7 +14,7 @@ I've written a plug-in for [the TRMNL device](https://usetrmnl.com) that shows y
 
 It looks like this: 
 
-![](/Images/2025/06/trmnl-72-seasons.jpg)
+![](/images/2025/06/trmnl-72-seasons.jpg)
 
 TRMNL plugins can connect to a server to fetch data, but there's no server involved here - this is just some static data and a rendering template. This was super easy to build, I did it in an hour or so after working out what the templating language allowed me to do. I converted [this existing web page which lists the 72 seasons](https://www.kanpai-japan.com/travel-guide/koyomi-72-seasons) into [this JSON file using ChatGPT](https://github.com/pipwilson/trmnl-72-seasons/blob/main/src/microseasons.json).
 
