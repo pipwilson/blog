@@ -1,6 +1,7 @@
 +++
 title = "Zola Blog Editor"
 date = "2026-06-10"
+slug = "zola-blog-editor"
 
 [taxonomies]
 tags = ["zola", "blogging", "windows", "android", "tools"]
